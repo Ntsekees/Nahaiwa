@@ -1,0 +1,471 @@
+﻿
+Date of last modification: 2021-12-21.
+
+This document is best viewed using a monospace font, as it contains tables drawn using unicode box-drawing characters.
+
+
+════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
+
+§ Introduction
+
+NLL1 (acronym for ⟪Ntsékees' Logical Language #1⟫) is a prototype of a constructed monosemic language, i.e. a loglang: syntactic ambiguities are disallowed, as well as word polysemy and homonymy not resolvable through syntax alone, as well as opaque idiomatic expression not explicitly marked as such. It is also an artlang, inasmuch as aesthetics (in the eyes of the author) is taken into account.
+It is currently in a developmental stage of early prototype, and the description given here may be obsoleted by future changes to the language.
+The language exhibits ‘scopal polysynthesis’, i.e. words may contain an arbitrary number of recursively stacked affixes —in this case, prefixes— with transparent meanings, called “extensional prefixes”. Its morphology is purely prefixal, of agglutinative nature with some portmanteau morphemes. There are three main lexically-assigned categories of lexical units:
+• contentives (which may assume the syntactic roles of verb, noun, participle, adjective, adverb, conjunction or quantifier, depending on the way they are inflected);
+• inflecting functors / functional words (these have exactly the same morphology as contentives, but have special effects on the surrounding syntax);
+• uninflected functors, i.e. particles.
+
+Functors are closed classes, and they have a fairly small number of members.
+
+The vocabulary is a priori, not derived or borrowed from that of existing natural or constructed languages.
+
+The consonant inventory is large (36 consonants), and mainly inspired by the inventories of Athabascan languages, as well as Aymara and Quechua languages.
+
+
+════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
+
+§ Phonology
+
+§§ Vowel phonemes
+
+There are 6 vowel phonemes:
+
+┌─────────────┐┌─────────────┐
+│ IPA         ││ Spelling    │
+├─────────────┤├─────────────┤
+│  i   ɨ   u  ││  ı   ï   u  │
+│  e̞       o̞  ││  e       o  │
+│      ä      ││      a      │
+└─────────────┘└─────────────┘
+
+There are 6 diphthongs:
+
+┌──────────────┐┌──────────────┐
+│ IPA          ││ Spelling     │
+├──────────────┤├──────────────┤
+│  e̞i̯      o̞i̯  ││  eı      oı  │
+│  e̞o̞̯          ││  eo          │
+│  äi̯  äɨ̯  äo̞̯  ││  aı  aï  ao  │
+└──────────────┘└──────────────┘
+
+/äi̯/ may be pronounced [äe̯] in a closed syllable, or [äj] when the next syllable begins with the consonant /j/, in which case the approximant is geminated at the syllable boundary: /äi̯.jä/ → [äj.jä].
+Similarly, /äo̯/ may be pronounced [äw] when immediately preceding a syllable beginning with /w/: /äo̯.wä/ → [äw.wä]. /e̞o̯/ behaves similarly.
+
+Vowels immediately preceding the uvular plosive /q/ may undergo slight lowering and backening, as shown below:
+  [i] → [ɪ]
+  [e̞] → [ɛ]
+  [ɨ] → [ɘ]
+  [ä] → [ɑ]
+  [u] → [ʊ]
+  [o̞] → [ɔ]
+
+Prominent syllables are indicated in the Latin orthography with acute accent marks. In the case of dipthongs, the first vowel member bear the acute accent. The letter ⟪ï⟫ becomes ⟪i̋⟫ when prominent (i.e. bearing a double-acute accent mark).
+
+
+════════════════════════════════════════════════════════════════
+
+§§ Consonant phonemes
+
+There are 36 consonant phonemes:
+
+┌──────────────────────────┐┌──────────────────────────┐
+│ IPA                      ││ Spelling                 │
+├──────────────────────────┤├──────────────────────────┤
+│  p’ t͇’          k’ q’    ││  p̓  t̓           k̓  q̓     │
+│  pʰ t͇ʰ          kʰ qʰ    ││  pʰ tʰ          kʰ qʰ    │
+│  p  t͇           k  q  ʔ  ││  p  t           k  q  ’  │
+│     t͡s̻’ t͡ʃ’ t͡ɬ’          ││     c̓   č̓   ƛ̓            │
+│     t͡s̻ʰ t͡ʃʰ t͡ɬʰ          ││     cʰ  čʰ  ƛʰ           │
+│     t͡s̻  t͡ʃ  t͡ɬ           ││     c   č   ƛ            │
+│                          ││                          │
+│   θ s̻   ʃ   ɬ ç~x~h      ││   θ s   š   ł   h        │
+│                          ││                          │
+│  m  n͇   ɲ       ŋ        ││  m  n   ñ       ŋ        │
+│     l͇   ʎ                ││     l   ʎ                │
+│     ɾ͇                    ││     r                    │
+│         j       w        ││         y       w        │
+│                          ││                          │
+└──────────────────────────┘└──────────────────────────┘
+
+Word-initial glottal stops are not written explicitly in the romanization orthography.
+
+
+§§§ Consonant allophony:
+
+  • /h/ is realized as [ç] before /i/, or after /i/ if no vowel is following this /h/;
+    similarly, it is realized as [x] before /u/, or after it if no vowel is following this /h/;
+    in other situations, it remains realized as [h].
+  • /t͡ɬ/ and its variants (aspirated, ejective) are realized as [k͡ʟ̝̊] (and aspirated and ejective variants, respectively) when between a /u/ and a consonant or word break; the same realization may optionally occur immediately before a /u/ vowel.
+  • /w/, when occurring immediately after a consonant, especially a velar or uvular one, is realized as labialization of that consonant.
+
+
+════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
+
+§ Phonotactics
+
+All words except particles contain at least two syllables.
+Words cannot begin on a vowel; in the romanization, words that are written with a vowel as their first letter actually have an unwritten glottal stop onset preceding the vowel.
+
+
+§§ Pitch accent
+
+All words bear a pitch accent, or ‘word-tone’, which is a tone contour that extends across the whole word, and which emphasizes one specific syllable called the ‘prominent syllable’, homologuous to the stressed syllable in stress-based languages. In this language, words always begin with a pitch level that is low but still at least a little higher than the pitch level of the last syllable of the immediately preceding word in the same breath group, if any. Then, until the prominent syllable is met (it is marked in the romanization orthography with an acute accent or a double acute accent), which bears the highest pitch of the whole word, any of the two following scenarios are possible, in free variation: ① each syllable's pitch is a little higher than that of the preceding syllable, or ② the pitch remains flats, mid-level, until the prominent syllable is met, where the pitch raises to a peak. After the prominent syllable, the pitch goes down more or less abruptly until the end of the word is reached. There again, the pitch level may become low and flat after the prominent syllable is passed, especially if the word is long (as it may not be comfortable to keep the pitch going progressively down on a long word).
+
+
+════════════════════════════════════════════════════════════════
+
+§§ Syllable structure
+
+Words never begin with a consonant clusters, with a few exceptions:
+• /w/ may appear after certain consonants, and is realized as labialization of the preceding consonant.
+• One of the Binding proclitics, the nasal proclitic /ʔm̩꞊/, realized as a syllabic nasal (a bilabial one most of the time) preceded by an unwritten glottal stop, can appear at the beginning of a word immediately before another consonant; the syllabic nasal assimilates in place of articulation with certain (not all) consonants:
+  ◉ coronal plosives and affricates (/ʔm̩꞊t/ → [ʔn̩꞊k]);
+  ◉ velar plosives (/ʔm̩꞊k/ → [ʔŋ̩꞊k]).
+It is noteworthy that it does not assimilate with a following uvular plosive: /ʔm̩꞊q/ → [ʔm̩꞊q].
+The assimilation is shown in the romanized orthography:
+  /ʔm̩꞊takóju/ → ⟪ntakóyu⟫.
+
+Similarly, the coda of the last syllable of a word never contains a consonant cluster.
+
+Consonant clusters may only occur across syllable boundaries, where two-consonant clusters and more rarely three-consonant clusters may occur.
+
+⸨TODO: List allowed and disallowed clusters.⸩
+
+
+════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
+
+§ Morphophonology and Morphology
+
+As indicated earlier, there are three morphological classes of words:
+• contentives (open class: the lexical words used to refer to the concepts being talked about in the utterance);
+• inflecting function words (closed class; morphophonologically indistinguishable from contentives, but differing from the latters by having special effects on the surrounding syntax);
+• indeclinable, uninflected function words, AKA particles (closed class).
+
+Function words are closed classes, i.e. they have a limited, restricted membership, no new members are added to them, or only rarely.
+
+In the language, function words are few, as many grammatical functions are expressed as inflection of contentive words.
+
+We will proceed by examining the morphophonology of contentives (which is the same as that of inflecting function words), and a list of function words —together with their function— will be given afterwards.
+
+
+════════════════════════════════════════════════════════════════
+
+§§ Contentives
+
+The morphology of the contentive is an agglutinative template of four slots, described by the table below, starting with the first slot as the first row and ending with the last slot:
+
+┌───┬────────────┬────────────────┐
+│ № │ Form       │  Name          │
+├───┼────────────┼────────────────┤
+│ 1 │ CV         │  Binding       │
+├───┼────────────┼────────────────┤
+│ 2 │ C(VG)V(’V) │  Role          │
+├───┼────────────┼────────────────┤
+│ 3 │ C(VG)V*    │  Extensions    │
+├───┼────────────┼────────────────┤
+│ 4 │ CV(CV…)(C) │  Root or base  │
+└───┴────────────┴────────────────┘
+
+⟪C⟫ ≝ any consonant; ⟪V⟫ ≝ any vowel or dipthong; ⟪G⟫ ≝ any glide/semivowel.
+
+(The asterisk means that the slot is optional and recursive, i.e. its may contain zero, one, two or more values strung together.)
+
+Slot 1, 3 are optional; the other ones are mandatory.
+
+However, the Role slot may further be subdivised into up to three further subslots when the word is inflected for certain syntactic functions (mainly functions others than that of matrix verb):
+
+┌────┬───────┬────────────────┐
+│ №  │ Form  │  Name          │
+├────┼───────┼────────────────┤
+│ 2a │  C    │  Outer Case    │
+├────┼───────┼────────────────┤
+│ 2b │ Vy/Vw │  Determinacy   │
+├────┼───────┼────────────────┤
+│ 2c │ V(’V) │  Inner Case    │
+└────┴───────┴────────────────┘
+
+Out of these, slot 2b is optional; the two others must appear together.
+
+We will now examine each of the slots one by one.
+
+
+§§§ Binding Slot
+
+The general purpose of that slot is to indicate which clausal nesting level the word belongs to, i.e. where the word does ‘bind’. This has however nothing to do with the concept of variable binding.
+
+This slot is always empty on matrix verbs.
+
+The null/empty form of this slot indicates that the word is a new term in the current clause level.
+
+All the other morpheme belonging to this slot are proclitics; below is a non-exhaustive list of them:
+
+  • ⟪m⟫, the syllabic nasal clitic. This syllabic nasal is preceded by an unwritten glottal stop. Furthermore, it may assimilate in place of articulation with the following consonant (see `§ Morphophonology and Morphology` for details).
+    This clitic may occur on nouns and adverbials and indicates that the word is a complement of the predicate underlying the immediately preceding contentive word, as opposed to being an independent complement of the main predicate of the current clause.
+  • ⟪θa⟫: indicates that the current clause is terminated and the word marked with this clitic belongs to the next outer clause, and is a continuation thereof.
+  • ⟪k̓wa⟫: indicates the closure of two clauses, so that the marked word belongs to the third-to-last opened clause in the order of clause nesting.
+  • ...
+
+
+§§§ Role Slot
+
+This slot may be subdivised into further subslots in certain cases.
+
+§§§§ Matrix Verb Roles
+
+A sentence may contain only one matrix verb, and it is always the first word of the sentence. When a matrix verb occurs in a stream of words, it signals that a new sentence begins at that position.
+
+There are several different Role prefixes that create matrix verbs; they further show additional information, namely the illocution (speech act) of the sentence, and if that illocution is the ‘Assertive’, then they also indicate Evidentiality, i.e. the kind of evidence that is the basis for the claim being made with the utterance.
+The Illocution indicates whether the sentence is an assertion (a description of what the speaker thinks is reality), a question, a command, a request, a performative/declarative act, and so on.
+
+Here are the possible matrix verb prefixes:
+
+• Assertive illocution: further inflects for evidentialities, shown below:
+  aı-: unspecified evidentiality.
+  oı-: multiple different evidentialities.
+  a-:  inference from several informations or evidences.
+  ı-:  sensorial: information from current perception.
+  eo-: intuition.
+  u-:  recollection/memory of past experiences (but not memorized encyclopedic facts, for which Reportives or Epistemic should be used).
+  o-:  report, hearsay, second-hand information.
+  ao-: trustworthy report.
+  eı-: untrustworty report.
+  e-:  Epistemic, collective knowledge, not personally verified.
+  █-:  Axiomatic, base beliefs not open to questioning.
+
+• Non-assertive illocutions:
+  ɨ-:    performative
+  na-:   polar question
+  nı-:   content question
+  kʰaı-: hortative
+  kʰa-:  directive (order with implied threat)
+  kʰo-:  demand (strong, earnest request)
+  kʰu-:  requestive (implied disappointment if unfulfilled)
+  kʰe-:  solicitive (mild request, no obligation of fulfillment)
+  kʰı-:  offer ("I'm available for…", "if you're interested…")
+  kʰao-: recommandation
+  mu-:   promissory
+  ma-:   request of confirmation, "… isn't it?"
+  mao-:  rethorical polar question
+  maı-:  rethorical content question
+
+
+§§§§ Noun Roles
+
+With noun roles, as well as adjectival and adverbial roles, Slot 2 is subdivised into the following subslots:
+
+┌────┬───────┬────────────────┐
+│ №  │ Form  │  Name          │
+├────┼───────┼────────────────┤
+│ 2a │  C    │  Outer Case    │
+├────┼───────┼────────────────┤
+│ 2b │ Vy/Vw │  Determinacy   │
+├────┼───────┼────────────────┤
+│ 2c │ V(’V) │  Inner Case    │
+└────┴───────┴────────────────┘
+
+There are two kinds of cases:
+• Core cases, which indicate which slot of the predicate is selected;
+• Adjunct cases, which are of circumstantial nature.
+
+Nouns bear two case affixes:
+• Outer case, or external case, indicates the relationship between the noun and the main verb of the clause;
+• Inner case, or internal case, indicates which argument slot of the predicate represented by the noun's root is used for defining the noun (for example, with the root ‘to eat’, which expresses a binary relation between two participants, each represented by a case (the eater and the eaten thing), selecting the first slot would yield a noun ‘eater’, whilst selecting the second case would yield a noun ‘eaten thing’.
+
+The outer case is represented by a consonantal prefix, followed by a vocalic affix indicating the second case. A further optional -Vy- or -Vw- affix, the Determinacy affix, may optionally occur in between them (its purpose will be explained later on).
+
+The language exhibits an extended form of the tripartite alignment. Word roots represent predicates with an arity/valency between zero and four, i.e. governing at most four different arguments. Each predicate arity has its own set of case affixes: unary predicates govern only one case, binary predicates have two, ternary predicates have three, and so on. Predicates of a certain arity cannot govern case affixes of a different arity: there is a form of agreement between cases and predicate arity.
+
+Core noun case affixes:
+
+OC ≝ External/outer case
+IC ≝ Internal/inner case
+
+┌─────────────┬─────┬─────┐
+│ Arity       │ OC  │ IC  │
+├─────────────┼─────┼─────┤
+│ Unary:      │  t  │  a  │
+├─────────────┼─────┼─────┤
+│ Binary:     │  c  │  ı  │
+│             │  k  │  u  │
+├─────────────┼─────┼─────┤
+│ Ternary:    │  p  │  e  │
+│             │  č  │  ï  │
+│             │  q  │  o  │
+├─────────────┼─────┼─────┤
+│ Quaternary: │  pʰ │ a’a │
+│             │  cʰ │ e’e │
+│             │  čʰ │ o’o │
+│             │  qʰ │ ï’ï │
+└─────────────┴─────┴─────┘
+┌─────────────┬─────┬─────┐
+│ DP:         │  t̓  │ u’a │ (Dislocated Predicate case)
+│ Affixal:    │  k̓  │ aı  │ (*)
+└─────────────┴─────┴─────┘
+* Case governed by certain extentional prefixes.
+
+Non-core (adjunct) cases:
+┌──────────────┬─────┬─────┐
+│ Topical      │  r  │     │
+│ Pendent      │  ł  │     │
+│ Eventive     │  ŋ  │ ı’a │
+│ Instrumental │  ƛ  │     │
+│ SP Locative  │  s  │     │
+│ Plural union │  n  │     │
+└──────────────┴─────┴─────┘
+
+Special inner case values:
+┌─────────────────────────┬─────┐
+│ Relative clause         │ eo  │
+│ Content clause          │ ao  │
+│ Unary template clause 1 │ oı  │
+│ Unary template clause 2 │ ea  │
+│ Binary Template Clause  │ oa  │
+│ Ternary Template Clause │ ı’ı │
+│ Quaternary Template Cl. │ u’u │
+└─────────────────────────┴─────┘
+
+...
+
+⸨TODO: Explanations of each case along with usage example sentences.⸩
+
+
+§§§§ Determinacy
+
+┌─────────────────────────┬─────┐
+│ Variable identifier     │ aw  │
+│ Definite article        │ ay  │
+│ Universal quantifier    │ ıw  │
+│ Existential quantifier  │ uy  │
+└─────────────────────────┴─────┘
+
+(Other members will most likely be added.)
+
+
+§§§§ Other case-like roles
+
+These Role prefixes (Slot 2a) behave much like noun cases, although the syntactic roles they govern are nominal; like noun cases, they are accompanied by an Inner Case vocalic affix, and an optional Determinacy affix.
+
+┌───────────────────┬─────┐
+│ Oblique           │  h  │
+│ Interjective      │  y  │
+│ Vocative          │  w  │
+│ Adjectival        │  l  │
+│ Adverbial         │  š  │
+│ Unary quantifier  │  q̓  │
+└───────────────────┴─────┘
+
+
+§§§§ Other roles
+
+Let ⟪◈⟫ be a placeholder for an inner case vowel:
+
+┌────────────────────────────────┬────────┐
+│ ERG-NOM Binary quantifierizer  │ ʎa     │
+│ NOM-ERG Binary quantifierizer  │ ʎu     │
+│ Binary quantifierizer          │ ƛ̓◈y◈  │
+│ ERG-NOM Conjunctionizer        │ ña     │
+│ NOM-ERG Binary conjunctionizer │ ñu     │
+│ Binary conjunctionizer         │ c̓◈y◈  │
+│ Afterthought relativizer       │ ʎaı    │
+└────────────────────────────────┴────────┘
+
+
+§§§ Extension slot
+
+The extension slot is optional, and may contain a string of extensional prefixes of arbitrary length, ordered by their relative scope: each such extensional prefix has semantic scope over all the remaining chain of extensional prefixes that follows it, and each prefix is under the scope of the prefixes that occurred before it. In other words, they express semantically compositional modifications of the word stem on their right: the root plus any other prefix appearing to their right (they are left-branching, right-grouping).
+
+To take an example using English vocabulary, considering three extensional prefixes meaning ‘not’, ‘often’, ‘want’, ordered in this way, the meaning of the whole prefix chain will be "not often wants to…"; but if the order is modified, say ‘want’ ‘often’ ‘not’, the meaning will be "wants to often not do/be…".
+
+Extensional prefixes have compositional, transparent meanings: unlike derivational affixes in many natlangs, the combinations involving roots and extensional prefixes do not require being learnt separately from the meaning of their components; the meaning of such combinations can always be derived from the meanings of the components without any need to looking up combinations in a dictionary.
+
+Extensional prefixes that have fused with the root into a lexicalized combination with an opaque meaning always become part of the root/base itself, i.e. they are no longer located in the Extension slot (that is, the position of the prominent syllable in the word, which always appear on the first syllable of the lexicalized, semantically opaque part of the word, namely the word's root or base, is shifted leftwards so as to engulf any former extensional prefix that would have thusly formed an opaque combination with the root, transforming that former prefix into an element of the root itself, within the Root slot).
+
+Extensional prefixes have shape -C?CV(yV)-: they begin with a single consonant or a consonant cluster followed by a vowel, possibly elongated with a second syllable starting with the ⟪y⟫ semivowel. If they begin with a cluster, the first consonant of the cluster may be phonetically part of the coda of the preceding syllable (the cluster then crosses the syllable boundary): for example, ⟪nta⟫ is a valid extensional prefix, with the ⟪n⟫ part belonging to the preceding syllable.
+
+There exist several types of extensional prefixes, depending on two factors: how many slots of the stem they remove, and whether they add a new slot (bound to the "affixal noun case"). For some prefixes, the vowel part is not meaningful and the whole consonant+vowel is one single monolithic morpheme. However, for some other prefixes, the vowel is meaningful and expresses an Inner Case value, indicating the argument slot of the stem that is specifically targeted by this extensional prefix. Some prefixes may even target two slots at a time, in which case they assume the shape -C?CVyV-, where each of the two vowel segments express a different case.
+
+Below is a list of the different types of extensional prefixes:
+
+• Type 0: no change in valency, does not select/remove any slot.
+  Example: -ha- (negation).
+
+• Type +: does not select/remove any slot, but adds an affixal slot.
+  Example: (none currently).
+
+• Type −: remove one slot, marked by the vowel form.
+  Example: (none currently).
+
+• Type −+: modifies one slot of the stem (sort of remove one and add one); the vowel marks which slot is selected; the meaning of the slot is modified, but this suffix type does not bind the affixal case, it just reuse the modified case. The resulting valency and case set of the predicate is unchanged.
+  Example: -n•-, «[new slot] is me who satisfies the property of [target slot]», -ƛ•-, «[new slot] attempts to satisfy the property of [target slot]».
+
+• Type −−+: removes two slots and add one (bound to the affixal case).
+  Example: -kw•y•-, «[new slot] are in the reciprocal relationship of [removed pair of slots]».
+
+...
+
+⸨TODO: Example sentences.⸩
+
+
+§§§ Root slot
+
+The root slot is the last slot of the morphological template of contentive words; it is demarcated from the remaining of the word by having its first syllable being the prominent syllable of the word's pitch accent: it is the syllable with the highest pitch in the word. The pitch only goes down along the remaining of the root and doesn't raise up again. In the romanization orthography, the prominent syllable, and therefore the first syllable of the root slot, in marked with an acute accent mark (or a double acute) on its first vowel.
+
+The root slot must contain at least one syllable; similarly to extensional prefixes, when it begins with a consonant cluster, the cluster may cross the syllable boundary with the preceding syllable, such that the first consonant is actually the coda of that preceding syllable. Thus, ⟪nté⟫ is a valid root, for example.
+
+The root, and therefore the whole word as well, may end with a single consonant, but not with a consonant cluster.
+
+The root slot may contain a single root, or a string of several roots, possibly even accompanied by fossilized former extensional prefixes, now merged with the root(s). If the root slot contains more than a single root, it may be more accurate to qualify its content of ‘word base’. There is no morphophonological structures that allows to unambiguously segment the content of the root slot (if polysyllabic) into individual subcomponents: when an unkown polysyllabic word base is met, it cannot be determined with certainty whether it is a single monolithic root, or a composition of fossilized prefixes and roots, or a string of two or more roots.
+However, since word bases are always lexicalized, i.e. semantically opaque, the recognizability of subcomponents only offers a value in enhencing memorization and offering meaning hints for those discovering the word for the first time; the meaning of the whole word base must be learnt independently of the meaning of its eventual subconstituents: word bases are atomic lexical units of the language.
+
+
+════════════════════════════════════════════════════════════════
+
+§§ Function words
+
+§§§ Declinable functors (contentive-like function words)
+
+┌─────────────────────────────┬───────┐
+│ Sequence initiator          │ -██   │
+│ Single-word quote initiator │ -██   │
+│ Multi-word quote initiator  │ -pʰáı │
+│ Single-word name initiator  │ -██   │
+│ Multi-word name initiator	  │ -ñáı  │
+│ Foreign quote initiator		  │ -q̓wáı │
+└─────────────────────────────┴───────┘
+
+
+§§§ Particles
+
+┌──────────────────────────┬──────┐
+│ Acknowledgement          │ e    │
+│ End of transmission      │ ne   │
+│ End of sequence          │ ██   │
+│ End of quote             │ pʰa  │
+└──────────────────────────┴──────┘
+
+
+════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
+
+§ Syntax
+
+The language's syntax is highly head-initial, with some exceptions.
+A sentence always begins with a matrix verb, and there can be no more than one matrix verb per sentence. It is formally recognizable by bearing an Illocution role prefix; this doubles as an indicator of the beginning of a new sentence.
+Fragment sentences, not containing any matrix verb, are not allowed in the language. It is mandatory to provide at least a dummy verb of some sort. When the speaker with not to put at the very beginning of the sentence the salient semantic content that should normally be expressed by the matrix verb, a dummy auxiliary-like matrix verb is used, and the semantic content whose appearance is to be delayed is instead demoted to a noun phrase governed by the dummy matrix verb. This allows word order flexibility while retaining the advantages of a rigidly verb-initial syntax.
+
+...
+
+...
+
+
+════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
+
+§ Lexicon
+
+...
+
