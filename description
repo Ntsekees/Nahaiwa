@@ -364,11 +364,11 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 Let ⟪◈⟫ be a placeholder for an inner case vowel:
 
 ┌────────────────────────────────┬────────┐
-│ ERG-NOM Binary quantifierizer  │ ʎa     │
-│ NOM-ERG Binary quantifierizer  │ ʎu     │
+│ ERG-NOM binary quantifierizer  │ ʎa     │
+│ NOM-ERG binary quantifierizer  │ ʎu     │
 │ Binary quantifierizer          │ ƛ̓◈y◈  │
-│ ERG-NOM Conjunctionizer        │ ña     │
-│ NOM-ERG Binary conjunctionizer │ ñu     │
+│ ERG-NOM conjunctionizer        │ ña     │
+│ NOM-ERG conjunctionizer        │ ñu     │
 │ Binary conjunctionizer         │ c̓◈y◈  │
 │ Afterthought relativizer       │ ʎaı    │
 └────────────────────────────────┴────────┘
