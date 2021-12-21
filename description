@@ -170,7 +170,7 @@ The morphology of the contentive is an agglutinative template of four slots, des
 │ 4 │ CV(CV…)(C) │  Root or base  │
 └───┴────────────┴────────────────┘
 
-⟪C⟫ ≝ any consonant; ⟪V⟫ ≝ any vowel or dipthong; ⟪G⟫ ≝ any glide/semivowel.
+⟪C⟫ ≝ any consonant; ⟪V⟫ ≝ any vowel or diphthong; ⟪G⟫ ≝ any glide/semivowel.
 
 (The asterisk means that the slot is optional and recursive, i.e. its may contain zero, one, two or more values strung together.)
 
