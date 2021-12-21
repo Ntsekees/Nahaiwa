@@ -433,8 +433,8 @@ However, since word bases are always lexicalized, i.e. semantically opaque, the 
 │ Single-word quote initiator │ -██   │
 │ Multi-word quote initiator  │ -pʰáı │
 │ Single-word name initiator  │ -██   │
-│ Multi-word name initiator	  │ -ñáı  │
-│ Foreign quote initiator		  │ -q̓wáı │
+│ Multi-word name initiator   │ -ñáı  │
+│ Foreign quote initiator     │ -q̓wáı │
 └─────────────────────────────┴───────┘
 
 
