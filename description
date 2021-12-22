@@ -381,6 +381,8 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 │ Adverbial         │  š  │
 └───────────────────┴─────┘
 
+⸨Note: Oblique is probably obsolete.⸩
+
 
 §§§§ Other roles
 
@@ -390,6 +392,9 @@ Let ⟪◈⟫ be a placeholder for an inner case vowel:
 │ ERG-NOM conjunctionizer        │ ña     │
 │ NOM-ERG conjunctionizer        │ ñu     │
 │ Binary conjunctionizer         │ c̓◈y◈  │
+│ ERG-NOM binary quantifierizer  │ ʎa     │
+│ NOM-ERG binary quantifierizer  │ ʎu     │
+│ Binary quantifierizer          │ ƛ̓◈y◈  │
 │ Afterthought relativizer       │ ʎaı    │
 └────────────────────────────────┴────────┘
 
