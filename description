@@ -302,10 +302,21 @@ IC ≝ Internal/inner case
 │             │  qʰ │ ï’ï │
 └─────────────┴─────┴─────┘
 ┌─────────────┬─────┬─────┐
-│ DP:         │  t̓  │ u’a │ (Dislocated Predicate case)
-│ Affixal:    │  k̓  │ aı  │ (*)
+│ DP:         │  t̓  │ u’a │
+│ Affixal:    │  k̓  │ aı  │ 
 └─────────────┴─────┴─────┘
-* Case governed by certain extentional prefixes.
+
+The Dislocated Predicate (DP) Case is governed exclusively by the predicate application root ⟪-tá⟫; it marks the noun phrase representing the predicate that is to be applied, ‘unboxed’, by the dummy applicator verb based on the ⟪-tá⟫ root, which also takes as its arguments all the arguments required by the applied predicate:
+┌────────────
+│ ◆ Aıtá tatí t̓oık̓ınucál.  =  Aınucál cat̓í.
+│ ❖ ASR-has_property INTR-INTR-bird DP-UTC-lambda_1:ERG-me:NOM-see_stimulus
+│ ➥ A bird has the property of seeing me.  =  A bird sees me.
+└─
+
+⸨Note: the predicate applicator root will maybe be replaced with one different applicator root for each allowed arities.⸩
+
+The Affixal Case is governed by certain extentional prefixes.
+
 
 Non-core (adjunct) cases:
 ┌──────────────┬─────┬─────┐
@@ -316,6 +327,16 @@ Non-core (adjunct) cases:
 │ SP Locative  │  s  │     │
 │ Plural union │  n  │     │
 └──────────────┴─────┴─────┘
+
+The Topical Case marks the topic of the sentence. ⸨Note: it might become deprecated soon.⸩
+The Pendent Case introduces a noun phrase without stating any relation between it and the current clause, and binds it to the Pendent pronoun (whose root form is ⟪-łá⟫ and whose extensional form is ⟪-ł◈-⟫, with ⟪◈⟫ representing an Inner Case vowel). This allows the introduced noun phrase (now bound to the pendent pronoun) to be used latter, possibly in a subordinate clause not yet opened. This is especially useful for expressing quantification binding a variable that is not used in the same clause that that where the quantifier appears, but rather in a more deeply nested clause:
+┌────────────
+│ ◆ Inıŋıwá łeyahak̓ú koık̓ıłucál. (= Inıŋıcál keyahak̓ú.)
+│ ❖ ASR.SEN-want:ERG-has_property PEND-UQZ-INTR-not-universal_property
+│   NOM-UTC-lambda_1:ERG-PEND_PN:NOM-see
+│ ➥ Not everything is such that I want to see them.
+└─
+
 
 Special inner case values:
 ┌─────────────────────────┬─────┐
@@ -340,6 +361,7 @@ Special inner case values:
 │ Definite article        │ ay  │
 │ Universal quantifier    │ ıw  │
 │ Existential quantifier  │ uy  │
+│ Unary quantifierizer    │ ey  │
 └─────────────────────────┴─────┘
 
 (Other members will most likely be added.)
@@ -355,7 +377,6 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 │ Vocative          │  w  │
 │ Adjectival        │  l  │
 │ Adverbial         │  š  │
-│ Unary quantifier  │  q̓  │
 └───────────────────┴─────┘
 
 
@@ -364,9 +385,6 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 Let ⟪◈⟫ be a placeholder for an inner case vowel:
 
 ┌────────────────────────────────┬────────┐
-│ ERG-NOM binary quantifierizer  │ ʎa     │
-│ NOM-ERG binary quantifierizer  │ ʎu     │
-│ Binary quantifierizer          │ ƛ̓◈y◈  │
 │ ERG-NOM conjunctionizer        │ ña     │
 │ NOM-ERG conjunctionizer        │ ñu     │
 │ Binary conjunctionizer         │ c̓◈y◈  │
