@@ -307,7 +307,7 @@ IC ≝ Internal/inner case
 └─────────────┴─────┴─────┘
 
 The Dislocated Predicate (DP) Case is governed exclusively by the predicate application root ⟪-tá⟫; it marks the noun phrase representing the predicate that is to be applied, ‘unboxed’, by the dummy applicator verb based on the ⟪-tá⟫ root, which also takes as its arguments all the arguments required by the applied predicate:
-┌────────────
+┌───────────────
 │ ◆ Aıtá tatí t̓oık̓ınucál.  =  Aınucál cat̓í.
 │ ❖ ASR-has_property INTR-INTR-bird DP-UTC-lambda_1:ERG-me:NOM-see_stimulus
 │ ➥ A bird has the property of seeing me.  =  A bird sees me.
@@ -330,7 +330,7 @@ Non-core (adjunct) cases:
 
 The Topical Case marks the topic of the sentence. ⸨Note: it might become deprecated soon.⸩
 The Pendent Case introduces a noun phrase without stating any relation between it and the current clause, and binds it to the Pendent pronoun (whose root form is ⟪-łá⟫ and whose extensional form is ⟪-ł◈-⟫, with ⟪◈⟫ representing an Inner Case vowel). This allows the introduced noun phrase (now bound to the pendent pronoun) to be used latter, possibly in a subordinate clause not yet opened. This is especially useful for expressing quantification binding a variable that is not used in the same clause that that where the quantifier appears, but rather in a more deeply nested clause:
-┌────────────
+┌───────────────
 │ ◆ Inıŋıwá łeyahak̓ú koık̓ıłucál. (= Inıŋıcál keyahak̓ú.)
 │ ❖ ASR.SEN-want:ERG-has_property PEND-UQZ-INTR-not-universal_property
 │   NOM-UTC-lambda_1:ERG-PEND_PN:NOM-see
