@@ -400,10 +400,10 @@ Below is a list of the different types of extensional prefixes:
   Example: (none currently).
 
 • Type −+: modifies one slot of the stem (sort of remove one and add one); the vowel marks which slot is selected; the meaning of the slot is modified, but this suffix type does not bind the affixal case, it just reuse the modified case. The resulting valency and case set of the predicate is unchanged.
-  Example: -n•-, «[new slot] is me who satisfies the property of [target slot]», -ƛ•-, «[new slot] attempts to satisfy the property of [target slot]».
+  Example: -n◈-, «[new slot] is me who satisfies the property of [target slot]», -ƛ◈-, «[new slot] attempts to satisfy the property of [target slot]».
 
 • Type −−+: removes two slots and add one (bound to the affixal case).
-  Example: -kw•y•-, «[new slot] are in the reciprocal relationship of [removed pair of slots]».
+  Example: -kw◈y◈-, «[new slot] are in the reciprocal relationship of [removed pair of slots]».
 
 ...
 
