@@ -317,7 +317,7 @@ IC ≝ Internal/inner case
 
 The Dislocated Predicate (DP) Case is governed exclusively by the predicate application root ⟪-tʰá⟫; it marks the noun phrase representing the predicate that is to be applied, ‘unboxed’, by the dummy applicator verb based on the ⟪-tʰá⟫ root, which also takes as its arguments all the arguments required by the applied predicate:
 ┌───────────────
-│ ◆ Aıtʰá tatí t̓oık̓ınucál.  =  Aınucál cat̓í.
+│ ◆ Aıtʰá tat̓í t̓oık̓ınucál.  =  Aınucál cat̓í.
 │ ❖ ASR-has_property INTR-INTR-bird
 │   DP-UTC-lambda_1:ERG-me:NOM-see_stimulus
 │ ➥ A bird has the property of seeing me.  =  A bird sees me.
