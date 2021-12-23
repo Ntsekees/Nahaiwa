@@ -383,7 +383,7 @@ Special inner case values:
 │ Quaternary Template Cl. │ u’u │
 └─────────────────────────┴─────┘
 
-These morphemes occupy the Inner Case slot (slot 2c), but are not true Cases. They turn the words which bear them into ‘participles’, words that have the special syntactic effect of opening a whole subordinate clause (which may be closed with the appropriate ‘terminator’ particle, see the section `§ Function words`). Even if all these morphemes cause the opening of a subordinate clause, they differ in what kind of clause is created.
+These morphemes occupy the Inner Case slot (slot 2c), but are not true Cases. They turn the words which bear them into ‘participles’, words that have the special syntactic effect of opening a whole subordinate clause (which may be exited for returning to the outer clause by using an appropriate Binding proclitic; see the section `§§§ Binding Slot`). Even if all these morphemes cause the opening of a subordinate clause, they differ in what kind of clause is created.
 
 Relative clauses are clauses that refer to one of the participants (called the ‘antecedant’) mentioned within the clause and represented by the ‘resumptive pronoun’ (whose root form is ⟪-tá⟫ and whose extensional form is ⟪-t◈-⟫); the relative clause describes its antecedent, and the whole relative clause's referent is the antecedent itself.
 
