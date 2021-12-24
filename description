@@ -479,7 +479,7 @@ Let ⟪◈⟫ be a placeholder for an inner case vowel:
 │ Afterthought relativizer       │ ʎaı    │
 └────────────────────────────────┴────────┘
 
-• The ERG-NOM and NOM-ERG conjunctionizer can only be applied to binary roots expressing a relation between two propositions, such as logical connective predicates like ⟪-áı⟫, "and". They convert the binary predicate into an afterthought, interposed conjunction, a conjunction placed between the the two connectands it governs.
+• The ERG-NOM and NOM-ERG conjunctionizers can only be applied to binary roots expressing a relation between two propositions, such as logical connective predicates like ⟪-áı⟫, "and". They convert the binary predicate into an afterthought, interposed conjunction, a conjunction placed between the the two connectands it governs.
   In the case of the ERG-NOM version, the first connectand goes into the ERG slot and the second one in the NOM slot; with the NOM-ERG conjunctionizer, it's the other way around. The difference is insignificant if the binary relation is reflexive, i.e. reciprocal.
   The ⟪c̓◈y◈⟫ conjunctionizer differs from the two other ones by being able to apply to predicates of arities greater than two, and requires explicit selection of the two cases bounds to the two connectands, in the form of two Inner Case vowel slots separated by a ⟪y⟫ semivowel. As is expectable, the first vowel slot indicates the case of the first connectand, and the second slot that of the second connectand.
   When two noun phrases are conjoined with a conjunction, the two must bear the same noun case. When two verbs in the same clause are conjoined, the second one bears the Oblique Role ⟪ha-⟫.
