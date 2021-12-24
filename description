@@ -343,7 +343,7 @@ Non-core (adjunct) cases:
 
 • The Pendent Case introduces a noun phrase without stating any relation between it and the current clause, and binds it to the Pendent pronoun (whose root form is ⟪-łá⟫ and whose extensional form is ⟪-ł◈-⟫, with ⟪◈⟫ representing an Inner Case vowel). This allows the introduced noun phrase (now bound to the pendent pronoun) to be used latter, possibly in a subordinate clause not yet opened. This is especially useful for expressing quantification binding a variable that is not used in the same clause that that where the quantifier appears, but rather in a more deeply nested clause:
 ┌───────────────
-│ ◆ Inıŋıwá łeyahak̓ú koık̓ıłucál. (= Inıŋıcál keyahak̓ú.)
+│ ◆ Inıŋıwá łeyahakú koık̓ıłucál. (= Inıŋıcál keyahak̓ú.)
 │ ❖ ASR.SEN-want:ERG-has_property
 │   PEND-UQZ-INTR-not-universal_property
 │   NOM-UTC-lambda_1:ERG-PEND_PN:NOM-see
@@ -429,14 +429,11 @@ The lambda pronouns are shown in their extensional prefix form (with ⟪◈⟫ s
 These Role prefixes (Slot 2a) behave much like noun cases, although the syntactic roles they govern are nominal; like noun cases, they are accompanied by an Inner Case vocalic affix, and an optional Determinacy affix.
 
 ┌───────────────────┬─────┐
-│ Oblique           │  h  │
 │ Interjective      │  y  │
 │ Vocative          │  w  │
 │ Adjectival        │  l  │
 │ Adverbial         │  š  │
 └───────────────────┴─────┘
-
-⸨Note: Oblique is probably obsolete.⸩
 
 • The Interjective Case turns a contentive word into an interjection, meaning that the speaker is satisfying the selected case role of the predicate at the present moment.
 
@@ -472,6 +469,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 Let ⟪◈⟫ be a placeholder for an inner case vowel:
 
 ┌────────────────────────────────┬────────┐
+│ Oblique                        │ ha     │
 │ ERG-NOM conjunctionizer        │ ña     │
 │ NOM-ERG conjunctionizer        │ ñu     │
 │ Binary conjunctionizer         │ c̓◈y◈  │
@@ -480,6 +478,45 @@ Let ⟪◈⟫ be a placeholder for an inner case vowel:
 │ Binary quantifierizer          │ ƛ̓◈y◈  │
 │ Afterthought relativizer       │ ʎaı    │
 └────────────────────────────────┴────────┘
+
+• The ERG-NOM and NOM-ERG conjunctionizer can only be applied to binary roots expressing a relation between two propositions, such as logical connective predicates like ⟪-áı⟫, "and". They convert the binary predicate into an afterthought, interposed conjunction, a conjunction placed between the the two connectands it governs.
+  In the case of the ERG-NOM version, the first connectand goes into the ERG slot and the second one in the NOM slot; with the NOM-ERG conjunctionizer, it's the other way around. The difference is insignificant if the binary relation is reflexive, i.e. reciprocal.
+  The ⟪c̓◈y◈⟫ conjunctionizer differs from the two other ones by being able to apply to predicates of arities greater than two, and requires explicit selection of the two cases bounds to the two connectands, in the form of two Inner Case vowel slots separated by a ⟪y⟫ semivowel. As is expectable, the first vowel slot indicates the case of the first connectand, and the second slot that of the second connectand.
+  When two noun phrases are conjoined with a conjunction, the two must bear the same noun case. When two verbs in the same clause are conjoined, the second one bears the Oblique Role ⟪ha-⟫.
+
+  ┌───────────────
+  │ ◆ Ici̋ tayakóyu ña’áı tayaƛúrı.
+  │ ❖ ASR.SEN-√is_one  INTR-DEF-INTR-√dog  CZ2-√and
+  │   INTR-DEF-INTR-√cat
+  │ ➥ Both the dog and the cat are one/single.
+  └─
+  ┌───────────────
+  │ ◆ Ici̋ tayakóyu ña’áı harú tayaƛúrı.
+  │ ❖ ASR.SEN-√is_one  INTR-DEF-INTR-√dog  CZ2-√and
+  │   OBL-√are_two INTR-DEF-INTR-√cat
+  │ ➥ The dog is one, and the cats are two.
+  └─
+  ┌───────────────
+  │ ◆ Oθenïyi̋čal qaoci̋ tayakóyu ña’áı harú tayaƛúrı.
+  │ ❖ ASR.REC-you_know_what:C1/3-me:C2/3-√assert_to
+  │   C3/3-CC-√is_one  INTR-DEF-INTR-√dog  CZ2-√and
+  │   OBL-√are_two INTR-DEF-INTR-√cat
+  │ ➥ That one said to me that the dog was one and the cats were two.
+  └─
+
+• The three binary quantifierizers function in an homologuous manner to the conjunctionizers, but instead of constructing conjunctions, they do binary quantifiers instead. A binary quantifier is a word that is placed immediately before a noun (with normal noun case inflection), and it defines the relation between the unary property used to define the noun and the unary property defined by the slot of the verb which the noun goes into. Whereas conjunctionizers operate on binary predicates relating two propositions, quantifierizers operate on binary predicates relating two unary properties. Such "quantificational binary predicates" may be examplified by the predicates ⟪➊ is a property that is universal among what has property ➋⟫ (root ⟪-kú⟫), corresponding to the quantifier "all", "every", in the English language. In the sentence "all cats are mammals" can be reworded as "the property of being a mammal is universal among what has the property of being a cat", "mammalhood is universal among what have cathood".
+  The Universal Determinacy ⟪-ıw-⟫ and the Existential Determinacy ⟪-uy-⟫ may be regarded as shorthands for a quantifierizer expression.
+
+• The Afterthought Relativizer is a special Role that terminates the current clause (even if it is the matrix clause), binds the proposition described by the clause to the Pendent pronoun, then turn the clause into a pendent-like expression hanging at the beginning of a new clause, whose main verb is the contentive bearing the Afterthought Relativizer Role.
+
+  ┌───────────────
+  │ ◆ Aılé tat̓í, ʎaıθenïłoyi̋čal.
+  │ ❖ ASR-√is_blue  INTR-INTR-√bird
+  │   ATR-you_know_what:C1/3-me:C2/3-lambda_1:C3/3-√assert_to
+  │ ➥ The bird was blue, they said to me.
+  └─
+
+⸨NOTE: When used at the matrix clause level, the Afterthought Relativizer doesn't compose well with non-null Evidentiality…⸩
 
 
 §§§ Extension slot
