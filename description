@@ -577,12 +577,17 @@ However, since word bases are always lexicalized, i.e. semantically opaque, the 
 
 ┌─────────────────────────────┬───────┐
 │ Sequence initiator          │ -██   │
-│ Single-word quote initiator │ -██   │
 │ Multi-word quote initiator  │ -pʰáı │
-│ Single-word name initiator  │ -██   │
 │ Multi-word name initiator   │ -ñáı  │
 │ Foreign quote initiator     │ -q̓wáı │
 └─────────────────────────────┴───────┘
+
+  ┌───────────────
+  │ ◆ Uneyípa qapʰáı ıneθïhaƛéona’ pʰa.
+  │ ❖ ASR.REC-me:C1/3-√say  C3/3-INTR-MWQI
+  │   ASR.SEN-me:C1/3-you_know_what:C2/3-NEG-√understand  EOQ
+  │ ➥ I said «I don't understand it».
+  └─
 
 
 §§§ Particles
