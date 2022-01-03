@@ -518,7 +518,15 @@ Let ⟪◈⟫ be a placeholder for an inner case vowel:
   │ ➥ The bird was blue, they said to me.
   └─
 
-⸨NOTE: When used at the matrix clause level, the Afterthought Relativizer doesn't compose well with non-null Evidentiality…⸩
+If the Afterthought Relativizer is used on the matrix clause whose matrix verb bears non-null Evidentiality, then the scope of the Evidentiality remains that of the clause terminated by the Afterthought Relativizer, as opposed of scoping over the whole sentence. The relation between the Evidentiality and the terminated clause is incidental, non-restrictive.
+
+  ┌───────────────
+  │ ◆ Olé tat̓í, ʎaıθenïłoyi̋čal.
+  │ ❖ ASR.RPT-√is_blue  INTR-INTR-√bird
+  │   ATR-you_know_what:C1/3-me:C2/3-lambda_1:C3/3-√assert_to
+  │ ➥ I heard that the bird was blue, that's what they said to me (at least).
+  └─
+
 
 
 §§§ Extension slot
