@@ -73,10 +73,10 @@ There are 36 consonant phonemes:
 ┌──────────────────────────┐┌──────────────────────────┐
 │ IPA                      ││ Spelling                 │
 ├──────────────────────────┤├──────────────────────────┤
-│  p’ t͇’          k’ q’    ││  p̓  t̓           k̓  q̓     │
+│  pʼ t͇ʼ          kʼ qʼ    ││  p̓  t̓           k̓  q̓     │
 │  pʰ t͇ʰ          kʰ qʰ    ││  pʰ tʰ          kʰ qʰ    │
-│  p  t͇           k  q  ʔ  ││  p  t           k  q  ’  │
-│     t͡s̻’ t͡ʃ’ t͡ɬ’          ││     c̓   č̓   ƛ̓            │
+│  p  t͇           k  q  ʔ  ││  p  t           k  q  ʼ  │
+│     t͡s̻ʼ t͡ʃʼ t͡ɬʼ          ││     c̓   č̓   ƛ̓            │
 │     t͡s̻ʰ t͡ʃʰ t͡ɬʰ          ││     cʰ  čʰ  ƛʰ           │
 │     t͡s̻  t͡ʃ  t͡ɬ           ││     c   č   ƛ            │
 │                          ││                          │
@@ -174,7 +174,7 @@ The morphology of the contentive is an agglutinative template of four slots, des
 ├───┼────────────┼────────────────┤
 │ 1 │ CV         │  Binding       │
 ├───┼────────────┼────────────────┤
-│ 2 │ C(VG)V(’V) │  Role          │
+│ 2 │ C(VG)V(ʼV) │  Role          │
 ├───┼────────────┼────────────────┤
 │ 3 │ C(VG)V*    │  Extensions    │
 ├───┼────────────┼────────────────┤
@@ -196,7 +196,7 @@ However, the Role slot may further be subdivised into up to three further subslo
 ├────┼───────┼────────────────┤
 │ 2b │ Vy/Vw │  Determinacy   │
 ├────┼───────┼────────────────┤
-│ 2c │ V(’V) │  Inner Case    │
+│ 2c │ V(ʼV) │  Inner Case    │
 └────┴───────┴────────────────┘
 
 Out of these, slot 2b is optional; the two others must appear together.
@@ -276,7 +276,7 @@ With noun roles, as well as adjectival and adverbial roles, Slot 2 is subdivised
 ├────┼───────┼────────────────┤
 │ 2b │ Vy/Vw │  Determinacy   │
 ├────┼───────┼────────────────┤
-│ 2c │ V(’V) │  Inner Case    │
+│ 2c │ V(ʼV) │  Inner Case    │
 └────┴───────┴────────────────┘
 
 There are two kinds of cases:
@@ -308,13 +308,13 @@ IC ≝ Internal/inner case
 │             │  č  │  ï  │
 │             │  q  │  o  │
 ├─────────────┼─────┼─────┤
-│ Quaternary: │  pʰ │ a’a │
-│             │  cʰ │ e’e │
-│             │  čʰ │ o’o │
-│             │  qʰ │ ï’ï │
+│ Quaternary: │  pʰ │ aʼa │
+│             │  cʰ │ eʼe │
+│             │  čʰ │ oʼo │
+│             │  qʰ │ ïʼï │
 └─────────────┴─────┴─────┘
 ┌─────────────┬─────┬─────┐
-│ DP:         │  t̓  │ u’a │
+│ DP:         │  t̓  │ uʼa │
 │ Affixal:    │  k̓  │ aı  │ 
 └─────────────┴─────┴─────┘
 
@@ -335,7 +335,7 @@ Non-core (adjunct) cases:
 ┌──────────────┬─────┬─────┐
 │ Topical      │  r  │     │
 │ Pendent      │  ł  │     │
-│ Eventive     │  ŋ  │ ı’a │
+│ Eventive     │  ŋ  │ ıʼa │
 │ Instrumental │  ƛ  │     │
 │ SP Locative  │  s  │     │
 │ Plural union │  n  │     │
@@ -362,7 +362,7 @@ Non-core (adjunct) cases:
   The two following example sentences illustrate the difference between the ‘logical AND’ and the plural union:
   
   ┌───────────────
-  │ ◆ Ici̋ tayakóyu ña’áı tayaƛúrı ne.
+  │ ◆ Ici̋ tayakóyu ñaʼáı tayaƛúrı ne.
   │ ❖ ASR.SEN-√is_one  INTR-DEF-INTR-√dog  CZ2-√and
   │   INTR-DEF-INTR-√cat  EOT
   │ ➥ Both the dog and the cat are one/single. [EOT]
@@ -382,8 +382,8 @@ Special inner case values:
 │ Unary template clause 1 │ oı  │
 │ Unary template clause 2 │ ea  │
 │ Binary Template Clause  │ oa  │
-│ Ternary Template Clause │ ı’ı │
-│ Quaternary Template Cl. │ u’u │
+│ Ternary Template Clause │ ıʼı │
+│ Quaternary Template Cl. │ uʼu │
 └─────────────────────────┴─────┘
 
 These morphemes occupy the Inner Case slot (slot 2c), but are not true Cases. They turn the words which bear them into ‘participles’, words that have the special syntactic effect of opening a whole subordinate clause (which may be exited for returning to the outer clause by using an appropriate Binding proclitic; see the section `§§§ Binding Slot`). Even if all these morphemes cause the opening of a subordinate clause, they differ in what kind of clause is created.
@@ -402,8 +402,8 @@ There one vocalic morpheme for each predicate arity, and each arity has its own 
 │ Unary template clause 1 │ oı  │ k̓◈                 │
 │ Unary template clause 2 │ ea  │ ██◈                │
 │ Binary Template Clause  │ oa  │ ██◈, ██◈           │
-│ Ternary Template Clause │ ı’ı │ ██◈, ██◈, ██◈      │
-│ Quaternary Template Cl. │ u’u │ ██◈, ██◈, ██◈, ██◈ │
+│ Ternary Template Clause │ ıʼı │ ██◈, ██◈, ██◈      │
+│ Quaternary Template Cl. │ uʼu │ ██◈, ██◈, ██◈, ██◈ │
 └─────────────────────────┴─────┴────────────────────┘
 
 The lambda pronouns are shown in their extensional prefix form (with ⟪◈⟫ standing for an Inner Case vocalic affix); for their root form, replace ⟪◈⟫ with ⟪á⟫.
@@ -448,7 +448,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 • The Vocative Case indicates the identity of the intended recipient of the utterance, the addressee.
 
   ┌───────────────
-  │ ◆ Waqasé’ mıkık̓ušat̓ıwá.
+  │ ◆ Waqaséʼ mıkık̓ušat̓ıwá.
   │ ❖ VOC-INTR-the_one_named_after_property:INTR-cloud
   │   PQ-you:ERG-lambda_1:NOM-ongoing-is_intentionally:ERG-has_property
   │ ➥ Cloud, what are you doing?
@@ -487,19 +487,19 @@ Let ⟪◈⟫ be a placeholder for an inner case vowel:
   When two noun phrases are conjoined with a conjunction, the two must bear the same noun case. When two verbs in the same clause are conjoined, the second one bears the Oblique Role ⟪ha-⟫.
 
   ┌───────────────
-  │ ◆ Ici̋ tayakóyu ña’áı tayaƛúrı.
+  │ ◆ Ici̋ tayakóyu ñaʼáı tayaƛúrı.
   │ ❖ ASR.SEN-√is_one  INTR-DEF-INTR-√dog  CZ2-√and
   │   INTR-DEF-INTR-√cat
   │ ➥ Both the dog and the cat are one/single.
   └─
   ┌───────────────
-  │ ◆ Ici̋ tayakóyu ña’áı harú tayaƛúrı.
+  │ ◆ Ici̋ tayakóyu ñaʼáı harú tayaƛúrı.
   │ ❖ ASR.SEN-√is_one  INTR-DEF-INTR-√dog  CZ2-√and
   │   OBL-√are_two INTR-DEF-INTR-√cat
   │ ➥ The dog is one, and the cats are two.
   └─
   ┌───────────────
-  │ ◆ Oθenïyi̋čal qaoci̋ tayakóyu ña’áı harú tayaƛúrı.
+  │ ◆ Oθenïyi̋čal qaoci̋ tayakóyu ñaʼáı harú tayaƛúrı.
   │ ❖ ASR.REC-you_know_what:C1/3-me:C2/3-√assert_to
   │   C3/3-CC-√is_one  INTR-DEF-INTR-√dog  CZ2-√and
   │   OBL-√are_two INTR-DEF-INTR-√cat
@@ -583,7 +583,7 @@ However, since word bases are always lexicalized, i.e. semantically opaque, the 
 └─────────────────────────────┴───────┘
 
   ┌───────────────
-  │ ◆ Uneyípa qapʰáı ıneθïhaƛéona’ pʰa.
+  │ ◆ Uneyípa qapʰáı ıneθïhaƛéonaʼ pʰa.
   │ ❖ ASR.REC-me:C1/3-√say  C3/3-INTR-MWQI
   │   ASR.SEN-me:C1/3-you_know_what:C2/3-NEG-√understand  EOQ
   │ ➥ I said «I don't understand it».
