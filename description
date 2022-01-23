@@ -452,7 +452,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 • The Interjective Case turns a contentive word into an interjection, meaning that the speaker is satisfying the selected case role of the predicate at the present moment.
 
   ┌───────────────
-  │ ◆ Yıƛ̓̓̓é.
+  │ ◆ Yıƛ̓é.
   │ ❖ ITJ-ERG-feel_pain
   │ ➥ Ouch!
   └─
@@ -486,10 +486,10 @@ Let ⟪◈⟫ be a placeholder for an inner case vowel:
 │ Oblique                        │ ha     │
 │ ERG-NOM conjunctionizer        │ ña     │
 │ NOM-ERG conjunctionizer        │ ñu     │
-│ Binary conjunctionizer         │ c̓◈y◈  │
+│ Binary conjunctionizer         │ c̓◈y◈   │
 │ ERG-NOM binary quantifierizer  │ ʎa     │
 │ NOM-ERG binary quantifierizer  │ ʎu     │
-│ Binary quantifierizer          │ ƛ̓◈y◈  │
+│ Binary quantifierizer          │ ƛ̓◈y◈   │
 │ Afterthought relativizer       │ ʎaı    │
 └────────────────────────────────┴────────┘
 
