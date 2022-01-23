@@ -76,7 +76,7 @@ There are 36 consonant phonemes:
 │  pʼ t͇ʼ          kʼ qʼ    ││  p̓  t̓           k̓  q̓     │
 │  pʰ t͇ʰ          kʰ qʰ    ││  pʰ tʰ          kʰ qʰ    │
 │  p  t͇           k  q  ʔ  ││  p  t           k  q  ʼ  │
-│     t͡s̻ʼ t͡ʃʼ t͡ɬʼ          ││     c̓   č̓   ƛ̓            │
+│     t͡s̻ʼ t͡ʃʼ t͡ɬʼ          ││     c̓   č̓   ƛ̓̓            │
 │     t͡s̻ʰ t͡ʃʰ t͡ɬʰ          ││     cʰ  čʰ  ƛʰ           │
 │     t͡s̻  t͡ʃ  t͡ɬ           ││     c   č   ƛ            │
 │                          ││                          │
@@ -452,7 +452,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 • The Interjective Case turns a contentive word into an interjection, meaning that the speaker is satisfying the selected case role of the predicate at the present moment.
 
   ┌───────────────
-  │ ◆ Yıƛ̓é.
+  │ ◆ Yıƛ̓̓̓é.
   │ ❖ ITJ-ERG-feel_pain
   │ ➥ Ouch!
   └─
