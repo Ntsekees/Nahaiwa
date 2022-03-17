@@ -259,7 +259,7 @@ Here are the possible matrix verb prefixes:
   kʰo-:  demand (strong, earnest request)
   kʰu-:  requestive (implied disappointment if unfulfilled)
   kʰe-:  solicitive (mild request, no obligation of fulfillment)
-  kʰı-:  offer ("I'm available for…", "if you're interested…")
+  kʰı-:  oblative (disinterested offers: "I'm available for…", "if you're interested…")
   kʰao-: recommandation
   hu-:   promissory
 
@@ -393,7 +393,7 @@ Content clauses, on the other hand, do not involve any resumptive pronoun, and t
 
 Template clauses are similar to content clauses but contain ‘blanks’, parts that have been abstracted away, similarly to blanks in a form, ready to be filled in. A template clause defines a predicate, and each ‘blank’ corresponds to one of the argument slots of the predicate.
 Each such blank or slot is represented by a so-called ‘lambda pronoun’ (named after lambda calculus).
-There one vocalic morpheme for each predicate arity, and each arity has its own set of lambda pronouns. Additionally, there are two different morpheme for unary predicates, they only differ in having a different lambda pronoun.
+There is one vocalic morpheme for each predicate arity, and each arity has its own set of lambda pronouns. Additionally, there are two different morpheme for unary predicates, they only differ in having a different lambda pronoun.
 
 ┌─────────────────────────┬─────┬────────────────────┐
 │ Function                │ V   │ Lambda pronoun set │
@@ -440,7 +440,7 @@ This category also contains the ‘lambda rebinder’ affixes, which reassign a 
 
 §§§§ Other case-like roles
 
-These Role prefixes (Slot 2a) behave much like noun cases, although the syntactic roles they govern are nominal; like noun cases, they are accompanied by an Inner Case vocalic affix, and an optional Determinacy affix.
+These Role prefixes (Slot 2a) behave much like noun cases, although the syntactic roles they govern aren't nominal; like noun cases, they are accompanied by an Inner Case vocalic affix, and an optional Determinacy affix.
 
 ┌───────────────────┬─────┐
 │ Interjective      │  y  │
