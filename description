@@ -73,10 +73,10 @@ There are 36 consonant phonemes:
 ┌──────────────────────────┐┌──────────────────────────┐
 │ IPA                      ││ Spelling                 │
 ├──────────────────────────┤├──────────────────────────┤
-│  pʼ t͇ʼ          kʼ qʼ    ││  p̓  t̓           k̓  q̓     │
+│  pʼ t͇ʼ          kʼ qʼ    ││  pʼ tʼ          kʼ qʼ    │
 │  pʰ t͇ʰ          kʰ qʰ    ││  pʰ tʰ          kʰ qʰ    │
 │  p  t͇           k  q  ʔ  ││  p  t           k  q  ʼ  │
-│     t͡s̻ʼ t͡ʃʼ t͡ɬʼ          ││     c̓   č̓   ƛ̓            │
+│     t͡s̻ʼ t͡ʃʼ t͡ɬʼ          ││     cʼ  čʼ  ƛʼ           │
 │     t͡s̻ʰ t͡ʃʰ t͡ɬʰ          ││     cʰ  čʰ  ƛʰ           │
 │     t͡s̻  t͡ʃ  t͡ɬ           ││     c   č   ƛ            │
 │                          ││                          │
@@ -217,7 +217,7 @@ All the other morpheme belonging to this slot are proclitics; below is a non-exh
   • ⟪m⟫, the syllabic nasal clitic. This syllabic nasal is preceded by an unwritten glottal stop. Furthermore, it may assimilate in place of articulation with the following consonant (see `§ Morphophonology and Morphology` for details).
     This clitic may occur on nouns and adverbials and indicates that the word is a complement of the predicate underlying the immediately preceding contentive word, as opposed to being an independent complement of the main predicate of the current clause.
   • ⟪θa⟫: indicates that the current clause is terminated and the word marked with this clitic belongs to the next outer clause, and is a continuation thereof.
-  • ⟪k̓wa⟫: indicates the closure of two clauses, so that the marked word belongs to the third-to-last opened clause in the order of clause nesting.
+  • ⟪kʼwa⟫: indicates the closure of two clauses, so that the marked word belongs to the third-to-last opened clause in the order of clause nesting.
   • ...
 
 
@@ -313,13 +313,13 @@ IC ≝ Internal/inner case
 │             │  qʰ │ oʼo │
 └─────────────┴─────┴─────┘
 ┌─────────────┬─────┬─────┐
-│ DP:         │  t̓  │ uʼa │
-│ Affixal:    │  k̓  │ aı  │ 
+│ DP:         │  tʼ │ uʼa │
+│ Affixal:    │  kʼ │ aı  │ 
 └─────────────┴─────┴─────┘
 
 The Dislocated Predicate (DP) Case is governed exclusively by the predicate application root ⟪-tʰá⟫; it marks the noun phrase representing the predicate that is to be applied, ‘unboxed’, by the dummy applicator verb based on the ⟪-tʰá⟫ root, which also takes as its arguments all the arguments required by the applied predicate:
 ┌───────────────
-│ ◆ Aıtʰá tat̓í t̓oık̓ınucál.  =  Aınucál cat̓í.
+│ ◆ Aıtʰá tatʼí tʼoıkʼınucál.  =  Aınucál catʼí.
 │ ❖ ASR-has_property INTR-INTR-bird
 │   DP-UTC-lambda_1:ERG-me:NOM-see_stimulus
 │ ➥ A bird has the property of seeing me.  =  A bird sees me.
@@ -344,7 +344,7 @@ Non-core (adjunct) cases:
 
 • The Pendent Case introduces a noun phrase without stating any relation between it and the current clause, and binds it to the Pendent pronoun (whose root form is ⟪-łá⟫ and whose extensional form is ⟪-ł◈-⟫, with ⟪◈⟫ representing an Inner Case vowel). This allows the introduced noun phrase (now bound to the pendent pronoun) to be used latter, possibly in a subordinate clause not yet opened. This is especially useful for expressing quantification binding a variable that is not used in the same clause that that where the quantifier appears, but rather in a more deeply nested clause:
 ┌───────────────
-│ ◆ Inıŋıwá łeyahakú koık̓ıłucál. (= Inıŋıcál keyahak̓ú.)
+│ ◆ Inıŋıwá łeyahakú koıkʼıłucál. (= Inıŋıcál keyahakʼú.)
 │ ❖ ASR.SEN-want:ERG-has_property
 │   PEND-UQZ-INTR-not-universal_property
 │   NOM-UTC-lambda_1:ERG-PEND_PN:NOM-see
@@ -398,7 +398,7 @@ There is one vocalic morpheme for each predicate arity, and each arity has its o
 ┌─────────────────────────┬─────┬────────────────────┐
 │ Function                │ V   │ Lambda pronoun set │
 ├─────────────────────────┼─────┼────────────────────┤
-│ Unary template clause 1 │ oı  │ k̓◈                 │
+│ Unary template clause 1 │ oı  │ kʼ◈                │
 │ Unary template clause 2 │ ea  │ ██◈                │
 │ Binary Template Clause  │ oa  │ ██◈, ██◈           │
 │ Ternary Template Clause │ ıʼı │ ██◈, ██◈, ██◈      │
@@ -452,7 +452,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 • The Interjective Case turns a contentive word into an interjection, meaning that the speaker is satisfying the selected case role of the predicate at the present moment.
 
   ┌───────────────
-  │ ◆ Yıƛ̓é.
+  │ ◆ Yıƛʼé.
   │ ❖ ITJ-ERG-feel_pain
   │ ➥ Ouch!
   └─
@@ -460,7 +460,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 • The Vocative Case indicates the identity of the intended recipient of the utterance, the addressee.
 
   ┌───────────────
-  │ ◆ Waqaséʼ mıkık̓ušat̓ıwá.
+  │ ◆ Waqaséʼ mıkıkʼušatʼıwá.
   │ ❖ VOC-INTR-the_one_named_after_property:INTR-cloud
   │   PQ-you:ERG-lambda_1:NOM-ongoing-is_intentionally:ERG-has_property
   │ ➥ Cloud, what are you doing?
@@ -469,7 +469,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 • The Adjectival Case turns the contentive word into a restrictive adjective.
 
   ┌───────────────
-  │ ◆ Unınθıcál kacat̓í lalé.
+  │ ◆ Unınθıcál kacatʼí lalé.
   │ ❖ REC-me:ERG-associative_plural:ERG-see_stimulus
   │   NOM-INTR-one_in_number:INTR-bird ADJ-INTR-blue
   │ ➥ We saw a blue bird.
@@ -486,16 +486,16 @@ Let ⟪◈⟫ be a placeholder for an inner case vowel:
 │ Oblique                        │ ha     │
 │ ERG-NOM conjunctionizer        │ ña     │
 │ NOM-ERG conjunctionizer        │ ñu     │
-│ Binary conjunctionizer         │ c̓◈y◈   │
+│ Binary conjunctionizer         │ cʼ◈y◈  │
 │ ERG-NOM binary quantifierizer  │ ʎa     │
 │ NOM-ERG binary quantifierizer  │ ʎu     │
-│ Binary quantifierizer          │ ƛ̓◈y◈   │
+│ Binary quantifierizer          │ ƛʼ◈y◈  │
 │ Afterthought relativizer       │ ʎaı    │
 └────────────────────────────────┴────────┘
 
 • The ERG-NOM and NOM-ERG conjunctionizers can only be applied to binary roots expressing a relation between two propositions, such as logical connective predicates like ⟪-áı⟫, "and". They convert the binary predicate into an afterthought, interposed conjunction, a conjunction placed between the the two connectands it governs.
   In the case of the ERG-NOM version, the first connectand goes into the ERG slot and the second one in the NOM slot; with the NOM-ERG conjunctionizer, it's the other way around. The difference is insignificant if the binary relation is reflexive, i.e. reciprocal.
-  The ⟪c̓◈y◈⟫ conjunctionizer differs from the two other ones by being able to apply to predicates of arities greater than two, and requires explicit selection of the two cases bounds to the two connectands, in the form of two Inner Case vowel slots separated by a ⟪y⟫ semivowel. As is expectable, the first vowel slot indicates the case of the first connectand, and the second slot that of the second connectand.
+  The ⟪cʼ◈y◈⟫ conjunctionizer differs from the two other ones by being able to apply to predicates of arities greater than two, and requires explicit selection of the two cases bounds to the two connectands, in the form of two Inner Case vowel slots separated by a ⟪y⟫ semivowel. As is expectable, the first vowel slot indicates the case of the first connectand, and the second slot that of the second connectand.
   When two noun phrases are conjoined with a conjunction, the two must bear the same noun case. When two verbs in the same clause are conjoined, the second one bears the Oblique Role ⟪ha-⟫.
 
   ┌───────────────
@@ -524,7 +524,7 @@ Let ⟪◈⟫ be a placeholder for an inner case vowel:
 • The Afterthought Relativizer is a special Role that terminates the current clause (even if it is the matrix clause), binds the proposition described by the clause to the Pendent pronoun, then turn the clause into a pendent-like expression hanging at the beginning of a new clause, whose main verb is the contentive bearing the Afterthought Relativizer Role.
 
   ┌───────────────
-  │ ◆ Aılé tat̓í, ʎaıθenïłoyi̋čal.
+  │ ◆ Aılé tatʼí, ʎaıθenïłoyi̋čal.
   │ ❖ ASR-√is_blue  INTR-INTR-√bird
   │   ATR-you_know_what:C1/3-me:C2/3-lambda_1:C3/3-√assert_to
   │ ➥ The bird was blue, they said to me.
@@ -533,7 +533,7 @@ Let ⟪◈⟫ be a placeholder for an inner case vowel:
 If the Afterthought Relativizer is used on the matrix clause whose matrix verb bears non-null Evidentiality, then the scope of the Evidentiality remains that of the clause terminated by the Afterthought Relativizer, as opposed of scoping over the whole sentence. The relation between the Evidentiality and the terminated clause is incidental, non-restrictive.
 
   ┌───────────────
-  │ ◆ Olé tat̓í, ʎaıθenïłoyi̋čal.
+  │ ◆ Olé tatʼí, ʎaıθenïłoyi̋čal.
   │ ❖ ASR.RPT-√is_blue  INTR-INTR-√bird
   │   ATR-you_know_what:C1/3-me:C2/3-lambda_1:C3/3-√assert_to
   │ ➥ I heard that the bird was blue, that's what they said to me (at least).
@@ -595,12 +595,12 @@ However, since word bases are always lexicalized, i.e. semantically opaque, the 
 
 §§§ Declinable functors (contentive-like function words)
 
-┌─────────────────────────────┬───────┐
-│ Sequence initiator          │ -██   │
-│ Multi-word quote initiator  │ -pʰáı │
-│ Multi-word name initiator   │ -ñáı  │
-│ Foreign quote initiator     │ -q̓wáı │
-└─────────────────────────────┴───────┘
+┌─────────────────────────────┬────────┐
+│ Sequence initiator          │ -██    │
+│ Multi-word quote initiator  │ -pʰáı  │
+│ Multi-word name initiator   │ -ñáı   │
+│ Foreign quote initiator     │ -qʼwáı │
+└─────────────────────────────┴────────┘
 
   ┌───────────────
   │ ◆ Uneyípa qapʰáı ıneθïhaƛéonaʼ pʰa.
