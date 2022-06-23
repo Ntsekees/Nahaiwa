@@ -398,9 +398,9 @@ There is one vocalic morpheme for each predicate arity, and each arity has its o
 ┌─────────────────────────┬─────┬────────────────────┐
 │ Function                │ V   │ Lambda pronoun set │
 ├─────────────────────────┼─────┼────────────────────┤
-│ Unary template clause 1 │ oı  │ kʼ◈                │
-│ Unary template clause 2 │ ea  │ ██◈                │
-│ Binary Template Clause  │ oa  │ ██◈, ██◈           │
+│ Unary template clause 1 │ oı  │ tʼ◈                │
+│ Unary template clause 2 │ ea  │ ltʼ◈               │
+│ Binary Template Clause  │ oa  │ cʼ◈, kʼ◈           │
 │ Ternary Template Clause │ ıʼı │ ██◈, ██◈, ██◈      │
 │ Quaternary Template Cl. │ uʼu │ ██◈, ██◈, ██◈, ██◈ │
 └─────────────────────────┴─────┴────────────────────┘
@@ -408,6 +408,13 @@ There is one vocalic morpheme for each predicate arity, and each arity has its o
 The lambda pronouns are shown in their extensional prefix form (with ⟪◈⟫ standing for an Inner Case vocalic affix); for their root form, replace ⟪◈⟫ with ⟪á⟫.
 
 ⸨TODO: Maybe the lambda pronouns for arities above 2 —less frequent in usage— would only have root forms and no short extensional forms.⸩
+
+  ┌───────────────
+  │ ◆ Aŋkıpθú koacʼıtʰú kaoθıkʼutwá.
+  │ ❖ ASR.CE-12-ERG-√differ  ACC-BTC-BL1-ERG-√find_likely
+  │   ACC-CC-you_know_what-ERG-BL2-√intend
+  │ ➥ We (me+you) differ in what we think he intends to do.
+  └─
 
 ⸨TODO: More usage example sentences.⸩
 
