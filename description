@@ -1,5 +1,5 @@
 ﻿
-Date of last modification: 2022-06-18.
+Date of last modification: 2022-06-23.
 
 This document is best viewed using a monospace font, as it contains tables drawn using unicode box-drawing characters.
 
@@ -344,7 +344,7 @@ Non-core (adjunct) cases:
 
 • The Pendent Case introduces a noun phrase without stating any relation between it and the current clause, and binds it to the Pendent pronoun (whose root form is ⟪-łá⟫ and whose extensional form is ⟪-ł◈-⟫, with ⟪◈⟫ representing an Inner Case vowel). This allows the introduced noun phrase (now bound to the pendent pronoun) to be used latter, possibly in a subordinate clause not yet opened. This is especially useful for expressing quantification binding a variable that is not used in the same clause that that where the quantifier appears, but rather in a more deeply nested clause:
 ┌───────────────
-│ ◆ Inıŋıwá łeyahakú koıkʼıłucál. (= Inıŋıcál keyahakʼú.)
+│ ◆ Inıŋıwá łeyahakú koıtʼıłucál. (= Inıŋıcál keyahakʼú.)
 │ ❖ ASR.SEN-want:ERG-has_property
 │   PEND-UQZ-INTR-not-universal_property
 │   NOM-UTC-lambda_1:ERG-PEND_PN:NOM-see
