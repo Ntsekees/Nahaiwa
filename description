@@ -1,4 +1,4 @@
-﻿
+﻿﻿
 Date of last modification: 2022-06-23.
 
 This document is best viewed using a monospace font, as it contains tables drawn using unicode box-drawing characters.
@@ -333,7 +333,7 @@ Non-core (adjunct) cases:
 ┌──────────────┬─────┬─────┐
 │ Topical      │  r  │     │
 │ Pendent      │  ł  │     │
-│ Eventive     │  ŋ  │ ıʼa │
+│ Eventive     │  cʼ │ ıʼa │
 │ Instrumental │  ƛ  │     │
 │ SP Locative  │  s  │     │
 │ Plural union │  n  │     │
@@ -420,13 +420,14 @@ The lambda pronouns are shown in their extensional prefix form (with ⟪◈⟫ s
 
 §§§§ Determinacy
 
-┌─────────────────────────┬─────┐
-│ Variable identifier     │ aw  │
-│ Definite article        │ ay  │
-│ Universal quantifier    │ ıw  │
-│ Existential quantifier  │ uy  │
-│ Unary quantifierizer    │ ey  │
-└─────────────────────────┴─────┘
+┌────────────────────────────────────┬─────┐
+│ Variable identifier                │ aw  │
+│ Definite article                   │ ay  │
+│ Collective universal quantifier    │ ew  │
+│ Distributive universal quantifier  │ ıw  │
+│ Existential quantifier             │ uy  │
+│ Unary quantifierizer               │ ey  │
+└────────────────────────────────────┴─────┘
 
 This category also contains the ‘lambda rebinder’ affixes, which reassign a target lambda pronoun to a new variable with an arbitrary name; the name of the variable is the same as the content word bearing the rebinder affix, but with the rebinder affix replaced by the ‘variable identifier’ Determinacy affix ⟪aw⟫.
 
@@ -492,7 +493,7 @@ Let ⟪◈⟫ be a placeholder for an inner case vowel:
 │ Oblique                        │ hu     │
 │ ERG-NOM conjunctionizer        │ ña     │
 │ NOM-ERG conjunctionizer        │ ñu     │
-│ Binary conjunctionizer         │ cʼ◈y◈  │
+│ Binary conjunctionizer         │ čʼ◈y◈  │
 │ ERG-NOM binary quantifierizer  │ ʎa     │
 │ NOM-ERG binary quantifierizer  │ ʎu     │
 │ Binary quantifierizer          │ ƛʼ◈y◈  │
@@ -650,4 +651,3 @@ The matrix verb is the only true verb in the sentence; subordinate clauses are h
 § Lexicon
 
 ...
-
