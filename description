@@ -1,5 +1,5 @@
 ﻿﻿
-Date of last modification: 2022-06-23.
+Date of last modification: 2022-08-18.
 
 This document is best viewed using a monospace font, as it contains tables drawn using unicode box-drawing characters.
 
@@ -250,7 +250,7 @@ Here are the possible matrix verb prefixes:
 
 • Non-assertive illocutions:
   ɨ-:    performative
-  ma-:   request of confirmation, "… isn't it?"
+  ma-:   request of confirmation, “… isn't it?”
   mu-:   polar question
   mı-:   content question
   mao-:  rethorical polar question
@@ -259,7 +259,7 @@ Here are the possible matrix verb prefixes:
   kʰo-:  demand (strong, earnest request)
   kʰu-:  requestive (implied disappointment if unfulfilled)
   kʰe-:  solicitive (mild request, no obligation of fulfillment)
-  kʰı-:  oblative (disinterested offers: "I'm available for…", "if you're interested…")
+  kʰı-:  oblative (disinterested offers: “I'm available for…”, “if you're interested…”)
   kʰao-: recommandation
 
 
@@ -282,12 +282,12 @@ There are two kinds of cases:
 • Adjunct cases, which are of circumstantial nature.
 
 Nouns bear two case affixes:
-• Outer case, or external case, indicates the relationship between the noun and the main verb of the clause;
-• Inner case, or internal case, indicates which argument slot of the predicate represented by the noun's root is used for defining the noun (for example, with the root ‘to eat’, which expresses a binary relation between two participants, each represented by a case (the eater and the eaten thing), selecting the first slot would yield a noun ‘eater’, whilst selecting the second case would yield a noun ‘eaten thing’.
+• The outer case, or external case, indicates the relationship between the noun and the main verb of the clause;
+• The inner case, or internal case, indicates which argument slot of the predicate represented by the noun's root is used for defining the noun (for example, with the root ‘to eat’, which expresses a binary relation between two participants, each represented by a case —the eater and the eaten thing—, selecting the first slot would yield a noun ‘eater’, whilst selecting the second case would yield a noun ‘eaten thing’).
 
 The outer case is represented by a consonantal prefix, followed by a vocalic affix indicating the second case. A further optional -Vy- or -Vw- affix, the Determinacy affix, may optionally occur in between them (its purpose will be explained later on).
 
-The language exhibits an extended form of the tripartite alignment. Word roots represent predicates with an arity/valency between zero and four, i.e. governing at most four different arguments. Each predicate arity has its own set of case affixes: unary predicates govern only one case, binary predicates have two, ternary predicates have three, and so on. Predicates of a certain arity cannot govern case affixes of a different arity: there is a form of agreement between cases and predicate arity.
+The language exhibits an extended form of the tripartite alignment. Word roots represent predicates with an arity/valency between zero and four, i.e. governing at most four different arguments. Each predicate arity has its own set of case affixes: unary predicates govern only one case, binary predicates have two, ternary predicates have three, and so on. Predicates of a certain arity cannot govern case affixes belonging to a different arity: there is a form of agreement between cases and predicate arity.
 
 Core noun case affixes:
 
@@ -316,6 +316,8 @@ IC ≝ Internal/inner case
 │ Affixal:    │  kʼ │ aı  │ 
 └─────────────┴─────┴─────┘
 
+For binary, ternary an quaternary predicates, the cases shown in the table are ordered according to an animacy or temporal/causal hierarchy: the first participant is the most animate, or the one triggering or exercicing the most control over the event described by the predicate, or occasionally, in the case of stative relations, it may be the largest or most concrete participants. Abstract propositions, properties and relations have lowest rank in this hierarchy, and will typically be associated with the last cases of each case list.
+
 The Dislocated Predicate (DP) Case is governed exclusively by the predicate application root ⟪-tʰá⟫; it marks the noun phrase representing the predicate that is to be applied, ‘unboxed’, by the dummy applicator verb based on the ⟪-tʰá⟫ root, which also takes as its arguments all the arguments required by the applied predicate:
 ┌───────────────
 │ ◆ Aıtʰá tatʼí tʼoıtʼınucál.  =  Aınucál catʼí.
@@ -326,7 +328,7 @@ The Dislocated Predicate (DP) Case is governed exclusively by the predicate appl
 
 ⸨Note: the predicate applicator root will maybe be replaced with one different applicator root for each allowed arities.⸩
 
-The Affixal Case is governed by certain extentional prefixes.
+The Affixal Case is governed by certain extentional prefixes, which intoduces a new participant to the relationship expressed by the verb. For example, a causative extensional prefix will adds a ‘causer’ participant, which will then be accessible via the Affixal Case.
 
 
 Non-core (adjunct) cases:
@@ -341,7 +343,7 @@ Non-core (adjunct) cases:
 
 • The Topical Case marks the topic of the sentence. ⸨Note: it might become deprecated soon.⸩
 
-• The Pendent Case introduces a noun phrase without stating any relation between it and the current clause, and binds it to the Pendent pronoun (whose root form is ⟪-łá⟫ and whose extensional form is ⟪-ł◈-⟫, with ⟪◈⟫ representing an Inner Case vowel). This allows the introduced noun phrase (now bound to the pendent pronoun) to be used latter, possibly in a subordinate clause not yet opened. This is especially useful for expressing quantification binding a variable that is not used in the same clause that that where the quantifier appears, but rather in a more deeply nested clause:
+• The Pendent Case introduces a noun phrase without stating any relation between it and the current clause, and binds it to the Pendent pronoun (whose root form is ⟪-łá⟫ and whose extensional form is ⟪-ł◈-⟫, with ⟪◈⟫ representing an Inner Case vowel). This allows the introduced noun phrase (now bound to the pendent pronoun) to be used latter, possibly in a subordinate clause not yet opened. This is especially useful for expressing quantification binding a variable that is not used in the same clause as the one in which the quantifier appears, but rather in a more deeply nested clause:
 ┌───────────────
 │ ◆ Inıŋıwá łeyahakú koıtʼıłucál. (= Inıŋıcál keyahakʼú.)
 │ ❖ ASR.SEN-want:ERG-has_property
@@ -384,7 +386,7 @@ Special inner case values:
 │ Quaternary Template Cl. │ uʼu │
 └─────────────────────────┴─────┘
 
-These morphemes occupy the Inner Case slot (slot 2c), but are not true Cases. They turn the words which bear them into ‘participles’, words that have the special syntactic effect of opening a whole subordinate clause (which may be exited for returning to the outer clause by using an appropriate Binding proclitic; see the section `§§§ Binding Slot`). Even if all these morphemes cause the opening of a subordinate clause, they differ in what kind of clause is created.
+These morphemes occupy the Inner Case slot (slot 2c), but are not true Cases. They turn the words which bear them into ‘participles’, words that have the special syntactic effect of opening a whole subordinate clause (which may be exited for returning to the outer clause by using an appropriate Binding proclitic; see the section `§§§ Binding Slot`). The participle can assume any syntactic roles which normal contentives can assume via outer case inflection: a participle bearing a noun case will be a “noun participle”, with an adverbial case it will be an “adverbial participle”, and so on. Even if all these morphemes cause the opening of a subordinate clause, they differ in what kind of clause is created.
 
 Relative clauses are clauses that refer to one of the participants (called the ‘antecedant’) mentioned within the clause and represented by the ‘resumptive pronoun’ (whose root form is ⟪-tá⟫ and whose extensional form is ⟪-t◈-⟫); the relative clause describes its antecedent, and the whole relative clause's referent is the antecedent itself.
 
@@ -394,19 +396,18 @@ Template clauses are similar to content clauses but contain ‘blanks’, parts 
 Each such blank or slot is represented by a so-called ‘lambda pronoun’ (named after lambda calculus).
 There is one vocalic morpheme for each predicate arity, and each arity has its own set of lambda pronouns. Additionally, there are two different morpheme for unary predicates, they only differ in having a different lambda pronoun.
 
-┌─────────────────────────┬─────┬────────────────────┐
-│ Function                │ V   │ Lambda pronoun set │
-├─────────────────────────┼─────┼────────────────────┤
-│ Unary template clause 1 │ oı  │ tʼ◈                │
-│ Unary template clause 2 │ ea  │ ltʼ◈               │
-│ Binary Template Clause  │ oa  │ cʼ◈, kʼ◈           │
-│ Ternary Template Clause │ ıʼı │ ██◈, ██◈, ██◈      │
-│ Quaternary Template Cl. │ uʼu │ ██◈, ██◈, ██◈, ██◈ │
-└─────────────────────────┴─────┴────────────────────┘
+┌─────────────────────────┬─────┬─────────────────────────────────┐
+│ Function                │ V   │ Lambda pronoun set              │
+├─────────────────────────┼─────┼────────────────┬────────────────┤
+│ Unary Template Clause 1 │ oı  │ -tʼá           │ -tʼ◈-          │
+│ Unary Template Clause 2 │ ea  │ -ltʼá          │ -ltʼ◈-         │
+│ Binary Template Clause  │ oa  │ -cʼí, -kʼú     │ -cʼ◈-, -kʼ◈-   │
+│ Ternary Template Clause │ ıʼı │ -pé, -čı̋, -qó  └───────────────┤
+│ Quaternary Template Cl. │ uʼu │ -pʰáʼa, -cʰéʼe, -čʰı̋ʼï, -qʰóʼo │
+└─────────────────────────┴─────┴─────────────────────────────────┘
 
-The lambda pronouns are shown in their extensional prefix form (with ⟪◈⟫ standing for an Inner Case vocalic affix); for their root form, replace ⟪◈⟫ with ⟪á⟫.
-
-⸨TODO: Maybe the lambda pronouns for arities above 2 —less frequent in usage— would only have root forms and no short extensional forms.⸩
+The lambda pronouns are shown in their contentive root form, with equivalent extensional prefix forms in the right-hand square (with ⟪◈⟫ standing for an Inner Case vocalic affix); only the unary and binary templates have extensional prefix forms for their lambda pronouns, as they are the most frequent in usage.
+It is noteworthy that the consonant of the lambda pronouns is the same as that of corresponding outer case's consonantal morpheme, and the vowel is likewise the same as the vowel of the corresponding inner case.
 
   ┌───────────────
   │ ◆ Aŋkıpθú koacʼıtʰú kaoθıkʼutwá.
@@ -574,10 +575,10 @@ Below is a list of the different types of extensional prefixes:
 • Type −: remove one slot, marked by the vowel form.
   Example: (none currently).
 
-• Type −+: modifies one slot of the stem (sort of remove one and add one); the vowel marks which slot is selected; the meaning of the slot is modified, but this suffix type does not bind the affixal case, it just reuse the modified case. The resulting valency and case set of the predicate is unchanged.
+• Type −+: modifies one slot of the stem (sort of removes one and adds one); the vowel marks which slot is selected; the meaning of the slot is modified, but this suffix type does not bind the affixal case, it just reuses the modified case. The resulting valency and case set of the predicate is unchanged.
   Example: -n◈-, «[new slot] is me who satisfies the property of [target slot]», -ƛ◈-, «[new slot] attempts to satisfy the property of [target slot]».
 
-• Type −−+: removes two slots and add one (bound to the affixal case).
+• Type −−+: removes two slots and adds one (bound to the affixal case).
   Example: -kw◈y◈-, «[new slot] are in the reciprocal relationship of [removed pair of slots]».
 
 ...
@@ -636,7 +637,7 @@ However, since word bases are always lexicalized, i.e. semantically opaque, the 
 
 The language's syntax is highly head-initial, with some exceptions.
 A sentence always begins with a matrix verb, and there can be no more than one matrix verb per sentence. It is formally recognizable by bearing an Illocution role prefix; this doubles as an indicator of the beginning of a new sentence.
-Fragment sentences, not containing any matrix verb, are not allowed in the language. It is mandatory to provide at least a dummy verb of some sort. When the speaker with not to put at the very beginning of the sentence the salient semantic content that should normally be expressed by the matrix verb, a dummy auxiliary-like matrix verb is used, and the semantic content whose appearance is to be delayed is instead demoted to a noun phrase governed by the dummy matrix verb. This allows word order flexibility while retaining the advantages of a rigidly verb-initial syntax.
+Fragment sentences, not containing any matrix verb, are not allowed in the language. It is mandatory to provide at least a dummy verb of some sort. When the speaker wishes not to put at the very beginning of the sentence the salient semantic content that should normally be expressed by the matrix verb, a dummy auxiliary-like matrix verb is used, and the semantic content whose appearance is to be delayed is instead demoted to a noun phrase governed by the dummy matrix verb. This allows word order flexibility while retaining the advantages of a rigidly verb-initial syntax.
 
 The matrix verb is the only true verb in the sentence; subordinate clauses are headed by a participle, which, from the point of view of the inside of the clause, acts as its verb; but from the outside of the subordinate clause, the participle looks like a noun or a word of another part of speech such as an adjective or an adverb, by taking the role prefix corresponding to that part of speech.
 
