@@ -311,9 +311,13 @@ IC ≝ Internal/inner case
 │             │  čʰ │ ïʼï │
 │             │  qʰ │ oʼo │
 └─────────────┴─────┴─────┘
+
+Other core cases:
 ┌─────────────┬─────┬─────┐
 │ DP:         │  tʼ │ uʼa │
 │ Affixal:    │  kʼ │ aı  │ 
+│ Eventive:   │  š  │ aï  │
+│ Situative:  │  tʰ │ uʼı │
 └─────────────┴─────┴─────┘
 
 For binary, ternary an quaternary predicates, the cases shown in the table are ordered according to an animacy or temporal/causal hierarchy: the first participant is the most animate, or the one triggering or exercicing the most control over the event described by the predicate, or occasionally, in the case of stative relations, it may be the largest or most concrete participants. Abstract propositions, properties and relations have lowest rank in this hierarchy, and will typically be associated with the last cases of each case list.
@@ -332,14 +336,13 @@ The Affixal Case is governed by certain extentional prefixes, which intoduces a 
 
 
 Non-core (adjunct) cases:
-┌──────────────┬─────┬─────┐
-│ Topical      │  r  │     │
-│ Pendent      │  ł  │     │
-│ Eventive     │  cʼ │ ıʼa │
-│ Instrumental │  ƛ  │     │
-│ SP Locative  │  s  │     │
-│ Plural union │  n  │     │
-└──────────────┴─────┴─────┘
+┌───────────────┬─────┬─────┐
+│ Topical       │  r  │     │
+│ Pendent       │  ł  │     │
+│ Instrumental  │  ƛ  │ ıʼa │
+│ SP Locative   │  s  │ eı  │
+│ Plural union  │  n  │     │
+└───────────────┴─────┴─────┘
 
 • The Topical Case marks the topic of the sentence. ⸨Note: it might become deprecated soon.⸩
 
@@ -352,11 +355,13 @@ Non-core (adjunct) cases:
 │ ➥ Not everything is such that I want to see them.
 └─
 
-• The Eventive Case may appear with pretty much any verb; it marks a noun that refers to a spatiotemporal event corresponding to the abstract proposition expressed by the current clause.
+• The Eventive Case may appear with pretty much any verb; it marks a noun that refers to a spatiotemporal event corresponding to the abstract proposition expressed by the verb.
 
 • The Instrumental Case marks a noun referring to an instrument used by the referent of the most animate slot of the verb (e.g. the ⟪c-⟫ Case slot of binary predicates, the ⟪p-⟫ case slot of ternary predicates…) for achieving the action described by the current clause.
 
 • The Spatiotemporal Locative Case marks nouns referring to a volume of spacetime where the event described is taking place. For it to apply, the event and the target spacetime area must simply overlap, the event needs not be entirely encompassed by that area.
+
+• The Situative Case marks nouns referring to a world or a volume of spacetime within which the proposition expressed by the verb is true. For it to apply, the event and the target spacetime area must be entirely encompassed by the referent of the marked noun.
 
 • The Plural Union Case has a special syntax: instead of complementing the clause's verb, it links together the marked noun and the immediately preceding one, merging them into a single new noun whose referents are the union of the referents of the two target nouns; this corresponds to certain usages of the word ⟪and⟫ and the expression ⟪together with⟫ in English.
   The two following example sentences illustrate the difference between the ‘logical AND’ and the plural union:
@@ -454,7 +459,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 │ Interjective      │  y  │
 │ Vocative          │  w  │
 │ Adjectival        │  l  │
-│ Adverbial         │  š  │
+│ Propositional     │  cʼ │
 └───────────────────┴─────┘
 
 • The Interjective Case turns a contentive word into an interjection, meaning that the speaker is satisfying the selected case role of the predicate at the present moment.
@@ -483,7 +488,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
   │ ➥ We saw a blue bird. (Something that is blue and is a bird.)
   └─
 
-• The Adverbial Case turns the contentive word into a restrictive subordinating adverb, i.e. an adverb that modifies the whole proposition represented by the current clause, and not describing the physical spatiotemporal manifestation (event) of that proposition: it would be suitable for expressing the adverbs "probably", "arguably", "frequently", but not event-specific adverbs such as "beautifully", for which the Eventive Case would be appropriate.
+• The Propositional Case turns the contentive word into a restrictive subordinating clausal adverb, i.e. an adverb that modifies the whole proposition represented by the current clause, and not describing the physical spatiotemporal manifestation (event) of that proposition: it would be suitable for expressing the adverbs "probably", "arguably", "frequently", but not event-specific adverbs such as "beautifully", for which the Eventive Case would be appropriate.
 
 
 §§§§ Other roles
