@@ -322,7 +322,9 @@ Other core cases:
 
 For binary, ternary an quaternary predicates, the cases shown in the table are ordered according to an animacy or temporal/causal hierarchy: the first participant is the most animate, or the one triggering or exercicing the most control over the event described by the predicate, or occasionally, in the case of stative relations, it may be the largest or most concrete participants. Abstract propositions, properties and relations have lowest rank in this hierarchy, and will typically be associated with the last cases of each case list.
 
-The Dislocated Predicate (DP) Case is governed exclusively by the predicate application root ⟪-tʰá⟫; it marks the noun phrase representing the predicate that is to be applied, ‘unboxed’, by the dummy applicator verb based on the ⟪-tʰá⟫ root, which also takes as its arguments all the arguments required by the applied predicate:
+Below is an explanation of the functions of the other core cases mentioned in the second table above.
+
+• The Dislocated Predicate (DP) Case is governed exclusively by the predicate application root ⟪-tʰá⟫; it marks the noun phrase representing the predicate that is to be applied, ‘unboxed’, by the dummy applicator verb based on the ⟪-tʰá⟫ root, which also takes as its arguments all the arguments required by the applied predicate:
 ┌───────────────
 │ ◆ Aıtʰá tatʼí tʼoıtʼınucál.  =  Aınucál catʼí.
 │ ❖ ASR-has_property INTR-INTR-bird
@@ -332,7 +334,11 @@ The Dislocated Predicate (DP) Case is governed exclusively by the predicate appl
 
 ⸨Note: the predicate applicator root will maybe be replaced with one different applicator root for each allowed arities.⸩
 
-The Affixal Case is governed by certain extentional prefixes, which intoduces a new participant to the relationship expressed by the verb. For example, a causative extensional prefix will adds a ‘causer’ participant, which will then be accessible via the Affixal Case.
+• The Affixal Case is governed by certain extentional prefixes, which intoduces a new participant to the relationship expressed by the verb. For example, a causative extensional prefix will adds a ‘causer’ participant, which will then be accessible via the Affixal Case.
+
+• The Eventive Case may appear with pretty much any verb; it marks a noun that refers to a spatiotemporal event corresponding to the abstract proposition expressed by the verb.
+
+• The Situative Case marks nouns referring to a world or a volume of spacetime within which the proposition expressed by the verb is true. For it to apply, the event and the target spacetime area must be entirely encompassed by the referent of the marked noun.
 
 
 Non-core (adjunct) cases:
@@ -341,7 +347,6 @@ Non-core (adjunct) cases:
 │ Pendent       │  ł  │     │
 │ Instrumental  │  ƛ  │ ıʼa │
 │ SP Locative   │  s  │ eı  │
-│ Plural union  │  n  │     │
 └───────────────┴─────┴─────┘
 
 • The Topical Case marks the topic of the sentence. ⸨Note: it might become deprecated soon.⸩
@@ -355,30 +360,10 @@ Non-core (adjunct) cases:
 │ ➥ Not everything is such that I want to see them.
 └─
 
-• The Eventive Case may appear with pretty much any verb; it marks a noun that refers to a spatiotemporal event corresponding to the abstract proposition expressed by the verb.
-
 • The Instrumental Case marks a noun referring to an instrument used by the referent of the most animate slot of the verb (e.g. the ⟪c-⟫ Case slot of binary predicates, the ⟪p-⟫ case slot of ternary predicates…) for achieving the action described by the current clause.
 
 • The Spatiotemporal Locative Case marks nouns referring to a volume of spacetime where the event described is taking place. For it to apply, the event and the target spacetime area must simply overlap, the event needs not be entirely encompassed by that area.
 
-• The Situative Case marks nouns referring to a world or a volume of spacetime within which the proposition expressed by the verb is true. For it to apply, the event and the target spacetime area must be entirely encompassed by the referent of the marked noun.
-
-• The Plural Union Case has a special syntax: instead of complementing the clause's verb, it links together the marked noun and the immediately preceding one, merging them into a single new noun whose referents are the union of the referents of the two target nouns; this corresponds to certain usages of the word ⟪and⟫ and the expression ⟪together with⟫ in English.
-  The two following example sentences illustrate the difference between the ‘logical AND’ and the plural union:
-  
-  ┌───────────────
-  │ ◆ Ici̋ tayakóyu ñaʼáı tayaƛúrı ne.
-  │ ❖ ASR.SEN-√is_one  INTR-DEF-INTR-√dog  CZ2-√and
-  │   INTR-DEF-INTR-√cat  EOT
-  │ ➥ Both the dog and the cat are one/single. [EOT]
-  └─
-  ┌───────────────
-  │ ◆ Irú tayakóyu nayaƛúrı ne.
-  │ ❖ ASR.SEN-√are_two  INTR-DEF-INTR-√dog
-  │   PU-DEF-INTR-√cat  EOT
-  │ ➥ The dog together with the cat are two. [EOT]
-  └─
-  
 
 Special inner case values:
 ┌─────────────────────────┬─────┐
@@ -458,6 +443,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 ┌───────────────────┬─────┐
 │ Interjective      │  y  │
 │ Vocative          │  w  │
+│ Plural union      │  n  │
 │ Adjectival        │  l  │
 │ Propositional     │  cʼ │
 └───────────────────┴─────┘
@@ -477,6 +463,22 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
   │ ❖ VOC-INTR-the_one_named_after_property:INTR-cloud
   │   PQ-you:ERG-lambda_1:NOM-ongoing-is_intentionally:ERG-has_property
   │ ➥ Cloud, what are you doing?
+  └─
+
+• The Plural Union Case has a special syntax: instead of complementing the clause's verb, it links together the marked noun and the immediately preceding one, merging them into a single new noun whose referents are the union of the referents of the two target nouns; this corresponds to certain usages of the word ⟪and⟫ and the expression ⟪together with⟫ in English.
+  The two following example sentences illustrate the difference between the ‘logical AND’ and the plural union:
+  
+  ┌───────────────
+  │ ◆ Ici̋ tayakóyu ñaʼáı tayaƛúrı ne.
+  │ ❖ ASR.SEN-√is_one  INTR-DEF-INTR-√dog  CZ2-√and
+  │   INTR-DEF-INTR-√cat  EOT
+  │ ➥ Both the dog and the cat are one/single. [EOT]
+  └─
+  ┌───────────────
+  │ ◆ Irú tayakóyu nayaƛúrı ne.
+  │ ❖ ASR.SEN-√are_two  INTR-DEF-INTR-√dog
+  │   PU-DEF-INTR-√cat  EOT
+  │ ➥ The dog together with the cat are two. [EOT]
   └─
 
 • The Adjectival Case turns the contentive word into a restrictive adjective modifying the immediately preceding contentive, no matter its syntactic role (even non-nominal roles). The resulting meaning corresponds to that of a ‘logical AND’ conjunction.
