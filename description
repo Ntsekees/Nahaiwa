@@ -444,6 +444,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 │ Interjective      │  y  │
 │ Vocative          │  w  │
 │ Plural union      │  n  │
+│ Sequential        │  ŋ  │
 │ Adjectival        │  l  │
 │ Propositional     │  cʼ │
 └───────────────────┴─────┘
@@ -480,6 +481,8 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
   │   PU-DEF-INTR-√cat  EOT
   │ ➥ The dog together with the cat are two. [EOT]
   └─
+
+• The Sequential Case is used to construct sequences, lists, and is applied to all non-initial members of the list. The first member's case indicates the syntactic role of the whole list.
 
 • The Adjectival Case turns the contentive word into a restrictive adjective modifying the immediately preceding contentive, no matter its syntactic role (even non-nominal roles). The resulting meaning corresponds to that of a ‘logical AND’ conjunction.
 
@@ -612,7 +615,6 @@ However, since word bases are always lexicalized, i.e. semantically opaque, the 
 §§§ Declinable functors (contentive-like function words)
 
 ┌─────────────────────────────┬────────┐
-│ Sequence initiator          │ -██    │
 │ Multi-word quote initiator  │ -pʰáı  │
 │ Multi-word name initiator   │ -ñáı   │
 │ Foreign quote initiator     │ -qʼwáı │
