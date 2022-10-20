@@ -630,13 +630,14 @@ However, since word bases are always lexicalized, i.e. semantically opaque, the 
 
 §§§ Particles
 
-┌──────────────────────────┬──────┐
-│ Acknowledgement          │ e    │
-│ Not done speaking        │ ñu   │
-│ End of transmission      │ ne   │
-│ End of sequence          │ ██   │
-│ End of quote             │ pʰa  │
-└──────────────────────────┴──────┘
+┌──────────────────────────┬───────┐
+│ Acknowledgement          │ e     │
+│ Not done speaking        │ ñu    │
+│ End of transmission      │ ne    │
+│ End of sequence          │ ██    │
+│ End of native quote      │ pʰa   │
+│ End of foreign quote     │ qʼwáı │
+└──────────────────────────┴───────┘
 
 
 ════════════════════════════════════════════════════════════════
