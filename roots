@@ -1,0 +1,110 @@
+﻿
+ROOT	TYPE	DEF
+tʼá		{{unary lambda variable #1}}
+ltʼá		{{unary lambda variable #2}}
+cʼí		{{binary lambda variable #1}}
+kʼú		{{binary lambda variable #2}}
+pʼé		{{ternary lambda variable #1}}
+čʼı̋		{{ternary lambda variable #2}}
+qʼó		{{ternary lambda variable #3}}
+yá		➊ is something.
+kwáı		➊ is true, is the case.
+wá		➊ has property ⦃DP⦄.
+ráʼ		➊ and ➋ are in binary relation ⦃DP⦄.
+káoʼ		➊, ➋ and ➌ are in ternary relation ⦃DP⦄.
+pθú		➊ are in relation ➋ with differen things.
+kú		Everything has property ➊.
+cwáı		having property ➊ is frequent, common among what has property ➋.
+’áı		➊ and ➋ are both the case.
+kwíyu		➊ are in recipriocal relation ➋.
+cı̋		➊ is one in number.
+páı		➊ is more than one in number.
+rú		➊ are two in number.
+káı		➊ are three in number.
+qó		➊ are four in number.
+néq		➊ are five in number.
+ná		➊ is a langage.
+náhaıwa		➊ is the Nahaıwa language.
+qánwe		➊ is a human.
+sáʼ		➊ is awake.
+lı̋		➊ is asleep.
+ƛú		➊ drinks ➋.
+ñú		➊ eats ➋.
+pá		➊ says ➋.
+yı̋pa		➊ says to ➋ utterance ➌.
+yı̋		➊ displays to ➋ property ➌.
+nčal		I now assert to you that ➊ is the case.
+čál		➊ asserts that ➋ is the case.
+yı̋čal		➊ asserts to ➋ that ➌ is the case.
+łčál		➊ jokingly asserts that ➋ is the case.
+stí		➊ is made for the function of being such that something is in relation ➋ with the former.
+stíñu		➊ is prepared food.
+kóyu		➊ is a dog.
+ƛúrı		➊ is a cat.
+tʼí		➊ is a bird.
+néš		➊ is a bee.
+lóya		➊ is a sky.
+łéo		➊ is a color.
+kʼáı		➊ is light.
+ƛʼóı		➊ is pain.
+ƛʼé		➊ suffers, feels pain at locus ➋.
+pí		➊ has part ➋.
+qárı		➊ is a leg (ambulatory appendage).
+qán		➊ is a hind leg.
+nƛé		➊ is a plant.
+ƛʰáı		➊ is a tree.
+łáı		➊ is a leaf.
+ʎı̋		➊ is water (in any physical state).
+kʼao		➊ is fire.
+sé’		➊ is a cloud.
+łí		➊ is powder.
+šác		➊ is sand.
+háłu		➊ is gravel.
+qʰáʼ		➊ is stone.
+nte		➊ reads/decypher data ➋ from symbolic code ➌.
+ƛéona’		➊ understands, interprets the meaning of ➋ as being ➌.
+ná’		➊ has meaning ➋.
+ƛéo		➊ computes that ➋ is the answer to what has property ➌.
+sƛéo		➊ is computing the answer to what has property ➋.
+kálı		➊ is a book.
+cʼáo		➊ is snow.
+ʎú		➊ goes from ➋ to ➌.
+qʰá		➊ causes ➋.
+tʰú		➊ finds ➋ very likely, expects it to be true, has confidence in it being the case.
+cál		➊ sees stimulus ➋.
+cáo		➊ sees view ➋.
+ƛí		➊ touches ➋.
+ñı̋		➊ is a nose.
+yáo		➊ greets ➋.
+čʰán		➊ interacts socially with ➋.
+cáı		➊ is alive.
+qʼúlu		➊ is dead, is a dead body, a cadaver.
+qʼí		➊ is a bone.
+lúq		➊ is cold.
+qúʎu		➊ is wet.
+’áo		➊ is an eye.
+ʎúq		➊ is a tail.
+rı̋’		➊ is an ear.
+pálï’		➊ is a hat.
+né		➊ is a hand.
+yáı		➊ uses ➋ for doing ➌.
+łı̋ro		➊ is a river.
+ršı̋ʎï		➊ is rain.
+pʰú		➊ falls.
+ršı̋		➊ rains.
+kíwa		➊ is skin.
+ráwa		➊ talks to ➋.
+qrá, tʼíqra		➊ is a crow.
+pʼúh		➊ explodes.
+nóq		➊ is a potato.
+yó		➊ is an egg.
+yónƛe		➊ is a seed.
+ƛʰ’áı		➊ is a root.
+yóƛʰaı		➊ is a tubercule.
+rópo		➊ is a tomato.
+nóko		➊ is an apple.
+púpu, tʼípupu		➊ is a cuckoo.
+θíwa		➊ is a flute.
+ƛéra		➊ is a harp.
+pyáno		➊ is a piano.
+
