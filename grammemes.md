@@ -43,7 +43,7 @@
 | kʰo                                 | PET      | Petitive                                                      |
 | kʰu                                 | REQ      | Requestive                                                    |
 | kʰe                                 | SOL      | Solicitive                                                    |
-| kʰı                                 | OFF      | Oblative                                                      |
+| kʰı                                 | OBLT     | Oblative                                                      |
 | kʰao                                | RCM      | Recommandative                                                |
 
 # ROLES ⊳ CORE CASES:
