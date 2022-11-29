@@ -65,7 +65,7 @@
 | š / aï                              | EV       | Eventive                                                      |
 | tʰ / uʼı                            | SIT      | Situative                                                     |
 
-# @ROLES ⊳ ADJUNCTS:
+# ROLES ⊳ ADJUNCTS:
 |                FORM                 |  GLOSS   |                           GRAMMEME                            |
 |-------------------------------------|----------|---------------------------------------------------------------|
 | r                                   | TOP      | Topical                                                       |
