@@ -115,12 +115,12 @@
 |                FORM                 |  GLOSS   |                           GRAMMEME                            |
 |-------------------------------------|----------|---------------------------------------------------------------|
 | hu                                  | OBL      | Oblique                                                       |
-| ña                                  | EACZ     | ERG-ACC conjunctionizer                                       |
-| ñu                                  | AECZ     | ACC-ERG conjunctionizer                                       |
-| čʼ◈y◈                               | BCZ      | Binary conjunctionizer                                        |
+| ña                                  | EAPCZ    | ERG-ACC propositional conjunctionizer                         |
+| ñu                                  | AEPCZ    | ACC-ERG propositional conjunctionizer                         |
+| ñaı                                 | EAECZ    | ERG-ACC eventive conjunctionizer                              |
+| ñao                                 | AEECZ    | ACC-ERG eventive conjunctionizer                              |
 | ʎa                                  | EAQZ     | ERG-ACC binary quantifierizer                                 |
 | ʎu                                  | AEQZ     | ACC-ERG binary quantifierizer                                 |
-| ƛʼ◈y◈                               | BQZ      | Binary quantifierizer                                         |
 | ʎaı                                 | ATR      | Afterthought relativizer                                      |
 
 # PARTICLES:
