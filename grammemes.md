@@ -34,7 +34,7 @@
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
 |-------------------------------------|----------|-----------------------------------------|
 | ï                                   | PRF      | Performative                            |
-| ma                                  | TQ⁓TI    | Tag Question, Tag Interrogative         |
+| ma                                  | VER      | Verificative                            |
 | mu                                  | PQ⁓PI    | Polar Question, Polar Interrogative     |
 | mı                                  | CQ⁓CI    | Content Question, Content Interrogative |
 | mu                                  | RPQ⁓RPI  | Rhetorical Polar Interrogative          |
