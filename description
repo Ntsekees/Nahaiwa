@@ -1,5 +1,5 @@
 ﻿﻿
-Date of last modification: 2022-10-21.
+Date of last modification: 2023-02-07.
 
 This document is best viewed using a monospace font, as it contains tables drawn using unicode box-drawing characters.
 
@@ -188,7 +188,7 @@ The morphology of the contentive is an agglutinative template of four slots, des
 
 Slot 1, 3 are optional; the other ones are mandatory.
 
-However, the Role slot may further be subdivised into up to three further subslots when the word is inflected for certain syntactic functions (mainly functions others than that of matrix verb):
+However, the Role slot may further be subdivised into up to three further subslots when the word is inflected for certain syntactic functions (mainly functions others than that of main verb):
 
 ┌────┬───────┬────────────────┐
 │ №  │ Form  │  Name          │
@@ -209,7 +209,7 @@ We will now examine each of the slots one by one.
 
 The general purpose of that slot is to indicate which clausal nesting level the word belongs to, i.e. where the word does ‘bind’. This has however nothing to do with the concept of variable binding.
 
-This slot is always empty on matrix verbs.
+This slot is always empty on the sentence's main verb (the root verb).
 
 The null/empty form of this slot indicates that the word is a new term in the current clause level.
 
@@ -226,14 +226,14 @@ All the other morpheme belonging to this slot are proclitics; below is a non-exh
 
 This slot may be subdivised into further subslots in certain cases.
 
-§§§§ Matrix Verb Roles
+§§§§ Root Verb Roles
 
-A sentence may contain only one matrix verb, and it is always the first word of the sentence. When a matrix verb occurs in a stream of words, it signals that a new sentence begins at that position.
+A sentence may contain only one root verb, or “main verb”, and it is always the first word of the sentence. When a root verb occurs in a stream of words, it signals that a new sentence begins at that position.
 
-There are several different Role prefixes that create matrix verbs; they further show additional information, namely the illocution (speech act) of the sentence, and if that illocution is the ‘Assertive’, then they also indicate Evidentiality, i.e. the kind of evidence that is the basis for the claim being made with the utterance.
+There are several different Role prefixes that create root verbs; they further show additional information, namely the illocution (speech act) of the sentence, and if that illocution is the ‘Assertive’, then they also indicate Evidentiality, i.e. the kind of evidence that is the basis for the claim being made with the utterance.
 The Illocution indicates whether the sentence is an assertion (a description of what the speaker thinks is reality), a question, a command, a request, a performative/declarative act, and so on.
 
-Here are the possible matrix verb prefixes:
+Here are the possible root verb prefixes:
 
 • Assertive illocution: further inflects for evidentialities, shown below:
   aı-:   unspecified evidentiality.
@@ -541,7 +541,7 @@ Let ⟪◈⟫ be a placeholder for an inner case vowel:
 • The two binary quantifierizers function in an homologuous manner to the conjunctionizers, but instead of constructing conjunctions, they do binary quantifiers instead. A binary quantifier is a word that is placed immediately before a noun (with normal noun case inflection), and it defines the relation between the unary property used to define the noun and the unary property defined by the slot of the verb which the noun goes into. Whereas conjunctionizers operate on binary predicates relating two propositions, quantifierizers operate on binary predicates relating two unary properties. Such "quantificational binary predicates" may be examplified by the predicates ⟪➊ is a property that is universal among what has property ➋⟫ (root ⟪-kú⟫), corresponding to the quantifier "all", "every", in the English language. In the sentence "all cats are mammals" can be reworded as "the property of being a mammal is universal among what has the property of being a cat", "mammalhood is universal among what have cathood".
   The Universal Determinacy ⟪-ıw-⟫ and the Existential Determinacy ⟪-uy-⟫ may be regarded as shorthands for a quantifierizer expression.
 
-• The Afterthought Relativizer is a special Role that terminates the current clause (even if it is the matrix clause), binds the proposition described by the clause to the Pendent pronoun, then turn the clause into a pendent-like expression hanging at the beginning of a new clause, whose main verb is the contentive bearing the Afterthought Relativizer Role.
+• The Afterthought Relativizer is a special Role that terminates the current clause (even if it is the root clause), binds the proposition described by the clause to the Pendent pronoun, then turn the clause into a pendent-like expression hanging at the beginning of a new clause, whose main verb is the contentive bearing the Afterthought Relativizer Role.
 
   ┌───────────────
   │ ◆ Aılé tatʼí, ʎaıθenïłoyi̋čal.
@@ -550,7 +550,7 @@ Let ⟪◈⟫ be a placeholder for an inner case vowel:
   │ ➥ The bird was blue, they said to me.
   └─
 
-If the Afterthought Relativizer is used on the matrix clause whose matrix verb bears non-null Evidentiality, then the scope of the Evidentiality remains that of the clause terminated by the Afterthought Relativizer, as opposed of scoping over the whole sentence. The relation between the Evidentiality and the terminated clause is incidental, non-restrictive.
+If the Afterthought Relativizer is used on the root clause whose root verb bears non-null Evidentiality, then the scope of the Evidentiality remains that of the clause terminated by the Afterthought Relativizer, as opposed of scoping over the whole sentence. The relation between the Evidentiality and the terminated clause is incidental, non-restrictive.
 
   ┌───────────────
   │ ◆ Olé tatʼí, ʎaıθenïłoyi̋čal.
@@ -660,10 +660,10 @@ Examples (with _ representing a short pause):
 § Syntax
 
 The language's syntax is highly head-initial, with some exceptions.
-A sentence always begins with a matrix verb, and there can be no more than one matrix verb per sentence. It is formally recognizable by bearing an Illocution role prefix; this doubles as an indicator of the beginning of a new sentence.
-Fragment sentences, not containing any matrix verb, are not allowed in the language. It is mandatory to provide at least a dummy verb of some sort. When the speaker wishes not to put at the very beginning of the sentence the salient semantic content that should normally be expressed by the matrix verb, a dummy auxiliary-like matrix verb is used, and the semantic content whose appearance is to be delayed is instead demoted to a noun phrase governed by the dummy matrix verb. This allows word order flexibility while retaining the advantages of a rigidly verb-initial syntax.
+A sentence always begins with a root verb, and there can be no more than one root verb per sentence. It is formally recognizable by bearing an Illocution role prefix; this doubles as an indicator of the beginning of a new sentence.
+Fragment sentences, not containing any root verb, are not allowed in the language. It is mandatory to provide at least a dummy verb of some sort. When the speaker wishes not to put at the very beginning of the sentence the salient semantic content that should normally be expressed by the root verb, a dummy auxiliary-like root verb is used, and the semantic content whose appearance is to be delayed is instead demoted to a noun phrase governed by the dummy root verb. This allows word order flexibility while retaining the advantages of a rigidly verb-initial syntax.
 
-The matrix verb is the only true verb in the sentence; subordinate clauses are headed by a participle, which, from the point of view of the inside of the clause, acts as its verb; but from the outside of the subordinate clause, the participle looks like a noun or a word of another part of speech such as an adjective or an adverb, by taking the role prefix corresponding to that part of speech.
+The root verb is the only true verb in the sentence; subordinate clauses are headed by a participle, which, from the point of view of the inside of the clause, acts as its verb; but from the outside of the subordinate clause, the participle looks like a noun or a word of another part of speech such as an adjective or an adverb, by taking the role prefix corresponding to that part of speech.
 
 ...
 
