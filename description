@@ -1,5 +1,5 @@
 ﻿﻿
-Date of last modification: 2023-02-07.
+Date of last modification: 2023-02-17.
 
 This document is best viewed using a monospace font, as it contains tables drawn using unicode box-drawing characters.
 
@@ -502,7 +502,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 Let ⟪◈⟫ be a placeholder for an inner case vowel:
 
 ┌───────────────────────────────────────┬────────┐
-│ Oblique                               │ hu     │
+│ Coordinative                          │ hu     │
 │ ERG-NOM propositional conjunctionizer │ ña     │
 │ NOM-ERG propositional conjunctionizer │ ñu     │
 │ ERG-NOM eventive conjunctionizer      │ ñaı    │
@@ -512,29 +512,29 @@ Let ⟪◈⟫ be a placeholder for an inner case vowel:
 │ Afterthought relativizer              │ ʎaı    │
 └───────────────────────────────────────┴────────┘
 
-• The ERG-NOM and NOM-ERG conjunctionizers can only be applied to binary roots expressing a relation between two propositions, such as logical connective predicates like ⟪-áı⟫, "and". They convert the binary predicate into an afterthought, interposed conjunction, a conjunction placed between the the two connectands it governs.
+• The ERG-NOM and NOM-ERG conjunctionizers can only be applied to binary roots expressing a relation between two propositions, such as logical connective predicates like ⟪-áı⟫, "and". They convert the binary predicate into an afterthought, interposed conjunction, a conjunction placed between the two connectands it governs.
   In the case of the ERG-NOM version, the first connectand goes into the ERG slot and the second one in the NOM slot; with the NOM-ERG conjunctionizer, it's the other way around. The difference is insignificant if the binary relation is reflexive, i.e. reciprocal.
   The propositional versions take two propositions as their arguments; the eventive versions take as arguments events instantiating the propositions, i.e. the physical manifestation of these abstract propositions.
-  When two noun phrases are conjoined with a conjunction, the two must bear the same noun case. When two verbs in the same clause are conjoined, the second one bears the Oblique Role ⟪hu-⟫.
-  A bare Oblique Role, not preceded by a conjunction word, is a shorthand for a logical AND conjoining two verbs, i.e. with the ⟪ñaʼáı⟫ conjunction left out implicit.
+  When two noun phrases are conjoined with a conjunction, the two must bear the same noun case. When two verbs in the same clause are conjoined, the second one bears the Coordinative Role ⟪hu-⟫.
+  A bare Coordinative Role, not preceded by a conjunction word, is a shorthand for a logical AND conjoining two verbs, i.e. with the ⟪ñaʼáı⟫ conjunction left out implicit.
 
   ┌───────────────
   │ ◆ Ici̋ tayakóyu ñaʼáı tayaƛúrı.
-  │ ❖ ASR.SEN-√is_one  INTR-DEF-INTR-√dog  CZ2-√and
+  │ ❖ ASR.SEN-√is_one  INTR-DEF-INTR-√dog  EAPCZ-√and
   │   INTR-DEF-INTR-√cat
   │ ➥ Both the dog and the cat are one/single.
   └─
   ┌───────────────
   │ ◆ Ici̋ tayakóyu (ñaʼáı) hurú tayaƛúrı.
-  │ ❖ ASR.SEN-√is_one  INTR-DEF-INTR-√dog  (CZ2-√and)
-  │   OBL-√are_two INTR-DEF-INTR-√cat
+  │ ❖ ASR.SEN-√is_one  INTR-DEF-INTR-√dog  (EAPCZ-√and)
+  │   COO-√are_two INTR-DEF-INTR-√cat
   │ ➥ The dog is one, and the cats are two.
   └─
   ┌───────────────
   │ ◆ Oθenïyi̋čal qaoci̋ tayakóyu (ñaʼáı) hurú tayaƛúrı.
-  │ ❖ ASR.REC-you_know_what:C1/3-me:C2/3-√assert_to
-  │   C3/3-CC-√is_one  INTR-DEF-INTR-√dog  (CZ2-√and)
-  │   OBL-√are_two INTR-DEF-INTR-√cat
+  │ ❖ ASR.REC-you_know_what:TC1-me:TC2-√assert_to
+  │   TC3-PCCS-√is_one  INTR-DEF-INTR-√dog  (EAPCZ-√and)
+  │   COO-√are_two INTR-DEF-INTR-√cat
   │ ➥ That one said to me that the dog was one and the cats were two.
   └─
 

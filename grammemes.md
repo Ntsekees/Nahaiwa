@@ -114,7 +114,7 @@
 # ROLES ➤ OTHERS:
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
 |-------------------------------------|----------|-----------------------------------------|
-| hu                                  | OBL      | Oblique                                 |
+| hu                                  | COO      | Coordinative                            |
 | ña                                  | EAPCZ    | ERG-ACC propositional conjunctionizer   |
 | ñu                                  | AEPCZ    | ACC-ERG propositional conjunctionizer   |
 | ñaı                                 | EAECZ    | ERG-ACC eventive conjunctionizer        |
