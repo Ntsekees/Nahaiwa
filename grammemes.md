@@ -69,15 +69,15 @@
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
 |-------------------------------------|----------|-----------------------------------------|
 | r                                   | TOP      | Topical                                 |
-| ł                                   | PND      | Pendent                                 |
-| ƛ / ıʼa                             | INS      | Instrumental                            |
+| ƛ                                   | PND      | Pendent                                 |
+| ƛʼ / ıʼa                            | INS      | Instrumental                            |
 | s / eı                              | SPL      | Spatiotemporal Locative                 |
 | y                                   | ITJ      | Interjective                            |
 | w                                   | VOC      | Vocative                                |
 | n                                   | PUI      | Plural Union                            |
 | ŋ                                   | SEQ      | Sequential                              |
 | l                                   | ADJ      | Adjectival                              |
-| cʼ                                  | PRP      | Propositional                           |
+| ł                                   | PRP      | Propositional                           |
 
 # PARTICIPIALIZERS / SUBORDINATORS:
 |                FORM                 |  GLOSS   |                           GRAMMEME      |

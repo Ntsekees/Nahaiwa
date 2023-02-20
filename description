@@ -345,19 +345,19 @@ Below is an explanation of the functions of the other core cases mentioned in th
 Non-core (adjunct) cases:
 ┌───────────────┬─────┬─────┐
 │ Topical       │  r  │     │
-│ Pendent       │  ł  │     │
-│ Instrumental  │  ƛ  │ ıʼa │
+│ Pendent       │  ƛ  │     │
+│ Instrumental  │  ƛʼ │ ıʼa │
 │ SP Locative   │  s  │ eı  │
 └───────────────┴─────┴─────┘
 
 • The Topical Case marks the topic of the sentence. ⸨Note: it might become deprecated soon.⸩
 
-• The Pendent Case introduces a noun phrase without stating any relation between it and the current clause, and binds it to the Pendent pronoun (whose root form is ⟪-łá⟫ and whose extensional form is ⟪-ł◈-⟫, with ⟪◈⟫ representing an Inner Case vowel). This allows the introduced noun phrase (now bound to the pendent pronoun) to be used latter, possibly in a subordinate clause not yet opened. This is especially useful for expressing quantification binding a variable that is not used in the same clause as the one in which the quantifier appears, but rather in a more deeply nested clause:
+• The Pendent Case introduces a noun phrase without stating any relation between it and the current clause, and binds it to the Pendent pronoun (whose root form is ⟪-ƛá⟫ and whose extensional form is ⟪-ƛ◈-⟫, with ⟪◈⟫ representing an Inner Case vowel). This allows the introduced noun phrase (now bound to the pendent pronoun) to be used latter, possibly in a subordinate clause not yet opened. This is especially useful for expressing quantification binding a variable that is not used in the same clause as the one in which the quantifier appears, but rather in a more deeply nested clause:
 ┌───────────────
-│ ◆ Inıŋıwá łeyahakú koıtʼıłucál. (= Inıŋıcál keyahakú.)
+│ ◆ Inıŋıwá ƛeyahakú koıtʼıƛucál. (= Inıŋıcál keyahakú.)
 │ ❖ ASR.SEN-want:ERG-has_property
-│   PEND-UQZ-INTR-not-universal_property
-│   NOM-UTC-lambda_1:ERG-PEND_PN:NOM-see
+│   PND-UQZ-INTR-not-universal_property
+│   NOM-UTC-lambda_1:ERG-PND_PN:NOM-see
 │ ➥ Not everything is such that I want to see them.
 └─
 
@@ -402,8 +402,8 @@ It is noteworthy that the consonant of the lambda pronouns is the same as that o
 
   ┌───────────────
   │ ◆ Aŋkıpθú koacʼıtʰú kaoθıkʼutwá.
-  │ ❖ ASR.CE-12-ERG-√differ  ACC-BTC-BL1-ERG-√find_likely
-  │   ACC-CC-you_know_what-ERG-BL2-√intend
+  │ ❖ ASR.INF-12-ERG-√differ  ACC-BTC-BL1-ERG-√find_likely
+  │   ACC-PCCS-you_know_what-ERG-BL2-√intend
   │ ➥ We (me+you) differ in what we think he intends to do.
   └─
 
@@ -447,7 +447,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 │ Plural union      │  n  │
 │ Sequential        │  ŋ  │
 │ Adjectival        │  l  │
-│ Propositional     │  cʼ │
+│ Propositional     │  ł  │
 └───────────────────┴─────┘
 
 • The Interjective Case turns a contentive word into an interjection, meaning that the speaker is satisfying the selected case role of the predicate at the present moment.
@@ -544,18 +544,18 @@ Let ⟪◈⟫ be a placeholder for an inner case vowel:
 • The Afterthought Relativizer is a special Role that terminates the current clause (even if it is the root clause), binds the proposition described by the clause to the Pendent pronoun, then turn the clause into a pendent-like expression hanging at the beginning of a new clause, whose main verb is the contentive bearing the Afterthought Relativizer Role.
 
   ┌───────────────
-  │ ◆ Aılé tatʼí, ʎaıθenïłoyi̋čal.
+  │ ◆ Aılé tatʼí, ʎaıθenïtoyi̋čal.
   │ ❖ ASR-√is_blue  INTR-INTR-√bird
-  │   ATR-you_know_what:C1/3-me:C2/3-lambda_1:C3/3-√assert_to
+  │   ATR-you_know_what:TC1-me:TC2-RSM:TC3-√assert_to
   │ ➥ The bird was blue, they said to me.
   └─
 
 If the Afterthought Relativizer is used on the root clause whose root verb bears non-null Evidentiality, then the scope of the Evidentiality remains that of the clause terminated by the Afterthought Relativizer, as opposed of scoping over the whole sentence. The relation between the Evidentiality and the terminated clause is incidental, non-restrictive.
 
   ┌───────────────
-  │ ◆ Olé tatʼí, ʎaıθenïłoyi̋čal.
+  │ ◆ Olé tatʼí, ʎaıθenïtoyi̋čal.
   │ ❖ ASR.RPT-√is_blue  INTR-INTR-√bird
-  │   ATR-you_know_what:C1/3-me:C2/3-lambda_1:C3/3-√assert_to
+  │   ATR-you_know_what:TC1-me:TC2-RSM:TC3-√assert_to
   │ ➥ I heard that the bird was blue, that's what they said to me (at least).
   └─
 
