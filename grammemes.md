@@ -84,8 +84,9 @@
 |-------------------------------------|----------|-----------------------------------------|
 | eo                                  | RCS      | Relative Clause Subordinator            |
 | ao                                  | PCCS     | Plain Content Clause Subordinator       |
+| ea                                  | PCCS     | Polar Content Clause Subordinator       |
 | oı                                  | UTCS1    | Unary Template Clause Subordinator 1    |
-| ea                                  | UTCS2    | Unary Template Clause Subordinator 2    |
+| ██                                  | UTCS2    | Unary Template Clause Subordinator 2    |
 | oa                                  | BTCS     | Binary Template Clause Subordinator     |
 | ı’ı                                 | TTCS     | Ternary Template Clause Subordinator    |
 | u’u                                 | QTCS     | Quaternary Template Clause Subordinator |
