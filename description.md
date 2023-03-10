@@ -4,10 +4,10 @@ Date of last modification: 2023-02-17.
 This document is best viewed using a monospace font, as it contains tables drawn using unicode box-drawing characters.
 
 
-════════════════════════════════════════════════════════════════
-════════════════════════════════════════════════════════════════
+---
+---
 
-§ Introduction
+# Introduction
 
 Nahaıwa, also known as Haıwa or NLL1 (acronym for ⟪Ntsékees' Logical Language #1⟫) is a prototype of a constructed monosemic language, i.e. a loglang: syntactic ambiguities are disallowed, as well as word polysemy and homonymy not resolvable through syntax alone, as well as opaque idiomatic expressions not explicitly marked as such. It is also an artlang, inasmuch as aesthetics (in the eyes of the author) is taken into account.
 It is currently in a developmental stage of early prototype, and the description given here may be obsoleted by future changes to the language. The development of the language started in mid 2016.
@@ -23,12 +23,12 @@ The vocabulary is a priori, not derived or borrowed from that of existing natura
 The consonant inventory is large (36 consonants), and mainly inspired by the inventories of Athabascan languages, as well as Aymara and Quechua languages.
 
 
-════════════════════════════════════════════════════════════════
-════════════════════════════════════════════════════════════════
+---
+---
 
-§ Phonology
+# Phonology
 
-§§ Vowel phonemes
+## Vowel phonemes
 
 There are 6 vowel phonemes:
 
@@ -64,9 +64,9 @@ Vowels immediately preceding the uvular plosive /q/ may undergo slight lowering 
 Prominent syllables are indicated in the Latin orthography with acute accent marks. In the case of dipthongs, the first vowel member bears the acute accent. The letter ⟪ï⟫ becomes ⟪i̋⟫ when prominent (i.e. bearing a double-acute accent mark).
 
 
-════════════════════════════════════════════════════════════════
+---
 
-§§ Consonant phonemes
+## Consonant phonemes
 
 There are 36 consonant phonemes:
 
@@ -92,7 +92,7 @@ There are 36 consonant phonemes:
 Word-initial glottal stops are not written explicitly in the romanization orthography.
 
 
-§§§ Consonant allophony:
+### Consonant allophony:
 
   • /h/ is realized as [ç] before /i/, or after /i/ if no vowel is following this /h/;
     similarly, it is realized as [ç̱] (prevelar fricative) before /ɨ/ or after it if no vowel is following this /h/,
@@ -102,25 +102,25 @@ Word-initial glottal stops are not written explicitly in the romanization orthog
   • /w/, when occurring immediately after a consonant, especially a velar or uvular one, is realized as labialization of that consonant.
 
 
-════════════════════════════════════════════════════════════════
-════════════════════════════════════════════════════════════════
+---
+---
 
-§ Phonotactics
+# Phonotactics
 
 All words except particles contain at least two syllables.
 Words cannot begin on a vowel; in the romanization, words that are written with a vowel as their first letter actually have an unwritten glottal stop onset preceding the vowel.
 
 
-════════════════════════════════════════════════════════════════
+---
 
-§§ Pitch accent
+## Pitch accent
 
 All words bear a pitch accent, or ‘word-tone’, which is a tone contour that extends across the whole word, and which emphasizes one specific syllable called the ‘prominent syllable’, homologuous to the stressed syllable in stress-based languages. In this language, words always begin with a pitch level that is low but still at least a little higher than the pitch level of the last syllable of the immediately preceding word in the same breathe group, if any. Then, until the prominent syllable is met (it is marked in the romanization orthography with an acute accent or a double acute accent), which bears the highest pitch of the whole word, any of the two following scenarios are possible, in free variation: ① each syllable's pitch is a little higher than that of the preceding syllable, or ② the pitch remains flats, mid-level, until the prominent syllable is met, where the pitch raises to a peak. After the prominent syllable, the pitch goes down more or less abruptly until the end of the word is reached. There again, the pitch level may become low and flat after the prominent syllable is passed, especially if the word is long (as it may not be comfortable to keep the pitch going progressively down on a long word).
 
 
-════════════════════════════════════════════════════════════════
+---
 
-§§ Syllable structure
+## Syllable structure
 
 /ʎi/ and /ɲi/ are not allowed, except possibly as allophonic realizations of /li/ and /ni/ respectively.
 
@@ -140,17 +140,17 @@ Consonant clusters may only occur across syllable boundaries, where two-consonan
 ⸨TODO: List allowed and disallowed clusters.⸩
 
 
-════════════════════════════════════════════════════════════════
+---
 
-§§ Word boundaries
+## Word boundaries
 
 When a word ending on a tenuis plosive or affricate is immediately followed by a word starting with a fricative, an epenthetic short voiceless [ɨ̥] or [ə̥] appears between the two as a small buffer between the two words.
 
 
-════════════════════════════════════════════════════════════════
-════════════════════════════════════════════════════════════════
+---
+---
 
-§ Morphophonology and Morphology
+# Morphophonology and Morphology
 
 As indicated earlier, there are three morphological classes of words:
 • contentives (open class: the lexical words used to refer to the concepts being talked about in the utterance);
@@ -164,9 +164,9 @@ In the language, function words are few, as many grammatical functions are expre
 We will proceed by examining the morphophonology of contentives (which is the same as that of inflecting function words), and a list of function words —together with their function— will be given afterwards.
 
 
-════════════════════════════════════════════════════════════════
+---
 
-§§ Contentives
+## Contentives
 
 The morphology of the contentive is an agglutinative template of four slots, described by the table below, starting with the first slot as the first row and ending with the last slot:
 
@@ -205,7 +205,7 @@ Out of these, slot 2b is optional; the two others must appear together.
 We will now examine each of the slots one by one.
 
 
-§§§ Binding Slot
+### Binding Slot
 
 The general purpose of that slot is to indicate which clausal nesting level the word belongs to, i.e. where the word does ‘bind’. This has however nothing to do with the concept of variable binding.
 
@@ -215,18 +215,18 @@ The null/empty form of this slot indicates that the word is a new term in the cu
 
 All the other morpheme belonging to this slot are proclitics; below is a non-exhaustive list of them:
 
-  • ⟪m⟫, the syllabic nasal clitic. This syllabic nasal is preceded by an unwritten glottal stop. Furthermore, it may assimilate in place of articulation with the following consonant (see `§ Morphophonology and Morphology` for details).
+  • ⟪m⟫, the syllabic nasal clitic. This syllabic nasal is preceded by an unwritten glottal stop. Furthermore, it may assimilate in place of articulation with the following consonant (see § `Morphophonology and Morphology` for details).
     This clitic may occur on nouns and adverbials and indicates that the word is a complement of the predicate underlying the immediately preceding contentive word, as opposed to being an independent complement of the main predicate of the current clause.
   • ⟪θa⟫: indicates that the current clause is terminated and the word marked with this clitic belongs to the next outer clause, and is a continuation thereof.
   • ⟪kʼwa⟫: indicates the closure of two clauses, so that the marked word belongs to the third-to-last opened clause in the order of clause nesting.
   • ...
 
 
-§§§ Role Slot
+### Role Slot
 
 This slot may be subdivised into further subslots in certain cases.
 
-§§§§ Root Verb Roles
+#### Root Verb Roles
 
 A sentence may contain only one root verb, or “main verb”, and it is always the first word of the sentence. When a root verb occurs in a stream of words, it signals that a new sentence begins at that position.
 
@@ -264,7 +264,7 @@ Here are the possible root verb prefixes:
   kʰao-: recommandative
 
 
-§§§§ Noun Roles
+#### Noun Roles
 
 With noun roles, as well as adjectival and adverbial roles, Slot 2 is subdivised into the following subslots:
 
@@ -378,7 +378,7 @@ Special inner case values:
 │ Quaternary Template Cl.  │ uʼu │
 └──────────────────────────┴─────┘
 
-These morphemes occupy the Inner Case slot (slot 2c), but are not true Cases. They turn the words which bear them into ‘participles’, words that have the special syntactic effect of opening a whole subordinate clause (which may be exited for returning to the outer clause by using an appropriate Binding proclitic; see the section `§§§ Binding Slot`). The participle can assume any syntactic roles which normal contentives can assume via outer case inflection: a participle bearing a noun case will be a “noun participle”, with an adverbial case it will be an “adverbial participle”, and so on. Even if all these morphemes cause the opening of a subordinate clause, they differ in what kind of clause is created.
+These morphemes occupy the Inner Case slot (slot 2c), but are not true Cases. They turn the words which bear them into ‘participles’, words that have the special syntactic effect of opening a whole subordinate clause (which may be exited for returning to the outer clause by using an appropriate Binding proclitic; see the section `Binding Slot`). The participle can assume any syntactic roles which normal contentives can assume via outer case inflection: a participle bearing a noun case will be a “noun participle”, with an adverbial case it will be an “adverbial participle”, and so on. Even if all these morphemes cause the opening of a subordinate clause, they differ in what kind of clause is created.
 
 Relative clauses are clauses that refer to one of the participants (called the ‘antecedant’) mentioned within the clause and represented by the ‘resumptive pronoun’ (whose root form is ⟪-tá⟫ and whose extensional form is ⟪-t◈-⟫); the relative clause describes its antecedent, and the whole relative clause's referent is the antecedent itself.
 
@@ -411,7 +411,7 @@ It is noteworthy that the consonant of the lambda pronouns is the same as that o
 ⸨TODO: More usage example sentences.⸩
 
 
-§§§§ Determinacy
+#### Determinacy
 
 ┌────────────────────────────────────┬─────┐
 │ Elucitadive focus                  │ aw  │
@@ -438,7 +438,7 @@ This category also contains the ‘lambda rebinder’ affixes, which reassign a 
 └───────────────────────────────────────────┴───────┘
 
 
-§§§§ Other case-like roles
+#### Other case-like roles
 
 These Role prefixes (Slot 2a) behave much like noun cases, although the syntactic roles they govern aren't nominal; like noun cases, they are accompanied by an Inner Case vocalic affix, and an optional Determinacy affix.
 
@@ -498,7 +498,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 • The Propositional Case turns the contentive word into a restrictive subordinating clausal adverb, i.e. an adverb that modifies the whole proposition represented by the current clause, and not describing the physical spatiotemporal manifestation (event) of that proposition: it would be suitable for expressing the adverbs "probably", "arguably", "frequently", but not event-specific adverbs such as "beautifully", for which the Eventive Case would be appropriate.
 
 
-§§§§ Other roles
+#### Other roles
 
 Let ⟪◈⟫ be a placeholder for an inner case vowel:
 
@@ -562,7 +562,7 @@ If the Afterthought Relativizer is used on the root clause whose root verb bears
 
 
 
-§§§ Extension slot
+### Extension slot
 
 The extension slot is optional, and may contain a string of extensional prefixes of arbitrary length, ordered by their relative scope: each such extensional prefix has semantic scope over all the remaining chain of extensional prefixes that follows it, and each prefix is under the scope of the prefixes that occurred before it. In other words, they express semantically compositional modifications of the word stem on their right: the root plus any other prefix appearing to their right (they are left-branching, right-grouping).
 
@@ -598,7 +598,7 @@ Below is a list of the different types of extensional prefixes:
 ⸨TODO: Example sentences.⸩
 
 
-§§§ Root slot
+### Root slot
 
 The root slot is the last slot of the morphological template of contentive words; it is demarcated from the remaining of the word by having its first syllable being the prominent syllable of the word's pitch accent: it is the syllable with the highest pitch in the word. The pitch only goes down along the remaining of the root and doesn't raise up again. In the romanization orthography, the prominent syllable, and therefore the first syllable of the root slot, in marked with an acute accent mark (or a double acute) on its first vowel.
 
@@ -610,11 +610,11 @@ The root slot may contain a single root, or a string of several roots, possibly 
 However, since word bases are always lexicalized, i.e. semantically opaque, the recognizability of subcomponents only offers a value in enhencing memorization and offering meaning hints for those discovering the word for the first time; the meaning of the whole word base must be learnt independently of the meaning of its eventual subconstituents: word bases are atomic lexical units of the language.
 
 
-════════════════════════════════════════════════════════════════
+---
 
-§§ Function words
+## Function words
 
-§§§ Declinable functors (contentive-like function words)
+### Declinable functors (contentive-like function words)
 
 ┌─────────────────────────────┬────────┐
 │ Multi-word quote initiator  │ -pʰáı  │
@@ -643,7 +643,7 @@ Examples (with _ representing a short pause):
   “You-know-who said «qʼwai».”
 
 
-§§§ Particles
+### Particles
 
 ┌──────────────────────────┬───────┐
 │ Acknowledgement          │ e     │
@@ -655,10 +655,10 @@ Examples (with _ representing a short pause):
 └──────────────────────────┴───────┘
 
 
-════════════════════════════════════════════════════════════════
-════════════════════════════════════════════════════════════════
+---
+---
 
-§ Syntax
+# Syntax
 
 The language's syntax is highly head-initial, with some exceptions.
 A sentence always begins with a root verb, and there can be no more than one root verb per sentence. It is formally recognizable by bearing an Illocution role prefix; this doubles as an indicator of the beginning of a new sentence.
@@ -671,9 +671,9 @@ The root verb is the only true verb in the sentence; subordinate clauses are hea
 ...
 
 
-════════════════════════════════════════════════════════════════
-════════════════════════════════════════════════════════════════
+---
+---
 
-§ Lexicon
+# Lexicon
 
 ...
