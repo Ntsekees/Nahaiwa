@@ -6,12 +6,19 @@ kʼú		{{binary lambda variable #2}}
 pʼé		{{ternary lambda variable #1}}		
 čʼı̋		{{ternary lambda variable #2}}		
 qʼó		{{ternary lambda variable #3}}		
+pʰáʼa		{{quaternary lambda variable #1}}		
+cʰéʼe		{{quaternary lambda variable #2}}		
+čʰı̋ʼï		{{quaternary lambda variable #3}}		
+qʰóʼo		{{quaternary lambda variable #4}}		
 ní	1	➊ is me.	deixis	lukayu
 kí	1	➊ is you.	deixis	yilawu
 ŋkí	1	➊ is me together with you.	deixis	teleyo
+ƛá		{{pendent pronoun}}		
+tʰáowa	3	➊ gives to ➋ property ➌.		behucu
 pí	2	➊ has part ➋.	mereology basic	dibere
 yá	1	➊ is something.	logic	gisiwu
 kwáı	1	➊ is true, is the case.	logic	tunabe
+há	1	➊ is false, isn’t the case.	logic	maruhe
 pθú	3	➊ are in relation ➋ with differen things.	logic	padita
 kwíyu	2	➊ are in recipriocal relation ➋.	logic	josuma
 ’áı	2	➊ and ➋ are both the case.	logic conjunction	talage
@@ -23,6 +30,7 @@ rú	1	➊ are two in number.	cardinality	qudase
 káı	1	➊ are three in number.	cardinality	kiraya
 qó	1	➊ are four in number.	cardinality	kaseti
 néq	1	➊ are five in number.	cardinality	kuyope
+néwa	1	➊ is a quale.	perception	wiliku
 ƛʼóı	1	➊ is pain.	perception	busoni
 lúq	1	➊ is cold.	perception	jibuda
 ƛéo	3	➊ computes that ➋ is the answer to what has property ➌.	cognition	woqihi
@@ -40,6 +48,7 @@ qán	1	➊ is a hind leg.	body_part	maqawo
 ʎúq	1	➊ is a tail.	body_part	fuvika
 rı̋’	1	➊ is an ear (including outer and inner ear).	body_part	qiceva
 né	1	➊ is a hand.	body_part	tehihi
+cʼé	1	➊ is a fingernail, a toenail, a claw or a hoof.	body_part	yeyeqo
 qʼí	1	➊ is a bone.	body_part bone	hobewe
 lóθ	1	➊ is blood.	body_part inner_organ	gefore
 páƛ	1	➊ is a root (of a plant).	body_part plant_body_part	diceva
@@ -74,7 +83,8 @@ nƛé	1	➊ is a plant.	lifeform plant	dayilu
 rópo	1	➊ is a tomato.	lifeform plant fruit	seruwi
 nóko	1	➊ is an apple.	lifeform plant fruit	nahala
 ƛʰáı	1	➊ is a tree.	lifeform plant tree	tiliva
-wá		➊ has property ⦃DP⦄.		pohuti{➊,🅓}
+ƛís		➊ is grass.		sosudi
+wá		➊ has property ➋/⦃DP⦄.		pohuti{➊,🅓}
 ráʼ		➊ and ➋ are in binary relation ⦃DP⦄.		nikatu{➊,➋,🅓}
 káoʼ		➊, ➋ and ➌ are in ternary relation ⦃DP⦄.		dotuye{➊,➋,➌,🅓}
 qóweʼ		➊, ➋, ➌ and ➍ are in quaternary relation ⦃DP⦄.		gotavi{➊,➋,➌,➍,🅓}
@@ -120,3 +130,16 @@ pʼúh		➊ explodes.		papaku
 nóq		➊ is a potato.		guluna
 θíwa		➊ is a flute.		sifana
 pyáno		➊ is a piano.		pepiyi
+pʰá	2	➊ has duration, lasts for ➋.		kehoye
+háo		➊ is a day (event of a daytime-nighttime cycle).		
+pʰáhao		➊ is a day (duration of a daytime-nighttime cycle).		
+yéhao		➊ is today.		teveku
+yé		➊ is the here and now (my here and now), this expanse of spacetime within which I am communicating this message to you.		budeja
+lá		➊ happens at the same time as ➋; ➊ is simultaneous with ➋.		qakiro
+lpá		➊ and ➋ are separated by temporal distance ➌.		
+tʰı̋l		➊ is metal.		
+ncʰwáo		➊ sits on ➋.		sesiye
+stíncʰwao		➊ is a chair.		zunoko
+qálao		➊ is a heart.		
+yáʼı		➊ is a horse.		qibawe
+hwéa		➊ is wind, moving air.		howahu
