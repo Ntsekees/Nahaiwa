@@ -45,6 +45,7 @@
 | kʰe                                 | SOL      | Solicitive                              |
 | kʰı                                 | OBLT     | Oblative                                |
 | kʰao                                | RCM      | Recommandative                          |
+| yao                                 | PS       | Permission-seeking                      |
 
 # ROLES ➤ CORE CASES:
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
