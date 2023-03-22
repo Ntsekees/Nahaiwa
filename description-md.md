@@ -273,6 +273,7 @@ Here are the possible root verb prefixes:
   kʰe-:  solicitive (mild request, no obligation of fulfillment)  
   kʰı-:  oblative (disinterested offers: “I'm available for…”, “if you're interested…”)  
   kʰao-: recommandative  
+  yao-:  permission-seeking  
   
   
 #### Noun Roles  
