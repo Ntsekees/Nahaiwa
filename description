@@ -1,5 +1,5 @@
 ﻿﻿
-Date of last modification: 2023-03-19.
+Date of last modification: 2023-03-23.
 
 This document is best viewed using a monospace font, as it contains tables drawn using unicode box-drawing characters.
 
@@ -625,9 +625,9 @@ However, since word bases are always lexicalized, i.e. semantically opaque, the 
 └─────────────────────────────┴────────┘
 
   ┌───────────────
-  │ ◆ Uneθoyı̋pa qapʰáı ıneθïhaƛéonaʼ pʰa.
-  │ ❖ ASR.REC-me:C1/3-you_know_what:C3/3-√say  C3/3-INTR-MWQI
-  │   ASR.SEN-me:C1/3-you_know_what:C2/3-NEG-√understand  EOQ
+  │ ◆ Uneθïyı̋pa qapʰáı ıneθïhaƛéonaʼ pʰa.
+  │ ❖ ASR.REC-me:TC1-you_know_what:TC2-√say  TC3-INTR-MWQI
+  │   ASR.SEN-me:TC1-you_know_what:TC2-NEG-√understand  EOQ
   │ ➥ I said to them «I don't understand it».
   └─
 
