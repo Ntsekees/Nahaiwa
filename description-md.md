@@ -213,6 +213,25 @@ However, the Role slot may further be subdivised into up to three further subslo
   
 Out of these, slot 2b is optional; the two others must appear together.  
   
+The root or base of a contentive is always demarcated from the inflectional and extensional prefixes prepended to it by bearing the highest tone (represented by an acute accent in the Latin orthography) on its first syllable.  
+For example, in the word ⟪talóya⟫, the root is ⟪-lóya⟫, “sky”, and ⟪ta-⟫ is a slot #2 inflectional prefix complex.  
+A root must always be preceded by a slot #2 inflectional prefix syllable, optionally followed by one or more extensional prefixes (which are mostly monosyllabic, with limited disyllabic forms CVyV or CVwV (e.g. ⟪-kwıyu-⟫).  
+A slot #1 proclitic may precede the obligatory slot #2. The first syllable of a word can be unambiguously identified as belonging to slot #1 (as opposed to slot #2) by virtue of their having mutually exclusive sound forms: while ⟪θa꞊⟫ is a valid slot #1 syllable, it cannot be a slot #2 form; similarly, ⟪ta-⟫, a frequent slot #2 form, cannot possibly appear in slot #1.  
+  
+The word ⟪mkaoluŋkıkwıyuráwa⟫ (“of the fact that we talked to each other”) can thusly be unambiguously parsed as the following string of components:  
+  
+```  
+┌──────────┬────────┬─────────────────────────────────────────────┐  
+│ Slot #1  │ m꞊     │ Injective clitic                            │  
+│ Slot #2a │ k-     │ Ergative outer case                         │  
+│ Slot #2c │ ao-    │ Plain content clause subordinator           │  
+│ Slot #3  │ lu-    │ Extension: past tense                       │  
+│ Slot #3  │ ŋkı-   │ Extension: “you and me” + (Ergative)        │  
+│ Slot #3  │ kwıyu- │ Disyllabic extension (CVyV): “reciprocally” │  
+│ Slot #4  │ ráwa   │ Root: “talk with”                           │  
+└──────────┴────────┴─────────────────────────────────────────────┘  
+```  
+  
 We will now examine each of the slots one by one.  
   
   
@@ -281,15 +300,15 @@ Here are the possible root verb prefixes:
 With noun roles, as well as adjectival and adverbial roles, Slot 2 is subdivised into the following subslots:  
   
 ```  
-┌────┬───────┬────────────────┐  
-│ №  │ Form  │  Name          │  
-├────┼───────┼────────────────┤  
-│ 2a │  C    │  Outer Case    │  
-├────┼───────┼────────────────┤  
-│ 2b │ Vy/Vw │  Determinacy   │  
-├────┼───────┼────────────────┤  
-│ 2c │ V(ʼV) │  Inner Case    │  
-└────┴───────┴────────────────┘  
+┌────┬───────┬──────────────────────────────┐  
+│ №  │ Form  │  Name                        │  
+├────┼───────┼──────────────────────────────┤  
+│ 2a │  C    │  Outer Case                  │  
+├────┼───────┼──────────────────────────────┤  
+│ 2b │ Vy/Vw │  Determinacy                 │  
+├────┼───────┼──────────────────────────────┤  
+│ 2c │ V(ʼV) │  Inner Case OR Subordinator  │  
+└────┴───────┴──────────────────────────────┘  
 ```  
   
 There are two kinds of cases:  
@@ -299,6 +318,8 @@ There are two kinds of cases:
 Nouns bear two case affixes:  
 • The outer case, or external case, indicates the relationship between the noun and the main verb of the clause;  
 • The inner case, or internal case, indicates which argument slot of the predicate represented by the noun's root is used for defining the noun (for example, with the root ‘to eat’, which expresses a binary relation between two participants, each represented by a case —the eater and the eaten thing—, selecting the first slot would yield a noun ‘eater’, whilst selecting the second case would yield a noun ‘eaten thing’).  
+  
+Instead of an inner case value, slot 2c may contain one of several Subordinator values (those will be covered later).  
   
 The outer case is represented by a consonantal prefix, followed by a vocalic affix indicating the second case. A further optional -Vy- or -Vw- affix, the Determinacy affix, may optionally occur in between them (its purpose will be explained later on).  
   
@@ -390,7 +411,7 @@ Non-core (adjunct) cases:
 • The Spatiotemporal Locative Case marks nouns referring to a volume of spacetime where the event described is taking place. For it to apply, the event and the target spacetime area must simply overlap, the event needs not be entirely encompassed by that area.  
   
   
-Special inner case values:  
+Subordinator values (slot 2c):  
 ```  
 ┌──────────────────────────┬─────┐  
 │ Relative clause          │ eo  │  
@@ -404,7 +425,8 @@ Special inner case values:
 └──────────────────────────┴─────┘  
 ```  
   
-These morphemes occupy the Inner Case slot (slot 2c), but are not true Cases. They turn the words which bear them into ‘participles’, words that have the special syntactic effect of opening a whole subordinate clause (which may be exited for returning to the outer clause by using an appropriate Binding proclitic; see the section `§§§ Binding Slot`). The participle can assume any syntactic roles which normal contentives can assume via outer case inflection: a participle bearing a noun case will be a “noun participle”, with an adverbial case it will be an “adverbial participle”, and so on. Even if all these morphemes cause the opening of a subordinate clause, they differ in what kind of clause is created.  
+These morphemes occupy the same slot as Inner Cases (slot 2c), but are not true Cases. They turn the words which bear them into ‘participles’, words that have the special syntactic effect of opening a whole subordinate clause (which may be exited for returning to the outer clause by using an appropriate Binding proclitic; see the section `§§§ Binding Slot`). The participle can assume any syntactic roles which normal contentives can assume via outer case inflection: a participle bearing a noun case will be a “noun participle”, with an adverbial case it will be an “adverbial participle”, and so on. Even if all these morphemes cause the opening of a subordinate clause, they differ in what kind of clause is created.  
+In addition to occurring in slot 2c, Subordinators may also occur as extensional prefixes (introduced later in this document), with a glottal stop ⟪ʼ⟫ prefixed to their vocalic form (for example, ⟪-ʼao-⟫ for the plain content clause subordinator).  
   
 Relative clauses are clauses that refer to one of the participants (called the ‘antecedant’) mentioned within the clause and represented by the ‘resumptive pronoun’ (whose root form is ⟪-tá⟫ and whose extensional form is ⟪-t◈-⟫); the relative clause describes its antecedent, and the whole relative clause's referent is the antecedent itself.  
   
