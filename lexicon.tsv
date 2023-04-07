@@ -68,6 +68,10 @@ kwáı	root	1	➊ is true, is the case.	logic	tunabe
 há	root	1	➊ is false, isn’t the case.	logic	maruhe
 pθú	root	3	➊ are in relation ➋ with differen things.	logic	padita
 kwíyu	root	2	➊ are in recipriocal relation ➋.	logic	josuma
+wá	root		➊ has property ➋/⦃DP⦄.	logic	pohuti{➊,🅓}
+ráʼ	root		➊ and ➋ are in binary relation ⦃DP⦄.	logic	nikatu{➊,➋,🅓}
+káoʼ	root		➊, ➋ and ➌ are in ternary relation ⦃DP⦄.	logic	dotuye{➊,➋,➌,🅓}
+qóweʼ	root		➊, ➋, ➌ and ➍ are in quaternary relation ⦃DP⦄.	logic	gotavi{➊,➋,➌,➍,🅓}
 ’áı	root	2	➊ and ➋ are both the case.	logic conjunction	talage
 kú	root	1	Everything has property ➊.	logic quantification	fafine
 cwáı	root	2	having property ➊ is frequent, common among what has property ➋.	logic quantification	gakile
@@ -113,6 +117,8 @@ cʼé	root	1	➊ is a fingernail, a toenail, a claw or a hoof.	body_part	yeyeqo
 kíwaƛʰaı	root		➊ is tree bark.	body_part	gaziwa
 kíwa	root		➊ is skin (body part).	body_part	soyaba
 séwa	root		➊ is a flower (plant reproductive organ).	body_part	pazuti
+sqáƛʰï	root	1	➊ is a patch of hairs; ➊ is fur (not necessarily of a dead animal).	body_part	yikani
+héwa	root	1	➊ is a muzzle or snout (body part).	body_part	newana
 qʼí	root	1	➊ is a bone.	body_part bone	hobewe
 lóθ	root	1	➊ is blood.	body_part inner_organ	gefore
 qálao	root		➊ is a heart.	body_part inner_organ	cizehu
@@ -175,12 +181,6 @@ rópo	root	1	➊ is a tomato.	lifeform plant fruit	seruwi
 nóko	root	1	➊ is an apple.	lifeform plant fruit	nahala
 qí	root		➊ is a fruit.	lifeform plant fruit	gufoja
 ƛʰáı	root	1	➊ is a tree.	lifeform plant tree	tiliva
-sqáƛʰï	root	1	➊ is a patch of hairs; ➊ is fur (not necessarily of a dead animal).	body_part	yikani
-héwa	root	1	➊ is a muzzle or snout (body part).	body_part	newana
-wá	root		➊ has property ➋/⦃DP⦄.	logic	pohuti{➊,🅓}
-ráʼ	root		➊ and ➋ are in binary relation ⦃DP⦄.	logic	nikatu{➊,➋,🅓}
-káoʼ	root		➊, ➋ and ➌ are in ternary relation ⦃DP⦄.	logic	dotuye{➊,➋,➌,🅓}
-qóweʼ	root		➊, ➋, ➌ and ➍ are in quaternary relation ⦃DP⦄.	logic	gotavi{➊,➋,➌,➍,🅓}
 tʼá	root		{{unary lambda variable #1}}		
 ltʼá	root		{{unary lambda variable #2}}		
 cʼí	root		{{binary lambda variable #1}}		
