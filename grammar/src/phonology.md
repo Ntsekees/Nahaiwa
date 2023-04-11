@@ -29,7 +29,7 @@ There are 6 diphthongs:
 /äi̯/ may be pronounced [äe̯] in a closed syllable, or [äj] when the next syllable begins with the consonant /j/, in which case the approximant is geminated at the syllable boundary: /äi̯.jä/ → [äj.jä].  
 Similarly, /äo̯/ may be optionally pronounced [äw] when immediately preceding a syllable beginning with /w/: /äo̯.wä/ → [äw.wä]. /e̞o̯/ behaves similarly.  
   
-Vowels immediately preceding the uvular plosive /q/ may undergo slight lowering and backening, as shown below:  
+Vowels immediately preceding the uvular plosive /q/ may optionally undergo slight lowering and backening, as shown below:  
   [i] → [ɪ]  
   [e̞] → [ɛ]  
   [ɨ] → [ɘ]  
@@ -37,7 +37,7 @@ Vowels immediately preceding the uvular plosive /q/ may undergo slight lowering 
   [u] → [ʊ]  
   [o̞] → [ɔ]  
   
-Prominent syllables are indicated in the Latin orthography with acute accent marks. In the case of dipthongs, the first vowel member bears the acute accent. The letter ⟪ï⟫ becomes ⟪i̋⟫ when prominent (i.e. bearing a double-acute accent mark).  
+Prominent syllables are indicated in the Latin orthography with acute accent marks. In the case of diphthongs, the first vowel member bears the acute accent. The letter ⟪ï⟫ becomes ⟪i̋⟫ when prominent (i.e. bearing a double-acute accent mark).  
   
   
 ---  
