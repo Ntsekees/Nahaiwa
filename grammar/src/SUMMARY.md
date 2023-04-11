@@ -16,4 +16,5 @@
         - [Slot #4: Base](./morphology/base-slot.md)
     - [Function words](./morphology/function-words.md)
 - [Syntax](./syntax.md)
+- [Grammeme summary](./grammemes.md)
 - [Lexicon](./lexicon.md)
