@@ -47,17 +47,17 @@ jobs:
         run: |
           mdbook build grammar
         
-      - name: Install NPM dependencies
-        run: |
-          cd node
-          npm install
-          cd ..
+    #  - name: Install NPM dependencies
+    #    run: |
+    #      cd node
+    #      npm install
+    #      cd ..
 
-      - name: Build JS bundles
-        run: |
-          cd node
-          npm run build
-          cd ..
+    #  - name: Build JS bundles
+    #    run: |
+    #      cd node
+    #      npm run build
+    #      cd ..
 
       - name: Commit changes to gh-pages
         run: |
