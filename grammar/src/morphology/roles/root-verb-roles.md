@@ -13,7 +13,7 @@ Here are the possible root verb prefixes:
   a-:    inference from a combination of information from several sources.  
   ı-:    sensorial: information from current perception.  
   eo-:   intuition.  
-  u-:    recollection/memory of past experiences (but not memorized encyclopedic facts, for which Reportives or Epistemic should be used).  
+  u-:    recollection, memory of past experiences (but not memorized encyclopedic facts, for which Reportives or Epistemic should be used).  
   ıwa-:  information obtained from sensorial recordings made by external devices (photographic or video camera, sound recorders…)  
   o-:    report, hearsay, second-hand information.  
   ao-:   trustworthy report.  
@@ -22,7 +22,7 @@ Here are the possible root verb prefixes:
   aya-:  axiomatic, base beliefs not open to questioning.  
   
 • Non-assertive illocutions:  
-  ɨ-:    performative  
+  ï-:    performative  
   ma-:   verificative: request of confirmation, “… isn't it?”  
   mu-:   polar interrogative  
   mı-:   content interrogative  
