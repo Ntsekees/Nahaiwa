@@ -12,7 +12,7 @@
 └────────────────────────────────────┴─────┘  
 ```  
   
-This category also contains the ‘lambda rebinder’ affixes, which reassign a target lambda pronoun to a new variable with an arbitrary name; the name of the variable is the same as the content word bearing the rebinder affix, but with the rebinder affix replaced by the ‘variable identifier’ Determinacy affix ⟪aw⟫.  
+This category also contains the ‘lambda rebinder’ affixes, which reassign a target lambda pronoun to a new variable with an arbitrary name; the name of the variable is the same as the content word bearing the rebinder affix, but with the rebinder affix replaced by the ‘variable identifier’ Extensional prefix ⟪ʎa-⟫.  
   
 ```  
 ┌───────────────────────────────────────────┬───────┐  
