@@ -4,7 +4,7 @@
 ```  
 ┌────────────────────────────────────┬─────┐  
 │ Elucitadive focus                  │ aw  │  
-│ Definite article                   │ ay  │  
+│ Presupposition marker              │ ay  │  
 │ Collective universal quantifier    │ ew  │  
 │ Distributive universal quantifier  │ ıw  │  
 │ Existential quantifier             │ uy  │  
