@@ -12,7 +12,7 @@
 | ʎo                                  | MC       | Medial Connective                       |
 | ñï                                  | OSSP     | Open Single-Sentence Parenthetical      |
 | ñao-                                | OMSP     | Open Multi-Sentence Parenthetical       |
-| ño-                                 | CMSP     | Close Multi-Sentence Pparenthetical     |
+| ño-                                 | CMSP     | Close Multi-Sentence Parenthetical      |
 | █                                   | CI       | Clause Injection                        |
 
 ### ROLES ➤ ASSERTIVE ILLOCUTION + EVIDENTIALITIES:
