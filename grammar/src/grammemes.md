@@ -15,10 +15,10 @@
 | ño-                                 | CMSP     | Close Multi-Sentence Pparenthetical     |
 | █                                   | CI       | Clause Injection                        |
 
-### ROLES ➤ EVIDENTIALITIES:
+### ROLES ➤ ASSERTIVE ILLOCUTION + EVIDENTIALITIES:
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
 |-------------------------------------|----------|-----------------------------------------|
-| aı                                  | ASR      | Assertive                               |
+| aı                                  | ASR      | Assertive + unspecified evientiality    |
 | oı                                  | MEV      | Multievidential                         |
 | a                                   | INF      | Inferential                             |
 | ı                                   | SEN      | Sensorial                               |
@@ -31,10 +31,10 @@
 | e                                   | EPI      | Epistemic                               |
 | aya                                 | AXM      | Axiomatic                               |
 
-### ROLES ➤ ILLOCUTIONS:
+### ROLES ➤ NON-ASSERTIVE ILLOCUTIONS:
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
 |-------------------------------------|----------|-----------------------------------------|
-| ï                                   | PRF      | Performative                            |
+| ï                                   | PFM      | Performative                            |
 | ma                                  | VER      | Verificative                            |
 | mu                                  | PQ⁓PI    | Polar Question, Polar Interrogative     |
 | mı                                  | CQ⁓CI    | Content Question, Content Interrogative |
