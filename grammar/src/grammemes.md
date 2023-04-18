@@ -97,7 +97,7 @@
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
 |-------------------------------------|----------|-----------------------------------------|
 | aw                                  | EF⁓ELU   | Elucidative Focus                       |
-| ay                                  | DEF      | Definitive                              |
+| ay                                  | PS       | Presupposition marker                   |
 | ew                                  | CUQ      | Collective universal quantifier         |
 | ıw                                  | ∀        | Distributive universal quantifier       |
 | uy                                  | ∃        | Existential quantifier                  |
