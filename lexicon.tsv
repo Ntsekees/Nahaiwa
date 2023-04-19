@@ -63,6 +63,7 @@ le	ext	0	FUT
 ŋ•	ext	−+	Ⓧ wants to have property ①.		
 ŋr•	ext	−+	Ⓧ intends, plans to have property ①.		
 ’l•	ext	−+	Ⓧ succeeds to have property ①.		
+ŋkʼ•	ext	−+	Ⓧ tries and fails to have property ①.		
 sk•	ext	−+	what has property Ⓧ has property ①.		
 rq•	ext	−+	Ⓧ pertains to [#1] and have property ①.		
 	ext		Ⓧ is suitable for having property ①.		
@@ -70,6 +71,7 @@ rq•	ext	−+	Ⓧ pertains to [#1] and have property ①.
 θao	ext	0	Ⓧ is the proposition ⓪		
 nc’•	ext	−+	Ⓧ is the property of having property ①.		
 nƛ•	ext	−+	Ⓧ is able to have property ①.		
+sao	ext	0	Ⓧ is a place indended for ⓪ to be true.		
 pí	root	2	➊ has part ➋.	mereology basic	dibere
 yá	root	1	➊ is something.	logic	gisiwu
 kwáı	root	1	➊ is true, is the case.	logic	tunabe
@@ -188,11 +190,13 @@ qí	root		➊ is a fruit.	lifeform plant fruit	gufoja
 ƛʰáı	root	1	➊ is a tree.	lifeform plant tree	tiliva
 sqáƛʰï	root	1	➊ is a patch of hairs; ➊ is fur (not necessarily of a dead animal).	body_part	yikani
 héwa	root	1	➊ is a muzzle or snout (body part).	body_part	newana
+qéƛï	root		➊ is a branch (plant body part).	body_part	tisoke
 wáʼ	root		➊ has property ⦃DP⦄.	logic	pohuti{➊,🅓}
 wá	root		➊ has property ➋.	logic	pohuti{➊,🅓}
 ráʼ	root		➊ and ➋ are in binary relation ⦃DP⦄.	logic	nikatu{➊,➋,🅓}
 káoʼ	root		➊, ➋ and ➌ are in ternary relation ⦃DP⦄.	logic	dotuye{➊,➋,➌,🅓}
 qóweʼ	root		➊, ➋, ➌ and ➍ are in quaternary relation ⦃DP⦄.	logic	gotavi{➊,➋,➌,➍,🅓}
+ʼní	root		➊ is spatially adjacent to ➋.		migibe
 tʼá	root		{{unary lambda variable #1}}		
 ltʼá	root		{{unary lambda variable #2}}		
 cʼí	root		{{binary lambda variable #1}}		
@@ -214,6 +218,8 @@ ná’	root		➊ has meaning ➋.
 tʰú	root		➊ finds ➋ very likely, expects it to be true, has confidence in it being the case.		
 cál	root		➊ sees stimulus ➋.		
 cáo	root		➊ sees view ➋.		
+šál	root		➊ hears stimulus ➋.		
+šáo	root		➊ hears sound ➋.		
 ƛícal	root		➊ looks at ➋.		
 ƛí	root		➊ touches ➋.		
 ntʼáı	root		➊ holds ➋.		
@@ -236,6 +242,8 @@ hák	root		The preceding sentence is flase.
 łúʼ	root	1	➊ is senecent.		
 θƛáı	root		➊ feels frustration of having property ➋.		
 ŋówa	root		➊ feels disappointment of realizing that ➋ is the case.		
+yéwa	root	3	➊ is grateful to ➋ for having property ➌.		
+yı̋yewa	root	3	➊ thanks ➋ for having property ➌.		
 qwáo	root		➊ utters, emits vocalization ➋.		
 sʼáı	root		➊ is straight (not bent).		
 ʎqó	root		➊ is a female.		
@@ -253,3 +261,16 @@ kʰú	root		➊ requests to ➋ that they make ➌ be the case.		yayetu
 háhu	root		➊ breathes.		
 stʰı̋	root		➊ is something long and straight.		
 stʰı̋ʼčırı	root		➊ is a staff, a walk stick.		
+θı̋lïʼ	root	1	➊ is a snake.		
+ʎún	root		➊ is a biological parent of ➋.		
+yálı	root		➊ inhabits ➋.		
+ʎqí	root		➊ is a fluid in which ➊ is immersed, by which it is coated.		
+qʰíʎqı	root		➊ is a fluid in which ➊ is at least partly immersed, by which it is at least partly coated.		
+ʎáoko	root	2	➊ cares for, looks after ➋.		
+čéwa	root		➊ purposefully has property ➋ for ensuring that ➌ be the case.		soyafo
+qrú	root		➊ has half ➋.		
+číʼ	root		➊ is immature, not yet full-grown.		rihofa
+wáo	root		➊ perceives quale ➋.		
+wál	root		➊ perceives stimulus ➋.		
+ƛʰwén	root		➊ is worried, anxious that ➋ may be the case.		
+qwáoƛurı	root		➊ meows ➋.		
