@@ -1,87 +1,87 @@
 morpheme	type	subtype	eng	tags	predilex_id
+ha	ext	0	⓪ is false.	logic	maruhe
+kʰao	ext	0	⓪ is possible.	logic modal	bamosu
 rc•	ext	0	⓪ is the case in a temporally discontinuous way.	time	piduta
-ša	ext	0	⓪ is ongoing.	aspect	
-šï	ext	0	⓪ happens [perfective aspect].	aspect	
-kʰwe	ext	0	⓪ has been the case [perfect / retrospective aspect].	aspect	
+nƛ•	ext	−+	Ⓧ is able to have property ①.		zekupa
 ct•	ext	0	⓪ is repetitively the case.	aspect	
-šı	ext	0	⓪ begins.	aspect	
-šu	ext	0	⓪ ceases.	aspect	
-ƛʰao	ext	0	⓪ is going/about to be the case [prospective aspect].	aspect	
+kʰwe	ext	0	⓪ has been the case [perfect / retrospective aspect].	aspect	
 rao	ext	0	the result of ⓪ being the case is the case and is Ⓐ [resultative aspect].	aspect	
-n•	ext	−+	Ⓧ is me and has property ①	d	
-k•	ext	−+	Ⓧ is, are you, you all (all the addressees, singular or plural, but not associative), and have property ①.	d	
+ša	ext	0	⓪ is ongoing.	aspect	
+šu	ext	0	⓪ ceases.	aspect	
+šï	ext	0	⓪ happens [perfective aspect].	aspect	
+šı	ext	0	⓪ begins.	aspect	
+ƛʰao	ext	0	⓪ is going/about to be the case [prospective aspect].	aspect	
+k•	ext	−+	Ⓧ is, are you, you all (all the addressees, singular or plural, but not associative), and have property ①.	deixis	
+n•	ext	−+	Ⓧ is me and has property ①	deixis	
+θ•	ext	−+	Ⓧ is you-know-what and has property ①	deixis	
 mn•	ext	−+	Ⓧ is comparable, similar to ①.	metaphor	
-ʼeo	ext		{{relative clause initiator}}		
-ʼao	ext		{{plain content clause initiator}}		
+cʼ•	ext	−+	{{binary lambda proboun #2}}	syntactic_pronoun	
+kʼ•	ext	−+	{{binary lambda proboun #1}}	syntactic_pronoun	
+ltʼ•	ext	−+	{{unary lambda pronoun #2}}	syntactic_pronoun	
+tʼ•	ext	−+	{{unary lambda pronoun #1}}	syntactic_pronoun	
 cwa	ext	−+	{{unbox unary predicate}}		
-rwa	ext	→B	{{unbox binary predicate}}		
-ʎe	ext	★	{{prefix for foreign vocabulary namespace}}		
-ña	ext	★	Ⓘ is/are the one(s) named [remaining of the word, starting on the prominent syllable].		
-ʎa	ext	★	Ⓘ is/are the referents of the variable named [remaining of the word, starting on the prominent syllable].		
-q•	ext	−+	Ⓧ is/are the one(s) named after property ①		
-ha	ext	0	⓪ is false.		
-qao	ext	0	Ⓐ causes, makes ⓪ be the case.		
-θ•	ext	−+	Ⓧ is you-know-what and has property ①		
+c•	ext	−+	Ⓧ, which is one in number, ①s.		
+ktʰ•	ext	−+	Ⓧ has property ① unintentionally, involuntarily.		
+kw•(y•)	ext	−−+*	Ⓐ are in the reciprocal relationship ② ; Ⓐ ② each other.		
+la	ext	0	PRE		
+lao	ext	0	Existential tense		
+le	ext	0	FUT		
+lu	ext	0	PST		
+mw•(y•)	ext	−++	Ⓧ ②s a very great number relatively to the median among Ⓐ.		
+m•(y•)	ext	−++	Ⓧ ②s a great number relatively to the median among Ⓐ.		
+nc’•	ext	−+	Ⓧ is the property of having property ①.		
+nm•	ext	−+	Ⓧ is a spatiotemporally bounded chunk of the (boundless) material that has property ①.		
+ntʰ•	ext	−+	Ⓧ is among what has property ①.		
 nt•	ext	−+	Ⓧ is this thing (which I a pointing at or am otherwise singling out ostensibly) having property ①		
-ŋk•	ext	−+	I and you are Ⓧ and have property ①.		
+nθ•	ext	−+	Ⓧ, together with certain recognizable ones associated with it/him/her/them, satisfy property ①.		
+p•	ext	−+	Ⓧ are more than one things, collectively having property ①.		
+qao	ext	0	Ⓐ causes, makes ⓪ be the case.		
+qʰ•	ext	−+	Ⓧ has part having property ①		
+qʼ•	ext	−+	Ⓧ is a part of what has property ①		
+q•	ext	−+	Ⓧ is/are the one(s) named after property ①		
+rk•	ext	−+	Ⓧ is yours and has property ①.		
+rn•	ext	−+	Ⓧ is mine and has property ①.		
+rq•	ext	−+	Ⓧ pertains to [#1] and have property ①.		
+rwa	ext	→B	{{unbox binary predicate}}		
+r•	ext	−+	Ⓧ is related to what has property ①.		
+sao	ext	0	Ⓧ is a place indended for ⓪ to be true.		
+sc•	ext	−+	Ⓧ is all that has property ①.		
+sk•	ext	−+	what has property Ⓧ has property ①.		
+sq•	ext	−+	Ⓧ is a group, aggregate of things having property ①.		
+st•	ext	0	Ⓐ is the truth value of proposition ⓪.		
 s•	ext	−+	{{Same-case switch-reference}}		
 s•y•	ext	−+	{{Different-case switch-reference}}		
-t•	ext	−+	{{relative clause antecedent pronoun (resumptive pronoun)}}		
-ƛ•	ext	−+	Ⓧ are the referents of the closest noun phrase marked with the Pendent case and satisfy property ①.		
-tʼ•	ext	−+	{{unary lambda pronoun #1}}		
-ltʼ•	ext	−+	{{unary lambda pronoun #2}}		
-kʼ•	ext	−+	{{binary lambda proboun #1}}		
-cʼ•	ext	−+	{{binary lambda proboun #2}}		
-rn•	ext	−+	Ⓧ is mine and has property ①.		
-rk•	ext	−+	Ⓧ is yours and has property ①.		
-nθ•	ext	−+	Ⓧ, together with certain recognizable ones associated with it/him/her/them, satisfy property ①.		
-st•	ext	0	Ⓐ is the truth value of proposition ⓪.		
-r•	ext	−+	Ⓧ is related to what has property ①.		
-ntʰ•	ext	−+	Ⓧ is among what has property ①.		
-c•	ext	−+	Ⓧ, which is one in number, ①s.		
-p•	ext	−+	Ⓧ are more than one things, collectively having property ①.		
-sc•	ext	−+	Ⓧ is all that has property ①.		
-sq•	ext	−+	Ⓧ is a group, aggregate of things having property ①.		
-nm•	ext	−+	Ⓧ is a spatiotemporally bounded chunk of the (boundless) material that has property ①.		
-tʰ•	ext	−+	Ⓧ has property ① intentionally, voluntarily.		
-ktʰ•	ext	−+	Ⓧ has property ① unintentionally, involuntarily.		
-ƛʼ•	ext	−+	Ⓧ tries to have property ①		
-kw•(y•)	ext	−−+*	Ⓐ are in the reciprocal relationship ② ; Ⓐ ② each other.		
-qʼ•	ext	−+	Ⓧ is a part of what has property ①		
-qʰ•	ext	−+	Ⓧ has part having property ①		
-m•(y•)	ext	−++	Ⓧ ②s a great number relatively to the median among Ⓐ.		
-ŋm•(y•)	ext	−++	Ⓧ ②s a great number relatively to the median among Ⓐ, the former being one of them.		
-č•(y•)	ext	−++	Ⓧ ②s a small number relatively to the median among Ⓐ.		
-mw•(y•)	ext	−++	Ⓧ ②s a very great number relatively to the median among Ⓐ.		
-č•(y•)	ext	−++	Ⓧ ②s a very small number relatively to the median among Ⓐ.		
 tw•y•	ext	−++	Ⓧ ②s an average number relatively to the median among Ⓐ.		
-kʰao	ext	0	⓪ is possible.		
-lao	ext	0	Existential tense		
-la	ext	0	PRE		
-lu	ext	0	PST		
-le	ext	0	FUT		
-ŋ•	ext	−+	Ⓧ wants to have property ①.		
-ŋr•	ext	−+	Ⓧ intends, plans to have property ①.		
-’l•	ext	−+	Ⓧ succeeds to have property ①.		
+tʰ•	ext	−+	Ⓧ has property ① intentionally, voluntarily.		
+t•	ext	−+	{{relative clause antecedent pronoun (resumptive pronoun)}}		
+ña	ext	★	Ⓘ is/are the one(s) named [remaining of the word, starting on the prominent syllable].		
+č•(y•)	ext	−++	Ⓧ ②s a small number relatively to the median among Ⓐ.		
+č•(y•)	ext	−++	Ⓧ ②s a very small number relatively to the median among Ⓐ.		
 ŋkʼ•	ext	−+	Ⓧ tries and fails to have property ①.		
-sk•	ext	−+	what has property Ⓧ has property ①.		
-rq•	ext	−+	Ⓧ pertains to [#1] and have property ①.		
-	ext		Ⓧ is suitable for having property ①.		
-	ext		Ⓧ is suitable for use for having property ①.		
+ŋk•	ext	−+	I and you are Ⓧ and have property ①.		
+ŋm•(y•)	ext	−++	Ⓧ ②s a great number relatively to the median among Ⓐ, the former being one of them.		
+ŋr•	ext	−+	Ⓧ intends, plans to have property ①.		
+ŋ•	ext	−+	Ⓧ wants to have property ①.		
+ƛʼ•	ext	−+	Ⓧ tries to have property ①		
+ƛ•	ext	−+	Ⓧ are the referents of the closest noun phrase marked with the Pendent case and satisfy property ①.		
+ʎa	ext	★	Ⓘ is/are the referents of the variable named [remaining of the word, starting on the prominent syllable].		
+ʎe	ext	★	{{prefix for foreign vocabulary namespace}}		
+ʼao	ext		{{plain content clause initiator}}		
+ʼeo	ext		{{relative clause initiator}}		
+ʼs•	ext		Ⓧ is suitable for having property ①.		
+ʼč•	ext		Ⓧ is suitable for use for having property ①.		
 θao	ext	0	Ⓧ is the proposition ⓪		
-nc’•	ext	−+	Ⓧ is the property of having property ①.		
-nƛ•	ext	−+	Ⓧ is able to have property ①.		
-sao	ext	0	Ⓧ is a place indended for ⓪ to be true.		
+’l•	ext	−+	Ⓧ succeeds to have property ①.		
 pí	root	2	➊ has part ➋.	mereology basic	dibere
-yá	root	1	➊ is something.	logic	gisiwu
-kwáı	root	1	➊ is true, is the case.	logic	tunabe
 há	root	1	➊ is false, isn’t the case.	logic	maruhe
-pθú	root	3	➊ are in relation ➋ with differen things.	logic	padita
+kwáı	root	1	➊ is true, is the case.	logic	tunabe
 kwíyu	root	2	➊ are in recipriocal relation ➋.	logic	josuma
-’áı	root	2	➊ and ➋ are both the case.	logic conjunction	talage
+pθú	root	3	➊ are in relation ➋ with differen things.	logic	padita
+yá	root	1	➊ is something.	logic	gisiwu
 ʼék	root	2	➊ or ➋ is the case, or both are the case.	logic conjunction	zarowi
-kú	root	1	Everything has property ➊.	logic quantification	fafine
+’áı	root	2	➊ and ➋ are both the case.	logic conjunction	talage
 cwáı	root	2	having property ➊ is frequent, common among what has property ➋.	logic quantification	gakile
+kú	root	1	Everything has property ➊.	logic quantification	fafine
 cı̋	root	1	➊ is one in number.	cardinality	wehuke
 páı	root	1	➊ is more than one in number.	cardinality	hanona
 rú	root	1	➊ are two in number.	cardinality	qudase
@@ -89,188 +89,188 @@ káı	root	1	➊ are three in number.	cardinality	kiraya
 qó	root	1	➊ are four in number.	cardinality	kaseti
 néq	root	1	➊ are five in number.	cardinality	kuyope
 ñéwa	root	1	➊ is a quale.	perception	wiliku
-ƛʼóı	root	1	➊ is pain.	perception	busoni
+wáo	root		➊ has sensory perception of quale ➋.	perception	yeraru
+cál	root		➊ sees source of visual stimulus ➋ (physical entity).	perception	zapiyo
+cáo	root		➊ sees view ➋ (visual quale).	perception	liwate
 lúq	root	1	➊ is cold.	perception	jibuda
+šál	root		➊ hears source of auditory stimulus ➋ (physical entity).	perception	miciko
+šáo	root		➊ hears sound ➋ (auditory quale).	perception	viqusi
 ƛʼé	root		➊ suffers, feels pain at locus ➋.	perception	qewenu
+ƛʼícal	root		➊ looks at ➋.	perception	gebuze
+ƛʼóı	root	1	➊ is pain.	perception	busoni
 łéo	root		➊ is a color.	perception color	piyiwu
 náyu	root		➊ feels loves, affection towards ➋.	emotion	hiyuwa
-ƛéo	root	3	➊ computes that ➋ is the answer to what has property ➌.	cognition	woqihi
 sƛéo	root	2	➊ is computing the answer to what has property ➋.	cognition	kewapo
+ƛéo	root	3	➊ computes that ➋ is the answer to what has property ➌.	cognition	woqihi
 háoye	root		➊ is today.	deixis	teveku
 yé	root		➊ is the here and now (my here and now), this expanse of spacetime within which I am communicating this message to you.	deixis spacetime	budeja
 pʰá	root	2	➊ has duration, lasts for ➋.	time	kehoye
 tʰán	root	2	➊ has a size of ➋, the distance between the two points on it which are farthest apart.	physical_property	tuweno
+cʰó	root	2	➊ has temperature ➋.	physical_property amount	saloki
+ntʼáı	root		➊ grasps, holds ➋.	action	cewomo
+qwáo	root		➊ utters, emits vocalization ➋ (sounds).	action	pisodi
 yáı	root		➊ uses, manipulates, exercises influence upon ➋ in order to achieve the goal of satisfying property ➌.	action	fuyayi
-ƛú	root	2	➊ drinks ➋.	action body_action	cewide
+háhu	root		➊ breathes.	action body_action	bosuzu
 ñú	root	2	➊ eats ➋.	action body_action	qayiho
+ƛú	root	2	➊ drinks ➋.	action body_action	cewide
 ʼsá	root	1	➊ stands on ➋.	action body_action	tugivo
-yı̋	root	3	➊ displays to ➋ property ➌.	action communication	lesuja
-ráwa	root	2	➊ talks to ➋.	action communication	juweku
-pá	root		➊ says ➋.	action communication	wasaki
-yı̋pa	root		➊ says to ➋ utterance ➌.	action communication	daraki
 nčal	root		I now assert to you that ➊ is the case.	action communication	yewaru
-čál	root		➊ asserts that ➋ is the case.	action communication	royewa
+pá	root		➊ says ➋.	action communication	wasaki
+ráwa	root	2	➊ talks to ➋.	action communication	juweku
+yı̋	root	3	➊ displays to ➋ property ➌.	action communication	lesuja
+yı̋pa	root		➊ says to ➋ utterance ➌.	action communication	daraki
+yı̋yewa	root	3	➊ thanks, manifests gratitude to ➋ for having property ➌.	action communication	cigeta
 yı̋čal	root		➊ asserts to ➋ that ➌ is the case.	action communication	yewima
+čál	root		➊ asserts that ➋ is the case.	action communication	royewa
 qá	root		➊ is a body part.	body_part	rupiwa
-qárı	root	1	➊ is a leg (ambulatory appendage).	body_part	yeqave
+cʼé	root	1	➊ is a fingernail, a toenail, a claw or a hoof.	body_part	yeyeqo
+kíwa	root		➊ is skin (body part).	body_part	soyaba
+kíwaƛʰaı	root		➊ is tree bark.	body_part	gaziwa
+né	root	1	➊ is a hand.	body_part	tehihi
 qán	root	1	➊ is a hind leg.	body_part	maqawo
+qárı	root	1	➊ is a leg (ambulatory appendage).	body_part	yeqave
+rı̋’	root	1	➊ is an ear (including outer and inner ear).	body_part	qiceva
+séwa	root		➊ is a flower (plant reproductive organ).	body_part	pazuti
+ñı̋	root	1	➊ is a nose.	body_part	tuhoji
 łáı	root	1	➊ is a leaf (of a plant).	body_part	zozawe
 ƛʰı̋	root	1	➊ is a hair (possibly dead).	body_part	howice
-ñı̋	root	1	➊ is a nose.	body_part	tuhoji
-’áo	root	1	➊ is an eye.	body_part	jovonu
 ʎúq	root	1	➊ is a tail.	body_part	fuvika
-rı̋’	root	1	➊ is an ear (including outer and inner ear).	body_part	qiceva
-né	root	1	➊ is a hand.	body_part	tehihi
-cʼé	root	1	➊ is a fingernail, a toenail, a claw or a hoof.	body_part	yeyeqo
-kíwaƛʰaı	root		➊ is tree bark.	body_part	gaziwa
-kíwa	root		➊ is skin (body part).	body_part	soyaba
-séwa	root		➊ is a flower (plant reproductive organ).	body_part	pazuti
+’áo	root	1	➊ is an eye.	body_part	jovonu
 qʼí	root	1	➊ is a bone.	body_part bone	hobewe
 lóθ	root	1	➊ is blood.	body_part inner_organ	gefore
 qálao	root		➊ is a heart.	body_part inner_organ	cizehu
 páƛ	root	1	➊ is a root (of a plant).	body_part plant_body_part	diceva
 yópaƛ	root		➊ is a tubercule.	body_part plant_body_part	fucono
+cáı	root	1	➊ is alive.	biology	yogije
+qʼúlu	root	1	➊ is dead, is a dead body, a cadaver.	biology	miqimi
 sáʼ	root	1	➊ is awake.	biology	rewoma
 yó	root	1	➊ is an egg (possibly unfertilized).	biology	fuqilo
 yónƛe	root	1	➊ is a seed.	biology	dorawo
-cáı	root	1	➊ is alive.	biology	yogije
-qʼúlu	root	1	➊ is dead, is a dead body, a cadaver.	biology	miqimi
-šác	root	1	➊ is sand.	material	cicuva
 cʼáo	root	1	➊ is snow.	material	ladata
+šác	root	1	➊ is sand.	material	cicuva
 łí	root	1	➊ is powder.	material_structure	fipayi
-ršı̋ʎï	root	1	➊ is rain water.	substance	lefame
-ʎı̋	root		➊ is water (in any physical state).	substance	seliwa
 qʰáʼ	root		➊ is stone.	substance	takupa
+ršı̋ʎï	root	1	➊ is rain water.	substance	lefame
 tʰı̋l	root		➊ is metal.	substance	bibana
+ʎı̋	root		➊ is water (in any physical state).	substance	seliwa
 stí	root		➊ is made for the function of being such that something is in relation ➋ with the former.	artifact	faziha
 kálı	root	1	➊ is a book.	artifact	vijutu
 cʰól	root		➊ is a building.	artifact building	zomayi
-sqácʰol	root		➊ is a settlement consisting at least of several buildings.	artifact building	
+sqácʰol	root		➊ is a settlement consisting at least of several buildings.	artifact building	nutozi
 pálï’	root	1	➊ is a hat.	artifact clothing	riqawe
 pyáno	root		➊ is a piano.	artifact musical_instrument	pepiyi
 ƛéra	root	1	➊ is a harp.	artifact musical_instrument string_instrument	lozimu
 θíwa	root		➊ is a flute.	artifact musical_instrument wind_instrument	sifana
-ƛáok	root	1	➊ is a mountain or hill.	geographic_feature	giwupu
 łı̋ro	root	1	➊ is a river.	geographic_feature	fujofa
+ƛáok	root	1	➊ is a mountain or hill.	geographic_feature	giwupu
+ʎún	root		➊ is a direct biological parent of ➋.	kinship	yelepu
 lóya	root		➊ is a sky.	landscape	zayawa
 ná	root	1	➊ is a langage.	linguistics	lasofe
 sé’	root	1	➊ is a cloud.	natural_feature weather	noneyi
 kʼao	root	1	➊ is fire.	natural_phenomenon	jaqare
 lá	root		➊ happens at the same time as ➋; ➊ is simultaneous with ➋.	toaq_copy	qakiro
-ršı̋	root		➊ rains.	weather	nirunu
 hwéa	root		➊ is wind, moving air.	weather	howahu
-tʰáowa	root	3	➊ gives to ➋ property ➌.		behucu
-ʼám	root	2	➊ is the case along/together with ➋.		voyove
-lı̋	root	1	➊ is asleep.		givera
-stíñu	root	1	➊ is prepared food.		ridufi
-háłu	root	1	➊ is gravel.		timisi
-ʎú	root	3	➊ goes from ➋ to ➌.		jogavu
-qúʎu	root	2	➊ is wet with liquid ➋.		kupaka
-kʼáı	root		➊ is light (visible electromagnetic radiation).		kayayu
-qʰá	root		➊ causes ➋.		yajana
-pʼúh	root		➊ explodes.		papaku
+ršı̋	root		➊ rains.	weather	nirunu
 cʼéwa	root		➊ waits for ➋ to be the case.		goveda
-ʎáıwa	root		➊ finds ➋ beautiful (not necessarily visually).		zeyawu
+háłu	root	1	➊ is gravel.		timisi
+kʼáı	root		➊ is light (visible electromagnetic radiation).		kayayu
+lı̋	root	1	➊ is asleep.		givera
+pʼúh	root		➊ explodes.		papaku
+qúʎu	root	2	➊ is wet with liquid ➋.		kupaka
+qʰá	root		➊ causes ➋.		yajana
+stíñu	root	1	➊ is prepared food.		ridufi
+tʰáowa	root	3	➊ gives to ➋ property ➌.		behucu
+yálı	root		➊ inhabits ➋.		jawawe
+yéwa	root	3	➊ is thankful, grateful to ➋ for having property ➌.		hazoya
 ñwáı	root		➊ is okay with, doesn't mind ➋ being the case.		zeqodi
+ʎáıwa	root		➊ finds ➋ beautiful (not necessarily visually).		zeyawu
+ʎú	root	3	➊ goes from ➋ to ➌.		jogavu
+ʼám	root	2	➊ is the case along/together with ➋.		voyove
 néš	root		➊ is a bee.	lifeform animal arthropod insect	zayami
-tʼí	root	1	➊ is a bird.	lifeform animal vertebrate bird	daliwe
 púpu, tʼípupu	root	1	➊ is a typical cuckoo (Cuculus genus).	lifeform animal vertebrate bird	yicaga
 qrá / tʼíqra	root		➊ belongs to the Corvus genus (ravens, crows, jackdaws, rooks).	lifeform animal vertebrate bird	haraka
+tʼí	root	1	➊ is a bird.	lifeform animal vertebrate bird	daliwe
 lúc	root	1	➊ is a fish.	lifeform animal vertebrate fish	buzote
 kóyu	root	1	➊ is a dog.	lifeform animal vertebrate mammal	yobanu
-ƛúrı	root	1	➊ is a cat.	lifeform animal vertebrate mammal	fufuki
 qánwe	root		➊ is a human.	lifeform animal vertebrate mammal	wayami
 yáʼı	root		➊ is a horse.	lifeform animal vertebrate mammal	qibawe
+ƛúrı	root	1	➊ is a cat.	lifeform animal vertebrate mammal	fufuki
+θı̋lïʼ	root	1	➊ is a snake.	lifeform animal vertebrate squamate snake	kisudo
 nƛé	root	1	➊ is a plant.	lifeform plant	dayilu
-ƛís	root		➊ is grass.	lifeform plant	sosudi
 ñóq	root		➊ is a potato.	lifeform plant	guluna
-rópo	root	1	➊ is a tomato.	lifeform plant fruit	seruwi
+ƛís	root		➊ is grass.	lifeform plant	sosudi
 nóko	root	1	➊ is an apple.	lifeform plant fruit	nahala
 qí	root		➊ is a fruit.	lifeform plant fruit	gufoja
+rópo	root	1	➊ is a tomato.	lifeform plant fruit	seruwi
 ƛʰáı	root	1	➊ is a tree.	lifeform plant tree	tiliva
-sqáƛʰï	root	1	➊ is a patch of hairs; ➊ is fur (not necessarily of a dead animal).	body_part	yikani
 héwa	root	1	➊ is a muzzle or snout (body part).	body_part	newana
 qéƛï	root		➊ is a branch (plant body part).	body_part	tisoke
-wáʼ	root		➊ has property ⦃DP⦄.	logic	pohuti{➊,🅓}
-wá	root		➊ has property ➋.	logic	pohuti{➊,🅓}
-ráʼ	root		➊ and ➋ are in binary relation ⦃DP⦄.	logic	nikatu{➊,➋,🅓}
+sqáƛʰï	root	1	➊ is a patch of hairs; ➊ is fur (not necessarily of a dead animal).	body_part	yikani
 káoʼ	root		➊, ➋ and ➌ are in ternary relation ⦃DP⦄.	logic	dotuye{➊,➋,➌,🅓}
 qóweʼ	root		➊, ➋, ➌ and ➍ are in quaternary relation ⦃DP⦄.	logic	gotavi{➊,➋,➌,➍,🅓}
-ʼní	root		➊ is spatially adjacent to ➋.		migibe
-tʼá	root		{{unary lambda variable #1}}		
-ltʼá	root		{{unary lambda variable #2}}		
-cʼí	root		{{binary lambda variable #1}}		
-kʼú	root		{{binary lambda variable #2}}		
-pʼé	root		{{ternary lambda variable #1}}		
-čʼı̋	root		{{ternary lambda variable #2}}		
-qʼó	root		{{ternary lambda variable #3}}		
-pʰáʼa	root		{{quaternary lambda variable #1}}		
-cʰéʼe	root		{{quaternary lambda variable #2}}		
-čʰı̋ʼï	root		{{quaternary lambda variable #3}}		
-qʰóʼo	root		{{quaternary lambda variable #4}}		
-ƛá	root		{{pendent pronoun}}		
-cʰó	root	2	➊ has temperature ➋.		saloki
-náhaıwa	root		➊ is the Nahaıwa language.		yeliwa
-łčál	root		➊ jokingly asserts that ➋ is the case.		yuzocu
-nte	root		➊ reads, decypher symbolic code ➋ as encoding data ➌.		jabaye
-ƛéona’	root		➊ understands, interprets the meaning of ➋ as being ➌.		kimana
-ná’	root		➊ has meaning ➋.		
-tʰú	root		➊ finds ➋ very likely, expects it to be true, has confidence in it being the case.		
-cál	root		➊ sees stimulus ➋.		
-cáo	root		➊ sees view ➋.		
-šál	root		➊ hears stimulus ➋.		
-šáo	root		➊ hears sound ➋.		
-ƛícal	root		➊ looks at ➋.		
-ƛí	root		➊ touches ➋.		
-ntʼáı	root		➊ holds ➋.		
-yáo	root		➊ greets ➋, expressing well-intentionedness and acknowledgement of presence. ⸨Used upon encounter but not upon parting.⸩		
-yéʼ	root		➊ verbally requests attention from ➋ in order to initiate communication.		
-čʰán	root		➊ interacts socially with ➋.		
+ráʼ	root		➊ and ➋ are in binary relation ⦃DP⦄.	logic	nikatu{➊,➋,🅓}
+wá	root		➊ has property ➋.	logic	pohuti{➊,🅓}
+wáʼ	root		➊ has property ⦃DP⦄.	logic	pohuti{➊,🅓}
+cʰéʼe	root		{{quaternary lambda variable #2}}	syntactic_pronoun	
+cʼí	root		{{binary lambda variable #1}}	syntactic_pronoun	
+kʼú	root		{{binary lambda variable #2}}	syntactic_pronoun	
+ltʼá	root		{{unary lambda variable #2}}	syntactic_pronoun	
+pʰáʼa	root		{{quaternary lambda variable #1}}	syntactic_pronoun	
+pʼé	root		{{ternary lambda variable #1}}	syntactic_pronoun	
+qʰóʼo	root		{{quaternary lambda variable #4}}	syntactic_pronoun	
+qʼó	root		{{ternary lambda variable #3}}	syntactic_pronoun	
+tʼá	root		{{unary lambda variable #1}}	syntactic_pronoun	
+čʰı̋ʼï	root		{{quaternary lambda variable #3}}	syntactic_pronoun	
+čʼı̋	root		{{ternary lambda variable #2}}	syntactic_pronoun	
+ƛá	root		{{pendent pronoun}}	syntactic_pronoun	
+ʼní	root		➊ is spatially adjacent to ➋.	syntactic_pronoun	migibe
+címa	root		➊ is an usual, ordinary instance of property ➋.		hovera
 cʼék	root		➊ is a blade ⁓ knife.		
-pʰú	root		➊ falls.		
-kyácao	root		➊ interprets visual quale ➋ as inducing information ➌ (proposition).		kesipi
-kyá	root		➊ interprets quale ➋ as inducing proposition ➌.		ziwuha
-qʰáo	root		➊ is a sun.		
+hák	root		The preceding sentence is flase.		
 háo	root		➊ is a day (event of a daytime-nighttime cycle).		
-pʰáhao	root		➊ is a day (duration of a daytime-nighttime cycle).		
+kyá	root		➊ interprets quale ➋ as inducing proposition ➌.		ziwuha
+kyácao	root		➊ interprets visual quale ➋ as inducing information ➌ (proposition).		kesipi
+kłı̋	root	2	For ➊, having property ➋ is detrimental.		
+kʰú	root		➊ requests to ➋ that they make ➌ be the case.		yayetu
+kʼyá	root		➊ is a daytime.		
 lpá	root		➊ and ➋ are separated by temporal distance ➌.		
 ncʰwáo	root		➊ sits on ➋.		sesiye
-stíncʰwao	root		➊ is a chair.		zunoko
-rúk	root		The preceding sentence is true.		
-hák	root		The preceding sentence is flase.		
-θwé	root	1	➊ is air.		zawefe
-łúʼ	root	1	➊ is senecent.		
-θƛáı	root		➊ feels frustration of having property ➋.		
-ŋówa	root		➊ feels disappointment of realizing that ➋ is the case.		
-yéwa	root	3	➊ is grateful to ➋ for having property ➌.		
-yı̋yewa	root	3	➊ thanks ➋ for having property ➌.		
-qwáo	root		➊ utters, emits vocalization ➋.		
-sʼáı	root		➊ is straight (not bent).		
-ʎqó	root		➊ is a female.		
+nte	root		➊ reads, decypher symbolic code ➋ as encoding data ➌.		jabaye
 ntʰá	root		➊ is a male.		
-yéo	root	2	For ➊, having property ➋ is beneficial.		
-kłı̋	root	2	For ➊, having property ➋ is detrimental.		
-kʼyá	root		➊ is a daytime.		
-θpʰé	root		➊ is a night.		
-swákʼya	root	1	➊ is a morning (from dawn to noon).		
-címa	root		➊ is an usual, ordinary instance of property ➋.		hovera
-ntʼáıne	root		➊ holds ➋ with hand.		
+ntʼáıne	root		➊ holds ➋ with hand.		racuha
+náhaıwa	root		➊ is the Nahaıwa language.		yeliwa
+ná’	root		➊ has meaning ➋.		
+pʰáhao	root		➊ is a day (duration of a daytime-nighttime cycle).		
+pʰú	root		➊ falls.		
+qrú	root		➊ has half ➋.		
+qwáoƛurı	root		➊ meows ➋.		
+qʰáo	root		➊ is a sun.		
+qʰíʎqı	root		➊ is a fluid in which ➊ is at least partly immersed, by which it is at least partly coated.		
 rí	root	1	➊ walks on ➋.		qajiho
-tʰánïsa	root		➊ has tallness ➋.		lalega
-kʰú	root		➊ requests to ➋ that they make ➌ be the case.		yayetu
-háhu	root		➊ breathes.		
+rúk	root		The preceding sentence is true.		
+stíncʰwao	root		➊ is a chair.		zunoko
 stʰı̋	root		➊ is something long and straight.		
 stʰı̋ʼčırı	root		➊ is a staff, a walk stick.		
-θı̋lïʼ	root	1	➊ is a snake.		
-ʎún	root		➊ is a biological parent of ➋.		
-yálı	root		➊ inhabits ➋.		
-ʎqí	root		➊ is a fluid in which ➊ is immersed, by which it is coated.		
-qʰíʎqı	root		➊ is a fluid in which ➊ is at least partly immersed, by which it is at least partly coated.		
-ʎáoko	root	2	➊ cares for, looks after ➋.		
+swákʼya	root	1	➊ is a morning (from dawn to noon).		
+sʼáı	root		➊ is straight (not bent).		
+tʰánïsa	root		➊ has tallness ➋.		lalega
+tʰú	root		➊ finds ➋ very likely, expects it to be true, has confidence in it being the case.		
+wál	root		➊ has sensory perception of ➋ (physical entity, source of stimulus).		dibeya
+yáo	root		➊ greets ➋, expressing well-intentionedness and acknowledgement of presence. ⸨Used upon encounter but not upon parting.⸩		
+yéo	root	2	For ➊, having property ➋ is beneficial.		
+yéʼ	root		➊ verbally requests attention from ➋ in order to initiate communication.		ruyeba
 čéwa	root		➊ purposefully has property ➋ for ensuring that ➌ be the case.		soyafo
-qrú	root		➊ has half ➋.		
 číʼ	root		➊ is immature, not yet full-grown.		rihofa
-wáo	root		➊ perceives quale ➋.		
-wál	root		➊ perceives stimulus ➋.		
-ƛʰwén	root		➊ is worried, anxious that ➋ may be the case.		
-qwáoƛurı	root		➊ meows ➋.		
+čʰán	root		➊ interacts socially with ➋.		
+łúʼ	root	1	➊ is senecent.		
+łčál	root		➊ jokingly asserts that ➋ is the case.		yuzocu
+ŋówa	root		➊ feels disappointment of realizing that ➋ is the case.		yacuwu
+ƛéona’	root		➊ understands, interprets the meaning of ➋ as being ➌.		kimana
+ƛí	root		➊ touches ➋.		
+ƛʰwén	root		➊ is worried, anxious that ➋ may be the case.		vobose
+ʎqí	root		➊ is a fluid in which ➊ is immersed, by which it is coated.		
+ʎqó	root		➊ is a female.		
+ʎáoko	root	2	➊ looks after, takes care of ➋.		keyepe
+θpʰé	root		➊ is a night.		
+θwé	root	1	➊ is air.		zawefe
+θƛáı	root		➊ feels frustration of having property ➋.		rinoyu
