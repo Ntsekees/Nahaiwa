@@ -73,7 +73,7 @@
 | r                                   | TOP      | Topical                                 |
 | ƛ                                   | PND      | Pendent                                 |
 | ƛʼ / ıʼa                            | INS      | Instrumental                            |
-| s / eı                              | SPL      | Spatiotemporal Locative                 |
+| s / eı                              | LOC⁓SPL  | Spatiotemporal Locative                 |
 | y                                   | ITJ      | Interjective                            |
 | w                                   | VOC      | Vocative                                |
 | n                                   | PUI      | Plural Union                            |
