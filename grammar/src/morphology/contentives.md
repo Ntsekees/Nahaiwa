@@ -48,7 +48,7 @@ The word ⟪mkaoluŋkıkwıyuráwa⟫ (“of the fact that we talked to each oth
 ```  
 ┌──────────┬────────┬─────────────────────────────────────────────┐  
 │ Slot #1  │ m꞊     │ Injective clitic                            │  
-│ Slot #2a │ k-     │ Ergative outer case                         │  
+│ Slot #2a │ k-     │ Accusative outer case                       │  
 │ Slot #2c │ ao-    │ Plain content clause subordinator           │  
 │ Slot #3  │ lu-    │ Extension: past tense                       │  
 │ Slot #3  │ ŋkı-   │ Extension: “you and me” + (Ergative)        │  
