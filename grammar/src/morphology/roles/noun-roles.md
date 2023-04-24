@@ -106,7 +106,7 @@ Non-core (adjunct) cases:
 ```  
 ┌───────────────  
 │ ◆ Inıŋıwá ƛeyahakú koıtʼıƛucál. (= Inıŋıcál keyahakú.)  
-│ ❖ ASR.SEN-want:ERG-has_property  
+│ ❖ ASR.SEN-1:ERG-want:ERG-has_property  
 │   PND-UQZ-INTR-not-universal_property  
 │   NOM-UTC-lambda_1:ERG-PND_PN:NOM-see  
 │ ➥ Not everything is such that I want to see them.  
