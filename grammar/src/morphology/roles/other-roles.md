@@ -1,7 +1,5 @@
 # Other roles
 
-Let ⟪◈⟫ be a placeholder for an inner case vowel:  
-  
 ```  
 ┌───────────────────────────────────────┬────────┐  
 │ Coordinative                          │ hu     │  
