@@ -64,7 +64,7 @@ Other core cases:
 └─────────────┴─────┴─────┘  
 ```  
   
-For binary, ternary an quaternary predicates, the cases shown in the table are ordered according to an animacy or temporal/causal hierarchy: the first participant is the most animate, or the one triggering or exercicing the most control over the event described by the predicate, or occasionally, in the case of stative relations, it may be the largest or most concrete participants. Abstract propositions, properties and relations have lowest rank in this hierarchy, and will typically be associated with the last cases of each case list.  
+For binary, ternary an quaternary predicates, the cases shown in the table are ordered according to an animacy or temporal/causal hierarchy: the first participant is the most animate, or the one triggering or exercicing the most control over the event described by the predicate, or occasionally, in the case of stative relations, it may be the largest or most concrete participant. Abstract propositions, properties and relations have lowest rank in this hierarchy, and will typically be associated with the last cases of each case list.  
   
 Below is an explanation of the functions of the other core cases mentioned in the second table above.  
   
@@ -80,7 +80,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
   
 ⸨Note: the predicate applicator root will maybe be replaced with one different applicator root for each allowed arities.⸩  
   
-• The Affixal Case is governed by certain extentional prefixes, which intoduces a new participant to the relationship expressed by the verb. For example, a causative extensional prefix will adds a ‘causer’ participant, which will then be accessible via the Affixal Case.  
+• The Affixal Case is governed by certain extentional prefixes, which intoduces a new participant to the relationship expressed by the verb. For example, a causative extensional prefix will add a ‘causer’ participant, which will then be accessible via the Affixal Case.  
   
 • The Eventive Case may appear with pretty much any verb; it marks a noun that refers to a spatiotemporal event corresponding to the abstract proposition expressed by the verb.  
   

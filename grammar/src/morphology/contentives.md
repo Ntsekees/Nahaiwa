@@ -43,11 +43,11 @@ For example, in the word ⟪talóya⟫, the root is ⟪-lóya⟫, “sky”, and
 A root must always be preceded by a slot #2 inflectional prefix syllable, optionally followed by one or more extensional prefixes (which are mostly monosyllabic, with limited disyllabic forms CVyV or CVwV (e.g. ⟪-kwıyu-⟫).  
 A slot #1 proclitic may precede the obligatory slot #2. The first syllable of a word can be unambiguously identified as belonging to slot #1 (as opposed to slot #2) by virtue of their having mutually exclusive sound forms: while ⟪θa꞊⟫ is a valid slot #1 syllable, it cannot be a slot #2 form; similarly, ⟪ta-⟫, a frequent slot #2 form, cannot possibly appear in slot #1.  
   
-The word ⟪mkaoluŋkıkwıyuráwa⟫ (“of the fact that we talked to each other”) can thusly be unambiguously parsed as the following string of components:  
+The word ⟪ŋkaoluŋkıkwıyuráwa⟫ (“of the fact that we talked to each other”) can thusly be unambiguously parsed as the following string of components:  
   
 ```  
 ┌──────────┬────────┬─────────────────────────────────────────────┐  
-│ Slot #1  │ m꞊     │ Injective clitic                            │  
+│ Slot #1  │ ŋ꞊     │ Injective clitic                            │  
 │ Slot #2a │ k-     │ Accusative outer case                       │  
 │ Slot #2c │ ao-    │ Plain content clause subordinator           │  
 │ Slot #3  │ lu-    │ Extension: past tense                       │  
