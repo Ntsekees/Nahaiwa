@@ -3,14 +3,15 @@
 These Role prefixes (Slot 2a) behave much like noun cases, although the syntactic roles they govern aren't nominal; like noun cases, they are accompanied by an Inner Case vocalic affix, and an optional Determinacy affix.  
   
 ```  
-┌───────────────────┬─────┐  
-│ Interjective      │  y  │  
-│ Vocative          │  w  │  
-│ Plural union      │  n  │  
-│ Sequential        │  ŋ  │  
-│ Adjectival        │  l  │  
-│ Propositional     │  ł  │  
-└───────────────────┴─────┘  
+┌─────────────────────┬─────┐  
+│ Interjective        │  y  │  
+│ Vocative            │  w  │  
+│ Plural union        │  n  │  
+│ Sequential          │  ŋ  │  
+│ Adjectival          │  l  │  
+│ Propositional       │  ł  │  
+│ Discourse Situative │  qʼ │  
+└─────────────────────┴─────┘  
 ```  
   
 • The Interjective Case turns a contentive word into an interjection, meaning that the speaker is satisfying the selected case role of the predicate at the present moment.  

@@ -80,6 +80,7 @@
 | ŋ                                   | SEQ      | Sequential                              |
 | l                                   | ADJ      | Adjectival                              |
 | ł                                   | PRP      | Propositional                           |
+| qʼ                                  | DSIT     | Discourse Situative                     |
 
 ### PARTICIPIALIZERS / SUBORDINATORS:
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
