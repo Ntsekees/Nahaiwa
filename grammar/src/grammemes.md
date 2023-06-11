@@ -5,15 +5,15 @@
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
 |-------------------------------------|----------|-----------------------------------------|
 | ∅                                   | CC       | Current Clause                          |
-| m / n / ŋ                           | TI       | Term Injection                          |
-| ʎï                                  | NT       | New Term                                |
+| m / n / ŋ                           | INJ      | Injective                               |
+| ʎï                                  | COINJ    | Coinjective                             |
 | θa                                  | OC       | Outer Clause                            |
 | kʼwa                                | DC       | Double Closure                          |
 | ʎo                                  | MC       | Medial Connective                       |
 | ñï                                  | OSSP     | Open Single-Sentence Parenthetical      |
 | ñao                                 | OMSP     | Open Multi-Sentence Parenthetical       |
 | ño                                  | CMSP     | Close Multi-Sentence Parenthetical      |
-| █                                   | CI       | Clause Injection                        |
+| █                                   | CLINJ    | Clausal Injective                       |
 
 ### ROLES ➤ ASSERTIVE ILLOCUTION + EVIDENTIALITIES:
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
