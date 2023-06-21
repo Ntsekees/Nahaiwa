@@ -22,6 +22,7 @@ There are two kinds of cases:
 Nouns bear two case affixes:  
 • The outer case, or external case, indicates the relationship between the noun and the main verb of the clause;  
 • The inner case, or internal case, indicates which argument slot of the predicate represented by the noun's root is used for defining the noun (for example, with the root ‘to eat’, which expresses a binary relation between two participants, each represented by a case —the eater and the eaten thing—, selecting the first slot would yield a noun ‘eater’, whilst selecting the second case would yield a noun ‘eaten thing’).  
+In essence, Nahaıwa nouns may be analyzed as being one-word noun relative clauses, with the stem having a verbal meaning, and the inner case indicating which of the verb complements is the antecedent of the relative clause. Thusly, “eater” (“eat” + Ergative inner case) can be reworder using a relative clause as “that which eats”, “the one who eats”.
   
 Instead of an inner case value, slot 2c may contain one of several Subordinator values (those will be covered later).  
   
