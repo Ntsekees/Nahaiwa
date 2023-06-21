@@ -15,11 +15,29 @@ All the other morpheme belonging to this slot are proclitics; below is a non-exh
   ┌───────────────  
   │ ◆ Ukóyu tıñú ŋkastíñu.  
   │ ❖ ASR.REC-is_a_dog  INTR-ERG-eat  INJ꞊ACC-INTR-prepared_food  
-  │ ➥ It was a dog, the eater of the meal. (the one who ate the meal)  
+  │ ➥ It was a dog, the eater of the meal.
+  │   (the one who ate the meal)  
+  └─  
+  ┌───────────────  
+  │ ◆ Oqʰá caïlú kaïłqʼáı ntasqáčʰol.  
+  │ ❖ ASR.RPT-cause  ERG-EV-flow  ACC-EV-undergoes_destruction
+  │   INJ꞊INTR-INTR-settlement  
+  │ ➥ I heard that the water caused the destruction of the
+  │   settlement.  
   └─  
 ```  
 
   • ⟪θa⟫: indicates that the current clause is terminated and the word marked with this clitic belongs to the next outer clause, and is a continuation thereof.  
+
+```
+  ┌───────────────  
+  │ ◆ Oqʰá caweotaïƛúru tačʰóqa θakaïłqʼáı ntačʰól.  
+  │ ❖ ASR.RPT-cause  ERG-ELU-RSM:EV-shake  INTR-INTR-ground
+  │   OC꞊ACC-EV-undergoes_destruction  INJ꞊INTR-INTR-building 
+  │ ➥ I heard that it was an earthquake that caused the
+  │   destruction of the building.  
+  └─  
+```
   • ⟪kʼwa⟫: indicates the closure of two clauses, so that the marked word belongs to the third-to-last opened clause in the order of clause nesting.  
   • ...  
   
