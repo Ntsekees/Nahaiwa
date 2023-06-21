@@ -66,6 +66,60 @@ Other core cases:
   
 For binary, ternary an quaternary predicates, the cases shown in the table are ordered according to an animacy or temporal/causal hierarchy: the first participant is the most animate, or the one triggering or exercicing the most control over the event described by the predicate, or occasionally, in the case of stative relations, it may be the largest or most concrete participant. Abstract propositions, properties and relations have lowest rank in this hierarchy, and will typically be associated with the last cases of each case list.  
   
+Below are some examples of internal and external case uses with unary roots and stems (`-lı̋`, “asleep”; `-kóyu`, “dog”, `-θakóyu`, “the dog”):
+```  
+┌───────────────
+│ ◆ Iθalı̋.
+│ ❖ ASR.SEN-DEF:INTR-asleep
+│ ➥ It is asleep.
+└─
+┌───────────────
+│ ◆ Ilı̋ taθakóyu.
+│ ❖ ASR.SEN-asleep INTR-INTR-DEF:INTR-dog
+│ ➥ The dog is asleep.
+└─
+```
+
+Examples with the binary root `-ñú`, “eat”:
+```
+┌───────────────
+│ ◆ Unıθuñú.
+│ ❖ ASR.REC-1P:ERG-DEF:ACC-eat
+│ ➥ (I recall that) I ate it.
+└─
+┌───────────────
+│ ◆ Unıñú kaθastíñu.
+│ ❖ ASR.REC-1P:ERG-eat  ACC-INTR-food
+│ ➥ (I recall that) I ate the food.
+└─
+┌───────────────
+│ ◆ Uñú caθakóyu kaθastíñu.
+│ ❖ ASR.REC-1P:ERG-eat  ERG-INTR-DEF:INTR-dog
+│   ACC-INTR-DEF:INTR-food
+│ ➥ (I recall that) the dog ate the food.
+└─
+┌───────────────
+│ ◆ Uñú kaθastíñu.
+│ ❖ ASR.REC-eat  ACC-INTR-DEF:INTR-food
+│ ➥ (I recall that) the food was eaten / something ate the food.
+└─
+┌───────────────
+│ ◆ Uñú caθakóyu.
+│ ❖ ASR.REC-eat  ERG-INTR-DEF:INTR-dog
+│ ➥ (I recall that) the dog ate (something).
+└─
+┌───────────────
+│ ◆ Ukóyu tıθıñú.
+│ ❖ ASR.REC-dog  INTR-ERG-DEF:ERG-eat
+│ ➥ (I recall that) the eater was a dog.
+└─
+┌───────────────
+│ ◆ Ukóyu tuθuñú.
+│ ❖ ASR.REC-dog  INTR-ACC-DEF:ACC-eat
+│ ➥ (I recall that) the eaten thing was a dog.
+└─
+```
+
 Below is an explanation of the functions of the other core cases mentioned in the second table above.  
   
 • The Dislocated Predicate (DP) Case is governed exclusively by the predicate application root ⟪-tʰá⟫; it marks the noun phrase representing the predicate that is to be applied, ‘unboxed’, by the dummy applicator verb based on the ⟪-tʰá⟫ root, which also takes as its arguments all the arguments required by the applied predicate:  
@@ -81,6 +135,20 @@ Below is an explanation of the functions of the other core cases mentioned in th
 ⸨Note: the predicate applicator root will maybe be replaced with one different applicator root for each allowed arities.⸩  
   
 • The Affixal Case is governed by certain extentional prefixes, which intoduces a new participant to the relationship expressed by the verb. For example, a causative extensional prefix will add a ‘causer’ participant, which will then be accessible via the Affixal Case.  
+  
+```
+┌───────────────
+│ ◆ Unaıqaoñú caθakóyu.
+│ ❖ ASR.REC-1P:AFX-CAUS-eat  ACC-INTR-DEF:INTR-dog
+│ ➥ (I recall that) I made the dog eat (something).
+└─
+┌───────────────
+│ ◆ Uqaoñú kʼıθıʎáoko caθakóyu kaθastíñu.
+│ ❖ ASR.REC-CAUS-eat  AFX-ERG-DEF:ERG-take_care
+│   ERG-INTR-DEF:INTR-dog  ACC-INTR-DEF:INTR-food
+│ ➥ (I recall that) the caretaker made the dog eat the food.
+└─
+```
   
 • The Eventive Case may appear with pretty much any verb; it marks a noun that refers to a spatiotemporal event corresponding to the abstract proposition expressed by the verb.  
   
