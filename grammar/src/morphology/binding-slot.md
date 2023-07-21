@@ -38,6 +38,5 @@ All the other morpheme belonging to this slot are proclitics; below is a non-exh
   │   destruction of the building.  
   └─  
 ```
-  • ⟪kʼwa⟫: indicates the closure of two clauses, so that the marked word belongs to the third-to-last opened clause in the order of clause nesting.  
   • ...  
   
