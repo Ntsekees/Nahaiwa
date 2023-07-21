@@ -8,7 +8,6 @@
 | m / n / ŋ                           | INJ      | Injective                               |
 | ʎï                                  | COINJ    | Coinjective                             |
 | θa                                  | OC       | Outer Clause                            |
-| kʼwa                                | DC       | Double Closure                          |
 | ʎo                                  | MC       | Medial Connective                       |
 | ñï                                  | SOP      | Start Of Parenthetical                  |
 | ñaʼ                                 | EOP      | End Of Parenthetical                    |
