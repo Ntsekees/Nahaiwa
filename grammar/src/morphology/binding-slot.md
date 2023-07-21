@@ -2,7 +2,7 @@
   
 The general purpose of that slot is to indicate which clausal nesting level the word belongs to, i.e. where the word does ‘bind’. This has however nothing to do with the concept of variable binding.  
   
-This slot is always empty on the sentence's main verb (the root verb).  
+This slot is always empty on the sentence's main verb (the root verb), unless it initiates a parenthetical sentence, in which case the parenthetical Binding ⟪ñï꞊⟫ is prepended to it.  
   
 The null/empty form of this slot indicates that the word is a new term in the current clause level.  
   
@@ -38,5 +38,17 @@ All the other morpheme belonging to this slot are proclitics; below is a non-exh
   │   destruction of the building.  
   └─  
 ```
+  • ⟪ñï⟫: indicates the beginning of a parenthetical sentence or group of sentences, terminated with the particle ⟪ñaʼ⟫, inserted into the current sentence.
+  
+```
+  ┌───────────────  
+  │ ◆ Unïyı̋pa paqahwéa, ñïmukıθunčáwa ñaʼ, qaoθakwáı.
+  │ ❖ ASR.REC-1:CACC-say_to  TERG-INTR-named_after_property:INTR-is_wind
+  │   PAR꞊PQ-2:ERG-3EXO:ACC-familiar_with  EOP
+  │   TACC-PCCS-3EXO:INTR-is_true
+  │ ➥ I remember that Wind (do you know them?) told me that it's true.
+  └─  
+```
+
   • ...  
   

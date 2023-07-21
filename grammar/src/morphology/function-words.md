@@ -41,6 +41,7 @@ Examples (with _ representing a short pause):
 │ Acknowledgement          │ e     │  
 │ Not done speaking        │ ñu    │  
 │ End of transmission      │ ne    │  
+│ End of parenthetical     │ ñaʼ   │  
 │ End of sequence          │ ██    │  
 │ End of native quote      │ pʰa   │  
 │ End of foreign quote     │ qʼwáı │  

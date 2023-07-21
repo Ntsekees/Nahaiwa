@@ -10,9 +10,8 @@
 | θa                                  | OC       | Outer Clause                            |
 | kʼwa                                | DC       | Double Closure                          |
 | ʎo                                  | MC       | Medial Connective                       |
-| ñï                                  | OSSP     | Open Single-Sentence Parenthetical      |
-| ñao                                 | OMSP     | Open Multi-Sentence Parenthetical       |
-| ño                                  | CMSP     | Close Multi-Sentence Parenthetical      |
+| ñï                                  | SOP      | Start Of Parenthetical                  |
+| ñaʼ                                 | EOP      | End Of Parenthetical                    |
 | █                                   | CLINJ    | Clausal Injective                       |
 
 ### ROLES ➤ ASSERTIVE ILLOCUTION + EVIDENTIALITIES:
