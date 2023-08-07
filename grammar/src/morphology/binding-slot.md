@@ -14,7 +14,7 @@ All the other morpheme belonging to this slot are proclitics; below is a non-exh
 ```  
   ┌───────────────  
   │ ◆ Ukóyu tıñú ŋkastíñu.  
-  │ ❖ U-     -kóyu  t-   ı-  ñú   ŋ꞊  k-  a-  -stíñu
+  │ ❖ U-     -kóyu  t-   ı- -ñú   ŋ꞊  k-  a-  -stíñu
   │   ASR.REC-dog   INTR-ERG-eat  INJ꞊ACC-INTR-prepared_food  
   │ ➥ It was a dog, the eater of the meal.
   │   (the one who ate the meal)  
