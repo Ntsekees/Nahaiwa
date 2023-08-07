@@ -8,19 +8,22 @@ The null/empty form of this slot indicates that the word is a new term in the cu
   
 All the other morpheme belonging to this slot are proclitics; below is a non-exhaustive list of them:  
   
-  • ⟪m⟫, the syllabic nasal clitic, expressing the ‘Injective’ Binding. This syllabic nasal is preceded by an unwritten glottal stop. Furthermore, it may assimilate in place of articulation with the following consonant, becoming ⟪ŋ⟫ or ⟪n⟫ (see `§ Morphophonology and Morphology` for details).  
+  • ⟪m⟫, the syllabic nasal clitic, expressing the ‘Injective’ Binding. This syllabic nasal is preceded by an unwritten glottal stop. Furthermore, it may assimilate in place of articulation with the following consonant, becoming ⟪ŋ⟫ or ⟪n⟫ (see [§ Phonotactics](../phonotactics.md) for details).  
   This ‘Injective’ clitic may occur on nouns and adverbials and indicates that the word is a complement of the predicate underlying the immediately preceding contentive word, as opposed to being an independent complement of the main predicate of the current clause. It is usually used for providing an argument to the verb underlying a preceding noun, similarly to certain usages of the English particle “of” as in “the destruction of the village”.    
 
 ```  
   ┌───────────────  
   │ ◆ Ukóyu tıñú ŋkastíñu.  
-  │ ❖ ASR.REC-is_a_dog  INTR-ERG-eat  INJ꞊ACC-INTR-prepared_food  
+  │ ❖ U-     -kóyu  t-   ı-  ñú   ŋ꞊  k-  a-  -stíñu
+  │   ASR.REC-dog   INTR-ERG-eat  INJ꞊ACC-INTR-prepared_food  
   │ ➥ It was a dog, the eater of the meal.
   │   (the one who ate the meal)  
   └─  
   ┌───────────────  
   │ ◆ Oqʰá caïlú kaïłqʼáı ntasqáčʰol.  
-  │ ❖ ASR.RPT-cause  ERG-EV-flow  ACC-EV-undergoes_destruction
+  │ ❖ O−     −qʰá    c-  aï-lú    k-  aï-łqʼáı
+  │   ASR.RPT-cause  ERG-EV-flow  ACC-EV-undergoes_destruction
+  │   n꞊  t-   a-  -sqáčʰol
   │   INJ꞊INTR-INTR-settlement  
   │ ➥ I heard that the water caused the destruction of the
   │   settlement.  
