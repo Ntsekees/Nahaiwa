@@ -123,17 +123,15 @@ Examples with the binary root `-ñú`, “eat”:
 
 Below is an explanation of the functions of the other core cases mentioned in the second table above.  
   
-• The Dislocated Predicate (DP) Case is governed exclusively by the predicate application root ⟪-tʰá⟫; it marks the noun phrase representing the predicate that is to be applied, ‘unboxed’, by the dummy applicator verb based on the ⟪-tʰá⟫ root, which also takes as its arguments all the arguments required by the applied predicate:  
+• The Dislocated Predicate (DP) Case is governed exclusively by the predicate application roots ⟪-wáʼ⟫, ⟪rá⟫, ⟪-káo⟫ and ⟪qóweʼ⟫ (there is one for each nonzero predicate arity, shown in order); it marks the noun phrase representing the predicate that is to be applied, ‘unboxed’, by the dummy applicator verb based on these roots, which also takes as its arguments all the arguments required by the applied predicate:  
 ```  
 ┌───────────────  
-│ ◆ Aıtʰá tatʼí tʼoıtʼınucál.  =  Aınucál catʼí.  
+│ ◆ Aıwáʼ tatʼí tʼoıtʼınucál.  =  Aınucál catʼí.  
 │ ❖ ASR-has_property INTR-INTR-bird  
 │   DP-UTC-lambda_1:ERG-me:NOM-see_stimulus  
 │ ➥ A bird has the property of seeing me.  =  A bird sees me.  
 └─  
 ```  
-  
-⸨Note: the predicate applicator root will maybe be replaced with one different applicator root for each allowed arities.⸩  
   
 • The Affixal Case is governed by certain extentional prefixes, which intoduces a new participant to the relationship expressed by the verb. For example, a causative extensional prefix will add a ‘causer’ participant, which will then be accessible via the Affixal Case.  
   
