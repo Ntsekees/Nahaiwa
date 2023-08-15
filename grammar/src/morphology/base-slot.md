@@ -23,7 +23,10 @@ Given that Nahaıwa exhibit an extended tripartite alignment, each of the possib
 
 For examples:
 
-◉ ⟪-kóyu⟫, one-root base, unary valency: “➊ is a dog.”
-
+◉ ⟪-kóyu⟫, one-root base, unary valency: “➊ is a dog”.  
+◉ ⟪-cál⟫, one-root base, binary valency: “➊ has visual perception of ➋”.  
+◉ ⟪-yéwa⟫, one-root base, ternary valency: “➊ is thankful to ➋ for having property ➌”.  
+◉ ⟪-kíwaƛʰaı⟫ (⟪-kíwa-ƛʰaı⟫, “skin-tree”), two roots base, unary valency: “➊ is tree bark”.
+◉ ⟪-yı̋yewa⟫ (⟪-yı̋-yewa⟫, “display-grateful”), two roots base, ternary valency: “➊ thanks, displays gratefulness to ➋ for having property ➌”.
 
 
