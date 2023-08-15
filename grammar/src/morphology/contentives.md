@@ -57,5 +57,5 @@ The word ⟪ŋkaoluŋkıkwıyuráwa⟫ (“of the fact that we talked to each ot
 └──────────┴────────┴─────────────────────────────────────────────┘  
 ```  
   
-We will now examine each of the slots one by one.  
+We will now examine each of the slots one by one in reverse order, starting from the last one (the word base).  
 
