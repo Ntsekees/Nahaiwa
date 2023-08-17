@@ -19,6 +19,11 @@ However, since word bases are always lexicalized, i.e. semantically opaque, the 
   
 Word bases have verb-like meanings, in that each base is assigned a valency, which dictates the set of core noun cases it can govern.
 
+The only intrinsic syntactic properties of word bases (other than those of function words) are their valency, and the types and grammatical cases associated with each of their argument slots.
+There are no lexically coded distinction between “verb”, “noun”, “adjective” etc., which are syntactic properties that are determined by the inflection of the whole word, specifically via the [Role Slot](roles/noun-roles.md).
+
+In the dictionay, all bases are given verb-like definitions, even for those representing concepts typically expressed with nouns in most other languages; for example, the base for “table” would be defined as ⟪➊ is a table⟫; the one for “sibling” would be defined as ⟪➊ is a sibling of ➋⟫, where the circled numbers represent the core argument slots governed by the base.
+
 Given that Nahaıwa exhibit an extended tripartite alignment, each of the possible valencies (between zero and four) governs a different, non-overlapping set of noun cases. These are detailed in the [Role Slot](roles/noun-roles.md) section.
 
 For examples:
