@@ -24,7 +24,7 @@ There are no lexically coded distinction between “verb”, “noun”, “adje
 
 In the dictionay, all bases are given verb-like definitions, even for those representing concepts typically expressed with nouns in most other languages; for example, the base for “table” would be defined as ⟪➊ is a table⟫; the one for “sibling” would be defined as ⟪➊ is a sibling of ➋⟫, where the circled numbers represent the core argument slots governed by the base.
 
-Given that Nahaıwa exhibit an extended tripartite alignment, each of the possible valencies (between zero and four) governs a different, non-overlapping set of noun cases. These are detailed in the [Role Slot](roles/noun-roles.md) section.
+Given that Nahaıwa exhibits an extended tripartite alignment, each of the possible valencies (between zero and four) governs a different, non-overlapping set of noun cases. These are detailed in the [Role Slot](roles/noun-roles.md) section.
 
 For examples:
 
