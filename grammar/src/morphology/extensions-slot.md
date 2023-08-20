@@ -72,8 +72,6 @@ Below is a list of the different types of extensional prefixes:
   -ƛʼ◈-, ⟪[new slot] attempts to satisfy the property of [target slot]⟫;.  
   -sc◈-, ⟪[new slot] is all that has the property of [target slot]⟫;.  
   
-• Type −−+: removes two slots and adds one (bound to the affixal case).  
-  Example: -kw◈y◈-, «[new slot] are in the reciprocal relationship of [removed pair of slots]».  
   
 ```
 ┌───────────────
@@ -121,4 +119,13 @@ Below is a list of the different types of extensional prefixes:
 │ ➥ “You try to be seen by me”.
 └─
 ```
-  
+
+● Type −−+: removes two slots and adds one (bound to the affixal case).  
+  Example: -kw◈y◈-, «[new slot] are in the reciprocal relationship of [removed pair of slots]».   
+
+┌───────────────
+│ ◆ -kwıyu-cál
+│ ❖ -RCP:ERG:ACC-√see
+│ ➥ ➊ are in reciprocal relationship [___ sees ___].
+│ ➥ ➊ see each other.
+└─
