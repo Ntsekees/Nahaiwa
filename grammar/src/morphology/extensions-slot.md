@@ -123,12 +123,14 @@ Below is a list of the different types of extensional prefixes:
 ● Type −−+: removes two slots and adds one (bound to the affixal case).  
   Example: -kw◈y◈-, «[new slot] are in the reciprocal relationship of [removed pair of slots]».   
 
+```
 ┌───────────────
 │ ◆ -kwıyu-cál
 │ ❖ -RCP:ERG:ACC-√see
 │ ➥ ➊ are in reciprocal relationship [___ sees ___].
 │ ➥ ➊ see each other.
 └─
+```
 
 For certain type −−+ extensions, noted ⟪−−+*⟫, 
 the ⟪-ıyu-⟫ form can be shortened to simply ⟪-ı-⟫, for example, ⟪-kwı-⟫ is synonymous to ⟪-kwıyu-⟫.
