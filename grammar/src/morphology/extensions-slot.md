@@ -14,12 +14,14 @@ There exist several types of extensional prefixes, depending on two factors: how
   
 Below is a list of the different types of extensional prefixes:  
   
-● Type 0: no change in valency, does not select/remove any slot.  
-  Examples:  
-  -ha- (negation): ⟪it is not the case that ………⟫;
-  -kʰao- (possibility): ⟪it is possible that ………⟫;
-  -šu- (cessative aspect): ⟪……… ceases to be the case⟫;
-  -lu- (past tense): ⟪……… was the case⟫.
+## Type 0
+No change in valency, does not select/remove any slot.  
+
+  **Examples:**  
+  * **-ha-** (negation): ⟪it is not the case that ………⟫;
+  * **-kʰao-** (possibility): ⟪it is possible that ………⟫;
+  * **-šu-** (cessative aspect): ⟪……… ceases to be the case⟫;
+  * **-lu-** (past tense): ⟪……… was the case⟫.
 
 
 ```
@@ -41,9 +43,11 @@ Below is a list of the different types of extensional prefixes:
 └─
 ```
 
-● Type 0+: same as type 0, but adds an Extensional case slot, represented by ⟪Ⓔ⟫ in definitions.  
-  Examples:  
-  -qao- (causative): ⟪Ⓔ agentively causes, makes ……… be the case⟫.
+## Type 0+
+Same as type 0, but adds an Extensional case slot, represented by ⟪Ⓔ⟫ in definitions.  
+
+  **Examples:**  
+  * **-qao-** (causative): ⟪Ⓔ agentively causes, makes ……… be the case⟫.
 
 ```
 ┌───────────────
@@ -58,19 +62,27 @@ Below is a list of the different types of extensional prefixes:
 └─
 ```
   
-● Type +: does not select/remove any slot, but adds an affixal slot.  
-  Example: (none currently).  
+## Type +
+Does not select/remove any slot, but adds an affixal slot.  
+
+  **Examples:**  
+  (none currently).  
   
-● Type −: remove one slot, marked by the vowel form.  
-  Example: (none currently).  
+## Type −
+Removes one slot, marked by the vowel form.  
+
+  **Examples:**  
+  (none currently).  
   
-● Type −+: modifies one slot of the stem (sort of removes one and adds one); the vowel marks which slot is selected; the meaning of the slot is modified, but this suffix type does not bind the extensional case, it just reuses the modified cases. The resulting valency and case set of the predicate is unchanged.  
-  Examples:  
-  -n◈-: ⟪[new slot] is me, who satisfies the property of [target slot]⟫;
-  -k◈-: ⟪[new slot] is you, who satisfies the property of [target slot]⟫;
-  -ŋ◈-, ⟪[new slot] wants to satisfy the property of [target slot]⟫;.  
-  -ƛʼ◈-, ⟪[new slot] attempts to satisfy the property of [target slot]⟫;.  
-  -sc◈-, ⟪[new slot] is all that has the property of [target slot]⟫;.  
+## Type −+
+Modifies one slot of the stem (sort of removes one and adds one); the vowel marks which slot is selected; the meaning of the slot is modified, but this suffix type does not bind the extensional case, it just reuses the modified cases. The resulting valency and case set of the predicate is unchanged.  
+
+  **Examples:**  
+  * **-n◈-**: ⟪[new slot] is me, who satisfies the property of [target slot]⟫;
+  * **-k◈-**: ⟪[new slot] is you, who satisfies the property of [target slot]⟫;
+  * **-ŋ◈-**: ⟪[new slot] wants to satisfy the property of [target slot]⟫;.  
+  * **-ƛʼ◈-**: ⟪[new slot] attempts to satisfy the property of [target slot]⟫;.  
+  * **-sc◈-**: ⟪[new slot] is all that has the property of [target slot]⟫;.  
   
   
 ```
@@ -120,8 +132,11 @@ Below is a list of the different types of extensional prefixes:
 └─
 ```
 
-● Type −−+: removes two slots and adds one (bound to the affixal case).  
-  Example: -kw◈y◈-, «[new slot] are in the reciprocal relationship of [removed pair of slots]».   
+## Type −−+
+Removes two slots and adds one (bound to the affixal case).  
+
+  **Examples:**
+  * **-kw◈y◈-**: ⟪[new slot] are in the reciprocal relationship of [removed pair of slots]⟫.   
 
 ```
 ┌───────────────
