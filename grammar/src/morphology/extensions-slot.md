@@ -75,7 +75,7 @@ Removes one slot, marked by the vowel form.
   (none currently).  
   
 ## Type −+
-Modifies one slot of the stem (sort of removes one and adds one); the vowel marks which slot is selected; the meaning of the slot is modified, but this suffix type does not bind the extensional case, it just reuses the modified cases. The resulting valency and case set of the predicate is unchanged.  
+Modifies one slot of the stem (sort of removes one and adds one); the vowel part of the affix, represented by the symbol ⟪◈⟫ below, is variable and represents the “Inner Case” identifying which slot is selected by the affix; the meaning of the slot is modified, but this suffix type does not bind the extensional case, it just reuses the modified cases. The resulting valency and case set of the predicate is unchanged.  
 
   **Examples:**  
   * **-n◈-**: ⟪[new slot] is me, who satisfies the property of [target slot]⟫;
