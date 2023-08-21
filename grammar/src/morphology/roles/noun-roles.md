@@ -57,12 +57,12 @@ IC ≝ Internal/inner case
   
 Other core cases:  
 ```  
-┌─────────────┬─────┬─────┐  
-│ DP:         │  tʼ │ uʼa │  
-│ Affixal:    │  kʼ │ aı  │   
-│ Eventive:   │  š  │ aï  │  
-│ Situative:  │  tʰ │ uʼı │  
-└─────────────┴─────┴─────┘  
+┌──────────────┬─────┬─────┐  
+│ DP:          │  tʼ │ uʼa │  
+│ Extensional: │  kʼ │ aı  │   
+│ Eventive:    │  š  │ aï  │  
+│ Situative:   │  tʰ │ uʼı │  
+└──────────────┴─────┴─────┘  
 ```  
   
 For binary, ternary an quaternary predicates, the cases shown in the table are ordered according to an animacy or temporal/causal hierarchy: the first participant is the most animate, or the one triggering or exercicing the most control over the event described by the predicate, or occasionally, in the case of stative relations, it may be the largest or most concrete participant. Abstract propositions, properties and relations have lowest rank in this hierarchy, and will typically be associated with the last cases of each case list.  
@@ -133,17 +133,17 @@ Below is an explanation of the functions of the other core cases mentioned in th
 └─  
 ```  
   
-• The Affixal Case is governed by certain extentional prefixes, which intoduces a new participant to the relationship expressed by the verb. For example, a causative extensional prefix will add a ‘causer’ participant, which will then be accessible via the Affixal Case.  
+• The Extensional Case, or ‘Affixal Case’, is governed by certain extentional prefixes, which intoduces a new participant to the relationship expressed by the verb. For example, a causative extensional prefix will add a ‘causer’ participant, which will then be accessible via the Affixal Case.  
   
 ```
 ┌───────────────
 │ ◆ Unaıqaoñú caθakóyu.
-│ ❖ ASR.REC-1P:AFX-CAUS-eat  ACC-INTR-DEF:INTR-dog
+│ ❖ ASR.REC-1P:EXT-CAUS-eat  ACC-INTR-DEF:INTR-dog
 │ ➥ (I recall that) I made the dog eat (something).
 └─
 ┌───────────────
 │ ◆ Uqaoñú kʼıθıʎáoko caθakóyu kaθastíñu.
-│ ❖ ASR.REC-CAUS-eat  AFX-ERG-DEF:ERG-take_care
+│ ❖ ASR.REC-CAUS-eat  EXT-ERG-DEF:ERG-take_care
 │   ERG-INTR-DEF:INTR-dog  ACC-INTR-DEF:INTR-food
 │ ➥ (I recall that) the caretaker made the dog eat the food.
 └─
