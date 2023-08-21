@@ -38,7 +38,7 @@ For example:
 ◉ ⟪-kóyu⟫, one-root base, unary valency: “🅰 is a dog”.  
 ◉ ⟪-cál⟫, one-root base, binary valency: “🅸 has visual perception of 🆄”.  
 ◉ ⟪-yéwa⟫, one-root base, ternary valency: “🅴 is thankful to 🆈 for having property 🅾”.  
-◉ ⟪-kíwaƛʰaı⟫ (⟪-kíwa-ƛʰaı⟫, “skin-tree”), two roots base, unary valency: “🅰 is tree bark”.
+◉ ⟪-kíwaƛʰaı⟫ (⟪-kíwa-ƛʰaı⟫, “skin-tree”), two roots base, unary valency: “🅰 is tree bark”.  
 ◉ ⟪-yı̋yewa⟫ (⟪-yı̋-yewa⟫, “display-grateful”), two roots base, ternary valency: “🅴 thanks, displays gratefulness to 🆈 for having property 🅾”.
 
 
