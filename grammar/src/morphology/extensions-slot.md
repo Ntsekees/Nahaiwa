@@ -27,24 +27,24 @@ No change in valency, does not select/remove any slot.
 ```
 ┌───────────────
 │ ◆ -łı̋
-│ ➥ ➊ is asleep.
+│ ➥ 🅰 is asleep.
 │ 
 │ ◆ -šu-łı̋
-│ ➥ it ceases to be the case that [➊ is asleep].
+│ ➥ it ceases to be the case that [🅰 is asleep].
 │ 
 │ ◆ -ha-[šu-łı̋]
-│ ➥ [it is not the case that [it ceases to be the case that [➊ is asleep]]].
-│ ➥ ➊ doesn't cease to sleep.
+│ ➥ [it is not the case that [it ceases to be the case that [🅰 is asleep]]].
+│ ➥ 🅰 doesn't cease to sleep.
 │ 
 │ ◆ -kʰao-[ha-[šu-łı̋]]
 │ ➥ [it is possible that [it is not the case that [
-│      it ceases to be the case that [➊ is asleep]]]].
-│ ➥ maybe ➊ doesn't cease to sleep.
+│      it ceases to be the case that [🅰 is asleep]]]].
+│ ➥ maybe 🅰 doesn't cease to sleep.
 └─
 ```
 
 ## Type 0+
-Same as type 0, but adds an Extensional case slot, represented by ⟪Ⓔ⟫ in definitions.  
+Same as type 0, but adds an Extensional case slot, represented by ⟪🆇⟫ in definitions.  
 
   **Examples:**  
   * **-qao-** (causative): ⟪Ⓔ agentively causes, makes ……… be the case⟫.
@@ -52,13 +52,13 @@ Same as type 0, but adds an Extensional case slot, represented by ⟪Ⓔ⟫ in d
 ```
 ┌───────────────
 │ ◆ -cál
-│ ➥ ➊ sees ➋.
+│ ➥ 🅸 sees 🆄.
 │ 
 │ ◆ -qao-cál
-│ ➥ Ⓔ makes [➊ sees ➋] be the case.
+│ ➥ 🆇 makes [🅸 sees 🆄] be the case.
 │ 
 │ ◆ -ha-[qao-cál]
-│ ➥ it is not the case that [Ⓔ makes [➊ sees ➋] be the case].
+│ ➥ it is not the case that [🆇 makes [🅸 sees 🆄] be the case].
 └─
 ```
   
@@ -76,6 +76,8 @@ Removes one slot, marked by the vowel form.
   
 ## Type −+
 Modifies one slot of the stem (sort of removes one and adds one); the vowel part of the affix, represented by the symbol ⟪◈⟫ below, is variable and represents the “Inner Case” identifying which slot is selected by the affix; the meaning of the slot is modified, but this suffix type does not bind the extensional case, it just reuses the modified cases. The resulting valency and case set of the predicate is unchanged.  
+With unary bases, the vowel is ⟪a⟫ (Intransitive Inner Case).  
+With binary bases, the vowel is either ⟪ı⟫ (Ergative) or ⟪u⟫ (Accusative).
 
   **Examples:**  
   * **-n◈-**: ⟪[new slot] is me, who satisfies the property of [target slot]⟫;
@@ -89,45 +91,45 @@ Modifies one slot of the stem (sort of removes one and adds one); the vowel part
 ┌───────────────
 │ ◆ -na-łı̋
 │ ❖ -1P:INTR-√is_asleep
-│ ➥ ➊ is me and is asleep.
+│ ➥ 🅰 is me and is asleep.
 └─
 ┌───────────────
 │ ◆ -ƛʼa-łı̋
 │ ❖ -try:INTR-√is_asleep
-│ ➥ ➊ tries to be asleep.
+│ ➥ 🅰 tries to be asleep.
 │ 
 │ ◆ -na-ƛʼa-łı̋
 │ ❖ -1P:INTR-try:INTR-√is_asleep
-│ ➥ ➊ is me, who tries to be asleep.
+│ ➥ 🅰 is me, who tries to be asleep.
 │ “I try to sleep”.
 └─
 ┌───────────────
 │ ◆ -cál
 │ ❖ -√see
-│ ➥ ➊ sees ➋.
+│ ➥ 🅸 sees 🆄.
 │ 
 │ ◆ -ku-cál
 │ ❖ 2P:ACC-√see
-│ ➥ ➋ is you and has the property [➊ sees ____].
-│ ➥ ➋ is you and is seen by ➊.
-│ ➥ ➊ sees ➋ which is you.
+│ ➥ 🆄 is you and has the property [🅸 sees ____].
+│ ➥ 🆄 is you and is seen by 🅸.
+│ ➥ 🅸 sees 🆄 which is you.
 │ 
 │ ◆ -nı-[ku-cál]
-│ ➥ ➊ is me, who has the property [___ sees ➋ which is you].
-│ ➥ me, who is ➊, sees you, who is ➋.
+│ ➥ 🅸 is me, who has the property [___ sees 🆄 which is you].
+│ ➥ me, who is 🅸, sees you, who is 🆄.
 │ ➥ “I see you”.
 └─
 ┌───────────────
 │ ◆ -nı-[ƛʼı-[ku-cál]]
-│ ➥ ➊ is me, who tries to have the property [___ sees ➋ which is you].
-│ ➥ me, who is ➊, tries to see you, who is ➋.
+│ ➥ 🅸 is me, who tries to have the property [___ sees 🆄 which is you].
+│ ➥ me, who is 🅸, tries to see you, who is 🆄.
 │ ➥ “I try to see you”.
 └─
 ┌───────────────
 │ ◆ -nı-[ku-[ƛʼu-cál]]
-│ ➥ ➊ is me, who has the property [
-│      ➋ who is you, tries that ___ sees you].
-│ ➥ ➋, you, try to be seen by ➊, me.
+│ ➥ 🅸 is me, who has the property [
+│      🆄 who is you, tries that ___ sees you].
+│ ➥ 🆄, you, try to be seen by 🅸, me.
 │ ➥ “You try to be seen by me”.
 └─
 ```
@@ -142,8 +144,8 @@ Removes two slots and adds one (bound to the affixal case).
 ┌───────────────
 │ ◆ -kwıyu-cál
 │ ❖ -RCP:ERG:ACC-√see
-│ ➥ ➊ are in reciprocal relationship [___ sees ___].
-│ ➥ ➊ see each other.
+│ ➥ 🅰 are in reciprocal relationship [___ sees ___].
+│ ➥ 🅰 see each other.
 └─
 ```
 

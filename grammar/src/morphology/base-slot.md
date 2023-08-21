@@ -22,16 +22,23 @@ Word bases have verb-like meanings, in that each base is assigned a valency, whi
 The only intrinsic syntactic properties of word bases (other than those of function words) are their valency, and the types and grammatical cases associated with each of their argument slots.
 There are no lexically coded distinction between “verb”, “noun”, “adjective” etc., which are syntactic properties that are determined by the inflection of the whole word, specifically via the [Role Slot](roles/noun-roles.md).
 
-In the dictionay, all bases are given verb-like definitions, even for those representing concepts typically expressed with nouns in most other languages; for example, the base for “table” would be defined as ⟪➊ is a table⟫; the one for “sibling” would be defined as ⟪➊ is a sibling of ➋⟫, where the circled numbers represent the core argument slots governed by the base.
+In the dictionay, all bases are given verb-like definitions, even for those representing concepts typically expressed with nouns in most other languages; for example, the base for “table” would be defined as ⟪🅰 is a table⟫; the one for “sibling” would be defined as ⟪🅸 is a sibling of 🆄⟫, where the circled numbers represent the core argument slots governed by the base.
 
 Given that Nahaıwa exhibits an extended tripartite alignment, each of the possible valencies (between zero and four) governs a different, non-overlapping set of noun cases. These are detailed in the [Role Slot](roles/noun-roles.md) section.
 
-For examples:
+Here's an overview:
 
-◉ ⟪-kóyu⟫, one-root base, unary valency: “➊ is a dog”.  
-◉ ⟪-cál⟫, one-root base, binary valency: “➊ has visual perception of ➋”.  
-◉ ⟪-yéwa⟫, one-root base, ternary valency: “➊ is thankful to ➋ for having property ➌”.  
-◉ ⟪-kíwaƛʰaı⟫ (⟪-kíwa-ƛʰaı⟫, “skin-tree”), two roots base, unary valency: “➊ is tree bark”.
-◉ ⟪-yı̋yewa⟫ (⟪-yı̋-yewa⟫, “display-grateful”), two roots base, ternary valency: “➊ thanks, displays gratefulness to ➋ for having property ➌”.
+ * Nullary bases (valency zero) don't govern any noun case.  
+ * Unary bases (valency 1) govern one noun case: the Intransitive (`ɪɴᴛʀ`), symbolized by ⟪🅰⟫ in base definitions.  
+ * Binary bases (valency 2) govern two noun cases: Ergative (`ᴇʀɢ`, symbol ⟪🅸⟫) and Accusative (`ᴀᴄᴄ`, symbol ⟪🆄⟫).  
+ * Ternary bases (valency 3) govern three noun cases: Ternary Ergative (`ᴛᴇʀɢ`, ⟪🅴⟫), Coaccusative (`ᴄᴀᴄᴄ`, ⟪🆈⟫), Ternary Accusative (`ᴛᴀᴄᴄ`, ⟪🅾⟫).  
+
+For example:
+
+◉ ⟪-kóyu⟫, one-root base, unary valency: “🅰 is a dog”.  
+◉ ⟪-cál⟫, one-root base, binary valency: “🅸 has visual perception of 🆄”.  
+◉ ⟪-yéwa⟫, one-root base, ternary valency: “🅴 is thankful to 🆈 for having property 🅾”.  
+◉ ⟪-kíwaƛʰaı⟫ (⟪-kíwa-ƛʰaı⟫, “skin-tree”), two roots base, unary valency: “🅰 is tree bark”.
+◉ ⟪-yı̋yewa⟫ (⟪-yı̋-yewa⟫, “display-grateful”), two roots base, ternary valency: “🅴 thanks, displays gratefulness to 🆈 for having property 🅾”.
 
 
