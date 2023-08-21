@@ -1,6 +1,8 @@
 # Root Verb roles
 
-A sentence may contain only one root verb, or “main verb”, and it is always the first word of the sentence. When a root verb occurs in a stream of words, it signals that a new sentence begins at that position.  
+A sentence may contain only one root verb, or “main verb”, and it is always the first word of the sentence. When a root verb occurs in a stream of words, it signals that a new sentence begins at that position.
+
+A root verb alone is sufficient as a complete sentence. A root verb has a set of core complements specified by its stem, each being associated with a grammatical case. When any of these core complements is not explicitly present, it is covertly existentially quantified, i.e. it's set to “something or somebody”.  
   
 There are several different Role prefixes that create root verbs; they further show additional information, namely the illocution (speech act) of the sentence, and if that illocution is the ‘Assertive’, then they also indicate Evidentiality, i.e. the kind of evidence that is the basis for the claim being made with the utterance.  
 The Illocution indicates whether the sentence is an assertion (a description of what the speaker thinks is reality), a question, a command, a request, a performative/declarative act, and so on.  
