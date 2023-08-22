@@ -47,7 +47,7 @@ No change in valency, does not select/remove any slot.
 Same as type 0, but adds an Extensional case slot, represented by ⟪🆇⟫ in definitions.  
 
   **Examples:**  
-  * **-qao-** (causative): ⟪Ⓔ agentively causes, makes ……… be the case⟫.
+  * **-qao-** (causative): ⟪🆇 agentively causes, makes ……… be the case⟫.
 
 ```
 ┌───────────────
