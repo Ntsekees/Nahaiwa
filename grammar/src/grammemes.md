@@ -74,7 +74,7 @@
 | s / eı                              | LOC⁓SPL  | Spatiotemporal Locative                 |
 | y                                   | ITJ      | Interjective                            |
 | w                                   | VOC      | Vocative                                |
-| n                                   | PUI      | Plural Union                            |
+| n                                   | PU       | Plural Union                            |
 | ŋ                                   | SEQ      | Sequential                              |
 | l                                   | ADJ      | Adjectival                              |
 | ł                                   | PRP      | Propositional                           |
