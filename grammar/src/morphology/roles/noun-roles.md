@@ -126,9 +126,9 @@ Below is an explanation of the functions of the other core cases mentioned in th
 • The Dislocated Predicate (DP) Case is governed exclusively by the predicate application roots ⟪-wáʼ⟫, ⟪rá⟫, ⟪-káo⟫ and ⟪qóweʼ⟫ (there is one for each nonzero predicate arity, shown in order); it marks the noun phrase representing the predicate that is to be applied, ‘unboxed’, by the dummy applicator verb based on these roots, which also takes as its arguments all the arguments required by the applied predicate:  
 ```  
 ┌───────────────  
-│ ◆ Aıwáʼ tatʼí tʼoıtʼınucál.  =  Aınucál catʼí.  
+│ ◆ Aıwáʼ tatʼí tʼoyınucál.  =  Aınucál catʼí.  
 │ ❖ ASR-has_property INTR-INTR-bird  
-│   DP-UTC-lambda_1:ERG-me:NOM-see_stimulus  
+│   DP-PROP-ERG-1P:ACC-see_stimulus  
 │ ➥ A bird has the property of seeing me.  =  A bird sees me.  
 └─  
 ```  
