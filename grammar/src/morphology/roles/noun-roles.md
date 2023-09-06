@@ -30,7 +30,7 @@ The outer case is represented by a consonantal prefix, followed by a vocalic aff
   
 The language exhibits an extended form of the tripartite alignment. Word roots represent predicates with an arity/valency between zero and four, i.e. governing at most four different arguments. Each predicate arity has its own set of case affixes: unary predicates govern only one case, binary predicates have two, ternary predicates have three, and so on. Predicates of a certain arity cannot govern case affixes belonging to a different arity: there is a form of agreement between cases and predicate arity.  
   
-Core noun case affixes:  
+## Core noun case affixes:  
   
 OC ≝ External/outer case  
 IC ≝ Internal/inner case  
@@ -167,7 +167,8 @@ Below is an explanation of the functions of the other core cases mentioned in th
 • The Situative Case marks nouns referring to a world or a volume of spacetime within which the proposition expressed by the verb is true. For it to apply, the event and the target spacetime area must be entirely encompassed by the referent of the marked noun.  
   
   
-Non-core (adjunct) cases:  
+## Non-core (adjunct) cases:
+
 ```  
 ┌───────────────┬─────┬─────┐  
 │ Topical       │  r  │     │  
@@ -177,7 +178,8 @@ Non-core (adjunct) cases:
 └───────────────┴─────┴─────┘  
 ```  
   
-• The Topical Case marks the topic of the sentence. ⸨Note: it might become deprecated soon.⸩  
+• The Topical Case marks the topic of the sentence.  
+⸨Note: it might become deprecated soon.⸩  
   
 • The Pendent Case introduces a noun phrase without stating any relation between it and the current clause, and binds it to the Pendent pronoun (whose root form is ⟪-ƛá⟫ and whose extensional form is ⟪-ƛ◈-⟫, with ⟪◈⟫ representing an Inner Case vowel). This allows the introduced noun phrase (now bound to the pendent pronoun) to be used latter, possibly in a subordinate clause not yet opened. This is especially useful for expressing quantification binding a variable that is not used in the same clause as the one in which the quantifier appears, but rather in a more deeply nested clause:  
 ```  
@@ -191,6 +193,15 @@ Non-core (adjunct) cases:
 ```  
   
 • The Instrumental Case marks a noun referring to an instrument used by the referent of the most animate slot of the verb (e.g. the ⟪c-⟫ Case slot of binary predicates, the ⟪p-⟫ case slot of ternary predicates…) for achieving the action described by the current clause.  
+
+```  
+┌───────────────  
+│ ◆ Iθewétakı qoyakóyu ƛʼaƛʰísı.  
+│ ❖ ASR.SEN꞊EXO:ERG-draws_depiction ACC-PROP-INTR-is_a_dog  
+│   INS-INTR-is_a_pencil
+│ ➥ They draw dogness, using a pencil.  
+└─  
+```  
   
 • The Spatiotemporal Locative Case marks nouns referring to a volume of spacetime where the event described is taking place. For it to apply, the event and the target spacetime area must simply overlap, the event needs not be entirely encompassed by that area.  
   
