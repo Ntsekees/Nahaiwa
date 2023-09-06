@@ -167,9 +167,6 @@ Below is an explanation of the functions of the other core cases mentioned in th
 • The Situative Case marks nouns referring to a world or a volume of spacetime within which the proposition expressed by the verb is true. For it to apply, the event and the target spacetime area must be entirely encompassed by the referent of the marked noun.  
   
   
-⸨TODO: More usage example sentences.⸩  
-  
-  
 Non-core (adjunct) cases:  
 ```  
 ┌───────────────┬─────┬─────┐  
