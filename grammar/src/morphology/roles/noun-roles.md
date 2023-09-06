@@ -199,7 +199,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
 │ ◆ Iθewétakı qoyakóyu ƛʼaƛʰísı.  
 │ ❖ ASR.SEN꞊EXO:ERG-draws_depiction ACC-PROP-INTR-is_a_dog  
 │   INS-INTR-is_a_pencil
-│ ➥ They draw dogness, using a pencil.  
+│ ➥ They draw (a representation of) dogness, using a pencil.  
 └─  
 ```  
   
