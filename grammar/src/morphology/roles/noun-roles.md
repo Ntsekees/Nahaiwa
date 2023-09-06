@@ -1,7 +1,7 @@
 # Noun roles
 
  
-With noun roles, as well as adjectival and adverbial roles, Slot 2 is subdivised into the following subslots:  
+With noun roles, as well as modificative and adverbial roles, Slot 2 is subdivised into the following subslots:  
   
 ```  
 ┌────┬───────┬──────────────────────────────┐  

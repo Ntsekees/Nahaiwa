@@ -88,7 +88,7 @@
 
 ◆ Epí cıwaƛúrı kaqó laqárı.
 ❖ ʼe꞊√pí  c-ıw-a-√ƛúrı  k-a-√qó  l-a-√qárı.
-◇ EPI꞊√has_part  ERG-∀-INTR-√cat  ACC-INTR-√4  ADJ-INTR-√leg
+◇ EPI꞊√has_part  ERG-∀-INTR-√cat  ACC-INTR-√4  MOD-INTR-√leg
 Ⓔ All cats have four legs.
 
 ◆ Intıŋmıtʰán kʼancʼaƛʰáı.

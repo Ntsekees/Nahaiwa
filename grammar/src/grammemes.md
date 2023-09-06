@@ -76,7 +76,7 @@
 | w                                   | VOC      | Vocative                                |
 | n                                   | PU       | Plural Union                            |
 | ŋ                                   | SEQ      | Sequential                              |
-| l                                   | ADJ      | Adjectival                              |
+| l                                   | MOD      | Modificative                            |
 | ł                                   | PRP      | Propositional                           |
 | qʼ                                  | DSIT     | Discourse Situative                     |
 

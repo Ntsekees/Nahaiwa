@@ -8,7 +8,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 │ Vocative            │  w  │  
 │ Plural union        │  n  │  
 │ Sequential          │  ŋ  │  
-│ Adjectival          │  l  │  
+│ Modificative        │  l  │  
 │ Propositional       │  ł  │  
 │ Discourse Situative │  qʼ │  
 └─────────────────────┴─────┘  
@@ -57,13 +57,13 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
   
 • The Sequential Case is used to construct sequences, lists, and is applied to all non-initial members of the list. The first member's case indicates the syntactic role of the whole list.  
   
-• The Adjectival Case turns the contentive word into a restrictive adjective modifying the immediately preceding contentive, no matter its syntactic role (even non-nominal roles). The resulting meaning corresponds to that of a ‘logical AND’ conjunction.  
+• The Modificative Case turns the contentive word into a restrictive modifier targeting the immediately preceding contentive, no matter its syntactic role (even non-nominal roles). The resulting meaning corresponds to that of a ‘logical AND’ conjunction.  
   
 ```  
   ┌───────────────  
   │ ◆ Unınθıcál kacatʼí lalé.  
   │ ❖ REC-me:ERG-associative_plural:ERG-see_stimulus  
-  │   NOM-INTR-one_in_number:INTR-bird ADJ-INTR-blue  
+  │   NOM-INTR-one_in_number:INTR-bird MOD-INTR-blue  
   │ ➥ We saw a blue bird. (Something that is blue and is a bird.)  
   └─  
 ```  
