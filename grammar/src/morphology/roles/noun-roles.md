@@ -150,7 +150,20 @@ Below is an explanation of the functions of the other core cases mentioned in th
 ```
   
 • The Eventive Case may appear with pretty much any verb; it marks a noun that refers to a spatiotemporal event corresponding to the abstract proposition expressed by the verb.  
-  
+
+```
+┌───────────────
+│ ◆ Iθırí šunıʎáıwa.
+│ ❖ ASR.SEN-EXO:ERG-walk_on  EV-ACC-1P:ERG-find_beautiful
+│ ➥ They walk in a manner that is beatiful to me.
+└─
+┌───────────────
+│ ◆ Inıʎáıwa kaïθırí.
+│ ❖ ASR.SEN-1P:ERG-find_beautiful  ACC-EV-EXO:ERG-walk_on
+│ ➥ I find beautiful their walking.
+└─
+```
+
 • The Situative Case marks nouns referring to a world or a volume of spacetime within which the proposition expressed by the verb is true. For it to apply, the event and the target spacetime area must be entirely encompassed by the referent of the marked noun.  
   
   
