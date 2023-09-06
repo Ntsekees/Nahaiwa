@@ -95,23 +95,13 @@
 ### DETERMINACIES:
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
 |-------------------------------------|----------|-----------------------------------------|
-| aw                                  | EF⁓ELU   | Elucidative Focus                       |
+| aw                                  | EF⁓ELU   | Elucidative focus                       |
 | ay                                  | BG       | Background/Presupposition marker        |
+| oy                                  | PROP     | Abstract property                       |
 | ew                                  | CUQ      | Collective universal quantifier         |
 | ıw                                  | ∀        | Distributive universal quantifier       |
 | uy                                  | ∃        | Existential quantifier                  |
 | ey                                  | UQZ      | Unary quantifierizer                    |
-|                                     |          |                                         |
-| aıw                                 | ULR      | Unary Lambda Rebinder                   |
-| eıw                                 | BLR1     | Binary Lambda Rebinder #1               |
-| oıw                                 | BLR2     | Binary Lambda Rebinder #2               |
-| aıwey                               | TLR1     | Ternary Lambda Rebinder #1              |
-| aıwïy                               | TLR2     | Ternary Lambda Rebinder #2              |
-| aıwoy                               | TLR3     | Ternary Lambda Rebinder #3              |
-| aoway                               | QLR1     | Quaternary Lambda Rebinder #1           |
-| aowey                               | QLR2     | Quaternary Lambda Rebinder #2           |
-| aowïy                               | QLR3     | Quaternary Lambda Rebinder #3           |
-| aowoy                               | QLR4     | Quaternary Lambda Rebinder #4           |
 
 ### ROLES ➤ OTHERS:
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
