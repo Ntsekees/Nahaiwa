@@ -90,7 +90,7 @@ Examples with the binary root `-ñú`, “eat”:
 └─
 ┌───────────────
 │ ◆ Unıñú kaθastíñu.
-│ ❖ ASR.REC-1P:ERG-eat  ACC-INTR-food
+│ ❖ ASR.REC-1P:ERG-eat  ACC-INTR-DEF:INTR-food
 │ ➥ (I recall that) I ate the food.
 └─
 ┌───────────────
