@@ -40,17 +40,17 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
     
 ```  
   ┌───────────────  
-  │ ◆ Ici̋ tayakóyu ñaʼáı tayaƛúrı ne.  
-  │ ❖ ASR.SEN-√is_one  INTR-DEF-INTR-√dog  CZ2-√and  
-  │   INTR-DEF-INTR-√cat  EOT  
+  │ ◆ Ici̋ taθakóyu ñaʼáı taθaƛúrı ne.  
+  │ ❖ ASR.SEN-√is_one  INTR-INTR-EXO:INTR-√dog  CZ2-√and  
+  │   INTR-INTR-EXO:INTR-√cat  EOT  
   │ ➥ Both the dog and the cat are one/single. [EOT]  
   └─  
 ```  
 ```  
   ┌───────────────  
-  │ ◆ Irú tayakóyu nayaƛúrı ne.  
-  │ ❖ ASR.SEN-√are_two  INTR-DEF-INTR-√dog  
-  │   PU-DEF-INTR-√cat  EOT  
+  │ ◆ Irú taθakóyu naθaƛúrı ne.  
+  │ ❖ ASR.SEN-√are_two  INTR-INTR-EXO:INTR-√dog  
+  │   PU-INTR-EXO:INTR-√cat  EOT  
   │ ➥ The dog together with the cat are two. [EOT]  
   └─  
 ```  
