@@ -4,7 +4,7 @@ Determinacy affixes are optional and occur in slot 2b.
   
 ```  
 ┌────────────────────────────────────┬─────┐  
-│ Elucitadive focus                  │ aw  │  
+│ Elucidative focus                  │ aw  │  
 │ Presupposition marker              │ ay  │ 
 │ Abstract property                  │ oy  │  
 │ Collective universal quantifier    │ ew  │  
