@@ -39,3 +39,14 @@ Below is a list of the possible root verb prefixes.
   * **kʰaı-**: permissive: expression of permission.
   * **yao-**:  seeking of permission.  
   
+Note: Whilst there's a prefix for granting permission, ⟪kʰaı-⟫, there's no dedicated one for prohibition, for that latter is expressed with negative imperatives instead:
+```  
+  ┌───────────────  
+  │ ◆ — Yaoʎáıša.
+  │   — Kʰuhaʎáıša.
+  │ ❖ — SOP-music
+  │   — REQ-NEG-music
+  │ ➥ — Can I put music on?
+  │   — Please no music.
+  └─  
+```  
