@@ -38,15 +38,57 @@ Below is a list of the possible root verb prefixes.
   * **kʰao-**: recommandation.  
   * **kʰaı-**: permissive: expression of permission.
   * **yao-**:  seeking of permission.  
-  
+
+The content interrogative illocutions go hand-in-hand with the lambda pronominal extension ⟪-tʼ◈-⟫, which plays here the role of the content interrogative pronoun “what”. There is do distinct pronoun for “who”.
+
 Note: Whilst there's a prefix for granting permission, ⟪kʰaı-⟫, there's no dedicated one for prohibition, for that latter is expressed with negative imperatives instead:
-```  
-  ┌───────────────  
+```
+  ┌───────────────
   │ ◆ — Yaoʎáıša.
   │   — Kʰuhaʎáıša.
   │ ❖ — SOP-music
   │   — REQ-NEG-music
   │ ➥ — Can I put music on?
   │   — Please no music.
-  └─  
+  └─
 ```  
+
+## Example sentences
+
+```
+  ┌───────────────  
+  │ ◆ Ï(kï)yı̋yewa.
+  │ ❖ PFM-(2:TC2)-thank
+  │ ➥ I hereby thank (you).
+  └─
+  ┌───────────────  
+  │ ◆ Mukıŋıñu.
+  │ ❖ PQ-2:ERG-want:ERG-eat
+  │ ➥ Do you want to eat (something)?
+  └─
+  ┌───────────────  
+  │ ◆ Mıkıŋıtʼuñu.
+  │ ❖ CQ-2:ERG-want:ERG-LBD:ACC-eat
+  │ ➥ What do you want to eat?
+  └─
+  ┌───────────────  
+  │ ◆ Kʰaokıƛú.
+  │ ❖ RCM-2:ERG-drink
+  │ ➥ You should drink (something).
+  └─
+  ┌───────────────  
+  │ ◆ Kʰunïpákı.
+  │ ❖ REQ-1:TC2-help
+  │ ➥ Could you please help me?
+  └─
+  ┌───────────────  
+  │ ◆ Kʰı(kï)pákı.
+  │ ❖ OBLAT-(2:TC2)-help
+  │ ➥ I'm available to help (you).
+  └─
+
+```  
+
+
+ 
+
