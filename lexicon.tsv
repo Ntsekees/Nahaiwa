@@ -11,9 +11,10 @@ rƛao	ext	0	⓪ is repetitively the case, at high frequency.	aspect
 šı	ext	0	⓪ begins to be the case.	aspect change	bigida{⓪}
 k•	ext	−+	Ⓧ is, are you, you all (all the addressees, singular or plural, but not associative), and has property ①.	deixis	
 n•	ext	−+	Ⓧ is me and has property ①	deixis	
+θk•	ext	−+	Ⓧ is you-know-which thing having property ①.	deixis	
 θ•	ext	−+	Ⓧ is you-know-what and has property ①	deixis	
-ha	ext	0	➊ is false, isn't the case.	logic	maruhe
-kʰao	ext	0	➊ is possible.	logic modal	bamosu
+ha	ext	0	⓪ is false, isn't the case.	logic	maruhe{⓪}
+kʰao	ext	0	⓪ is possible.	logic modal	bamosu{⓪}
 mn•	ext	−+	Ⓧ is comparable, similar to ①.	metaphor	
 cʼ•	ext	−+	{{binary lambda proboun #2}}	syntactic_pronoun	
 kʼ•	ext	−+	{{binary lambda proboun #1}}	syntactic_pronoun	
@@ -80,6 +81,7 @@ t•	ext	−+	{{relative clause antecedent pronoun (resumptive pronoun)}}
 ’l•	ext	−+	Ⓧ succeeds to have property ①.		
 ntʼáı	root		➊ grasps, holds ➋.	action	cewomo
 ntʼáıne	root		➊ grasps, holds ➋ with a hand.	action	racuha
+pákı	root		➊ helps ➋ to satisfy property ➌.	action	juhebi
 qwáo	root		➊ utters, emits vocalization ➋ (sounds).	action	pisodi
 yáı	root		➊ uses, manipulates, exercises influence upon ➋ in order to achieve the goal of satisfying property ➌.	action	fuyayi
 čéwa	root		➊ purposefully has property ➋ for ensuring that ➌ be the case.	action	soyafo
@@ -215,6 +217,7 @@ tʰı̋l	root		➊ is metal.	substance	bibana
 ʎı̋	root		➊ is water (in any physical state).	substance	seliwa
 θwé	root	1	➊ is air.	substance	zawefe
 łı̋ʼ	root		➊ is urine.	substance secretion	qigiwu
+hák	root		The preceding sentence is false.	syntactic	
 cʰéʼe	root		{{quaternary lambda variable #2}}	syntactic_pronoun	
 cʼí	root		{{binary lambda variable #1}}	syntactic_pronoun	
 kʼú	root		{{binary lambda variable #2}}	syntactic_pronoun	
@@ -247,12 +250,12 @@ tʰáwa	root	3	➊ gives to ➋ property ➌.		behucu
 yálı	root		➊ inhabits ➋.		jawawe
 ñwáı	root		➊ is okay with, doesn't mind ➋ being the case.		zeqodi
 ʎáıwa	root		➊ finds ➋ beautiful (not necessarily visually).		zeyawu
+ʎáıša	root		➊ is music.		tatazu
 ʎú	root	3	➊ goes, moves, translocates from ➋ to ➌.		jogavu
 ʼám	root	2	➊ is the case along/together with ➋.		voyove
 cʰwá	root		➊ emits ➋.		
 cʰwákʼaı	root		➊ emits light ➋.		
 cʼék	root		➊ is a blade ⁓ knife.		
-hák	root		The preceding sentence is flase.		
 háo	root		➊ is a day (event of a daytime-nighttime cycle).		
 káoʼ	root		➊, ➋ and ➌ are in ternary relation 🅓.		dotuye{➊,➋,➌,🅓}
 kłı̋	root	2	For ➊, having property ➋ is detrimental.		
@@ -269,6 +272,7 @@ qwáoƛurı	root		➊ meows ➋.
 qéƛï	root		➊ is a branch (plant body part).		tisoke
 qóweʼ	root		➊, ➋, ➌ and ➍ are in quaternary relation 🅓.		gotavi{➊,➋,➌,➍,🅓}
 qʰáo	root		➊ is a sun.		
+qʰíya	root		➊ knows how to have property ➋ (through motor memory).		
 qʰíʎqı	root		➊ is a fluid in which ➊ is at least partly immersed, by which it is at least partly coated.		
 rí	root	1	➊ walks on ➋.		qajiho
 rúk	root		The preceding sentence is true.		
@@ -278,13 +282,14 @@ swákʼya	root	1	➊ is a morning (from dawn to noon).
 sʼáı	root		➊ is straight (not bent).		
 tákı	root		➊ draws on ➋ picture ➌.		
 tʰánïsa	root		➊ has tallness ➋.		lalega
-tʰáwa▓	root	3	➊ gives to ➋ control of ➌.		
+tʰáwa	root	3	➊ gives to ➋ control of ➌.		
 tʰú	root		➊ finds ➋ very likely, expects it to be true, has confidence in it being the case.		
 tʼáı	root		➊ exercises control over what has property ➋.		
 yáo	root		➊ greets ➋, expressing well-intentionedness and acknowledgement of presence. ⸨Used upon encounter but not upon parting.⸩		
 yémapıku	root	1	➊ is a bean pod.		
 yéo	root	2	For ➊, having property ➋ is beneficial.		
 ñʎé	root		➊ has access to ➋ ; ➋ is available, at the disposal of ➊.		
+číl	root		➊ is a fetus.		
 číʎu	root	2	➊ undergoes birth or hatching from fetal containment ➋.		
 číʼ	root		➊ is immature, not yet full-grown.		rihofa
 čʰán	root		➊ interacts socially with ➋.		
@@ -292,6 +297,7 @@ yéo	root	2	For ➊, having property ➋ is beneficial.
 łqʼáı	root		➊ undergoes destruction.		
 łúʼ	root	1	➊ is senecent.		
 łčál	root		➊ jokingly asserts that ➋ is the case.		yuzocu
+łčʼé	root		➊ has sickness or illness of having property ➋.		
 ƛéona’	root		➊ understands, interprets the meaning of ➋ as being ➌.		kimana
 ƛí	root		➊ touches ➋.		
 ƛúru	root		➊ shakes, trembles.		
@@ -301,8 +307,9 @@ yéo	root	2	For ➊, having property ➋ is beneficial.
 ʎqí	root		➊ is a fluid in which ➊ is immersed, by which it is coated.		
 ʎqó	root		➊ is a female.		
 ʎáo	root	2	➊ moves along spacetime path ➋.		
+ʎóı	root		➊ moves away and then returns to its initial location.		
 ʼní	root		➊ is spatially adjacent to ➋.		migibe
 θpʰé	root		➊ is a night.		
 θı̋	root		➊ excretes, expulsate ➋.		
-ʎóı			➊ moves away and then returns to its initial location.		
-θı̋ñu			➊ vomites, regurgitates ➋.		gawobo
+θı̋ñu	root		➊ vomites, regurgitates ➋.		gawobo
+θı̋čıl	root		➊ gives birth to ➋.		
