@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<title>Nahaıwa lexicon</title>
-		<style type="text/css">
-			table {
-				border-collapse: collapse;
-				border: 1px solid black;
-			}
-			td {
-				border: 1px solid black;
+  <head>
+    <meta charset="UTF-8">
+    <title>Nahaıwa lexicon</title>
+    <style type="text/css">
+      table {
+        border-collapse: collapse;
+        border: 1px solid black;
+      }
+      td {
+        border: 1px solid black;
         padding: 3px;
-			}
-		</style>
+      }
+    </style>
     <script
       type="text/javascript"
       src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.2/d3.js">
@@ -26,13 +26,15 @@
       }
       g_lexicon = [];
     </script>
-	</head>
-	<body>
+  </head>
+  <body>
     <input type="checkbox" id="sorting_checkbox" name="sorting_checkbox" checked=false onchange="proceed(g_lexicon);" />
     <label for="sorting_checkbox">Sort by semantic category</label>
     <br /><br />
-		<div id="content">(LEXICON NOT YET LOADED!)</div>
-		<script type="text/javascript">
+    <span id="lexemes_stats"></span>
+    <br /><br />
+    <div id="content">(LEXICON NOT YET LOADED!)</div>
+    <script type="text/javascript">
       function compare(a, b) {
         if(a === "") {
            return 1;
@@ -42,7 +44,7 @@
              return a < b ? -1 : a > b ? 1 : 0;
         }
       }
-			function proceed(lexicon) {
+      function proceed(lexicon) {
         shall_sort_by_semantic_tags =
           document.getElementById("sorting_checkbox").checked;
         lexicon = lexicon.sort((a, b) => {
@@ -70,11 +72,17 @@
         content = "<table cellspacing='2px'>\n<thead>\n<td>Morpheme</td><td>Type</td><td>Subtype</td><td>Meaning</td><td>Tags</td><td>Predilex ID</td>\n</thead>\n<tbody>\n";
         content += (s + "\n</tbody>\n</table>\n");
         document.getElementById("content").innerHTML = content;
+        n_roots = lexicon.filter(e => e.type === "root").length;
+        n_extensions = lexicon.filter(e => e.type === "ext").length;
+        document.getElementById('lexemes_stats').innerHTML =
+          "Number of lexemes: " + (n_roots + n_extensions) +
+          " (" + n_roots + " roots, " + n_extensions +
+          " extensional prefixes).";
       }
       d3.tsv("lexicon.tsv", (tsv) => {
         g_lexicon = tsv;
         proceed(tsv);
       });
-		</script>
-	</body>
+    </script>
+  </body>
 </html>
