@@ -58,7 +58,7 @@ Note: Whilst there's a prefix for granting permission, ⟪kʰaı-⟫, there's no
 ```
   ┌───────────────  
   │ ◆ Ï(kï)yı̋yewa.
-  │ ❖ PFM-(2:TC2)-thank
+  │ ❖ PFM-(2:DAT)-thank
   │ ➥ I hereby thank (you).
   └─
   ┌───────────────  
@@ -78,12 +78,12 @@ Note: Whilst there's a prefix for granting permission, ⟪kʰaı-⟫, there's no
   └─
   ┌───────────────  
   │ ◆ Kʰunïpákı.
-  │ ❖ REQ-1:TC2-help
+  │ ❖ REQ-1:DAT-help
   │ ➥ Could you please help me?
   └─
   ┌───────────────  
   │ ◆ Kʰı(kï)pákı.
-  │ ❖ OBLAT-(2:TC2)-help
+  │ ❖ OBLAT-(2:DAT)-help
   │ ➥ I'm available to help (you).
   └─
 

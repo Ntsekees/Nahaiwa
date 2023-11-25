@@ -38,8 +38,8 @@
 ```  
   ┌───────────────  
   │ ◆ Oθenïyi̋čal qaoci̋ tayakóyu (ñaʼáı) hurú tayaƛúrı.  
-  │ ❖ ASR.REC-you_know_what:TC1-me:TC2-√assert_to  
-  │   TC3-PCCS-√is_one  INTR-DEF-INTR-√dog  (EAPCZ-√and)  
+  │ ❖ ASR.REC-you_know_what:ERG₃-me:DAT-√assert_to  
+  │   ACC₃-PCCS-√is_one  INTR-DEF-INTR-√dog  (EAPCZ-√and)  
   │   COO-√are_two INTR-DEF-INTR-√cat  
   │ ➥ That one said to me that the dog was one and the cats were two.  
   └─  
@@ -54,7 +54,7 @@
   ┌───────────────  
   │ ◆ Aılé tatʼí, ʎaıθenïtoyi̋čal.  
   │ ❖ ASR-√is_blue  INTR-INTR-√bird  
-  │   ATR-you_know_what:TC1-me:TC2-RSM:TC3-√assert_to  
+  │   ATR-you_know_what:ERG₃-me:DAT-RSM:ACC₃-√assert_to  
   │ ➥ The bird was blue, they said to me.  
   └─  
 ```  
@@ -65,7 +65,7 @@ If the Afterthought Relativizer is used on the root clause whose root verb bears
   ┌───────────────  
   │ ◆ Olé tatʼí, ʎaıθenïtoyi̋čal.  
   │ ❖ ASR.RPT-√is_blue  INTR-INTR-√bird  
-  │   ATR-you_know_what:TC1-me:TC2-RSM:TC3-√assert_to  
+  │   ATR-you_know_what:ERG₃-me:DAT-RSM:ACC₃-√assert_to  
   │ ➥ I heard that the bird was blue, that's what they said to me (at least).  
   └─  
 ```  

@@ -60,7 +60,7 @@ When a clause does not contain an Elucidative Focus, the clause's verb plays the
 ```
 ┌───────────────
 │ ◆ Ikïyéwa qoyenïpákı.
-│ ❖ ASR.SEN-1P:TC2-grateful  TC3-PROP-TC1-1P:TC2-help
+│ ❖ ASR.SEN-1P:DAT-grateful  ACC₃-PROP-ERG-1P:DAT-help
 │ ➥ I am grateful to you for helping me.
 └─
 ```

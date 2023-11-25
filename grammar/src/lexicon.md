@@ -5,5 +5,4 @@ Nahaıwa's lexicon can be found **[here](https://github.com/Ntsekees/Nahaiwa/blo
 For roots, participant slots are represented by numbered black circles, ordered according to the following case hierarchy:  
 * For unary roots: Intransitive case;
 * For binary verbs: Ergative → Accusative;
-* For ternary verbs: TERG → CACC → TACC.
-
+* For ternary verbs: Ergative → Dative → Accusative.

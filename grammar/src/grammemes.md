@@ -52,9 +52,9 @@
 | t / a                               | UC1⁓INTR | Unary Case #1, Intransitive             |
 | c / ı                               | BC1⁓ERG  | Binary Case #1, Ergative                |
 | k / u                               | BC2⁓ACC  | Binary Case #2, Accusative              |
-| p / e                               | TC1⁓TERG | Ternary Case #1, Ternary Ergative       |
-| č / ï                               | TC2⁓CACC | Ternary Case #2, Coaccusative           |
-| q / o                               | TC3⁓TACC | Ternary Case #3, Ternary Accusative     |
+| p / e                               | TC1⁓ERG₃ | Ternary Case #1, (Ternary) Ergative     |
+| č / ï                               | TC2⁓DAT  | Ternary Case #2, Dative                 |
+| q / o                               | TC3⁓ACC₃ | Ternary Case #3, (Ternary) Accusative   |
 | pʰ / aʼa                            | QC1      | Quaternary Case #1                      |
 | cʰ / eʼe                            | QC2      | Quaternary Case #2                      |
 | čʰ / ïʼï                            | QC3      | Quaternary Case #3                      |
@@ -78,6 +78,7 @@
 | ŋ                                   | SEQ      | Sequential                              |
 | l                                   | MOD      | Modificative                            |
 | ł                                   | PRP      | Propositional                           |
+| █                                   | PND      | Discourse Pendent                       |
 | qʼ                                  | DSIT     | Discourse Situative                     |
 
 ### PARTICIPIALIZERS / SUBORDINATORS:
