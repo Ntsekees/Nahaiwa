@@ -1,10 +1,10 @@
 
 ◆ Inalı̋.
 ❖ ʼı꞊n⁃a-√lı̋
-◇ ASR.SEN꞊1P⁃INTR-sleep
+◇ ASR.SEN꞊1P⁃NTR-sleep
 ◆ Ili̋ taní.
 ❖ ʼı꞊√li̋  t-a-√ní
-◇ ASR.SEN꞊sleep  INTR-INTR-√1P
+◇ ASR.SEN꞊sleep  NTR-NTR-√1P
 Ⓔ I sleep.
 
 ◆ Ïnıkuyáo.
@@ -14,12 +14,12 @@
 
 ◆ Uli̋ tıwakóyu.
 ❖ ʔu-√li̋  t-ıw-a-√kóyu.
-◇ ASR.REC-√sleep  INTR-∀-INTR-√dog
+◇ ASR.REC-√sleep  NTR-∀-NTR-√dog
 Ⓔ (I remember preceiving that) all dogs were asleep.
 
 ◆ Irnakálı.
 ❖ ʼı꞊rn⁃a-√kálı
-◇ ASR.SEN-my⁃INTR-√book
+◇ ASR.SEN-my⁃NTR-√book
 Ⓔ There is my book (sensorial evidential).
 
 ◆ Inıkucál.
@@ -29,7 +29,7 @@
 
 ◆ Icál caní kakí.
 ❖ ʼı꞊√cál  c-a-√ní k-a-√kí
-◇ ASR.SEN꞊√see_stimulus  ERG-INTR-√1P ACC-INTR-√2P
+◇ ASR.SEN꞊√see_stimulus  ERG-NTR-√1P ACC-NTR-√2P
 Ⓔ I see you.
 
 ◆ Akwıcál.
@@ -65,7 +65,7 @@
 
 ◆ Ulúq tayacʼáo.
 ❖ ʼu꞊√lúq  t-ay-a-√cʼáo.
-◇ ASR.REC꞊√cold  INTR-DEF-INTR-√snow
+◇ ASR.REC꞊√cold  NTR-DEF-NTR-√snow
 Ⓔ (I remember experiencing that) the snow was cold.
 
 ◆ Ineθïkoʎú.
@@ -78,22 +78,22 @@
 
 ◆ Ici̋ tayakóyu ña’áı tayaƛúrı ne.
 ❖ ʼı꞊√ci̋  t-ay-a-√kóyu  ña-√’áı  t-ay-a-√ƛúrı  ne
-◇ ASR.SEN꞊√is_one  INTR-DEF-INTR-√dog  EACZ-√are_both_true  INTR-DEF-INTR-√cat  EOT
+◇ ASR.SEN꞊√is_one  NTR-DEF-NTR-√dog  EACZ-√are_both_true  NTR-DEF-NTR-√cat  EOT
 Ⓔ The dog and⸨logical⸩ the cat are both one/single. End of communication.
 
 ◆ Irú tayakóyu nayaƛúrı ne.
 ❖ ʼı꞊√rú̋  t-ay-a-√kóyu  n-ay-a-√ƛúrı  ne
-◇ ASR.SEN-√are_two  INTR-DEF-INTR-√dog  PU-DEF-INTR-√cat  EOT
+◇ ASR.SEN-√are_two  NTR-DEF-NTR-√dog  PU-DEF-NTR-√cat  EOT
 Ⓔ The dog together with the cat are two. End of communication.
 
 ◆ Epí cıwaƛúrı kaqó laqárı.
 ❖ ʼe꞊√pí  c-ıw-a-√ƛúrı  k-a-√qó  l-a-√qárı.
-◇ EPI꞊√has_part  ERG-∀-INTR-√cat  ACC-INTR-√4  MOD-INTR-√leg
+◇ EPI꞊√has_part  ERG-∀-NTR-√cat  ACC-NTR-√4  MOD-NTR-√leg
 Ⓔ All cats have four legs.
 
 ◆ Intıŋmıtʰán kʼancʼaƛʰáı.
 ❖ ʼa-nt⁃ı-ŋm⁃ı-tʰán  kʼ-a-ncʼ⁃a-ƛʰáı.
-◇ ASR.INF this⁃ERG-great_as⁃ERG-√has_size  EXT-INTR-property_of⁃INTR-√tree.
+◇ ASR.INF this⁃ERG-great_as⁃ERG-√has_size  EXT-NTR-property_of⁃NTR-√tree.
 Ⓔ This is a big tree. / “This is of a great size as a tree, as something having treehood.”
 
 

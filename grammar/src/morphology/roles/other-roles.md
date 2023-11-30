@@ -22,16 +22,16 @@
 ```  
   ┌───────────────  
   │ ◆ Ici̋ tayakóyu ñaʼáı tayaƛúrı.  
-  │ ❖ ASR.SEN-√is_one  INTR-DEF-INTR-√dog  EAPCZ-√and  
-  │   INTR-DEF-INTR-√cat  
+  │ ❖ ASR.SEN-√is_one  NTR-DEF-NTR-√dog  EAPCZ-√and  
+  │   NTR-DEF-NTR-√cat  
   │ ➥ Both the dog and the cat are one/single.  
   └─  
 ```  
 ```  
   ┌───────────────  
   │ ◆ Ici̋ tayakóyu (ñaʼáı) hurú tayaƛúrı.  
-  │ ❖ ASR.SEN-√is_one  INTR-DEF-INTR-√dog  (EAPCZ-√and)  
-  │   COO-√are_two INTR-DEF-INTR-√cat  
+  │ ❖ ASR.SEN-√is_one  NTR-DEF-NTR-√dog  (EAPCZ-√and)  
+  │   COO-√are_two NTR-DEF-NTR-√cat  
   │ ➥ The dog is one, and the cats are two.  
   └─  
 ```  
@@ -39,8 +39,8 @@
   ┌───────────────  
   │ ◆ Oθenïyi̋čal qaoci̋ tayakóyu (ñaʼáı) hurú tayaƛúrı.  
   │ ❖ ASR.REC-you_know_what:ERG₃-me:DAT-√assert_to  
-  │   ACC₃-PCCS-√is_one  INTR-DEF-INTR-√dog  (EAPCZ-√and)  
-  │   COO-√are_two INTR-DEF-INTR-√cat  
+  │   ACC₃-PCCS-√is_one  NTR-DEF-NTR-√dog  (EAPCZ-√and)  
+  │   COO-√are_two NTR-DEF-NTR-√cat  
   │ ➥ That one said to me that the dog was one and the cats were two.  
   └─  
 ```  
@@ -53,7 +53,7 @@
 ```  
   ┌───────────────  
   │ ◆ Aılé tatʼí, ʎaıθenïtoyi̋čal.  
-  │ ❖ ASR-√is_blue  INTR-INTR-√bird  
+  │ ❖ ASR-√is_blue  NTR-NTR-√bird  
   │   ATR-you_know_what:ERG₃-me:DAT-RSM:ACC₃-√assert_to  
   │ ➥ The bird was blue, they said to me.  
   └─  
@@ -64,7 +64,7 @@ If the Afterthought Relativizer is used on the root clause whose root verb bears
 ```  
   ┌───────────────  
   │ ◆ Olé tatʼí, ʎaıθenïtoyi̋čal.  
-  │ ❖ ASR.RPT-√is_blue  INTR-INTR-√bird  
+  │ ❖ ASR.RPT-√is_blue  NTR-NTR-√bird  
   │   ATR-you_know_what:ERG₃-me:DAT-RSM:ACC₃-√assert_to  
   │ ➥ I heard that the bird was blue, that's what they said to me (at least).  
   └─  

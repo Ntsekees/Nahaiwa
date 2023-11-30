@@ -90,16 +90,16 @@ With binary bases, the vowel is either ⟪ı⟫ (Ergative) or ⟪u⟫ (Accusativ
 ```
 ┌───────────────
 │ ◆ -na-łı̋
-│ ❖ -1P:INTR-√is_asleep
+│ ❖ -1P:NTR-√is_asleep
 │ ➥ 🅰 is me and is asleep.
 └─
 ┌───────────────
 │ ◆ -ƛʼa-łı̋
-│ ❖ -try:INTR-√is_asleep
+│ ❖ -try:NTR-√is_asleep
 │ ➥ 🅰 tries to be asleep.
 │ 
 │ ◆ -na-ƛʼa-łı̋
-│ ❖ -1P:INTR-try:INTR-√is_asleep
+│ ❖ -1P:NTR-try:NTR-√is_asleep
 │ ➥ 🅰 is me, who tries to be asleep.
 │ “I try to sleep”.
 └─

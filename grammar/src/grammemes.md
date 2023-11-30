@@ -49,7 +49,7 @@
 ### ROLES ➤ CORE CASES:
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
 |-------------------------------------|----------|-----------------------------------------|
-| t / a                               | UC1⁓INTR | Unary Case #1, Intransitive             |
+| t / a                               | UC1⁓NTR  | Unary Case #1, Intransitive             |
 | c / ı                               | BC1⁓ERG  | Binary Case #1, Ergative                |
 | k / u                               | BC2⁓ACC  | Binary Case #2, Accusative              |
 | p / e                               | TC1⁓ERG₃ | Ternary Case #1, (Ternary) Ergative     |
@@ -72,7 +72,7 @@
 | ƛ                                   | PND      | Pendent                                 |
 | ƛʼ / ıʼa                            | INS      | Instrumental                            |
 | s / eı                              | LOC⁓SPL  | Spatiotemporal Locative                 |
-| y                                   | ITJ      | Interjective                            |
+| y                                   | ITJ⁓INTJ | Interjective                            |
 | w                                   | VOC      | Vocative                                |
 | n                                   | PU       | Plural Union                            |
 | ŋ                                   | SEQ      | Sequential                              |

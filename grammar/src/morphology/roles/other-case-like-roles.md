@@ -29,7 +29,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 ```  
   ┌───────────────  
   │ ◆ Waqaséʼ mıkıtʼušatʰıwá.  
-  │ ❖ VOC-INTR-the_one_named_after_property:INTR-cloud  
+  │ ❖ VOC-NTR-the_one_named_after_property:NTR-cloud  
   │   PQ-you:ERG-lambda_1:NOM-ongoing-is_intentionally:ERG-has_property  
   │ ➥ Cloud, what are you doing?  
   └─  
@@ -41,16 +41,16 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 ```  
   ┌───────────────  
   │ ◆ Ici̋ taθakóyu ñaʼáı taθaƛúrı ne.  
-  │ ❖ ASR.SEN-√is_one  INTR-INTR-EXO:INTR-√dog  CZ2-√and  
-  │   INTR-INTR-EXO:INTR-√cat  EOT  
+  │ ❖ ASR.SEN-√is_one  NTR-NTR-EXO:NTR-√dog  CZ2-√and  
+  │   NTR-NTR-EXO:NTR-√cat  EOT  
   │ ➥ Both the dog and the cat are one/single. [EOT]  
   └─  
 ```  
 ```  
   ┌───────────────  
   │ ◆ Irú taθakóyu naθaƛúrı ne.  
-  │ ❖ ASR.SEN-√are_two  INTR-INTR-EXO:INTR-√dog  
-  │   PU-INTR-EXO:INTR-√cat  EOT  
+  │ ❖ ASR.SEN-√are_two  NTR-NTR-EXO:NTR-√dog  
+  │   PU-NTR-EXO:NTR-√cat  EOT  
   │ ➥ The dog together with the cat are two. [EOT]  
   └─  
 ```  
@@ -63,7 +63,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
   ┌───────────────  
   │ ◆ Unınθıcál kacatʼí lalé.  
   │ ❖ REC-me:ERG-associative_plural:ERG-see_stimulus  
-  │   NOM-INTR-one_in_number:INTR-bird MOD-INTR-blue  
+  │   NOM-NTR-one_in_number:NTR-bird MOD-NTR-blue  
   │ ➥ We saw a blue bird. (Something that is blue and is a bird.)  
   └─  
 ```  
