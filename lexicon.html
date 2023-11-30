@@ -41,6 +41,19 @@
 		<br /><br />
 		<div id="content">(LEXICON NOT YET LOADED!)</div>
 		<script type="text/javascript">
+			function with_escaped_html(text) {
+				return text.replace(/[&<>"']/g, function(ch) {
+					switch (ch) {
+						case '&': return '&amp;';
+						case '<': return '&lt;';
+						case '>': return '&gt;';
+						case '"': return '&quot;';
+						default:  return '&#039;';
+							/* '&apos;' in another option in HTML5, but is absent from
+								 HTML4. */
+					}
+				});
+			}
 			function compare(a, b) {
 				if(a === "") {
 					 return 1;
@@ -66,14 +79,11 @@
 				});
 				s = "";
 				lexicon.forEach((e, i, l) => {
-					s += "<tr>\n";
-					s += "<td>" + e.morpheme + "</td>\n";
-					s += "<td>" + e.type + "</td>\n";
-					s += "<td>" + e.subtype + "</td>\n";
-					s += "<td>" + e.eng + "</td>\n";
-					s += "<td>" + e.tags + "</td>\n";
-					s += "<td>" + e.predilex_id + "</td>\n";
-					s += "</tr>\n";
+					entries = [
+						e.morpheme, e.type, e.subtype, e.eng, e.tags, e.predilex_id];
+					entries = entries.map(
+						ε => "<td>" + with_escaped_html(ε) + "</td>\n");
+					s += "<tr>\n" + entries.join("") + "</tr>\n";
 				});
 				content =
 					"<table cellspacing='2px'>\n<thead>\n<td>Morpheme</td>" +
