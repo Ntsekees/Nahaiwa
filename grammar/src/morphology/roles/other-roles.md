@@ -54,7 +54,7 @@
   ┌───────────────  
   │ ◆ Aılé tatʼí, ʎaıθenïtoyi̋čal.  
   │ ❖ ASR-√is_blue  NTR-NTR-√bird  
-  │   ATR-you_know_what:ERG₃-me:DAT-RSM:ACC₃-√assert_to  
+  │   ATR-you_know_what:PEG-me:DAT-RSM:MIS-√assert_to  
   │ ➥ The bird was blue, they said to me.  
   └─  
 ```  
@@ -65,7 +65,7 @@ If the Afterthought Relativizer is used on the root clause whose root verb bears
   ┌───────────────  
   │ ◆ Olé tatʼí, ʎaıθenïtoyi̋čal.  
   │ ❖ ASR.RPT-√is_blue  NTR-NTR-√bird  
-  │   ATR-you_know_what:ERG₃-me:DAT-RSM:ACC₃-√assert_to  
+  │   ATR-you_know_what:PEG-me:DAT-RSM:MIS-√assert_to  
   │ ➥ I heard that the bird was blue, that's what they said to me (at least).  
   └─  
 ```  

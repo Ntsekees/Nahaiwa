@@ -44,9 +44,9 @@ IC ≝ Internal/inner case
 │ Binary:     │ c  │ ı   │ Ergative     │
 │             │ k  │ u   │ Accusative   │
 ├─────────────┼────┼─────┼──────────────┤
-│ Ternary:    │ p  │ e   │ Ergative     │
+│ Ternary:    │ p  │ e   │ Pegative     │
 │             │ č  │ ï   │ Dative       │
-│             │ q  │ o   │ Accusative   │
+│             │ q  │ o   │ Missive      │
 ├─────────────┼────┼─────┼──────────────┤
 │ Quaternary: │ pʰ │ aʼa │              │
 │             │ cʰ │ eʼe │              │
@@ -71,12 +71,12 @@ Below are some examples of internal and external case uses with unary roots and 
 ```  
 ┌───────────────
 │ ◆ Iθalı̋.
-│ ❖ ASR.SEN-DEF:INTR-asleep
+│ ❖ ASR.SEN-DEF:NTR-asleep
 │ ➥ It is asleep.
 └─
 ┌───────────────
 │ ◆ Ilı̋ taθakóyu.
-│ ❖ ASR.SEN-asleep INTR-INTR-DEF:INTR-dog
+│ ❖ ASR.SEN-asleep NTR-NTR-DEF:NTR-dog
 │ ➥ The dog is asleep.
 └─
 ```
@@ -90,33 +90,33 @@ Examples with the binary root `-ñú`, “eat”:
 └─
 ┌───────────────
 │ ◆ Unıñú kaθastíñu.
-│ ❖ ASR.REC-1P:ERG-eat  ACC-INTR-DEF:INTR-food
+│ ❖ ASR.REC-1P:ERG-eat  ACC-NTR-DEF:NTR-food
 │ ➥ (I recall that) I ate the food.
 └─
 ┌───────────────
 │ ◆ Uñú caθakóyu kaθastíñu.
-│ ❖ ASR.REC-1P:ERG-eat  ERG-INTR-DEF:INTR-dog
-│   ACC-INTR-DEF:INTR-food
+│ ❖ ASR.REC-1P:ERG-eat  ERG-NTR-DEF:NTR-dog
+│   ACC-NTR-DEF:NTR-food
 │ ➥ (I recall that) the dog ate the food.
 └─
 ┌───────────────
 │ ◆ Uñú kaθastíñu.
-│ ❖ ASR.REC-eat  ACC-INTR-DEF:INTR-food
+│ ❖ ASR.REC-eat  ACC-NTR-DEF:NTR-food
 │ ➥ (I recall that) the food was eaten / something ate the food.
 └─
 ┌───────────────
 │ ◆ Uñú caθakóyu.
-│ ❖ ASR.REC-eat  ERG-INTR-DEF:INTR-dog
+│ ❖ ASR.REC-eat  ERG-NTR-DEF:NTR-dog
 │ ➥ (I recall that) the dog ate (something).
 └─
 ┌───────────────
 │ ◆ Ukóyu tıθıñú.
-│ ❖ ASR.REC-dog  INTR-ERG-DEF:ERG-eat
+│ ❖ ASR.REC-dog  NTR-ERG-DEF:ERG-eat
 │ ➥ (I recall that) the eater was a dog.
 └─
 ┌───────────────
 │ ◆ Ukóyu tuθuñú.
-│ ❖ ASR.REC-dog  INTR-ACC-DEF:ACC-eat
+│ ❖ ASR.REC-dog  NTR-ACC-DEF:ACC-eat
 │ ➥ (I recall that) the eaten thing was a dog.
 └─
 ```
@@ -127,7 +127,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
 ```  
 ┌───────────────  
 │ ◆ Aıwáʼ tatʼí tʼoyınucál.  =  Aınucál catʼí.  
-│ ❖ ASR-has_property INTR-INTR-bird  
+│ ❖ ASR-has_property NTR-NTR-bird  
 │   DP-PROP-ERG-1P:ACC-see_stimulus  
 │ ➥ A bird has the property of seeing me.  =  A bird sees me.  
 └─  
@@ -138,13 +138,13 @@ Below is an explanation of the functions of the other core cases mentioned in th
 ```
 ┌───────────────
 │ ◆ Unaıqaoñú caθakóyu.
-│ ❖ ASR.REC-1P:EXT-CAUS-eat  ACC-INTR-DEF:INTR-dog
+│ ❖ ASR.REC-1P:EXT-CAUS-eat  ACC-NTR-DEF:NTR-dog
 │ ➥ (I recall that) I made the dog eat (something).
 └─
 ┌───────────────
 │ ◆ Uqaoñú kʼıθıʎáoko caθakóyu kaθastíñu.
 │ ❖ ASR.REC-CAUS-eat  EXT-ERG-DEF:ERG-take_care
-│   ERG-INTR-DEF:INTR-dog  ACC-INTR-DEF:INTR-food
+│   ERG-NTR-DEF:NTR-dog  ACC-NTR-DEF:NTR-food
 │ ➥ (I recall that) the caretaker made the dog eat the food.
 └─
 ```
@@ -186,7 +186,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
 ┌───────────────  
 │ ◆ Inıŋıwá ƛeyahakú koıtʼıƛucál. (= Inıŋıcál keyahakú.)  
 │ ❖ ASR.SEN-1:ERG-want:ERG-has_property  
-│   PND-UQZ-INTR-not-universal_property  
+│   PND-UQZ-NTR-not-universal_property  
 │   NOM-UTC-lambda_1:ERG-PND_PN:NOM-see  
 │ ➥ Not everything is such that I want to see them.  
 └─  
@@ -197,8 +197,8 @@ Below is an explanation of the functions of the other core cases mentioned in th
 ```  
 ┌───────────────  
 │ ◆ Iθewétakı qoyakóyu ƛʼaƛʰísı.  
-│ ❖ ASR.SEN꞊EXO:ERG-draws_depiction ACC-PROP-INTR-is_a_dog  
-│   INS-INTR-is_a_pencil
+│ ❖ ASR.SEN꞊EXO:PEG-draws_depiction MIS-PROP-NTR-is_a_dog  
+│   INS-NTR-is_a_pencil
 │ ➥ They draw (a representation of) dogness, using a pencil.  
 └─  
 ```  

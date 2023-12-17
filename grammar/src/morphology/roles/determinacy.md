@@ -21,12 +21,12 @@ When a clause does not contain an Elucidative Focus, the clause's verb plays the
 ```
 ┌───────────────
 │ ◆ Iθutákı cawanayá.
-│ ❖ ASR.SEN-EXO:ACC-draw ERG-EF-INTR-1P:INTR-thing
+│ ❖ ASR.SEN-EXO:ACC-draw ERG-EF-NTR--1P:NTR--thing
 │ ➥ It is me who drew it.
 └─
 ┌───────────────
 │ ◆ Inayá tayewaθutákı.
-│ ❖ ASR.SEN-1P:INTR-thing  INTR-BG-CUQ-INTR-EXO:ACC-draw
+│ ❖ ASR.SEN-1P:NTR--thing  NTR--BG-CUQ-NTR--EXO:ACC-draw
 │ ➥ All who drew it is me.
 │   / The one who drew it is me.
 └─
@@ -37,19 +37,19 @@ When a clause does not contain an Elucidative Focus, the clause's verb plays the
 ```
 ┌───────────────
 │ ◆ Ikayá tayaθutákı.
-│ ❖ ASR.SEN-1P:INTR-thing  INTR-BG-INTR-EXO:ACC-draw
+│ ❖ ASR.SEN-1P:NTR--thing  NTR--BG-NTR--EXO:ACC-draw
 │ ➥ Are you the one(s) who drew it?
 │   ⸨Presupposition: someone drew it.⸩
 └─
 ┌───────────────
 │ ◆ Mułčʼé tayakaıcʰuʎún.
-│ ❖ PQ-ill  INTR-BG-INTR-2P:EXT-same:ACC-biological_parent
+│ ❖ PQ-ill  NTR--BG-NTR--2P:EXT-same:ACC-biological_parent
 │ ➥ Is your (biological) sibling ill?
 │   ⸨Presupposition: you have a (biological) sibling.⸩
 └─
 ┌───────────────
 │ ◆ Mukıtʰú kayaoθıraoθı̋čıl.
-│ ❖ PQ-2P:ERG-expect  INTR-BG-PCCS-EXO:ERG-RET-give_birth
+│ ❖ PQ-2P:ERG-expect  NTR--BG-PCCS-EXO:ERG-RET-give_birth
 │ ➥ Do you know that she has given birth?
 │   ⸨Presupposition: she has given birth.⸩
 └─
@@ -60,7 +60,7 @@ When a clause does not contain an Elucidative Focus, the clause's verb plays the
 ```
 ┌───────────────
 │ ◆ Ikïyéwa qoyenïpákı.
-│ ❖ ASR.SEN-1P:DAT-grateful  ACC₃-PROP-ERG-1P:DAT-help
+│ ❖ ASR.SEN-1P:DAT-grateful  MIS-PROP-PEG-1:DAT-help
 │ ➥ I am grateful to you for helping me.
 └─
 ```

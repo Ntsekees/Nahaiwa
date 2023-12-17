@@ -14,8 +14,8 @@ All the other morpheme belonging to this slot are proclitics; below is a non-exh
 ```  
   ┌───────────────  
   │ ◆ Ukóyu tıñú ŋkastíñu.  
-  │ ❖ U-     -kóyu  t-   ı- -ñú   ŋ꞊  k-  a-  -stíñu
-  │   ASR.REC-dog   INTR-ERG-eat  INJ꞊ACC-INTR-prepared_food  
+  │ ❖ U-     -kóyu t-   ı- -ñú   ŋ꞊  k- a-  -stíñu
+  │   ASR.REC-dog   NTR-ERG-eat  INJ꞊ACC-NTR-prepared_food  
   │ ➥ It was a dog, the eater of the meal.
   │   (the one who ate the meal)  
   └─  
@@ -23,8 +23,8 @@ All the other morpheme belonging to this slot are proclitics; below is a non-exh
   │ ◆ Oqʰá caïlú kaïłqʼáı ntasqáčʰol.  
   │ ❖ O−     −qʰá    c-  aï-lú    k-  aï-łqʼáı
   │   ASR.RPT-cause  ERG-EV-flow  ACC-EV-undergoes_destruction
-  │   n꞊  t-   a-  -sqáčʰol
-  │   INJ꞊INTR-INTR-settlement  
+  │   n꞊  t-  a-  -sqáčʰol
+  │   INJ꞊NTR-NTR-settlement  
   │ ➥ I heard that the water caused the destruction of the
   │   settlement.  
   └─  
@@ -35,8 +35,8 @@ All the other morpheme belonging to this slot are proclitics; below is a non-exh
 ```
   ┌───────────────  
   │ ◆ Oqʰá caweotaïƛúru tačʰóqa θakaïłqʼáı ntačʰól.  
-  │ ❖ ASR.RPT-cause  ERG-ELU-RSM:EV-shake  INTR-INTR-ground
-  │   OC꞊ACC-EV-undergoes_destruction  INJ꞊INTR-INTR-building 
+  │ ❖ ASR.RPT-cause  ERG-ELU-RSM:EV-shake  NTR-NTR-ground
+  │   OC꞊ACC-EV-undergoes_destruction  INJ꞊NTR-NTR-building 
   │ ➥ I heard that it was an earthquake that caused the
   │   destruction of the building.  
   └─  
@@ -46,9 +46,9 @@ All the other morpheme belonging to this slot are proclitics; below is a non-exh
 ```
   ┌───────────────  
   │ ◆ Unïyı̋pa paqahwéa, ñïmukıθunčáwa ñaʼ, qaoθakwáı.
-  │ ❖ ASR.REC-1:CACC-say_to  TERG-INTR-named_after_property:INTR-is_wind
-  │   PAR꞊PQ-2:ERG-3EXO:ACC-familiar_with  EOP
-  │   TACC-PCCS-3EXO:INTR-is_true
+  │ ❖ ASR.REC-1:DAT-say_to  PEG-NTR-named_after_property:NTR-is_wind
+  │   PAR꞊PQ-2:ERG-EXO:ACC-familiar_with  EOP
+  │   MIS-PCCS-EXO:NTR-is_true
   │ ➥ I remember that Wind (do you know them?) told me that it's true.
   └─  
 ```
