@@ -82,6 +82,18 @@
 | █                                   | PND      | Discourse Pendent                       |
 | qʼ                                  | DSIT     | Discourse Situative                     |
 
+### ROLES ➤ OTHERS:
+|                FORM                 |  GLOSS   |                           GRAMMEME      |
+|-------------------------------------|----------|-----------------------------------------|
+| hu                                  | COO      | Coordinative                            |
+| ña                                  | EAPCZ    | ERG-ACC propositional conjunctionizer   |
+| ñu                                  | AEPCZ    | ACC-ERG propositional conjunctionizer   |
+| ñaı                                 | EAECZ    | ERG-ACC eventive conjunctionizer        |
+| ñao                                 | AEECZ    | ACC-ERG eventive conjunctionizer        |
+| ʎa                                  | EAQZ     | ERG-ACC binary quantifierizer           |
+| ʎu                                  | AEQZ     | ACC-ERG binary quantifierizer           |
+| ʎaı                                 | ATR      | Afterthought relativizer                |
+
 ### PARTICIPIALIZERS / SUBORDINATORS:
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
 |-------------------------------------|----------|-----------------------------------------|
@@ -104,18 +116,6 @@
 | ıw                                  | ∀        | Distributive universal quantifier       |
 | uy                                  | ∃        | Existential quantifier                  |
 | ey                                  | UQZ      | Unary quantifierizer                    |
-
-### ROLES ➤ OTHERS:
-|                FORM                 |  GLOSS   |                           GRAMMEME      |
-|-------------------------------------|----------|-----------------------------------------|
-| hu                                  | COO      | Coordinative                            |
-| ña                                  | EAPCZ    | ERG-ACC propositional conjunctionizer   |
-| ñu                                  | AEPCZ    | ACC-ERG propositional conjunctionizer   |
-| ñaı                                 | EAECZ    | ERG-ACC eventive conjunctionizer        |
-| ñao                                 | AEECZ    | ACC-ERG eventive conjunctionizer        |
-| ʎa                                  | EAQZ     | ERG-ACC binary quantifierizer           |
-| ʎu                                  | AEQZ     | ACC-ERG binary quantifierizer           |
-| ʎaı                                 | ATR      | Afterthought relativizer                |
 
 ### PARTICLES:
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
