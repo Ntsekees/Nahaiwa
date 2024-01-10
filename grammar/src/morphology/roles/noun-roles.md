@@ -171,16 +171,12 @@ Below is an explanation of the functions of the other core cases mentioned in th
 
 ```  
 ┌───────────────┬─────┬─────┐  
-│ Topical       │  r  │     │  
 │ Pendent       │  ƛ  │     │  
 │ Instrumental  │  ƛʼ │ ıʼa │  
 │ SP Locative   │  s  │ eı  │  
 └───────────────┴─────┴─────┘  
 ```  
-  
-• The Topical Case marks the topic of the sentence.  
-⸨Note: it might become deprecated soon.⸩  
-  
+ 
 • The Pendent Case introduces a noun phrase without stating any relation between it and the current clause, and binds it to the Pendent pronoun (whose root form is ⟪-ƛá⟫ and whose extensional form is ⟪-ƛ◈-⟫, with ⟪◈⟫ representing an Inner Case vowel). This allows the introduced noun phrase (now bound to the pendent pronoun) to be used latter, possibly in a subordinate clause not yet opened. This is especially useful for expressing quantification binding a variable that is not used in the same clause as the one in which the quantifier appears, but rather in a more deeply nested clause:  
 ```  
 ┌───────────────  

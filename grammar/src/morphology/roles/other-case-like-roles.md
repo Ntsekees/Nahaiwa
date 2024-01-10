@@ -1,16 +1,16 @@
 # Other case-like roles
 
 These Role prefixes (Slot 2a) behave much like noun cases, although the syntactic roles they govern aren't nominal; like noun cases, they are accompanied by an Inner Case vocalic affix, and an optional Determinacy affix.  
-  
+
+## Adjunct roles
+
 ```  
 ┌─────────────────────┬─────┐  
 │ Interjective        │  y  │  
-│ Vocative            │  w  │  
 │ Plural union        │  n  │  
 │ Sequential          │  ŋ  │  
 │ Modificative        │  l  │  
 │ Propositional       │  ł  │  
-│ Discourse Situative │  qʼ │  
 └─────────────────────┴─────┘  
 ```  
   
@@ -21,17 +21,6 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
   │ ◆ Yıƛʼé.  
   │ ❖ ITJ-ERG-feel_pain  
   │ ➥ Ouch!  
-  └─  
-```  
-  
-• The Vocative Case indicates the identity of the intended recipient of the utterance, the addressee.  
-  
-```  
-  ┌───────────────  
-  │ ◆ Waqaséʼ mıkıtʼušatʰıwá.  
-  │ ❖ VOC-NTR-the_one_named_after_property:NTR-cloud  
-  │   PQ-you:ERG-lambda_1:NOM-ongoing-is_intentionally:ERG-has_property  
-  │ ➥ Cloud, what are you doing?  
   └─  
 ```  
   
@@ -69,5 +58,29 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 ```  
   
 • The Propositional Case turns the contentive word into a restrictive subordinating clausal adverb, i.e. an adverb that modifies the whole proposition represented by the current clause, and not describing the physical spatiotemporal manifestation (event) of that proposition: it would be suitable for expressing the adverbs "probably", "arguably", "frequently", but not event-specific adverbs such as "beautifully", for which the Eventive Case would be appropriate.  
+
+## Discourse-level Roles
+
+```  
+┌─────────────────────┬─────┐  
+│ Vocative            │  w  │  
+│ Topical             │  r  │  
+│ Discourse Situative │  qʼ │  
+└─────────────────────┴─────┘  
+```  
+
+• The Vocative Case indicates the identity of the intended recipient of the utterance, the addressee.  
   
-  
+```  
+  ┌───────────────  
+  │ ◆ Waqaséʼ mıkıtʼušatʰıwá.  
+  │ ❖ VOC-NTR-the_one_named_after_property:NTR-cloud  
+  │   PQ-you:ERG-lambda_1:NOM-ongoing-is_intentionally:ERG-has_property  
+  │ ➥ Cloud, what are you doing?  
+  └─  
+```  
+
+• The Topical Case, or Discourse Pendent Case, marks the topic of the following sentence.  
+
+• The Discourse Situative sets the frame or context in which the following discourse is true. It is the discourse-level equivalent of the Situative Case.
+
