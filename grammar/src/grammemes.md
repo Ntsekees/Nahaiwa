@@ -73,11 +73,11 @@
 | ƛʼ / ıʼa                            | INS      | Instrumental                            |
 | s / eı                              | LOC⁓SPL  | Spatiotemporal Locative                 |
 | y                                   | ITJ⁓INTJ | Interjective                            |
-| w                                   | VOC      | Vocative                                |
 | l                                   | MOD      | Modificative                            |
 | ł                                   | PRP      | Propositional                           |
 
 ### ROLES ➤ DISCOURSE LEVEL:
+| w                                   | VOC      | Vocative                                |
 | r                                   | TOP      | Topical (Discourse Pendent)             |
 | qʼ                                  | DSIT     | Discourse Situative                     |
 
