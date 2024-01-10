@@ -44,6 +44,7 @@
 | kʰe                                 | SOL      | Solicitive                              |
 | kʰı                                 | OBLT     | Oblative                                |
 | kʰao                                | RCM      | Recommandative                          |
+| kʰaı                                | PRM      | Permissive                              |
 | yao                                 | PS       | Permission-seeking                      |
 
 ### ROLES ➤ CORE CASES:
