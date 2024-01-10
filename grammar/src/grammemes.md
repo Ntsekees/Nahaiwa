@@ -74,8 +74,6 @@
 | s / eı                              | LOC⁓SPL  | Spatiotemporal Locative                 |
 | y                                   | ITJ⁓INTJ | Interjective                            |
 | w                                   | VOC      | Vocative                                |
-| n                                   | PU       | Plural Union                            |
-| ŋ                                   | SEQ      | Sequential                              |
 | l                                   | MOD      | Modificative                            |
 | ł                                   | PRP      | Propositional                           |
 
@@ -86,6 +84,8 @@
 ### ROLES ➤ OTHERS:
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
 |-------------------------------------|----------|-----------------------------------------|
+| n                                   | PU       | Plural Union                            |
+| ŋ                                   | SEQ      | Sequential                              |
 | hu                                  | COO      | Coordinative                            |
 | ña                                  | EAPCZ    | ERG-ACC propositional conjunctionizer   |
 | ñu                                  | AEPCZ    | ACC-ERG propositional conjunctionizer   |
