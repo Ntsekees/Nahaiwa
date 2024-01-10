@@ -69,7 +69,6 @@
 ### ROLES ➤ ADJUNCTS:
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
 |-------------------------------------|----------|-----------------------------------------|
-| r                                   | TOP      | Topical                                 |
 | ƛ                                   | PND      | Pendent                                 |
 | ƛʼ / ıʼa                            | INS      | Instrumental                            |
 | s / eı                              | LOC⁓SPL  | Spatiotemporal Locative                 |
@@ -79,7 +78,9 @@
 | ŋ                                   | SEQ      | Sequential                              |
 | l                                   | MOD      | Modificative                            |
 | ł                                   | PRP      | Propositional                           |
-| █                                   | PND      | Discourse Pendent                       |
+
+### ROLES ➤ DISCOURSE LEVEL:
+| r                                   | TOP      | Topical (Discourse Pendent)             |
 | qʼ                                  | DSIT     | Discourse Situative                     |
 
 ### ROLES ➤ OTHERS:
