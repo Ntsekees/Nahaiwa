@@ -73,7 +73,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
   
 ```  
   ┌───────────────  
-  │ ◆ Waqaséʼ mıkıtʼušatʰıwá.  
+  │ ◆ Waqaséʼ, mıkıtʼušatʰıwá.  
   │ ❖ VOC-NTR-the_one_named_after_property:NTR-cloud  
   │   PQ-you:ERG-lambda_1:NOM-ongoing-is_intentionally:ERG-has_property  
   │ ➥ Cloud, what are you doing?  
