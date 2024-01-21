@@ -8,9 +8,11 @@
 | m / n / ŋ                           | INJ      | Injective                               |
 | ʎï                                  | COINJ    | Coinjective                             |
 | θa                                  | OC       | Outer Clause                            |
+| θu                                  | PA       | Preset Anchoring                        |
 | ʎo                                  | MC       | Medial Connective                       |
 | ñï                                  | SOP      | Start Of Parenthetical                  |
 | █                                   | CLINJ    | Clausal Injective                       |
+| kʰwaı                               | PATAG    | Preset Anchoring Tag                    |
 
 ### ROLES ➤ ASSERTIVE ILLOCUTION + EVIDENTIALITIES:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |

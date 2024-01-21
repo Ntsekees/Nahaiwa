@@ -1,15 +1,24 @@
 # Slot #1: Binding
-  
-The general purpose of that slot is to indicate which clausal nesting level the word belongs to, i.e. where the word does ‘bind’. This has however nothing to do with the concept of variable binding.  
+
+|                FORM                 |  GLOSS   |                GRAMMEME                 |
+|-------------------------------------|----------|-----------------------------------------|
+| ∅                                   | CC       | Current Clause                          |
+| m / n / ŋ                           | INJ      | Injective                               |
+| ʎï                                  | COINJ    | Coinjective                             |
+| θa                                  | OC       | Outer Clause / Post-subordinative       |
+| θu                                  | PA       | Preset Anchoring                        |
+| ʎo                                  | MC       | Medial Coordinative                     |
+| ñï                                  | SOP      | Start Of Parenthetical                  |
+| █                                   | CLINJ    | Clausal Injective                       |
+
+The general purpose of that proclitic slot is to indicate which clausal nesting level the word belongs to, i.e. where the word does ‘bind’. This has however nothing to do with the concept of variable binding.  
   
 This slot is always empty on the sentence's main verb (the root verb), unless it initiates a parenthetical sentence, in which case the parenthetical Binding ⟪ñï꞊⟫ is prepended to it.  
   
-The null/empty form of this slot indicates that the word is a new term in the current clause level.  
+* The null/empty form of this slot indicates that the word is anchored to the current clause level.  
   
-All the other morpheme belonging to this slot are proclitics; below is a non-exhaustive list of them:  
-  
-  • ⟪m⟫, the syllabic nasal clitic, expressing the ‘Injective’ Binding. This syllabic nasal is preceded by an unwritten glottal stop. Furthermore, it may assimilate in place of articulation with the following consonant, becoming ⟪ŋ⟫ or ⟪n⟫ (see [§ Phonotactics](../phonotactics.md) for details).  
-  This ‘Injective’ clitic may occur on nouns and adverbials and indicates that the word is a complement of the predicate underlying the immediately preceding contentive word, as opposed to being an independent complement of the main predicate of the current clause. It is usually used for providing an argument to the verb underlying a preceding noun, similarly to certain usages of the English particle “of” as in “the destruction of the village”.    
+* ⟪m⟫, the syllabic nasal clitic, expressing the ‘Injective’ Binding. This syllabic nasal is preceded by an unwritten glottal stop. Furthermore, it may assimilate in place of articulation with the following consonant, becoming ⟪ŋ⟫ or ⟪n⟫ (see [§ Phonotactics](../phonotactics.md) for details).  
+This ‘Injective’ clitic may occur on nouns and adverbials and indicates that the word is a complement of the predicate underlying the immediately preceding contentive word, as opposed to being an independent complement of the main predicate of the current clause. It is usually used for providing an argument to the verb underlying a preceding noun, similarly to certain usages of the English particle “of” as in “the destruction of the village”.    
 
 ```  
   ┌───────────────  
@@ -30,7 +39,9 @@ All the other morpheme belonging to this slot are proclitics; below is a non-exh
   └─  
 ```  
 
-  • ⟪θa⟫: indicates that the current clause is terminated and the word marked with this clitic belongs to the next outer clause, and is a continuation thereof.  
+* ⟪ʎï⟫, the Coinjective, indicates that the word has the same anchoring as the preceding word bearing Injective ⟪m⟫ Binding.
+
+* ⟪θa⟫, the Post-subordinative, indicates that tagged word is anchored immediately after the end of a subordinate clause, and serves the purpose of explicitly marking the termination point of said subordinate clause. The tagged word therefore belongs to the immediate parent clause of the terminated subordinate clause.
 
 ```
   ┌───────────────  
@@ -41,7 +52,12 @@ All the other morpheme belonging to this slot are proclitics; below is a non-exh
   │   destruction of the building.  
   └─  
 ```
-  • ⟪ñï⟫: indicates the beginning of a parenthetical sentence or group of sentences, terminated with the particle ⟪ñaʼ⟫, inserted into the current sentence.
+
+* ⟪θu⟫, the Preset Anchoring, indicates that the tagged word is anchored to an outer syntactic level that has been preselected with the ⟪kʰwaı⟫ Preset Anchoring Tag, described in the last section at the bottom of this page.
+
+* ⟪ʎo⟫, the Medial Coordinative, initiates the right-hand wing of a Forethought Coordination phrase.
+
+* ⟪ñï⟫, the Parenthetical, indicates the beginning of a parenthetical sentence or group of sentences, terminated with the particle ⟪ñaʼ⟫, inserted into the current sentence.
   
 ```
   ┌───────────────  
@@ -53,5 +69,7 @@ All the other morpheme belonging to this slot are proclitics; below is a non-exh
   └─  
 ```
 
-  • ...  
-  
+## The Preset Anchoring Tag
+
+Additionally, a ‘Preset Anchor Tag’ clitic ⟪kʰwaı⟫ may replace or immediately follow a Binding clitic, and set the current clause level as an anchoring point for a following ⟪θu⟫ Binding clitic it C-commands.
+
