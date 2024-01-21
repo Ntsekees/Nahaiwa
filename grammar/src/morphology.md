@@ -11,4 +11,5 @@ In the language, function words are few, as many grammatical functions are expre
   
 We will proceed by examining the morphophonology of contentives (which is the same as that of inflecting function words), and a list of function words —together with their function— will be given afterwards. 
 
+Various example sentences will be shown as illustrations, accompanied by interlinear glosses. The glossing abbreviations used there are listed on the [Grammemes](grammemes.md) page.
 
