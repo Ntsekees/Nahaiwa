@@ -12,6 +12,7 @@ Determinacy affixes are optional and occur in slot 2b.
 │ Collective universal quantifier    │ ew  │  
 │ Distributive universal quantifier  │ ıw  │  
 │ Existential quantifier             │ uy  │  
+│ Nonexistential quantifier          │ ïy  │  
 │ Unary quantifierizer               │ ey  │  
 └────────────────────────────────────┴─────┘  
 ```  

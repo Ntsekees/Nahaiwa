@@ -124,6 +124,7 @@
 | ew                                  | CUQ      | Collective universal quantifier         |
 | ıw                                  | ∀        | Distributive universal quantifier       |
 | uy                                  | ∃        | Existential quantifier                  |
+| ïy                                  | ∄        | Nonexistential quantifier               |
 | ey                                  | UQZ      | Unary quantifierizer                    |
 
 ### PARTICLES:
