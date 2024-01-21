@@ -10,7 +10,6 @@
 | θa                                  | OC       | Outer Clause                            |
 | ʎo                                  | MC       | Medial Connective                       |
 | ñï                                  | SOP      | Start Of Parenthetical                  |
-| ñaʼ                                 | EOP      | End Of Parenthetical                    |
 | █                                   | CLINJ    | Clausal Injective                       |
 
 ### ROLES ➤ ASSERTIVE ILLOCUTION + EVIDENTIALITIES:
@@ -121,6 +120,7 @@
 ### PARTICLES:
 |                FORM                 |  GLOSS   |                           GRAMMEME      |
 |-------------------------------------|----------|-----------------------------------------|
+| ñaʼ                                 | EOP      | End Of Parenthetical                    |
 | pʰa                                 | EONQ     | End of native quote                     |
 | qʼwaı                               | EOFQ     | End of foreign quote                    |
 | ne                                  | EOT      | End of transmission                     |
