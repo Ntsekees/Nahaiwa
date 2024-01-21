@@ -106,6 +106,13 @@
 | ı’ı                                 | TTCS     | Ternary Template Clause Subordinator    |
 | u’u                                 | QTCS     | Quaternary Template Clause Subordinator |
 
+### SCOPES:
+|                FORM                 |  GLOSS   |                GRAMMEME                 |
+|-------------------------------------|----------|-----------------------------------------|
+| ∅                                   | MS       | Middle scope                            |
+| ıʼ                                  | LS       | Low scope                               |
+| aʼ                                  | HS       | High scope                              |
+
 ### DETERMINACIES:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|

@@ -1,5 +1,7 @@
 # Determinacy
 
+## Affixes
+
 Determinacy affixes are optional and occur in slot 2b.
   
 ```  
@@ -65,3 +67,18 @@ When a clause does not contain an Elucidative Focus, the clause's verb plays the
 └─
 ```
 This sentences means the same as ⟪Ikïyéwa qoıtʼenïpákı⟫ (using the ⟪oı⟫ subordinator), but unlike that latter, it does not open a subordinate clause.
+
+## Scope prefixes
+
+Optionally, a Scope prefix can precede a determinacy affixes.
+
+```  
+┌────────────────────────┬────┐  
+│ Middle scope (default) │ ∅  │  
+│ High scope             │ aʼ │  
+│ Low scope              │ ıʼ │ 
+└────────────────────────┴────┘  
+```  
+
+A high-scope determinacy will have logical scope over all other determinacies in the same clause.  
+A low-scope determinacy will conversely be below the scope of all other explicit determinacies, but still have higher scope than covert existential quantification of contentives lacking any overt determinacy marking.
