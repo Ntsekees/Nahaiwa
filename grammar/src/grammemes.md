@@ -124,6 +124,7 @@
 | pʰa                                 | EONQ     | End of native quote                     |
 | qʼwaı                               | EOFQ     | End of foreign quote                    |
 | ne                                  | EOT      | End of transmission                     |
+│ ñu                                  │ NDS      │ Not done speaking                       |
 | e                                   | ACK      | Acknowledgement                         |
 
 ### SPECIAL ROOTS:
