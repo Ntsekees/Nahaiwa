@@ -2,7 +2,7 @@
 # Grammemes summary
 
 ### BINDING:
-|                FORM                 |  GLOSS   |                           GRAMMEME      |
+|                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | ∅                                   | CC       | Current Clause                          |
 | m / n / ŋ                           | INJ      | Injective                               |
@@ -13,7 +13,7 @@
 | █                                   | CLINJ    | Clausal Injective                       |
 
 ### ROLES ➤ ASSERTIVE ILLOCUTION + EVIDENTIALITIES:
-|                FORM                 |  GLOSS   |                           GRAMMEME      |
+|                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | aı                                  | ASR      | Assertive + unspecified evientiality    |
 | oı                                  | MEV      | Multievidential                         |
@@ -29,7 +29,7 @@
 | aya                                 | AXM      | Axiomatic                               |
 
 ### ROLES ➤ NON-ASSERTIVE ILLOCUTIONS:
-|                FORM                 |  GLOSS   |                           GRAMMEME      |
+|                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | ï                                   | PFM      | Performative                            |
 | ma                                  | VRF      | Verificative                            |
@@ -47,7 +47,7 @@
 | yao                                 | PS       | Permission-seeking                      |
 
 ### ROLES ➤ CORE CASES:
-|                FORM                 |  GLOSS   |                           GRAMMEME      |
+|                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | t / a                               | UC1⁓NTR  | Unary Case #1, Intransitive             |
 | c / ı                               | BC1⁓ERG  | Binary Case #1, Ergative                |
@@ -66,7 +66,7 @@
 | tʰ / uʼı                            | SIT      | Situative                               |
 
 ### ROLES ➤ ADJUNCTS:
-|                FORM                 |  GLOSS   |                           GRAMMEME      |
+|                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | ƛ                                   | PND      | Pendent                                 |
 | ƛʼ / ıʼa                            | INS      | Instrumental                            |
@@ -81,7 +81,7 @@
 | qʼ                                  | DSIT     | Discourse Situative                     |
 
 ### ROLES ➤ OTHERS:
-|                FORM                 |  GLOSS   |                           GRAMMEME      |
+|                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | n                                   | PU       | Plural Union                            |
 | ŋ                                   | SEQ      | Sequential                              |
@@ -95,7 +95,7 @@
 | ʎaı                                 | ATR      | Afterthought relativizer                |
 
 ### PARTICIPIALIZERS / SUBORDINATORS:
-|                FORM                 |  GLOSS   |                           GRAMMEME      |
+|                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | eo                                  | RCS      | Relative Clause Subordinator            |
 | ao                                  | PCCS     | Plain Content Clause Subordinator       |
@@ -107,7 +107,7 @@
 | u’u                                 | QTCS     | Quaternary Template Clause Subordinator |
 
 ### DETERMINACIES:
-|                FORM                 |  GLOSS   |                           GRAMMEME      |
+|                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | aw                                  | EF⁓ELU   | Elucidative focus                       |
 | ay                                  | BG       | Background/Presupposition marker        |
@@ -118,7 +118,7 @@
 | ey                                  | UQZ      | Unary quantifierizer                    |
 
 ### PARTICLES:
-|                FORM                 |  GLOSS   |                           GRAMMEME      |
+|                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | ñaʼ                                 | EOP      | End Of Parenthetical                    |
 | pʰa                                 | EONQ     | End of native quote                     |
@@ -128,7 +128,7 @@
 | e                                   | ACK      | Acknowledgement                         |
 
 ### SPECIAL ROOTS:
-|                FORM                 |  GLOSS   |                           GRAMMEME      |
+|                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | █                                   | PUI      | Plural union initiator                  |
 | █                                   | SI       | Set initiator                           |
