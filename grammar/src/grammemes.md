@@ -78,6 +78,8 @@
 | ł                                   | PRP      | Propositional                           |
 
 ### ROLES ➤ DISCOURSE LEVEL:
+|                FORM                 |  GLOSS   |                GRAMMEME                 |
+|-------------------------------------|----------|-----------------------------------------|
 | w                                   | VOC      | Vocative                                |
 | r                                   | TOP      | Topical (Discourse Pendent)             |
 | qʼ                                  | DSIT     | Discourse Situative                     |
@@ -134,7 +136,7 @@
 | pʰa                                 | EONQ     | End of native quote                     |
 | qʼwaı                               | EOFQ     | End of foreign quote                    |
 | ne                                  | EOT      | End of transmission                     |
-│ ñu                                  │ NDS      │ Not done speaking                       |
+| ñu                                  | NDS      | Not done speaking                       |
 | e                                   | ACK      | Acknowledgement                         |
 
 ### SPECIAL ROOTS:
