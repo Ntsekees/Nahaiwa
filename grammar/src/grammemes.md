@@ -5,11 +5,11 @@
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | ∅                                   | CC       | Current Clause                          |
-| m / n / ŋ                           | INJ      | Injective                               |
+| m / n / ŋ                           | IJV⁓INJV | Injective                               |
 | ʎï                                  | COINJ    | Coinjective                             |
-| θa                                  | OC       | Outer Clause                            |
+| θa                                  | OC       | Outer Clause / Post-subordinative       |
 | θu                                  | PA       | Preset Anchoring                        |
-| ʎo                                  | MC       | Medial Connective                       |
+| ʎo                                  | MC       | Medial Coordinative                     |
 | ñï                                  | SOP      | Start Of Parenthetical                  |
 | █                                   | CLINJ    | Clausal Injective                       |
 | kʰwaı                               | PATAG    | Preset Anchoring Tag                    |

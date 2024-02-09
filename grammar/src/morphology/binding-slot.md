@@ -3,7 +3,7 @@
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | ∅                                   | CC       | Current Clause                          |
-| m / n / ŋ                           | INJ      | Injective                               |
+| m / n / ŋ                           | IJV⁓INJV | Injective                               |
 | ʎï                                  | COINJ    | Coinjective                             |
 | θa                                  | OC       | Outer Clause / Post-subordinative       |
 | θu                                  | PA       | Preset Anchoring                        |
@@ -24,7 +24,7 @@ This ‘Injective’ clitic may occur on nouns and adverbials and indicates that
   ┌───────────────  
   │ ◆ Ukóyu tıñú ŋkastíñu.  
   │ ❖ U-     -kóyu  t-  ı- -ñú   ŋ꞊  k- a-  -stíñu
-  │   ASR.REC-dog   NTR-ERG-eat  INJ꞊ACC-NTR-prepared_food  
+  │   ASR.REC-dog   NTR-ERG-eat  IJV꞊ACC-NTR-prepared_food  
   │ ➥ It was a dog, the eater of the meal.
   │   (the one who ate the meal)  
   └─  
@@ -33,7 +33,7 @@ This ‘Injective’ clitic may occur on nouns and adverbials and indicates that
   │ ❖ O−     −qʰá    c-  aï-lú    k-  aï-łqʼáı
   │   ASR.RPT-cause  ERG-EV-flow  ACC-EV-undergoes_destruction
   │   n꞊  t-  a-  -sqáčʰol
-  │   INJ꞊NTR-NTR-settlement  
+  │   IJV꞊NTR-NTR-settlement  
   │ ➥ I heard that the water caused the destruction of the
   │   settlement.  
   └─  
@@ -47,7 +47,7 @@ This ‘Injective’ clitic may occur on nouns and adverbials and indicates that
   ┌───────────────  
   │ ◆ Oqʰá caweotaïƛúru tačʰóqa θakaïłqʼáı ntačʰól.  
   │ ❖ ASR.RPT-cause  ERG-ELU-RSM:EV-shake  NTR-NTR-ground
-  │   OC꞊ACC-EV-undergoes_destruction  INJ꞊NTR-NTR-building 
+  │   OC꞊ACC-EV-undergoes_destruction  IJV꞊NTR-NTR-building 
   │ ➥ I heard that it was an earthquake that caused the
   │   destruction of the building.  
   └─  
