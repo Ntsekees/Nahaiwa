@@ -35,10 +35,10 @@
 |-------------------------------------|----------|-----------------------------------------|
 | ï                                   | PFM      | Performative                            |
 | ma                                  | VRF      | Verificative                            |
-| mu                                  | PQ⁓PI    | Polar Question, Polar Interrogative     |
-| mı                                  | CQ⁓CI    | Content Question, Content Interrogative |
-| mu                                  | RPQ⁓RPI  | Rhetorical Polar Interrogative          |
-| mı                                  | RCQ⁓RCI  | Rhetorical Content Interrogative        |
+| mı                                  | PQ⁓PI    | Polar Question, Polar Interrogative     |
+| mu                                  | CQ⁓CI    | Content Question, Content Interrogative |
+| maı                                 | RPQ⁓RPI  | Rhetorical Polar Interrogative          |
+| mao                                 | RCQ⁓RCI  | Rhetorical Content Interrogative        |
 | kʰa                                 | DIR      | Directive                               |
 | kʰo                                 | PET      | Petitive                                |
 | kʰu                                 | REQ      | Requestive                              |

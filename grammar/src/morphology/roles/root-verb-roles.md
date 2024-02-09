@@ -26,10 +26,10 @@ Below is a list of the possible root verb prefixes.
 * **Non-assertive illocutions**:  
   * **ï-**:    performative: utterance true merely by virtue of being uttered.  
   * **ma-**:   verificative: request of confirmation, “… isn't it?”.  
-  * **mu-**:   polar interrogative, yes-no question.  
-  * **mı-**:   content interrogative, “wh” question (“what?”, “who?”, “which?”, “when?”, “where?”, “how”? “why?”, etc.).  
-  * **mao-**:  rethorical polar interrogative.  
-  * **maı-**:  rethorical content interrogative.  
+  * **mı-**:   polar interrogative, yes-no question.  
+  * **mu-**:   content interrogative, “wh” question (“what?”, “who?”, “which?”, “when?”, “where?”, “how”? “why?”, etc.).  
+  * **maı-**:  rethorical polar interrogative.  
+  * **mao-**:  rethorical content interrogative.  
   * **kʰa-**:  directive: order with implied threat.  
   * **kʰo-**:  petitive: demand; strong, earnest request.  
   * **kʰu-**:  requestive: request with implied disappointment if unfulfilled.  
@@ -62,12 +62,12 @@ Note: Whilst there's a prefix for granting permission, ⟪kʰaı-⟫, there's no
   │ ➥ I hereby thank (you).
   └─
   ┌───────────────  
-  │ ◆ Mukıŋıñu.
+  │ ◆ Mıkıŋıñu.
   │ ❖ PQ-2:ERG-want:ERG-eat
   │ ➥ Do you want to eat (something)?
   └─
   ┌───────────────  
-  │ ◆ Mıkıŋıtʼuñu.
+  │ ◆ Mukıŋıtʼuñu.
   │ ❖ CQ-2:ERG-want:ERG-LBD:ACC-eat
   │ ➥ What do you want to eat?
   └─
