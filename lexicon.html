@@ -50,17 +50,17 @@
 						case '"': return '&quot;';
 						default:  return '&#039;';
 							/* '&apos;' in another option in HTML5, but is absent from
-								 HTML4. */
+								HTML4. */
 					}
 				});
 			}
 			function compare(a, b) {
 				if(a === "") {
-					 return 1;
+					return 1;
 				} else if(b === "") {
-					 return -1;
+					return -1;
 				} else {
-						 return a < b ? -1 : a > b ? 1 : 0;
+					return a < b ? -1 : a > b ? 1 : 0;
 				}
 			}
 			function proceed(lexicon) {
