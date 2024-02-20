@@ -29,9 +29,9 @@ Given that Nahaıwa exhibits an extended tripartite alignment, each of the possi
 Here's an overview:
 
  * Nullary bases (valency zero) don't govern any noun case.  
- * Unary bases (valency 1) govern one noun case: the Intransitive (`ɪɴᴛʀ`), symbolized by ⟪🅰⟫ in base definitions.  
+ * Unary bases (valency 1) govern one noun case: the Intransitive (`ɴᴛʀ`), symbolized by ⟪🅰⟫ in base definitions.  
  * Binary bases (valency 2) govern two noun cases: Ergative (`ᴇʀɢ`, symbol ⟪🅸⟫) and Accusative (`ᴀᴄᴄ`, symbol ⟪🆄⟫).  
- * Ternary bases (valency 3) govern three noun cases: Ternary Ergative (`ᴛᴇʀɢ`, ⟪🅴⟫), Coaccusative (`ᴄᴀᴄᴄ`, ⟪🆈⟫), Ternary Accusative (`ᴛᴀᴄᴄ`, ⟪🅾⟫).  
+ * Ternary bases (valency 3) govern three noun cases: Pegative (`ᴘᴇɢ`, ⟪🅴⟫), Dative (`ᴅᴀᴛ`, ⟪🆈⟫), Missive (`ᴍɪꜱ`, ⟪🅾⟫).  
 
 For example:
 
