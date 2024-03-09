@@ -30,7 +30,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 ```  
   ┌───────────────  
   │ ◆ Ici̋ taθakóyu ñaʼáı taθaƛúrı ne.  
-  │ ❖ ASR.SEN-√is_one  NTR-NTR-EXO:NTR-√dog  CZ2-√and  
+  │ ❖ ASR.SEN-√is_one  NTR-NTR-EXO:NTR-√dog  EAPCZ-√and  
   │   NTR-NTR-EXO:NTR-√cat  EOT  
   │ ➥ Both the dog and the cat are one/single. [EOT]  
   └─  
