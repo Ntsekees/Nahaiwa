@@ -74,7 +74,7 @@
 | ƛʼ / ıʼa                            | INS      | Instrumental                            |
 | s / eı                              | LOC⁓SPL  | Spatiotemporal Locative                 |
 | y                                   | ITJ⁓INTJ | Interjective                            |
-| l                                   | MOD      | Modificative                            |
+| l                                   | ADJ      | Adjectival                              |
 | ł                                   | PRP      | Propositional                           |
 
 ### ROLES ➤ DISCOURSE LEVEL:

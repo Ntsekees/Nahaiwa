@@ -46,13 +46,13 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
   
 • The Sequential Case is used to construct sequences, lists, and is applied to all non-initial members of the list. The first member's case indicates the syntactic role of the whole list.  
   
-• The Modificative Case turns the contentive word into a restrictive modifier targeting the immediately preceding contentive, no matter its syntactic role (even non-nominal roles). The resulting meaning corresponds to that of a ‘logical AND’ conjunction.  
+• The Adjectival Case turns the contentive word into a restrictive modifier targeting an immediately preceding contentive bearing an Inner Case slot `2c`, be it a noun, an adverb or another adjective. The contentive bearing the Adjectival Case express an additional property of the referent of the preceding contentive, as selected by the Inner Case of that preceding contentive. The two words (the adjective and the word it modifies) are semantically conjoined by a ‘logical AND’ conjunction, i.e. the two words express two different properties or descriptions of their common referents.  
   
 ```  
   ┌───────────────  
   │ ◆ Unınθıcál kacatʼí lalé.  
   │ ❖ REC-me:ERG-associative_plural:ERG-see_stimulus  
-  │   NOM-NTR-one_in_number:NTR-bird MOD-NTR-blue  
+  │   NOM-NTR-one_in_number:NTR-bird ADJ-NTR-blue  
   │ ➥ We saw a blue bird. (Something that is blue and is a bird.)  
   └─  
 ```  
