@@ -7,7 +7,7 @@
 | ∅                                   | CC       | Current Clause                          |
 | m / n / ŋ                           | IJV⁓INJV | Injective                               |
 | ʎï                                  | COINJ    | Coinjective                             |
-| θa                                  | OC       | Outer Clause / Post-subordinative       |
+| θa                                  | PSUB     | Post-subordinative                      |
 | θu                                  | PA       | Preset Anchoring                        |
 | ʎo                                  | MC       | Medial Coordinative                     |
 | ñï                                  | SOP      | Start Of Parenthetical                  |

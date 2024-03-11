@@ -5,7 +5,7 @@
 | ∅                                   | CC       | Current Clause                          |
 | m / n / ŋ                           | IJV⁓INJV | Injective                               |
 | ʎï                                  | COINJ    | Coinjective                             |
-| θa                                  | OC       | Outer Clause / Post-subordinative       |
+| θa                                  | PSUB     | Post-subordinative                      |
 | θu                                  | PA       | Preset Anchoring                        |
 | ʎo                                  | MC       | Medial Coordinative                     |
 | ñï                                  | SOP      | Start Of Parenthetical                  |
@@ -47,7 +47,7 @@ This ‘Injective’ clitic may occur on nouns and adverbials and indicates that
   ┌───────────────  
   │ ◆ Oqʰá caweotaïƛúru tačʰóqa θakaïłqʼáı ntačʰól.  
   │ ❖ ASR.RPT-cause  ERG-ELU-RSM:EV-shake  NTR-NTR-ground
-  │   OC꞊ACC-EV-undergoes_destruction  IJV꞊NTR-NTR-building 
+  │   PSUB꞊ACC-EV-undergoes_destruction  IJV꞊NTR-NTR-building 
   │ ➥ I heard that it was an earthquake that caused the
   │   destruction of the building.  
   └─  
