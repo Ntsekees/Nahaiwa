@@ -73,3 +73,5 @@ This ‘Injective’ clitic may occur on nouns and adverbials and indicates that
 
 Additionally, a ‘Preset Anchor Tag’ clitic ⟪kʰwaı⟫ may replace or immediately follow a Binding clitic, and set the current clause level as an anchoring point for a following ⟪θu⟫ Binding clitic it C-commands.
 
+A related mechanism is that of the ⟪Echo-Resumptive⟫ role, described in the [Other Roles](./roles/other-roles.md) section.
+

@@ -97,6 +97,7 @@
 | ʎa                                  | EAQZ     | ERG-ACC binary quantifierizer           |
 | ʎu                                  | AEQZ     | ACC-ERG binary quantifierizer           |
 | ʎaı                                 | ATR      | Afterthought relativizer                |
+| θı                                  | ECHO     | Echo-Resumptive                         |
 
 ### PARTICIPIALIZERS / SUBORDINATORS:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
