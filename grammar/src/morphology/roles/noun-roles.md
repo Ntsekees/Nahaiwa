@@ -44,8 +44,8 @@ IC ≝ Internal/inner case
 │ Binary:     │ c  │ ı   │ Ergative     │
 │             │ k  │ u   │ Accusative   │
 ├─────────────┼────┼─────┼──────────────┤
-│ Ternary:    │ p  │ e   │ Pegative     │
-│             │ č  │ ï   │ Dative       │
+│ Ternary:    │ č  │ e   │ Pegative     │
+│             │ p  │ ï   │ Dative       │
 │             │ q  │ o   │ Missive      │
 └─────────────┴────┴─────┴──────────────┘
 ```  

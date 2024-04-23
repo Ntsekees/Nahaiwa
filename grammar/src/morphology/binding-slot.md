@@ -61,7 +61,7 @@ This ‘Injective’ clitic may occur on nouns and adverbials and indicates that
   
 ```
   ┌───────────────  
-  │ ◆ Unïyı̋pa paqahwéa, ñïmukıθunčáwa ñaʼ, qaoθakwáı.
+  │ ◆ Unïyı̋pa čaqahwéa, ñïmukıθunčáwa ñaʼ, qaoθakwáı.
   │ ❖ ASR.REC-1:DAT-say_to  PEG-NTR-named_after_property:NTR-is_wind
   │   PAR꞊PQ-2:ERG-EXO:ACC-familiar_with  EOP
   │   MIS-PCCS-EXO:NTR-is_true

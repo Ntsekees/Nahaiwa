@@ -54,8 +54,8 @@
 | t / a                               | UC1⁓NTR  | Unary Case #1, Intransitive             |
 | c / ı                               | BC1⁓ERG  | Binary Case #1, Ergative                |
 | k / u                               | BC2⁓ACC  | Binary Case #2, Accusative              |
-| p / e                               | TC1⁓PEG  | Ternary Case #1, Pegative               |
-| č / ï                               | TC2⁓DAT  | Ternary Case #2, Dative                 |
+| č / e                               | TC1⁓PEG  | Ternary Case #1, Pegative               |
+| p / ï                               | TC2⁓DAT  | Ternary Case #2, Dative                 |
 | q / o                               | TC3⁓MIS  | Ternary Case #3, Missive                |
 |                                     |          |                                         |
 | tʼ / uʼa                            | DP       | Dislocated Predicate, Dislocative       |
