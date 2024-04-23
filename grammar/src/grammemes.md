@@ -57,10 +57,6 @@
 | p / e                               | TC1⁓PEG  | Ternary Case #1, Pegative               |
 | č / ï                               | TC2⁓DAT  | Ternary Case #2, Dative                 |
 | q / o                               | TC3⁓MIS  | Ternary Case #3, Missive                |
-| pʰ / aʼa                            | QC1      | Quaternary Case #1                      |
-| cʰ / eʼe                            | QC2      | Quaternary Case #2                      |
-| čʰ / ïʼï                            | QC3      | Quaternary Case #3                      |
-| qʰ / oʼo                            | QC4      | Quaternary Case #4                      |
 |                                     |          |                                         |
 | tʼ / uʼa                            | DP       | Dislocated Predicate, Dislocative       |
 | kʼ / aı                             | EXT⁓AFX  | Extensional, Affixal                    |
