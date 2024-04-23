@@ -47,11 +47,6 @@ IC ≝ Internal/inner case
 │ Ternary:    │ p  │ e   │ Pegative     │
 │             │ č  │ ï   │ Dative       │
 │             │ q  │ o   │ Missive      │
-├─────────────┼────┼─────┼──────────────┤
-│ Quaternary: │ pʰ │ aʼa │              │
-│             │ cʰ │ eʼe │              │
-│             │ čʰ │ ïʼï │              │
-│             │ qʰ │ oʼo │              │
 └─────────────┴────┴─────┴──────────────┘
 ```  
   
@@ -65,7 +60,7 @@ Other core cases:
 └──────────────┴─────┴─────┘  
 ```  
   
-For binary, ternary an quaternary predicates, the cases shown in the table are ordered according to an animacy or temporal/causal hierarchy: the first participant is the most animate, or the one triggering or exercicing the most control over the event described by the predicate, or occasionally, in the case of stative relations, it may be the largest or most concrete participant. Abstract propositions, properties and relations have lowest rank in this hierarchy, and will typically be associated with the last cases of each case list.  
+For binary and ternary predicates, the cases shown in the table are ordered according to an animacy or temporal/causal hierarchy: the first participant is the most animate, or the one triggering or exercicing the most control over the event described by the predicate, or occasionally, in the case of stative relations, it may be the largest or most concrete participant. Abstract propositions, properties and relations have lowest rank in this hierarchy, and will typically be associated with the last cases of each case list.  
   
 Below are some examples of internal and external case uses with unary roots and stems (`-lı̋`, “asleep”; `-kóyu`, “dog”, `-θakóyu`, “the dog”):
 ```  
