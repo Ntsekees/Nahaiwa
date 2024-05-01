@@ -11,5 +11,5 @@ Functors are closed classes, and they have a fairly small number of members.
   
 The vocabulary is a priori, not derived or borrowed from that of existing natural or constructed languages.  
   
-The consonant inventory is large (36 consonants), and mainly inspired by the inventories of Athabascan languages, as well as Aymara and Quechua languages.  
+The consonant inventory is large (36 consonants), and mainly inspired by the inventories of Athabascan languages, Aymaran and Quechuan languages.  
   
