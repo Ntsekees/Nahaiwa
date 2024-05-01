@@ -31,5 +31,5 @@ Consonant clusters may only occur across syllable boundaries, where two-consonan
 
 ## Word boundaries  
   
-Word-final plosives and affricates are mildly aspirated, which prevents the eventuality of misinterpreting them as belonging to the next word.
+Word-final occlusives (plosives and affricates) are mildly aspirated, which prevents the eventuality of misinterpreting them as belonging to the next word.
 
