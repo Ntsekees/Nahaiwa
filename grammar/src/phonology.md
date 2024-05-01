@@ -75,7 +75,7 @@ Word-initial glottal stops are not written explicitly in the romanization orthog
 * /w/, likewise, may be pronounced as [w̝]/[ɰ̝ʷ] or even [ɣʷ] when immediately preceding /u/.
 * /h/ is realized as [ç] before /i/, or after /i/ if no vowel is following this /h/; similarly, it is realized as [ç̱] (prevelar fricative) before /ɨ/ or after it if no vowel is following this /h/, and likewise [x] before /u/, or after it if no vowel follows. In other situations, it remains realized as [h].  
 * /t͡ɬ/ and its variants (aspirated, ejective) are realized as [k͡ʟ̝̊] (and aspirated and ejective variants, respectively) when between a /u/ and a consonant or word break; the same realization may optionally occur immediately before a /u/ vowel.  
-  Optionally, in similar environments with /i/ instead of /u/, it may be rendered palatally as [c͡ʎ̝̥̥̝].  
+  Optionally, in similar environments with /i/ instead of /u/, it may be rendered palatally as [c͡ʎ̝̥].  
 * /w/, when occurring immediately after a consonant, especially a velar or uvular one, is realized as labialization of that consonant.  
   
 
