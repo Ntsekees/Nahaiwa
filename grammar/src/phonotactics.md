@@ -31,6 +31,5 @@ Consonant clusters may only occur across syllable boundaries, where two-consonan
 
 ## Word boundaries  
   
-When a word ending on a tenuis plosive or affricate is immediately followed by a word starting with a fricative, an epenthetic short voiceless [ɨ̥] or [ə̥] appears between the two as a small buffer between the two words.  
-  
-  
+Word-final plosives and affricates are mildly aspirated, which prevents the eventuality of misinterpreting them as belonging to the next word.
+
