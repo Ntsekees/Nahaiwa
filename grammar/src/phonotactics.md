@@ -17,10 +17,11 @@ Words never begin with a consonant clusters, with a few exceptions:
 • /w/ may appear after certain consonants, and is realized as labialization of the preceding consonant.  
 • One of the Binding proclitics, the nasal proclitic /ʔm̩꞊/, realized as a syllabic nasal (a bilabial one most of the time) preceded by an unwritten glottal stop, can appear at the beginning of a word immediately before another consonant; the syllabic nasal assimilates in place of articulation with certain (not all) consonants:  
   ◉ coronal plosives and affricates (/ʔm̩꞊t/ → [ʔn̩꞊t]);  
-  ◉ velar plosives (/ʔm̩꞊k/ → [ʔŋ̩꞊k]).  
-It is noteworthy that it does not assimilate with a following uvular plosive: /ʔm̩꞊q/ → [ʔm̩꞊q].  
+  ◉ velar and uvular plosives (/ʔm̩꞊k/ → [ʔŋ̩꞊k]; /ʔm̩꞊q/ → [ʔɴ̩꞊q]).  
 The assimilation is shown in the romanized orthography:  
-  /ʔm̩꞊takóju/ → ⟪ntakóyu⟫.  
+  /ʔm̩꞊takóju/ ↦ ⟪ntakóyu⟫.  
+The [ɴ] allophone is written ⟪ŋ⟫:  
+  /ʔm̩꞊qakóju/ ↦  ⟪ŋqakóyu⟫.
   
 Similarly, the coda of the last syllable of a word never contains a consonant cluster.  
   
