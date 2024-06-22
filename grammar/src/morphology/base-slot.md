@@ -11,7 +11,7 @@ The root, and therefore the whole word as well, may end with a single consonant,
 The base slot may contain a single root, or a string of several roots, possibly even accompanied by fossilized former extensional prefixes, now merged with the root(s). If the base slot contains more than a single root, it is more accurate to qualify its content as ‘word base’ rather than ‘word root’.  
 When a root ending with a consonant occurs in nonfinal position within a word base, an epenthetic vowel ⟪ï⟫ is appended to it, serving as a hyphen between it and the following element.
 
-There is no morphophonological structures that allows to unambiguously segment the content of the root slot (if polysyllabic) into individual subcomponents: when an unkown polysyllabic word base is met, it cannot be determined with certainty whether it is a single monolithic root, or a composition of fossilized prefixes and roots, or a string of two or more roots.  
+There is no morphophonological structures that allows to unambiguously segment the content of the root slot (if polysyllabic) into individual subcomponents: when an unknown polysyllabic word base is met, it cannot be determined with certainty whether it is a single monolithic root, or a composition of fossilized prefixes and roots, or a string of two or more roots.  
 However, since word bases are always lexicalized, i.e. semantically opaque, the recognizability of subcomponents only offers a value in enhencing memorization and offering meaning hints for those discovering the word for the first time; the meaning of the whole word base must be learnt independently of the meaning of its eventual subconstituents: word bases are atomic lexical units of the language.  
 
 
