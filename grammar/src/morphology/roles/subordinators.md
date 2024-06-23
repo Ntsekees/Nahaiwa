@@ -11,7 +11,6 @@ Subordinator values (slot 2c):
 │ Unary template clause #2 │ ██  │  
 │ Binary Template Clause   │ oa  │  
 │ Ternary Template Clause  │ ıʼı │  
-│ Quaternary Template Cl.  │ uʼu │  
 └──────────────────────────┴─────┘  
 ```  
   
@@ -33,9 +32,8 @@ There is one vocalic morpheme for each predicate arity, and each arity has its o
 │ Unary Template Clause 1 │ oı  │ -tʼá             │ -tʼ◈-        │  
 │ Unary Template Clause 2 │ ea  │ -ltʼá            │ -ltʼ◈-       │  
 │ Binary Template Clause  │ oa  │ -cʼí, -kʼú       │ -cʼ◈-, -kʼ◈- │  
-│ Ternary Template Clause │ ıʼı │ -pʼé, -čʼı̋, -qʼó └──────────────┤  
-│ Quaternary Template Cl. │ uʼu │ -pʰáʼa, -cʰéʼe, -čʰı̋ʼï, -qʰóʼo  │  
-└─────────────────────────┴─────┴─────────────────────────────────┘  
+│ Ternary Template Clause │ ıʼı │ -pʼé, -čʼı̋, -qʼó │              │  
+└─────────────────────────┴─────┴──────────────────┴──────────────┘  
 ```  
   
 The lambda pronouns are shown in their contentive root form, with equivalent extensional prefix forms in the right-hand square (with ⟪◈⟫ standing for an Inner Case vocalic affix); only the unary and binary templates have extensional prefix forms for their lambda pronouns, as they are the most frequent in usage.  
