@@ -32,7 +32,7 @@ There is one vocalic morpheme for each predicate arity, and each arity has its o
 │ Unary Template Clause 1 │ oı  │ -tʼá             │ -tʼ◈-        │  
 │ Unary Template Clause 2 │ ea  │ -ltʼá            │ -ltʼ◈-       │  
 │ Binary Template Clause  │ oa  │ -cʼí, -kʼú       │ -cʼ◈-, -kʼ◈- │  
-│ Ternary Template Clause │ ıʼı │ -pʼé, -čʼı̋, -qʼó │              │  
+│ Ternary Template Clause │ ıʼı │ -čʼé, -pʼı̋, -qʼó │              │  
 └─────────────────────────┴─────┴──────────────────┴──────────────┘  
 ```  
   
