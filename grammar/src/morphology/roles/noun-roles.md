@@ -62,7 +62,7 @@ Other core cases:
   
 For binary and ternary predicates, the cases shown in the table are ordered according to an animacy or temporal/causal hierarchy: the first participant is the most animate, or the one triggering or exercicing the most control over the event described by the predicate, or occasionally, in the case of stative relations, it may be the largest or most concrete participant. Abstract propositions, properties and relations have lowest rank in this hierarchy, and will typically be associated with the last cases of each case list.  
   
-Below are some examples of internal and external case uses with unary roots and stems (`-lı̋`, “asleep”; `-kóyu`, “dog”, `-θakóyu`, “the dog”):
+Below are some examples of internal and external case uses with unary roots and stems (`-lı̋`, “asleep”; `-kóyu`, “dog”, `-cʰakóyu`, “the dog”):
 ```  
 ┌───────────────
 │ ◆ Iθalı̋.
@@ -70,7 +70,7 @@ Below are some examples of internal and external case uses with unary roots and 
 │ ➥ It is asleep.
 └─
 ┌───────────────
-│ ◆ Ilı̋ taθakóyu.
+│ ◆ Ilı̋ tacʰakóyu.
 │ ❖ ASR.SEN-asleep NTR-NTR-DEF:NTR-dog
 │ ➥ The dog is asleep.
 └─
@@ -84,33 +84,33 @@ Examples with the binary root `-ñú`, “eat”:
 │ ➥ (I recall that) I ate it.
 └─
 ┌───────────────
-│ ◆ Unıñú kaθastíñu.
+│ ◆ Unıñú kacʰastíñu.
 │ ❖ ASR.REC-1P:ERG-eat  ACC-NTR-DEF:NTR-food
 │ ➥ (I recall that) I ate the food.
 └─
 ┌───────────────
-│ ◆ Uñú caθakóyu kaθastíñu.
+│ ◆ Uñú cacʰakóyu kacʰastíñu.
 │ ❖ ASR.REC-1P:ERG-eat  ERG-NTR-DEF:NTR-dog
 │   ACC-NTR-DEF:NTR-food
 │ ➥ (I recall that) the dog ate the food.
 └─
 ┌───────────────
-│ ◆ Uñú kaθastíñu.
+│ ◆ Uñú kacʰastíñu.
 │ ❖ ASR.REC-eat  ACC-NTR-DEF:NTR-food
 │ ➥ (I recall that) the food was eaten / something ate the food.
 └─
 ┌───────────────
-│ ◆ Uñú caθakóyu.
+│ ◆ Uñú cacʰakóyu.
 │ ❖ ASR.REC-eat  ERG-NTR-DEF:NTR-dog
 │ ➥ (I recall that) the dog ate (something).
 └─
 ┌───────────────
-│ ◆ Ukóyu tıθıñú.
+│ ◆ Ukóyu tıcʰıñú.
 │ ❖ ASR.REC-dog  NTR-ERG-DEF:ERG-eat
 │ ➥ (I recall that) the eater was a dog.
 └─
 ┌───────────────
-│ ◆ Ukóyu tuθuñú.
+│ ◆ Ukóyu tucʰuñú.
 │ ❖ ASR.REC-dog  NTR-ACC-DEF:ACC-eat
 │ ➥ (I recall that) the eaten thing was a dog.
 └─
@@ -132,12 +132,12 @@ Below is an explanation of the functions of the other core cases mentioned in th
   
 ```
 ┌───────────────
-│ ◆ Unaıqaoñú caθakóyu.
+│ ◆ Unaıqaoñú cacʰakóyu.
 │ ❖ ASR.REC-1P:EXT-CAUS-eat  ACC-NTR-DEF:NTR-dog
 │ ➥ (I recall that) I made the dog eat (something).
 └─
 ┌───────────────
-│ ◆ Uqaoñú kʼıθıʎáoko caθakóyu kaθastíñu.
+│ ◆ Uqaoñú kʼıcʰıʎáoko cacʰakóyu kacʰastíñu.
 │ ❖ ASR.REC-CAUS-eat  EXT-ERG-DEF:ERG-take_care
 │   ERG-NTR-DEF:NTR-dog  ACC-NTR-DEF:NTR-food
 │ ➥ (I recall that) the caretaker made the dog eat the food.
