@@ -22,26 +22,26 @@
   
 ```  
   ┌───────────────  
-  │ ◆ Ici̋ tayakóyu ñaʼáı tayaƛúrı.  
-  │ ❖ ASR.SEN-√is_one  NTR-DEF-NTR-√dog  EAPCZ-√and  
-  │   NTR-DEF-NTR-√cat  
+  │ ◆ Ici̋ tacʰakóyu ñaʼáı tacʰaƛúrı.  
+  │ ❖ ASR.SEN-√is_one  NTR-NTR-DEF:NTR-√dog  EAPCZ-√and  
+  │   NTR-NTR-DEF:NTR-√cat  
   │ ➥ Both the dog and the cat are one/single.  
   └─  
 ```  
 ```  
   ┌───────────────  
-  │ ◆ Ici̋ tayakóyu (ñaʼáı) hurú tayaƛúrı.  
-  │ ❖ ASR.SEN-√is_one  NTR-DEF-NTR-√dog  (EAPCZ-√and)  
-  │   COO-√are_two NTR-DEF-NTR-√cat  
+  │ ◆ Ici̋ tacʰakóyu (ñaʼáı) hurú tacʰaƛúrı.  
+  │ ❖ ASR.SEN-√is_one  NTR-NTR-DEF:NTR-√dog  (EAPCZ-√and)  
+  │   COO-√are_two NTR-NTR-DEF:NTR-√cat  
   │ ➥ The dog is one, and the cats are two.  
   └─  
 ```  
 ```  
   ┌───────────────  
-  │ ◆ Oθenïyi̋čal qaoci̋ tayakóyu (ñaʼáı) hurú tayaƛúrı.  
+  │ ◆ Oθenïyi̋čal qaoci̋ tacʰakóyu (ñaʼáı) hurú tacʰaƛúrı.  
   │ ❖ ASR.REC-you_know_what:ERG₃-me:DAT-√assert_to  
-  │   ACC₃-PCCS-√is_one  NTR-DEF-NTR-√dog  (EAPCZ-√and)  
-  │   COO-√are_two NTR-DEF-NTR-√cat  
+  │   ACC₃-PCCS-√is_one  NTR-NTR-DEF:NTR-√dog  (EAPCZ-√and)  
+  │   COO-√are_two NTR-NTR-DEF:NTR-√cat  
   │ ➥ That one said to me that the dog was one and the cats were two.  
   └─  
 ```  
