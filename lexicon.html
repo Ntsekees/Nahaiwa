@@ -95,7 +95,7 @@
 				n_extensions = lexicon.filter(e => e.type === "ext").length;
 				document.getElementById('lexemes_stats').innerHTML =
 					"Number of lexemes: " + (n_roots + n_extensions) +
-					" (" + n_roots + " roots, " + n_extensions +
+					" (" + n_roots + " bases, " + n_extensions +
 					" extensional prefixes).";
 			}
 			d3.tsv("lexicon.tsv", (tsv) => {
