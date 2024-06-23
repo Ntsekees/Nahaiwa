@@ -66,7 +66,7 @@ Below are some examples of internal and external case uses with unary roots and 
 ```  
 ┌───────────────
 │ ◆ Iθalı̋.
-│ ❖ ASR.SEN-DEF:NTR-asleep
+│ ❖ ASR.SEN-EXO:NTR-asleep
 │ ➥ It is asleep.
 └─
 ┌───────────────
