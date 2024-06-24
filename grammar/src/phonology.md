@@ -37,7 +37,7 @@ Vowels immediately preceding the uvular plosive /q/ may optionally undergo sligh
   [u] → [ʊ]  
   [o̞] → [ɔ]  
   
-Prominent syllables are indicated in the Latin orthography with acute accent marks. In the case of diphthongs, the first vowel member bears the acute accent. The letter ⟪ï⟫ becomes ⟪i̋⟫ when prominent (i.e. bearing a double-acute accent mark).  
+Prominent syllables are indicated in the Latin orthography with acute accent marks. In the case of diphthongs, the first vowel member bears the acute accent. The letter ⟪ï⟫ becomes ⟪ı̋⟫ when prominent (i.e. bearing a double-acute accent mark).  
   
   
 ---  
