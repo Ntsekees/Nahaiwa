@@ -1,0 +1,264 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Root verb roles - Nahaıwa grammar</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../../introduction.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="../../phonology.html"><strong aria-hidden="true">2.</strong> Phonology</a></li><li class="chapter-item expanded "><a href="../../phonotactics.html"><strong aria-hidden="true">3.</strong> Phonotactics</a></li><li class="chapter-item expanded "><a href="../../morphology.html"><strong aria-hidden="true">4.</strong> Morphology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../morphology/contentives.html"><strong aria-hidden="true">4.1.</strong> Contentives</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../morphology/base-slot.html"><strong aria-hidden="true">4.1.1.</strong> Slot #4: Base</a></li><li class="chapter-item expanded "><a href="../../morphology/extensions-slot.html"><strong aria-hidden="true">4.1.2.</strong> Slot #3: Extensions</a></li><li class="chapter-item expanded "><a href="../../morphology/role-slot.html"><strong aria-hidden="true">4.1.3.</strong> Slot #2: Role</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../morphology/roles/root-verb-roles.html" class="active"><strong aria-hidden="true">4.1.3.1.</strong> Root verb roles</a></li><li class="chapter-item expanded "><a href="../../morphology/roles/noun-roles.html"><strong aria-hidden="true">4.1.3.2.</strong> Noun roles</a></li><li class="chapter-item expanded "><a href="../../morphology/roles/subordinators.html"><strong aria-hidden="true">4.1.3.3.</strong> Subordinators</a></li><li class="chapter-item expanded "><a href="../../morphology/roles/determinacy.html"><strong aria-hidden="true">4.1.3.4.</strong> Determinacy</a></li><li class="chapter-item expanded "><a href="../../morphology/roles/other-case-like-roles.html"><strong aria-hidden="true">4.1.3.5.</strong> Other case-like roles</a></li><li class="chapter-item expanded "><a href="../../morphology/roles/other-roles.html"><strong aria-hidden="true">4.1.3.6.</strong> Other roles</a></li></ol></li><li class="chapter-item expanded "><a href="../../morphology/binding-slot.html"><strong aria-hidden="true">4.1.4.</strong> Slot #1: Binding</a></li></ol></li><li class="chapter-item expanded "><a href="../../morphology/function-words.html"><strong aria-hidden="true">4.2.</strong> Function words</a></li></ol></li><li class="chapter-item expanded "><a href="../../syntax.html"><strong aria-hidden="true">5.</strong> Syntax</a></li><li class="chapter-item expanded "><a href="../../grammemes.html"><strong aria-hidden="true">6.</strong> Grammemes summary</a></li><li class="chapter-item expanded "><a href="../../lexicon.html"><strong aria-hidden="true">7.</strong> Lexicon</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Nahaıwa grammar</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="root-verb-roles"><a class="header" href="#root-verb-roles">Root Verb roles</a></h1>
+<p>A sentence may contain only one root verb, or “main verb”, and it is always the first word of the sentence. When a root verb occurs in a stream of words, it signals that a new sentence begins at that position.</p>
+<p>A root verb alone is sufficient as a complete sentence. A root verb has a set of core complements specified by its stem, each being associated with a grammatical case. When any of these core complements is not explicitly present, it is covertly existentially quantified, i.e. it's set to “something or somebody”.</p>
+<p>There are several different Role prefixes that create root verbs; they further show additional information, namely the illocution (speech act) of the sentence, and if that illocution is the ‘Assertive’, then they also indicate Evidentiality, i.e. the kind of evidence that is the basis for the claim being made with the utterance.<br />
+The Illocution indicates whether the sentence is an assertion (a description of what the speaker thinks is reality), a question, a command, a request, a performative/declarative act, and so on.</p>
+<p>Below is a list of the possible root verb prefixes. </p>
+<ul>
+<li>
+<p><strong>Assertive illocution</strong>: further inflects for evidentialities, shown below:</p>
+<ul>
+<li><strong>aı-</strong>:   assertion of unspecified evidentiality.</li>
+<li><strong>oı-</strong>:   imformation confirmed from multiple different independent sources of information.</li>
+<li><strong>a-</strong>:    inference from a combination of information from several sources.</li>
+<li><strong>ı-</strong>:    sensory information from current perception.</li>
+<li><strong>eo-</strong>:   intuition.</li>
+<li><strong>u-</strong>:    recollection, memory of past experiences (but not memorized encyclopedic facts, for which Reportives or Epistemic should be used).</li>
+<li><strong>ıwa-</strong>:  information obtained from sensorial recordings made by external devices (photographic or video camera, sound recorders…)</li>
+<li><strong>o-</strong>:    report, hearsay, second-hand information.</li>
+<li><strong>ao-</strong>:   trustworthy report.</li>
+<li><strong>eı-</strong>:   untrustworty report.</li>
+<li><strong>e-</strong>:    epistemic, collective knowledge, not personally verified.</li>
+<li><strong>aya-</strong>:  axiomatic, base beliefs not open to questioning.</li>
+</ul>
+</li>
+<li>
+<p><strong>Non-assertive illocutions</strong>:</p>
+<ul>
+<li><strong>ï-</strong>:    performative: utterance true merely by virtue of being uttered.</li>
+<li><strong>ma-</strong>:   verificative: request of confirmation, “… isn't it?”.</li>
+<li><strong>mı-</strong>:   polar interrogative, yes-no question.</li>
+<li><strong>mu-</strong>:   content interrogative, “wh” question (“what?”, “who?”, “which?”, “when?”, “where?”, “how”? “why?”, etc.).</li>
+<li><strong>maı-</strong>:  rethorical polar interrogative.</li>
+<li><strong>mao-</strong>:  rethorical content interrogative.</li>
+<li><strong>kʰa-</strong>:  directive: order with implied threat.</li>
+<li><strong>kʰo-</strong>:  petitive: demand; strong, earnest request.</li>
+<li><strong>kʰu-</strong>:  requestive: request with implied disappointment if unfulfilled.</li>
+<li><strong>kʰe-</strong>:  solicitive: mild request with no obligation of fulfillment.</li>
+<li><strong>kʰı-</strong>:  oblative: disinterested offers (“I'm available for…”, “if you're interested…”).</li>
+<li><strong>kʰao-</strong>: recommandation.</li>
+<li><strong>kʰaı-</strong>: permissive: expression of permission.</li>
+<li><strong>yao-</strong>:  seeking of permission.</li>
+</ul>
+</li>
+</ul>
+<p>The content interrogative illocutions go hand-in-hand with the lambda pronominal extension ⟪-tʼ◈-⟫, which plays here the role of the content interrogative pronoun “what”. There is do distinct pronoun for “who”.</p>
+<p>Note: Whilst there's a prefix for granting permission, ⟪kʰaı-⟫, there's no dedicated one for prohibition, for that latter is expressed with negative imperatives instead:</p>
+<pre><code>  ┌───────────────
+  │ ◆ — Yaoʎáıša.
+  │   — Kʰuhaʎáıša.
+  │ ❖ — SOP-music
+  │   — REQ-NEG-music
+  │ ➥ — Can I put music on?
+  │   — Please no music.
+  └─
+</code></pre>
+<h2 id="example-sentences"><a class="header" href="#example-sentences">Example sentences</a></h2>
+<pre><code>  ┌───────────────  
+  │ ◆ Ï(kï)yı̋yewa.
+  │ ❖ PFM-(2:DAT)-thank
+  │ ➥ I hereby thank (you).
+  └─
+  ┌───────────────  
+  │ ◆ Mıkıŋıñu.
+  │ ❖ PQ-2:ERG-want:ERG-eat
+  │ ➥ Do you want to eat (something)?
+  └─
+  ┌───────────────  
+  │ ◆ Mukıŋıtʼuñu.
+  │ ❖ CQ-2:ERG-want:ERG-LBD:ACC-eat
+  │ ➥ What do you want to eat?
+  └─
+  ┌───────────────  
+  │ ◆ Kʰaokıƛú.
+  │ ❖ RCM-2:ERG-drink
+  │ ➥ You should drink (something).
+  └─
+  ┌───────────────  
+  │ ◆ Kʰunïpákı.
+  │ ❖ REQ-1:DAT-help
+  │ ➥ Could you please help me?
+  └─
+  ┌───────────────  
+  │ ◆ Kʰı(kï)pákı.
+  │ ❖ OBLAT-(2:DAT)-help
+  │ ➥ I'm available to help (you).
+  └─
+
+</code></pre>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../morphology/role-slot.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../../morphology/roles/noun-roles.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../morphology/role-slot.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../../morphology/roles/noun-roles.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>
