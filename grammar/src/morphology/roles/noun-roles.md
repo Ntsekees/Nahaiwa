@@ -53,7 +53,6 @@ IC ≝ Internal/inner case
 Other core cases:  
 ```  
 ┌──────────────┬─────┬─────┐  
-│ DP:          │  tʼ │ uʼa │  
 │ Extensional: │  kʼ │ aı  │   
 │ Eventive:    │  š  │ aï  │  
 │ Situative:   │  tʰ │ uʼı │  
@@ -117,16 +116,6 @@ Examples with the binary root `-ñú`, “eat”:
 ```
 
 Below is an explanation of the functions of the other core cases mentioned in the second table above.  
-  
-• The Dislocated Predicate (DP) Case is governed exclusively by the predicate application roots ⟪-wáʼ⟫, ⟪-ráʼ⟫ and ⟪-káoʼ⟫ (there is one for each nonzero predicate arity, shown in order); it marks the noun phrase representing the predicate that is to be applied, ‘unboxed’, by the dummy applicator verb based on these roots, which also takes as its arguments all the arguments required by the applied predicate:  
-```  
-┌───────────────  
-│ ◆ Aıwáʼ tatʼí tʼoyınucál.  =  Aınucál catʼí.  
-│ ❖ ASR-has_property NTR-NTR-bird  
-│   DP-PROP-ERG-1P:ACC-see_stimulus  
-│ ➥ A bird has the property of seeing me.  =  A bird sees me.  
-└─  
-```  
   
 • The Extensional Case, or ‘Affixal Case’, is governed by certain extensional prefixes, which intoduces a new participant to the relationship expressed by the verb. For example, a causative extensional prefix will add a ‘causer’ participant, which will then be accessible via the Affixal Case.  
   

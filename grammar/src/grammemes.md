@@ -58,7 +58,6 @@
 | p / ï                               | TC2⁓DAT  | Ternary Case #2, Dative                 |
 | q / o                               | TC3⁓MIS  | Ternary Case #3, Missive                |
 |                                     |          |                                         |
-| tʼ / uʼa                            | DP       | Dislocated Predicate, Dislocative       |
 | kʼ / aı                             | EXT⁓AFX  | Extensional, Affixal                    |
 | š / aï                              | EV       | Eventive                                |
 | tʰ / uʼı                            | SIT      | Situative                               |
@@ -85,6 +84,9 @@
 |-------------------------------------|----------|-----------------------------------------|
 | n                                   | PU       | Plural Union                            |
 | ŋ                                   | SEQ      | Sequential                              |
+| hı                                  | DP       | Dislocated Predicate, Dislocative       |
+| θı                                  | ECHO     | Echo-Resumptive                         |
+| ʎaı                                 | ATR      | Afterthought relativizer                |
 | hu                                  | COO      | Coordinative                            |
 | ña                                  | EAPCZ    | ERG-ACC propositional conjunctionizer   |
 | ñu                                  | AEPCZ    | ACC-ERG propositional conjunctionizer   |
@@ -92,8 +94,6 @@
 | ñao                                 | AEECZ    | ACC-ERG eventive conjunctionizer        |
 | ʎa                                  | EAQZ     | ERG-ACC binary quantifierizer           |
 | ʎu                                  | AEQZ     | ACC-ERG binary quantifierizer           |
-| ʎaı                                 | ATR      | Afterthought relativizer                |
-| θı                                  | ECHO     | Echo-Resumptive                         |
 
 ### PARTICIPIALIZERS / SUBORDINATORS:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
