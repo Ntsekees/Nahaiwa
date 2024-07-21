@@ -14,7 +14,7 @@
             - [Determinacy](./morphology/roles/determinacy.md)
             - [Other case-like roles](./morphology/roles/other-case-like-roles.md)
             - [Other roles](./morphology/roles/other-roles.md)
-        - [Slot #1: Binding](./morphology/binding-slot.md)
+        - [Slot #1: Anchoring](./morphology/anchoring-slot.md)
     - [Function words](./morphology/function-words.md)
 - [Syntax](./syntax.md)
 - [Grammemes summary](./grammemes.md)
