@@ -25,11 +25,22 @@ The Dislocated Predicate (DP) Role ⟪hı-⟫ is used for displacing a verb stem
 │ ❖ ASR-DUMMY  NTR-NTR-DEF:NTR-bird  DP-ERG-1:ACC-see_stimulus  
 │ ➥ The bird sees me. 
 └─  
-```
+```  
 Which means exactly the same as ⟪Aınucal cacʰatʼí⟫. 
 
 ## Echo-Resumptive
 The Echo-Resumptive ⟪θı-⟫ prefixes a word base that is a repetition of a base which already occurred in the head of a clause, and it indicates a return to that clause level, specifically the closest clause level headed with this root if there are several ones, with the result that any following complement belongs to that clause level.
+
+```  
+  ┌───────────────  
+  │ ◆ Učʰenïyı̋čal qaočʰıłčʼé, θıyı̋čal saƛwíhaoye.
+  │ ❖ REC꞊TOP_PN:PEG-1:DAT-√assert  MIS꞊DCS꞊TOP_PN:ERG-√is_ill
+  │   ECHO-√assert  LOC꞊NTR-is_yesterday  
+  │ ➥ They told me that they are ill, (they told) yesterday. 
+  └─  
+```  
+In the example above, the speaker wanted to specify in afterthought that the assertion was made the day before, and thus needed to exit the content clause ⟪that they are ill⟫ —lest the claim would become that it was the illness that occurred the day before—, and the Echo-Resumptive allowed them to do so by specifying the verb root of the clause returned to, so as to anchor ⟪yesterday⟫ to the correct clause, the one of the verb ⟪assert⟫.
+It would be equally valid to use the Post-Subordinative Binding ⟪θa꞊⟫ (see the section [Binding Slot](../binding-slot.md)) instead of the Echo-Resumptive, yielding the sentence ⟪Učʰenïyı̋čal qaočʰıłčʼé, **θa**saƛwíhaoye.⟫. However, the Echo-Resumptive can allow exiting several levels of clause nesting at once, and is therefore more powerful in complex utterances.
 
 ## Afterthought Relativizer  
 The Afterthought Relativizer is a special Role that terminates the current clause (even if it is the root clause), binds the proposition described by the clause to the Pendent pronoun, then turn the clause into a pendent-like expression hanging at the beginning of a new clause, whose main verb is the contentive bearing the Afterthought Relativizer Role.  
