@@ -8,7 +8,6 @@ Subordinator values (slot 2c):
 │ Plain content clause     │ ao  │  
 │ Polarity clause          │ ea  │  
 │ Unary template clause #1 │ oı  │  
-│ Unary template clause #2 │ ██  │  
 │ Binary Template Clause   │ oa  │  
 │ Ternary Template Clause  │ ıʼı │  
 └──────────────────────────┴─────┘  
