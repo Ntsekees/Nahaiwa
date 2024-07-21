@@ -156,7 +156,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
 ```  
 ┌───────────────┬─────┬─────┐  
 │ Pendent       │  ƛ  │     │  
-│ Instrumental  │  ƛʼ │ ıʼa │  
+│ Instrumental  │  ƛʼ │     │  
 │ SP Locative   │  s  │ eı  │  
 └───────────────┴─────┴─────┘  
 ```  

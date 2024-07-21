@@ -66,7 +66,7 @@
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | ƛ                                   | PND      | Pendent                                 |
-| ƛʰ / ıʼa                            | INS      | Instrumental                            |
+| ƛʰ                                  | INS      | Instrumental                            |
 | s / eı                              | LOC⁓SPL  | Spatiotemporal Locative                 |
 | y                                   | ITJ⁓INTJ | Interjective                            |
 | l                                   | ATR      | Attributive                             |
