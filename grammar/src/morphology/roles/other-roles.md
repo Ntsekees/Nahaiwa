@@ -4,12 +4,12 @@
 ┌───────────────────────────────────────┬────────┐  
 │ Dislocated Predicate                  │ hı     │  
 │ Coordinative                          │ hu     │  
-│ ERG-NOM propositional conjunctionizer │ ña     │  
-│ NOM-ERG propositional conjunctionizer │ ñu     │  
-│ ERG-NOM eventive conjunctionizer      │ ñaı    │  
-│ NOM-ERG eventive conjunctionizer      │ ñao    │  
-│ ERG-NOM binary quantifierizer         │ ʎa     │  
-│ NOM-ERG binary quantifierizer         │ ʎu     │  
+│ ERG-ACC propositional conjunctionizer │ ña     │  
+│ ACC-ERG propositional conjunctionizer │ ñu     │  
+│ ERG-ACC eventive conjunctionizer      │ ñaı    │  
+│ ACC-ERG eventive conjunctionizer      │ ñao    │  
+│ ERG-ACC binary quantifierizer         │ ʎa     │  
+│ ACC-ERG binary quantifierizer         │ ʎu     │  
 │ Afterthought relativizer              │ ʎaı    │  
 │ Echo-Resumptive                       │ θı     │  
 └───────────────────────────────────────┴────────┘  
@@ -67,8 +67,8 @@ If the Afterthought Relativizer is used on the root clause whose root verb bears
 
 ## Coordinative and Conjunctionizers
 
-The ERG-NOM and NOM-ERG conjunctionizers can only be applied to binary roots expressing a relation between two propositions, such as logical connective predicates like ⟪-áı⟫, "and". They convert the binary predicate into an afterthought, interposed conjunction, a conjunction placed between the two connectands it governs.  
-In the case of the ERG-NOM version, the first connectand goes into the ERG slot and the second one in the NOM slot; with the NOM-ERG conjunctionizer, it's the other way around. The difference is insignificant if the binary relation is reflexive, i.e. reciprocal.  
+The ERG-ACC and ACC-ERG conjunctionizers can only be applied to binary roots expressing a relation between two propositions, such as logical connective predicates like ⟪-áı⟫, "and". They convert the binary predicate into an afterthought, interposed conjunction, a conjunction placed between the two connectands it governs.  
+In the case of the ERG-ACC version, the first connectand goes into the ERG slot and the second one in the ACC slot; with the ACC-ERG conjunctionizer, it's the other way around. The difference is insignificant if the binary relation is reflexive, i.e. reciprocal.  
 The propositional versions take two propositions as their arguments; the eventive versions take as arguments events instantiating the propositions, i.e. the physical manifestation of these abstract propositions.  
 When two noun phrases are conjoined with a conjunction, the two must bear the same noun case. When two verbs in the same clause are conjoined, the second one bears the Coordinative Role ⟪hu-⟫.  
 A bare Coordinative Role, not preceded by a conjunction word, is a shorthand for a logical AND conjoining two verbs, i.e. with the ⟪ñaʼáı⟫ conjunction left out implicit.  
