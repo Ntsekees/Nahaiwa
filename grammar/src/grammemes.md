@@ -88,10 +88,10 @@
 | θı                                  | ECHO     | Echo-Resumptive                         |
 | ʎaı                                 | ATR      | Afterthought relativizer                |
 | hu                                  | COO      | Coordinative                            |
-| ña                                  | EAPCZ    | ERG-ACC propositional conjunctionizer   |
-| ñu                                  | AEPCZ    | ACC-ERG propositional conjunctionizer   |
-| ñaı                                 | EAECZ    | ERG-ACC eventive conjunctionizer        |
-| ñao                                 | AEECZ    | ACC-ERG eventive conjunctionizer        |
+| ña                                  | EAPCZ    | ERG-ACC propositional coordinationizer  |
+| ñu                                  | AEPCZ    | ACC-ERG propositional coordinationizer  |
+| ñaı                                 | EAECZ    | ERG-ACC eventive coordinationizer       |
+| ñao                                 | AEECZ    | ACC-ERG eventive coordinationizer       |
 | ʎa                                  | EAQZ     | ERG-ACC binary quantifierizer           |
 | ʎu                                  | AEQZ     | ACC-ERG binary quantifierizer           |
 
