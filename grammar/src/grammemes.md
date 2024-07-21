@@ -58,7 +58,7 @@
 | p / ï                               | TC2⁓DAT  | Ternary Case #2, Dative                 |
 | q / o                               | TC3⁓MIS  | Ternary Case #3, Missive                |
 |                                     |          |                                         |
-| kʼ / aı                             | EXT⁓AFX  | Extensional, Affixal                    |
+| čʰ / aı                             | EXT⁓AFX  | Extensional, Affixal                    |
 | š / aï                              | EV       | Eventive                                |
 | tʰ / uʼı                            | SIT      | Situative                               |
 
@@ -66,7 +66,7 @@
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | ƛ                                   | PND      | Pendent                                 |
-| ƛʼ / ıʼa                            | INS      | Instrumental                            |
+| ƛʰ / ıʼa                            | INS      | Instrumental                            |
 | s / eı                              | LOC⁓SPL  | Spatiotemporal Locative                 |
 | y                                   | ITJ⁓INTJ | Interjective                            |
 | l                                   | ADJ      | Adjectival                              |
@@ -77,7 +77,7 @@
 |-------------------------------------|----------|-----------------------------------------|
 | w                                   | VOC      | Vocative                                |
 | r                                   | TOP      | Topical (Discourse Pendent)             |
-| qʼ                                  | DSIT     | Discourse Situative                     |
+| qʰ                                  | DSIT     | Discourse Situative                     |
 
 ### ROLES ➤ OTHERS:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |

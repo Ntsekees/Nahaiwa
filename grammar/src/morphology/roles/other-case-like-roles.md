@@ -65,7 +65,7 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 ┌─────────────────────┬─────┐  
 │ Vocative            │  w  │  
 │ Topical             │  r  │  
-│ Discourse Situative │  qʼ │  
+│ Discourse Situative │  qʰ │  
 └─────────────────────┴─────┘  
 ```  
 

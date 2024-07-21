@@ -53,7 +53,7 @@ IC ≝ Internal/inner case
 Other core cases:  
 ```  
 ┌──────────────┬─────┬─────┐  
-│ Extensional: │  kʼ │ aı  │   
+│ Extensional: │  cʰ │ aı  │   
 │ Eventive:    │  š  │ aï  │  
 │ Situative:   │  tʰ │ uʼı │  
 └──────────────┴─────┴─────┘  
@@ -126,7 +126,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
 │ ➥ (I recall that) I made the dog eat (something).
 └─
 ┌───────────────
-│ ◆ Uqaoñú kʼıcʰıʎáoko cacʰakóyu kacʰastíñu.
+│ ◆ Uqaoñú cʰıcʰıʎáoko cacʰakóyu kacʰastíñu.
 │ ❖ ASR.REC-CAUS-eat  EXT-ERG-DEF:ERG-take_care
 │   ERG-NTR-DEF:NTR-dog  ACC-NTR-DEF:NTR-food
 │ ➥ (I recall that) the caretaker made the dog eat the food.
