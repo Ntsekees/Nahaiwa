@@ -43,7 +43,7 @@ In the example above, the speaker wanted to specify in afterthought that the ass
 It would be equally valid to use the Post-Subordinative Binding ⟪θa꞊⟫ (see the section [Binding Slot](../binding-slot.md)) instead of the Echo-Resumptive, yielding the sentence ⟪Učʰenïyı̋čal qaočʰıłčʼé, **θa**saƛwíhaoye.⟫. However, the Echo-Resumptive can allow exiting several levels of clause nesting at once, and is therefore more powerful in complex utterances.
 
 ## Afterthought Relativizer  
-The Afterthought Relativizer is a special Role that terminates the current clause (even if it is the root clause), binds the proposition described by the clause to the Pendent pronoun, then turn the clause into a pendent-like expression hanging at the beginning of a new clause, whose main verb is the contentive bearing the Afterthought Relativizer Role.  
+The Afterthought Relativizer, or Retroactive Cleft, is a special Role that terminates the current clause (even if it is the root clause), binds the proposition described by the clause to the Pendent pronoun, then turn the clause into a pendent-like expression hanging at the beginning of a new clause, whose main verb is the contentive bearing the Afterthought Relativizer Role.  
   
 ```  
   ┌───────────────  
