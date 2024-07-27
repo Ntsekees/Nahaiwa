@@ -127,12 +127,13 @@
 ### PARTICLES:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
-| ñaʼ                                 | EOP      | End Of Parenthetical                    |
+| ñaʼ                                 | EOP      | End of parenthetical                    |
 | pʰa                                 | EONQ     | End of native quote                     |
 | qʼwaı                               | EOFQ     | End of foreign quote                    |
 | ne                                  | EOT      | End of transmission                     |
 | ñu                                  | NDS      | Not done speaking                       |
 | e                                   | ACK      | Acknowledgement                         |
+| hï                                  | SWE      | Single word eraser                      |
 
 ### SPECIAL ROOTS:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |

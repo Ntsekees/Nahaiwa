@@ -45,6 +45,7 @@ Examples (with _ representing a short pause):
 │ End of sequence          │ ██    │
 │ End of native quote      │ pʰa   │
 │ End of foreign quote     │ qʼwáı │
+│ Single word eraser       │ hï    │
 └──────────────────────────┴───────┘
 ```
   
