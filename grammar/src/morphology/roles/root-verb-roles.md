@@ -57,7 +57,7 @@ Note: Whilst there's a prefix for granting permission, ⟪kʰaı-⟫, there's no
 
 ```
   ┌───────────────  
-  │ ◆ Ï(kï)yı̋yewa.
+  │ ◆ Ï(ke)yı̋yewa.
   │ ❖ PFM-(2:DAT)-thank
   │ ➥ I hereby thank (you).
   └─
@@ -77,12 +77,12 @@ Note: Whilst there's a prefix for granting permission, ⟪kʰaı-⟫, there's no
   │ ➥ You should drink (something).
   └─
   ┌───────────────  
-  │ ◆ Kʰunïpákı.
+  │ ◆ Kʰunepákı.
   │ ❖ REQ-1:DAT-help
   │ ➥ Could you please help me?
   └─
   ┌───────────────  
-  │ ◆ Kʰı(kï)pákı.
+  │ ◆ Kʰı(ke)pákı.
   │ ❖ OBLAT-(2:DAT)-help
   │ ➥ I'm available to help (you).
   └─

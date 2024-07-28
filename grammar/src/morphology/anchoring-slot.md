@@ -23,14 +23,14 @@ This ‘Injective’ clitic may occur on nouns and adverbials and indicates that
 ```  
   ┌───────────────  
   │ ◆ Ukóyu tıñú ŋkastíñu.  
-  │ ❖ U-     -kóyu  t-  ı- -ñú   ŋ꞊  k- a-  -stíñu
+  │ ❖ U-     √kóyu  t-  ı- √ñú   ŋ꞊  k- a-  √stíñu
   │   ASR.REC-dog   NTR-ERG-eat  IJV꞊ACC-NTR-prepared_food  
   │ ➥ It was a dog, the eater of the meal.
   │   (the one who ate the meal)  
   └─  
   ┌───────────────  
-  │ ◆ Oqʰá caïlú kaïłqʼáı ntasqáčʰol.  
-  │ ❖ O−     −qʰá    c-  aï-lú    k-  aï-łqʼáı
+  │ ◆ Oqʰá cïlú kïłqʼáı ntasqáčʰol.  
+  │ ❖ O−     √qʰá    c-  ï- √lú   k-  ï- √łqʼáı
   │   ASR.RPT-cause  ERG-EV-flow  ACC-EV-undergoes_destruction
   │   n꞊  t-  a-  -sqáčʰol
   │   IJV꞊NTR-NTR-settlement  
@@ -45,7 +45,7 @@ This ‘Injective’ clitic may occur on nouns and adverbials and indicates that
 
 ```
   ┌───────────────  
-  │ ◆ Oqʰá caweotaïƛúru tačʰóqa θakaïłqʼáı ntačʰól.  
+  │ ◆ Oqʰá caweotïƛúru tačʰóqa θakïłqʼáı ntačʰól.  
   │ ❖ ASR.RPT-cause  ERG-ELU-RSM:EV-shake  NTR-NTR-ground
   │   PSUB꞊ACC-EV-undergoes_destruction  IJV꞊NTR-NTR-building 
   │ ➥ I heard that it was an earthquake that caused the
@@ -61,10 +61,10 @@ This ‘Injective’ clitic may occur on nouns and adverbials and indicates that
   
 ```
   ┌───────────────  
-  │ ◆ Unïyı̋pa čaqahwéa, ñïmukıθunčáwa ñaʼ, qaoθakwáı.
-  │ ❖ ASR.REC-1:DAT-say_to  PEG-NTR-named_after_property:NTR-is_wind
-  │   PAR꞊PQ-2:ERG-EXO:ACC-familiar_with  EOP
-  │   MIS-PCCS-EXO:NTR-is_true
+  │ ◆ Uneyı̋pa caqahwéa, ñïmukıθunčáwa ñaʼ, kaoθakwáı.
+  │ ❖ ASR.REC-1:DAT-say_to  ERG-NTR-named_after_property:NTR-is_wind
+  │   PAR꞊PQ꞊2:ERG-EXO:ACC-familiar_with  EOP
+  │   ACC-DCS꞊EXO:NTR-is_true
   │ ➥ I remember that Wind (do you know them?) told me that it's true.
   └─  
 ```

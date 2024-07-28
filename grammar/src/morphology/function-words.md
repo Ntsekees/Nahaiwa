@@ -13,9 +13,9 @@
   
 ```  
   ┌───────────────  
-  │ ◆ Uneθïyı̋pa qapʰáı ıneθïhaƛéonaʼ pʰa.  
-  │ ❖ ASR.REC-me:PEG-EXO:DAT-√say  MIS-NTR-MWQI  
-  │   ASR.SEN-me:PEG-EXO:DAT-NEG-√understand  EOQ  
+  │ ◆ Unıθeyı̋pa kapʰáı ınıθehaƛéonaʼ pʰa.  
+  │ ❖ ASR.RE꞊me:ERG-EXO:DAT-√say  ACC-NTR-MWQI  
+  │   ASR.SEN꞊me:ERG-EXO:DAT-NEG-√understand  EOQ  
   │ ➥ I said to them «I don't understand it».  
   └─  
 ```  

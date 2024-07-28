@@ -51,16 +51,15 @@
 ### ROLES ➤ CORE CASES:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
-| t / a                               | UC1⁓NTR  | Unary Case #1, Intransitive             |
-| c / ı                               | BC1⁓ERG  | Binary Case #1, Ergative                |
-| k / u                               | BC2⁓ACC  | Binary Case #2, Accusative              |
-| č / e                               | TC1⁓PEG  | Ternary Case #1, Pegative               |
-| p / ï                               | TC2⁓DAT  | Ternary Case #2, Dative                 |
-| q / o                               | TC3⁓MIS  | Ternary Case #3, Missive                |
+| t / a                               | NTR      | Intransitive Case                       |
+| c / ı                               | ERG      | Ergative Case                           |
+| k / u                               | ACC      | Accusative Case                         |
+| p / e                               | DAT      | Dative Case                             |
+| č / aï                              | COD      | Codative Case                           |
 |                                     |          |                                         |
-| čʰ / aı                             | EXT⁓AFX  | Extensional, Affixal                    |
-| š / aï                              | EV       | Eventive                                |
-| tʰ / uʼı                            | SIT      | Situative                               |
+| q / o                               | EXT⁓AFX  | Extensional Case, Affixal Case          |
+| š / ï                               | EV       | Eventive Case                           |
+| tʰ / aı                             | SIT      | Situative Case                          |
 
 ### ROLES ➤ ADJUNCTS:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
@@ -95,7 +94,7 @@
 | ʎa                                  | EAQZ     | ERG-ACC binary quantifierizer           |
 | ʎu                                  | AEQZ     | ACC-ERG binary quantifierizer           |
 
-### PARTICIPIALIZERS / SUBORDINATORS:
+### SUBORDINATORS:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | eo                                  | RCS      | Relative Clause Subordinator            |
