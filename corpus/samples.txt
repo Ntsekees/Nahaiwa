@@ -1,15 +1,15 @@
 
 ◆ Inalı̋.
-❖ ʼı꞊n⁃a-√lı̋
-◇ ASR.SEN꞊1⁃NTR-sleep
+❖ ʼı꞊na-√lı̋
+◇ ASR.SEN꞊1:NTR-sleep
 ◆ Ili̋ taní.
 ❖ ʼı꞊√li̋  t-a-√ní
 ◇ ASR.SEN꞊sleep  NTR-NTR-√1P
 Ⓔ I sleep.
 
 ◆ Ïnıkuyáo.
-❖ ʼı꞊n⁃ı-k⁃u-√yáo
-◇ ASR.SEN꞊1P⁃ERG-2⁃ACC-√greet
+❖ ʼı꞊nı-ku-√yáo
+◇ ASR.SEN꞊1P:ERG-2:ACC-√greet
 Ⓔ I hereby greet you.
 
 ◆ Uli̋ tıwakóyu.
@@ -18,13 +18,13 @@
 Ⓔ (I remember preceiving that) all dogs were asleep.
 
 ◆ Irnakálı.
-❖ ʼı꞊rn⁃a-√kálı
-◇ ASR.SEN-my⁃NTR-√book
+❖ ʼı꞊rna-√kálı
+◇ ASR.SEN-my:NTR-√book
 Ⓔ There is my book (sensorial evidential).
 
 ◆ Inıkucál.
-❖ ʼı꞊n⁃ı-k⁃u-√cál
-◇ ASR.SEN꞊1P⁃ERG-2P⁃ACC-√see_stimulus
+❖ ʼı꞊nı-ku-√cál
+◇ ASR.SEN꞊1P:ERG-2P:ACC-√see_stimulus
 Ⓔ I see you.
 
 ◆ Icál caní kakí.
@@ -34,66 +34,66 @@
 
 ◆ Akwıcál.
 ◆ Akwıyucál.
-❖ ʼa꞊kw⁃ı⁃y⁃u-√cál
-◇ ASR.INFR-RCP⁃ERG⁃LNK⁃ACC-√see_stimulus
+❖ ʼa꞊kwıyu-√cál
+◇ ASR.INFR-RCP:ERG:LNK:ACC-√see_stimulus
 Ⓔ There is seeing each other.
 
 ◆ Aŋkokwıyucál.
-❖ ʼa꞊ŋk⁃aı-kw⁃ı⁃y⁃u-√cál
-◇ ASR.INFR꞊12P⁃EXT-RCP⁃ERG⁃LNK⁃ACC-√see_stimulus
+❖ ʼa꞊ŋkaı-kwıyu-√cál
+◇ ASR.INFR꞊12P:EXT-RCP:ERG:LNK:ACC-√see_stimulus
 Ⓔ We both are seeing each other.
 
 ◆ Inıtʰú kaokıθutʰú.
-❖ ʼı꞊n⁃ı-√tʰú  k-ao꞊k⁃ı-θ⁃u-√tʰu
-◇ ASR.SEN꞊1P⁃ERG-√find_likely  ACC-PCCS꞊2P⁃ERG-CTX⁃ACC-√find_likely
+❖ ʼı꞊nı-√tʰú  k-ao꞊kı-θu-√tʰu
+◇ ASR.SEN꞊1P:ERG-√find_likely  ACC-PCCS꞊2P:ERG-CTX:ACC-√find_likely
 ◆ Inıtʰú kaokıtʰú kaθi̋.
 Ⓔ I know that you know you-know-what.
 
 ◆ Inıtʰú keokıtutʰú.
-❖ ʼı꞊n⁃ı-√tʰú  k-eo꞊k⁃ı-t⁃u-√tʰú.
-◇ ASR.SEN꞊1P⁃ERG-√find_likely  ACC-PCCS꞊2P⁃ERG-RSM⁃ACC-√find_likely
+❖ ʼı꞊nı-√tʰú  k-eo꞊kı-tu-√tʰú.
+◇ ASR.SEN꞊1P:ERG-√find_likely  ACC-PCCS꞊2P:ERG-RSM:ACC-√find_likely
 Ⓔ The thing which you know is also known by me.
 
 ◆ Ohaθıpıθuʎú ʎaıtuqʰá caocʼáo.
-❖ ʼo꞊ha-θ⁃e-p⁃e-θ⁃o-√ʎú  ʎaı꞊t⁃u-√qʰá  c-ao-√cʼáo.
-◇ ASR.RPT꞊NEG-EXO⁃ERG-PL⁃ERG-EXO⁃ACC-√go_from_to
-  ATR-RSM⁃ACC-√cause  ERG-DCS꞊√snow
+❖ ʼo꞊ha-θe-pe-θo-√ʎú  ʎaı꞊tu-√qʰá  c-ao-√cʼáo.
+◇ ASR.RPT꞊NEG-EXO:ERG-PL:ERG-EXO:ACC-√go_from_to
+  ATR-RSM:ACC-√cause  ERG-DCS꞊√snow
 ◆ Ohaθıθuʎú ʎaıpıqʰá katí caocʼáo.
 ◆ Ohaθıθuʎú ʎaıqʰá kapatí caocʼáo.
 ◆ Ohaθıpıθuʎú cʼuqʰá ncaocʼáo.
 Ⓔ (I heard that) they didn't go (there) because of there being snow.
 
-◆ Ulúq tayacʼáo.
+◆ Ulúq tacʰacʼáo.
 ❖ ʼu꞊√lúq  t-ay-a-√cʼáo.
-◇ ASR.REC꞊√cold  NTR-DEF-NTR-√snow
+◇ ASR.REC꞊√cold  NTR-NTRᵢ-DEF:NTR-√snow
 Ⓔ (I remember experiencing that) the snow was cold.
 
 ◆ Inıθekoʎú.
-❖ ʼı꞊n⁃e-θ⁃ï-k⁃o-√ʎú
-◇ ASR.SEN꞊1⁃ERG-EXO⁃DAT-2⁃ACC-√go_from_to
-◆ Iʎú caní paθí kakí.
-❖ ʼı꞊√go_from_to  ERG-√1P  DAT-√EXO  ACC-√2P
-◇ ASR.SEN꞊go_from_to ERG-me DAT-you_know_what ACC-you
+❖ ʼı꞊ne-θï-ko-√ʎú
+◇ ASR.SEN꞊1:ERG-EXO:DAT-2:ACC-√go_from_to
+◆ Iʎú canayá paθayá kakayá.
+❖ ʼı꞊√ʎú  c-a-  DAT-√EXO  ACC-√2
+◇ ASR.SEN꞊go_from_to ERG-1:NTR-thing DAT-EXO:NTR-thing ACC-2:NTR-thing
 Ⓔ I go from you-know-where to you.
 
-◆ Ici̋ tayakóyu ña’áı tayaƛúrı ne.
-❖ ʼı꞊√ci̋  t-ay-a-√kóyu  ña-√’áı  t-ay-a-√ƛúrı  ne
-◇ ASR.SEN꞊√is_one  NTR-DEF-NTRᵢ-√dog  EACZ-√are_both_true  NTR-DEF-NTRᵢ-√cat  EOT
+◆ Ici̋ tacʰakóyu ña’áı tacʰaƛúrı ne.
+❖ ʼı꞊√ci̋  t-a-cʰa-√kóyu  ña-√’áı  t-a-cʰa-√ƛúrı  ne
+◇ ASR.SEN꞊√is_one  NTR-NTRᵢ-DEF:NTR-√dog  DCZ-√are_both_true  NTR-NTRᵢ-DEF:NTR-√cat  EOT
 Ⓔ The dog and⸨logical⸩ the cat are both one/single. End of communication.
 
-◆ Irú tayakóyu nayaƛúrı ne.
-❖ ʼı꞊√rú̋  t-ay-a-√kóyu  n-ay-a-√ƛúrı  ne
-◇ ASR.SEN꞊√are_two  NTR-DEF-NTRᵢ-√dog  PU-DEF-NTRᵢ-√cat  EOT
+◆ Irú tacʰakóyu nacʰaƛúrı ne.
+❖ ʼı꞊√rú̋  t-a-cʰa-√kóyu  n-a-cʰa-√ƛúrı  ne
+◇ ASR.SEN꞊√are_two  NTR-NTRᵢ-DEF:NTR-√dog  PU-NTRᵢ-DEF:NTR-√cat  EOT
 Ⓔ The dog together with the cat are two. End of communication.
 
 ◆ Epí cıwaƛúrı kaqó laqárı.
 ❖ ʼe꞊√pí  c-ıw-a-√ƛúrı  k-a-√qó  l-a-√qárı.
-◇ EPI꞊√has_part  ERG-∀-NTRᵢ-√cat  ACC-NTR-√4  ATR-NTRᵢ-√leg
+◇ EPI꞊√has_part  ERG-∀-NTRᵢ-√cat  ACC-NTR-√are_four  ATR-NTRᵢ-√leg
 Ⓔ All cats have four legs.
 
 ◆ Intıŋmıtʰán qancʼaƛʰáı.
-❖ ʼa-nt⁃ı-ŋm⁃ı-tʰán  q-a-ncʼ⁃a-ƛʰáı.
-◇ ASR.INF꞊this⁃ERG-great_as⁃ERG-√has_size  EXT-NTRᵢ-property_of⁃NTR-√tree.
+❖ ʼı-ntı-ŋmı-tʰán  q-a-ncʼa-ƛʰáı.
+◇ ASR.INF꞊this:ERG-great_as:ERG-√has_size  EXT-NTRᵢ-property_of:NTR-√tree.
 Ⓔ This is a big tree. / “This is of a great size as a tree, as something having treehood.”
 
 
