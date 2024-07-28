@@ -87,12 +87,12 @@
 | θı                                  | ECHO     | Echo-Resumptive                         |
 | ʎaı                                 | ATR      | Afterthought relativizer                |
 | hu                                  | COO      | Coordinative                            |
-| ña                                  | EAPCZ    | ERG-ACC propositional coordinationizer  |
-| ñu                                  | AEPCZ    | ACC-ERG propositional coordinationizer  |
-| ñaı                                 | EAECZ    | ERG-ACC eventive coordinationizer       |
-| ñao                                 | AEECZ    | ACC-ERG eventive coordinationizer       |
-| ʎa                                  | EAQZ     | ERG-ACC binary quantifierizer           |
-| ʎu                                  | AEQZ     | ACC-ERG binary quantifierizer           |
+| ña                                  | DPCZ     | Direct propositional coordinationizer  |
+| ñu                                  | IPCZ     | Inverse propositional coordinationizer  |
+| ñaı                                 | DECZ     | Direct eventive coordinationizer       |
+| ñao                                 | IECZ     | Inverse eventive coordinationizer       |
+| ʎa                                  | DQZ      | Direct binary quantifierizer           |
+| ʎu                                  | IQZ      | Inverse binary quantifierizer           |
 
 ### SUBORDINATORS:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |

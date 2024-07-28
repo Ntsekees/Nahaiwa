@@ -1,18 +1,18 @@
 # Other roles
 
 ```  
-┌───────────────────────────────────────┬────────┐  
-│ Dislocated Predicate                  │ hı     │  
-│ Coordinative                          │ hu     │  
-│ ERG-ACC propositional coordinationizer │ ña     │  
-│ ACC-ERG propositional coordinationizer │ ñu     │  
-│ ERG-ACC eventive coordinationizer      │ ñaı    │  
-│ ACC-ERG eventive coordinationizer      │ ñao    │  
-│ ERG-ACC binary quantifierizer         │ ʎa     │  
-│ ACC-ERG binary quantifierizer         │ ʎu     │  
-│ Afterthought relativizer              │ ʎaı    │  
-│ Echo-Resumptive                       │ θı     │  
-└───────────────────────────────────────┴────────┘  
+┌────────────────────────────────────────┬────────┐  
+│ Dislocated Predicate                   │ hı     │  
+│ Coordinative                           │ hu     │  
+│ Direct propositional coordinationizer  │ ña     │  
+│ Inverse propositional coordinationizer │ ñu     │  
+│ Direct eventive coordinationizer       │ ñaı    │  
+│ Inverse eventive coordinationizer      │ ñao    │  
+│ Direct binary quantifierizer           │ ʎa     │  
+│ Inverse binary quantifierizer          │ ʎu     │  
+│ Afterthought relativizer               │ ʎaı    │  
+│ Echo-Resumptive                        │ θı     │  
+└────────────────────────────────────────┴────────┘  
 ```  
 
 ## Dislocated Predicate
@@ -67,8 +67,8 @@ If the Afterthought Relativizer is used on the root clause whose root verb bears
 
 ## Coordinative and Coordinationizers
 
-The ERG-ACC and ACC-ERG coordinationizers can only be applied to binary roots expressing a relation between two propositions, such as logical connective predicates like ⟪-áı⟫, "and". They convert the binary predicate into an afterthought, interposed conjunction, a conjunction placed between the two connectands it governs.  
-In the case of the ERG-ACC version, the first connectand goes into the ERG slot and the second one in the ACC slot; with the ACC-ERG coordinationizer, it's the other way around. The difference is insignificant if the binary relation is reflexive, i.e. reciprocal.  
+The direct and inverse coordinationizers can only be applied to binary roots expressing a relation between two propositions, such as logical connective predicates like ⟪-áı⟫, "and". They convert the binary predicate into an afterthought, interposed conjunction, a conjunction placed between the two connectands it governs.  
+In the case of the direct version, the first connectand goes into the ERG slot and the second one in the ACC slot; with the inverse coordinationizer, it's the other way around. The difference is insignificant if the binary relation is reflexive, i.e. reciprocal.  
 The propositional versions take two propositions as their arguments; the eventive versions take as arguments events instantiating the propositions, i.e. the physical manifestation of these abstract propositions.  
 When two noun phrases are conjoined with a conjunction, the two must bear the same noun case. When two verbs in the same clause are conjoined, the second one bears the Coordinative Role ⟪hu-⟫.  
 A bare Coordinative Role, not preceded by a conjunction word, is a shorthand for a logical AND conjoining two verbs, i.e. with the ⟪ñaʼáı⟫ conjunction left out implicit.  
@@ -76,15 +76,15 @@ A bare Coordinative Role, not preceded by a conjunction word, is a shorthand for
 ```  
   ┌───────────────  
   │ ◆ Ici̋ tacʰakóyu ñaʼáı tacʰaƛúrı.  
-  │ ❖ ASR.SEN꞊√is_one  NTR-NTR-DEF:NTR-√dog  EAPCZ-√and  
-  │   NTR-NTR-DEF:NTR-√cat  
+  │ ❖ ASR.SEN꞊√is_one  NTR-NTR-DEF:NTR-√dog  DPCZ-√and  
+  │   NTR-NTRᵢ-DEF:NTR-√cat  
   │ ➥ Both the dog and the cat are one/single.  
   └─  
 ```  
 ```  
   ┌───────────────  
   │ ◆ Ici̋ tacʰakóyu (ñaʼáı) hurú tacʰaƛúrı.  
-  │ ❖ ASR.SEN꞊√is_one  NTR-NTRᵢ-DEF:NTR-√dog  (EAPCZ-√and)  
+  │ ❖ ASR.SEN꞊√is_one  NTR-NTRᵢ-DEF:NTR-√dog  (DPCZ-√and)  
   │   COO-√are_two NTR-NTRᵢ-DEF:NTR-√cat  
   │ ➥ The dog is one, and the cats are two.  
   └─  
@@ -93,7 +93,7 @@ A bare Coordinative Role, not preceded by a conjunction word, is a shorthand for
   ┌───────────────  
   │ ◆ Oθıneyi̋čal kaoci̋ tacʰakóyu (ñaʼáı) hurú tacʰaƛúrı.  
   │ ❖ ASR.REC꞊EXO:ERG-me:DAT-√assert_to  
-  │   ACC-DCS-√is_one  NTR-NTRᵢ-DEF:NTR-√dog  (EAPCZ-√and)  
+  │   ACC-DCS-√is_one  NTR-NTRᵢ-DEF:NTR-√dog  (DPCZ-√and)  
   │   COO-√are_two NTR-NTR-DEF:NTR-√cat  
   │ ➥ That one said to me that the dog was one and the cats were two.  
   └─  
