@@ -46,7 +46,7 @@ This ‘Injective’ clitic may occur on nouns and adverbials and indicates that
 ```
   ┌───────────────  
   │ ◆ Oqʰá caweotïƛúru tačʰóqa θakïłqʼáı ntačʰól.  
-  │ ❖ ASR.RPT-cause  ERG-ELU-RSM:EV-shake  NTR-NTR-ground
+  │ ❖ ASR.RPT-cause  ERG-ELU-RCS-RSM:EV-shake  NTR-NTR-ground
   │   PSUB꞊ACC-EV-undergoes_destruction  IJV꞊NTR-NTR-building 
   │ ➥ I heard that it was an earthquake that caused the
   │   destruction of the building.  
