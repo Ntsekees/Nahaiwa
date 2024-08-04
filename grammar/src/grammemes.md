@@ -11,7 +11,6 @@
 | θu                                  | PA       | Preset Anchoring                        |
 | ʎo                                  | MC       | Medial Coordinative                     |
 | ñï                                  | SOP      | Start Of Parenthetical                  |
-| █                                   | CLINJ    | Clausal Injective                       |
 | kʰwaı                               | PATAG    | Preset Anchoring Tag                    |
 
 ### ROLES ➤ ASSERTIVE ILLOCUTION + EVIDENTIALITIES:
