@@ -41,8 +41,8 @@ It is noteworthy that the consonant of the lambda pronouns is the same as that o
 ```  
   ┌───────────────  
   │ ◆ Aŋkıpθú koacʼıtʰú kaoθıkʼutwá.  
-  │ ❖ ASR.INF-12-ERG-√differ  ACC-BTC-BL1-ERG-√find_likely  
-  │   ACC-PCCS-you_know_what-ERG-BL2-√intend  
+  │ ❖ ASR.INF꞊12:ERG-√differ  ACC-BTC-ERG_LAM:ERG-√find_likely  
+  │   ACC-DCS꞊EXO:ERG-ACC_LAM:ACC-√intend  
   │ ➥ We (me+you) differ in what we think he intends to do.  
   └─  
 ```  
