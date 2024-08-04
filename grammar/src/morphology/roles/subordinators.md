@@ -25,14 +25,14 @@ Each such blank or slot is represented by a so-called ‘lambda pronoun’ (name
 There is one vocalic morpheme for each predicate arity, and each arity has its own set of lambda pronouns. Additionally, there are two different morphemes for unary predicates, they only differ in having a different lambda pronoun.  
   
 ```  
-┌─────────────────────────┬─────┬─────────────────────────────────┐  
-│ Function                │ V   │ Lambda pronoun set              │  
-├─────────────────────────┼─────┼──────────────────┬──────────────┤  
-│ Unary Template Clause 1 │ oı  │ -tʼá             │ -tʼ◈-        │  
-│ Unary Template Clause 2 │ ea  │ -ltʼá            │ -ltʼ◈-       │  
-│ Binary Template Clause  │ oa  │ -cʼí, -kʼú       │ -cʼ◈-, -kʼ◈- │  
-│ Ternary Template Clause │ ıʼı │ -čʼé, -pʼı̋, -qʼó │              │  
-└─────────────────────────┴─────┴──────────────────┴──────────────┘  
+┌────────────────────────────┬─────┬────────────────────┐  
+│ Function                   │ V   │ Lambda pronoun set │  
+├────────────────────────────┼─────┼────────────────────┤  
+│ Unary Template Clause      │ oı  │ tʼ◈                │  
+│ Binary Template Clause     │ oa  │ cʼ◈, kʼ◈           │  
+│ Ternary Template Clause    │ eʼe │ cʼ◈, pʼ◈, kʼ◈      │  
+│ Quaternary Template Clause │ oʼo │ cʼ◈, pʼ◈, čʼ◈, kʼ◈ │  
+└────────────────────────────┴─────┴────────────────────┘  
 ```  
   
 The lambda pronouns are shown in their contentive root form, with equivalent extensional prefix forms in the right-hand square (with ⟪◈⟫ standing for an Inner Case vocalic affix); only the unary and binary templates have extensional prefix forms for their lambda pronouns, as they are the most frequent in usage.  

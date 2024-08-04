@@ -101,7 +101,8 @@
 | ea                                  | PCS      | Polarity Clause Subordinator            |
 | oı                                  | UTCS     | Unary Template Clause Subordinator      |
 | oa                                  | BTCS     | Binary Template Clause Subordinator     |
-| u’u                                 | TTCS     | Ternary Template Clause Subordinator    |
+| e’e                                 | TTCS     | Ternary Template Clause Subordinator    |
+| o’o                                 | QTCS     | Quaternary Template Clause subordinator |
 
 ### SCOPES:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
