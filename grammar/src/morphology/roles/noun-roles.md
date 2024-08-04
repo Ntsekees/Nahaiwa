@@ -167,7 +167,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
 ```  
 ┌───────────────┬─────┐  
 │ Pendent       │  ƛ  │  
-│ Instrumental  │  ƛʼ │  
+│ Instrumental  │  ƛʰ │  
 │ SP Locative   │  s  │  
 └───────────────┴─────┘  
 ```  
@@ -187,7 +187,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
 
 ```  
 ┌───────────────  
-│ ◆ Iθıwétakı kʼakóyu ƛʼaƛʰísı.  
+│ ◆ Iθıwétakı kʼakóyu ƛʰaƛʰísı.  
 │ ❖ ASR.SEN꞊EXO:ERG-draws_depiction ACC.PROP-NTR-is_a_dog  
 │   INS-NTR-is_a_pencil
 │ ➥ They draw (a representation of) dogness, using a pencil.  
