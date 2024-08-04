@@ -25,18 +25,23 @@ Slot 1, 3 are optional; the other ones are mandatory.
 However, the Role slot may further be subdivised into up to three further subslots when the word is inflected for certain syntactic functions (mainly functions others than that of main verb):  
   
 ```  
-┌────┬───────┬────────────────┐  
-│ №  │ Form  │  Name          │  
-├────┼───────┼────────────────┤  
-│ 2a │  C    │  Outer Case    │  
-├────┼───────┼────────────────┤  
-│ 2b │ Vy/Vw │  Determinacy   │  
-├────┼───────┼────────────────┤  
-│ 2c │ V(ʼV) │  Inner Case    │  
-└────┴───────┴────────────────┘  
+┌────┬───────┬──────────────────┐  
+│ №  │ Form  │  Name            │  
+├────┼───────┼──────────────────┤  
+│ 2a │  C    │  Outer Case      │  
+├────┼───────┼──────────────────┤  
+│ 2b │ Vy/Vw │  Saliency        │  
+├────┼───────┼──────────────────┤  
+│ 2c │ Vʼ    │  Scope           │  
+├────┼───────┼──────────────────┤  
+│ 2d │ Vy/Vw │  Determinacy     │  
+├────┼───────┼──────────────────┤  
+│ 2e │ V     │  Inner Case      │  
+│    │       │  / Subordination │  
+└────┴───────┴──────────────────┘  
 ```  
   
-Out of these, slot 2b is optional; the two others must appear together.  
+Out of these, slot **2b**, **2c** and **2d** are optional; slots **2a** and **2e** must appear together.  
   
 The root or base of a contentive is always demarcated from the inflectional and extensional prefixes prepended to it by bearing the highest tone (represented by an acute accent in the Latin orthography) on its first syllable.  
 For example, in the word ⟪talóya⟫, the root is ⟪-lóya⟫, “sky”, and ⟪ta-⟫ is a slot #2 inflectional prefix complex.  
@@ -49,7 +54,7 @@ The word ⟪ŋkaoluŋkıkwıyuráwa⟫ (“of the fact that we talked to each ot
 ┌──────────┬────────┬─────────────────────────────────────────────┐  
 │ Slot #1  │ ŋ꞊     │ Injective clitic                            │  
 │ Slot #2a │ k-     │ Accusative outer case                       │  
-│ Slot #2c │ ao-    │ Plain content clause subordinator           │  
+│ Slot #2e │ ao-    │ Plain content clause subordinator           │  
 │ Slot #3  │ lu-    │ Extension: past tense                       │  
 │ Slot #3  │ ŋkı-   │ Extension: “you and me” + (Ergative)        │  
 │ Slot #3  │ kwıyu- │ Disyllabic extension (CVyV): “reciprocally” │  

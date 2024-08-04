@@ -4,15 +4,20 @@
 With noun roles, as well as modificative and adverbial roles, Slot 2 is subdivised into the following subslots:  
   
 ```  
-┌────┬───────┬──────────────────────────────┐  
-│ №  │ Form  │  Name                        │  
-├────┼───────┼──────────────────────────────┤  
-│ 2a │  C    │  Outer Case                  │  
-├────┼───────┼──────────────────────────────┤  
-│ 2b │ Vy/Vw │  Determinacy                 │  
-├────┼───────┼──────────────────────────────┤  
-│ 2c │ V(ʼV) │  Inner Case OR Subordinator  │  
-└────┴───────┴──────────────────────────────┘  
+┌────┬───────┬──────────────────┐  
+│ №  │ Form  │  Name            │  
+├────┼───────┼──────────────────┤  
+│ 2a │  C    │  Outer Case      │  
+├────┼───────┼──────────────────┤  
+│ 2b │ Vy/Vw │  Saliency        │  
+├────┼───────┼──────────────────┤  
+│ 2c │ Vʼ    │  Scope           │  
+├────┼───────┼──────────────────┤  
+│ 2d │ Vy/Vw │  Determinacy     │  
+├────┼───────┼──────────────────┤  
+│ 2e │ V     │  Inner Case      │  
+│    │       │  / Subordination │  
+└────┴───────┴──────────────────┘  
 ```  
   
 There are two kinds of cases:  

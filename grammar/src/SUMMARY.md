@@ -11,6 +11,7 @@
             - [Root verb roles](./morphology/roles/root-verb-roles.md)
             - [Noun roles](./morphology/roles/noun-roles.md)
             - [Subordinators](./morphology/roles/subordinators.md)
+            - [Saliency](./morphology/roles/saliency.md)
             - [Determinacy](./morphology/roles/determinacy.md)
             - [Other case-like roles](./morphology/roles/other-case-like-roles.md)
             - [Other roles](./morphology/roles/other-roles.md)
