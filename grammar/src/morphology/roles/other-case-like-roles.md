@@ -29,17 +29,17 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
     
 ```  
   ┌───────────────  
-  │ ◆ Ici̋ taθakóyu ñaʼáı taθaƛúrı ne.  
-  │ ❖ ASR.SEN꞊√is_one  NTR-NTRᵢ-EXO:NTR-√dog  EAPCZ-√and  
-  │   NTR-NTRᵢ-EXO:NTR-√cat  EOT  
+  │ ◆ Ici̋ tacʰakóyu ñaʼáı tacʰaƛúrı ne.  
+  │ ❖ ASR.SEN꞊√is_one  NTR-NTRᵢ-DEF:NTR-√dog  DPCZ-√and  
+  │   NTR-NTRᵢ-DEF:NTR-√cat  EOT  
   │ ➥ Both the dog and the cat are one/single. [EOT]  
   └─  
 ```  
 ```  
   ┌───────────────  
-  │ ◆ Irú taθakóyu naθaƛúrı ne.  
-  │ ❖ ASR.SEN꞊√are_two  NTR-NTRᵢ-EXO:NTR-√dog  
-  │   PU-NTRᵢ-EXO:NTR-√cat  EOT  
+  │ ◆ Irú tacʰakóyu nacʰaƛúrı ne.  
+  │ ❖ ASR.SEN꞊√are_two  NTR-NTRᵢ-DEF:NTR-√dog  
+  │   PU-NTRᵢ-DEF:NTR-√cat  EOT  
   │ ➥ The dog together with the cat are two. [EOT]  
   └─  
 ```  
