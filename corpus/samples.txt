@@ -2,9 +2,6 @@
 ◆ Inalı̋.
 ❖ ʼı꞊na-√lı̋
 ◇ ASR.SEN꞊1:NTR-sleep
-◆ Ili̋ taní.
-❖ ʼı꞊√li̋  t-a-√ní
-◇ ASR.SEN꞊sleep  NTR-NTR-√1P
 Ⓔ I sleep.
 
 ◆ Ïnıkuyáo.
@@ -17,9 +14,9 @@
 ◇ ASR.REC-√sleep  NTR-∀-NTR-√dog
 Ⓔ (I remember preceiving that) all dogs were asleep.
 
-◆ Irnakálı.
-❖ ʼı꞊rna-√kálı
-◇ ASR.SEN-my:NTR-√book
+◆ Inorakálı.
+❖ ʼı꞊no-ra-√kálı
+◇ ASR.SEN-1:EXT-related:NTR-√book
 Ⓔ There is my book (sensorial evidential).
 
 ◆ Inıkucál.
@@ -27,9 +24,9 @@
 ◇ ASR.SEN꞊1P:ERG-2P:ACC-√see_stimulus
 Ⓔ I see you.
 
-◆ Icál caní kakí.
-❖ ʼı꞊√cál  c-a-√ní k-a-√kí
-◇ ASR.SEN꞊√see_stimulus  ERG-NTR-√1P ACC-NTR-√2P
+◆ Icál canayá kakayá.
+❖ ʼı꞊√cál  c-a-na-√yá k-a-ka-√yá
+◇ ASR.SEN꞊√see_stimulus  ERG-NTR-1:NTR-√thing ACC-NTR-2:NTR-√thing
 Ⓔ I see you.
 
 ◆ Akwıcál.
