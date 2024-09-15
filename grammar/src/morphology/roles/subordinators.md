@@ -3,14 +3,15 @@
   
 Subordinator values (slot 2c):  
 ```  
-┌──────────────────────────┬─────┐  
-│ Relative clause          │ eo  │  
-│ Plain content clause     │ ao  │  
-│ Polarity clause          │ ea  │  
-│ Unary template clause #1 │ oı  │  
-│ Binary Template Clause   │ oa  │  
-│ Ternary Template Clause  │ ıʼı │  
-└──────────────────────────┴─────┘  
+┌────────────────────────────┬─────┐  
+│ Relative clause            │ eo  │  
+│ Plain content clause       │ ao  │  
+│ Polarity clause            │ ea  │  
+│ Unary template clause #1   │ oı  │  
+│ Binary Template Clause     │ oa  │  
+│ Ternary Template Clause    │ eʼe │  
+│ Quaternary Template Clause │ oʼo │  
+└────────────────────────────┴─────┘  
 ```  
   
 These morphemes occupy the same slot as Inner Cases (slot 2c), but are not true Cases. They turn the words which bear them into ‘participles’, words that have the special syntactic effect of opening a whole subordinate clause (which may be exited for returning to the outer clause by using an appropriate Anchoring proclitic; see the section [Anchoring Slot](../anchoring-slot.md)). The participle can assume any syntactic roles which normal contentives can assume via outer case inflection: a participle bearing a noun case will be a “noun participle” (i.e. a verbal noun), with an adverbial case it will be an “adverbial participle”, and so on. Even if all these morphemes cause the opening of a subordinate clause, they differ in what kind of clause is created.  

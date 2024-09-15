@@ -110,11 +110,15 @@
 | ıʼ                                  | LS       | Low scope                               |
 | aʼ                                  | HS       | High scope                              |
 
-### DETERMINACIES:
+### SALIENCIES:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | aw                                  | EF⁓ELU   | Elucidative focus                       |
 | ay                                  | BG       | Background/Presupposition marker        |
+
+### DETERMINACIES:
+|                FORM                 |  GLOSS   |                GRAMMEME                 |
+|-------------------------------------|----------|-----------------------------------------|
 | oy                                  | PROP     | Abstract property                       |
 | ew                                  | CUQ      | Collective universal quantifier         |
 | ıw                                  | ∀        | Distributive universal quantifier       |
@@ -142,7 +146,7 @@
 | █                                   | SWQI     | Single-word quote initiator             |
 | pʰaı                                | MWQI     | Multi-word quote initiator              |
 | █                                   | SWNI     | Single-word name initiator              |
-| ñaı                                 | MWNI     | Multi-word name initiator               |
+| ñeo                                 | MWNI     | Multi-word name initiator               |
 | qʼwaı                               | FQI      | Foreign quote initiator                 |
 
 
