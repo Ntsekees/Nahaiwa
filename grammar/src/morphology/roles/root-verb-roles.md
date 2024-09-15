@@ -30,23 +30,22 @@ Below is a list of the possible root verb prefixes.
   * **mu-**:   content interrogative, “wh” question (“what?”, “who?”, “which?”, “when?”, “where?”, “how”? “why?”, etc.).  
   * **maı-**:  rethorical polar interrogative.  
   * **mao-**:  rethorical content interrogative.  
-  * **kʰa-**:  directive: order with implied threat.  
-  * **kʰo-**:  petitive: demand; strong, earnest request.  
-  * **kʰu-**:  requestive: request with implied disappointment if unfulfilled.  
-  * **kʰe-**:  solicitive: mild request with no obligation of fulfillment.  
-  * **kʰı-**:  oblative: disinterested offers (“I'm available for…”, “if you're interested…”).  
-  * **kʰao-**: recommandation.  
-  * **kʰaı-**: permissive: expression of permission.
-  * **yao-**:  seeking of permission.  
+  * **kʰa-**:  directive: order with implied threat, negative consequences if unfulfilled.  
+  * **kʰo-**:  requestive: request with implied disappointment if unfulfilled.  
+  * **kʰu-**:  invitative/solicitive: mild request with no obligation of fulfillment, no grudge if not accepted.  
+  * **kʰı-**: recommandative.  
+  * **kʰaı-**:  permission-seeking.  
+  * **yea-**: permissive: expression of permission.
+  * **yao-**:  oblative: disinterested offers (*“I'm available for…”*, *“if you're interested…”*, *“if you want…”*).  
 
 The content interrogative illocutions go hand-in-hand with the lambda pronominal extension ⟪-tʼ◈-⟫, which plays here the role of the content interrogative pronoun “what”. There is do distinct pronoun for “who”.
 
 Note: Whilst there's a prefix for granting permission, ⟪kʰaı-⟫, there's no dedicated one for prohibition, for that latter is expressed with negative imperatives instead:
 ```
   ┌───────────────
-  │ ◆ — Yaoʎáıša.
-  │   — Kʰuhaʎáıša.
-  │ ❖ — SOP-music
+  │ ◆ — Kʰaıʎáıša.
+  │   — Kʰohaʎáıša.
+  │ ❖ — PS-music
   │   — REQ-NEG-music
   │ ➥ — Can I put music on?
   │   — Please no music.
@@ -72,17 +71,17 @@ Note: Whilst there's a prefix for granting permission, ⟪kʰaı-⟫, there's no
   │ ➥ What do you want to eat?
   └─
   ┌───────────────  
-  │ ◆ Kʰaokıƛú.
+  │ ◆ Kʰıkıƛú.
   │ ❖ RCM-2:ERG-drink
   │ ➥ You should drink (something).
   └─
   ┌───────────────  
-  │ ◆ Kʰunepákı.
-  │ ❖ REQ-1:DAT-help
+  │ ◆ Kʰo(ne)pákı.
+  │ ❖ REQ-(1:DAT)-help
   │ ➥ Could you please help me?
   └─
   ┌───────────────  
-  │ ◆ Kʰı(ke)pákı.
+  │ ◆ Yao(ke)pákı.
   │ ❖ OBLAT-(2:DAT)-help
   │ ➥ I'm available to help (you).
   └─

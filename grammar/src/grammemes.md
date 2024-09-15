@@ -39,13 +39,12 @@
 | maı                                 | RPQ⁓RPI  | Rhetorical Polar Interrogative          |
 | mao                                 | RCQ⁓RCI  | Rhetorical Content Interrogative        |
 | kʰa                                 | DIR      | Directive                               |
-| kʰo                                 | PET      | Petitive                                |
-| kʰu                                 | REQ      | Requestive                              |
-| kʰe                                 | SOL      | Solicitive                              |
-| kʰı                                 | OBLT     | Oblative                                |
-| kʰao                                | RCM      | Recommandative                          |
-| kʰaı                                | PRM      | Permissive                              |
-| yao                                 | PS       | Permission-seeking                      |
+| kʰo                                 | REQ      | Requestive                              |
+| kʰu                                 | INV      | Invitative                              |
+| kʰı                                 | RCM      | Recommandative                          |
+| kʰaı                                | PS       | Permission-seeking                      |
+| yea                                 | PRM      | Permissive                              |
+| yao                                 | OBLT     | Oblative                                |
 
 ### ROLES ➤ CORE CASES:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
