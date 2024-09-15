@@ -1,18 +1,18 @@
 # Other roles
 
 ```  
-┌────────────────────────────────────────┬────────┐  
-│ Dislocated Predicate                   │ hı     │  
-│ Coordinative                           │ hu     │  
-│ Direct propositional coordinationizer  │ ña     │  
-│ Inverse propositional coordinationizer │ ñu     │  
-│ Direct eventive coordinationizer       │ ñaı    │  
-│ Inverse eventive coordinationizer      │ ñao    │  
-│ Direct binary quantifierizer           │ ʎa     │  
-│ Inverse binary quantifierizer          │ ʎu     │  
-│ Afterthought relativizer               │ ʎaı    │  
-│ Echo-Resumptive                        │ θı     │  
-└────────────────────────────────────────┴────────┘  
+┌────────────────────────────────────────┬─────┐  
+│ Dislocated Predicate                   │ hı  │  
+│ Coordinative                           │ hu  │  
+│ Direct propositional coordinationizer  │ ña  │  
+│ Inverse propositional coordinationizer │ ñu  │  
+│ Direct eventive coordinationizer       │ ñaı │  
+│ Inverse eventive coordinationizer      │ ñao │  
+│ Direct binary quantifierizer           │ ʎa  │  
+│ Inverse binary quantifierizer          │ ʎu  │  
+│ Afterthought relativizer               │ ʎaı │  
+│ Echo-Resumptive                        │ θı  │  
+└────────────────────────────────────────┴─────┘  
 ```  
 
 ## Dislocated Predicate
