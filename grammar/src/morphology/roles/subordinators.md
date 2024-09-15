@@ -4,7 +4,7 @@
 Subordinator values (slot 2c):  
 ```  
 ┌────────────────────────────┬─────┐  
-│ Relative clause            │ eo  │  
+│ Relative clause            │ aı  │  
 │ Plain content clause       │ ao  │  
 │ Polarity clause            │ ea  │  
 │ Unary template clause #1   │ oı  │  

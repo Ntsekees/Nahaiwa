@@ -53,18 +53,18 @@
 | c / ı                               | ERG      | Ergative Case                           |
 | k / u                               | ACC      | Accusative Case                         |
 | p / e                               | DAT      | Dative Case                             |
-| č / aï                              | COD      | Codative Case                           |
+| č / eı                              | COD      | Codative Case                           |
 |                                     |          |                                         |
 | q / o                               | EXT⁓AFX  | Extensional Case, Affixal Case          |
 | š / ï                               | EV       | Eventive Case                           |
-| tʰ / aı                             | SIT      | Situative Case                          |
+| tʰ / eo                             | SIT      | Situative Case                          |
 
 ### ROLES ➤ ADJUNCTS:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | ƛ                                   | PND      | Pendent                                 |
 | ƛʰ                                  | INS      | Instrumental                            |
-| s / eı                              | LOC⁓SPL  | Spatiotemporal Locative                 |
+| s                                   | LOC⁓SPL  | Spatiotemporal Locative                 |
 | y                                   | ITJ⁓INTJ | Interjective                            |
 | l                                   | ATR      | Attributive                             |
 | ł                                   | PRP      | Propositional                           |
@@ -95,7 +95,7 @@
 ### SUBORDINATORS:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
-| eo                                  | RCS      | Relative Clause Subordinator            |
+| aı                                  | RCS      | Relative Clause Subordinator            |
 | ao                                  | DCS      | Declarative Content Clause Subordinator |
 | ea                                  | PCS      | Polarity Clause Subordinator            |
 | oı                                  | UTCS     | Unary Template Clause Subordinator      |

@@ -56,7 +56,7 @@ IC ≝ Internal/inner case
 ├──────────────┼────┼─────┼──────────────┤
 │ Tetravalent: │ c  │ ı   │ Ergative     │
 │              │ p  │ e   │ Dative       │
-│              │ čʰ │ aï  │ Codative     │
+│              │ čʰ │ eı  │ Codative     │
 │              │ k  │ u   │ Accusative   │
 └──────────────┴────┴─────┴──────────────┘
 ```  
@@ -66,7 +66,7 @@ Other core cases:
 ┌──────────────┬─────┬─────┐  
 │ Extensional: │  q  │  o  │   
 │ Eventive:    │  š  │  ï  │  
-│ Situative:   │  tʰ │  aı │  
+│ Situative:   │  tʰ │  eo │  
 └──────────────┴─────┴─────┘  
 ```  
   
