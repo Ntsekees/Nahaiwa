@@ -6,7 +6,7 @@ The morphology of the contentive is an agglutinative template of four slots, des
 ┌───┬────────────┬────────────────┐  
 │ № │ Form       │  Name          │  
 ├───┼────────────┼────────────────┤  
-│ 1 │ CV         │  Binding       │  
+│ 1 │ CV         │  Anchoring     │  
 ├───┼────────────┼────────────────┤  
 │ 2 │ C(VG)V(ʼV) │  Role          │  
 ├───┼────────────┼────────────────┤  
