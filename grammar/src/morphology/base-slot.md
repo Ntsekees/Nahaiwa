@@ -29,16 +29,17 @@ Given that Nahaıwa exhibits an extended tripartite alignment, each of the possi
 Here's an overview:
 
  * Nullary bases (valency zero) don't govern any noun case.  
- * Unary bases (valency 1) govern one noun case: the Intransitive (`ɴᴛʀ`), symbolized by ⟪🅰⟫ in base definitions.  
- * Binary bases (valency 2) govern two noun cases: Ergative (`ᴇʀɢ`, symbol ⟪🅸⟫) and Accusative (`ᴀᴄᴄ`, symbol ⟪🆄⟫).  
- * Ternary bases (valency 3) govern three noun cases: Pegative (`ᴘᴇɢ`, ⟪🅴⟫), Dative (`ᴅᴀᴛ`, ⟪🆈⟫), Missive (`ᴍɪꜱ`, ⟪🅾⟫).  
+ * Unary bases (valency 1) govern one noun case: the Intransitive (`ɴᴛʀ`).  
+ * Binary bases (valency 2) govern two noun cases: Ergative (`ᴇʀɢ`) and Accusative (`ᴀᴄᴄ`).  
+ * Ternary bases (valency 3) govern three noun cases: Ergative, Dative (`ᴅᴀᴛ`) and Accusative.  
+ * Quaternary bases (valency 4, rare) govern four noun cases: Ergative, Dative, Codative (`ᴄᴏᴅ`) and Accusative. 
 
 For example:
 
- * ⟪-kóyu⟫, one-root base, unary valency: “🅰 is a dog”.  
- * ⟪-cál⟫, one-root base, binary valency: “🅸 has visual perception of 🆄”.  
- * ⟪-yéwa⟫, one-root base, ternary valency: “🅴 is thankful to 🆈 for having property 🅾”.  
- * ⟪-kíwaƛʰaı⟫ (⟪-kíwa-ƛʰaı⟫, “skin-tree”), two roots base, unary valency: “🅰 is tree bark”.  
- * ⟪-yı̋yewa⟫ (⟪-yı̋-yewa⟫, “display-grateful”), two roots base, ternary valency: “🅴 thanks, displays gratefulness to 🆈 for having property 🅾”.
+ * ⟪-kóyu⟫, one-root base, unary valency: “**[ɴᴛʀ]** is a dog”.  
+ * ⟪-cál⟫, one-root base, binary valency: “**[ᴇʀɢ]** has visual perception of **[ᴀᴄᴄ]**”.  
+ * ⟪-yéwa⟫, one-root base, ternary valency: “**[ᴇʀɢ]** is thankful to **[ᴅᴀᴛ]** for having property **[ᴀᴄᴄ]**”.  
+ * ⟪-kíwaƛʰaı⟫ (⟪-kíwa-ƛʰaı⟫, “skin-tree”), two roots base, unary valency: “**[ɴᴛʀ]** is tree bark”.  
+ * ⟪-yı̋yewa⟫ (⟪-yı̋-yewa⟫, “display-grateful”), two roots base, ternary valency: “**[ᴇʀɢ]** thanks, displays gratefulness to **[ᴅᴀᴛ]** for having property **[ᴀᴄᴄ]**”.
 
 

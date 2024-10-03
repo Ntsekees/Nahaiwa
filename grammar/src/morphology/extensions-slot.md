@@ -27,38 +27,38 @@ No change in valency, does not select/remove any slot.
 ```
 ┌───────────────
 │ ◆ -łı̋
-│ ➥ 🅰 is asleep.
+│ ➥ [ɴᴛʀ] is asleep.
 │ 
 │ ◆ -šu-łı̋
-│ ➥ it ceases to be the case that [🅰 is asleep].
+│ ➥ it ceases to be the case that [[ɴᴛʀ] is asleep].
 │ 
 │ ◆ -ha-[šu-łı̋]
-│ ➥ [it is not the case that [it ceases to be the case that [🅰 is asleep]]].
-│ ➥ 🅰 doesn't cease to sleep.
+│ ➥ [it is not the case that [it ceases to be the case that [[ɴᴛʀ] is asleep]]].
+│ ➥ [ɴᴛʀ] doesn't cease to sleep.
 │ 
 │ ◆ -kʰao-[ha-[šu-łı̋]]
 │ ➥ [it is possible that [it is not the case that [
-│      it ceases to be the case that [🅰 is asleep]]]].
-│ ➥ maybe 🅰 doesn't cease to sleep.
+│      it ceases to be the case that [[ɴᴛʀ] is asleep]]]].
+│ ➥ maybe [ɴᴛʀ] doesn't cease to sleep.
 └─
 ```
 
 ## Type 0+
-Same as type 0, but adds an Extensional case slot, represented by ⟪🆇⟫ in definitions.  
+Same as type 0, but adds an Extensional case slot, represented by ⟪[ᴇxᴛ]⟫ in definitions.  
 
   **Examples:**  
-  * **-qao-** (causative): ⟪🆇 agentively causes, makes ……… be the case⟫.
+  * **-qao-** (causative): ⟪[ᴇxᴛ] agentively causes, makes ……… be the case⟫.
 
 ```
 ┌───────────────
 │ ◆ -cál
-│ ➥ 🅸 sees 🆄.
+│ ➥ [ᴇʀɢ] sees [ᴀᴄᴄ].
 │ 
 │ ◆ -qao-cál
-│ ➥ 🆇 makes [🅸 sees 🆄] be the case.
+│ ➥ [ᴇxᴛ] makes [[ᴇʀɢ] sees [ᴀᴄᴄ]] be the case.
 │ 
 │ ◆ -ha-[qao-cál]
-│ ➥ it is not the case that [🆇 makes [🅸 sees 🆄] be the case].
+│ ➥ it is not the case that [[ᴇxᴛ] makes [[ᴇʀɢ] sees [ᴀᴄᴄ]] be the case].
 └─
 ```
   
@@ -91,45 +91,45 @@ With binary bases, the vowel is either ⟪ı⟫ (Ergative) or ⟪u⟫ (Accusativ
 ┌───────────────
 │ ◆ -na-łı̋
 │ ❖ -1P:NTR-√is_asleep
-│ ➥ 🅰 is me and is asleep.
+│ ➥ [ɴᴛʀ] is me and is asleep.
 └─
 ┌───────────────
 │ ◆ -ƛʼa-łı̋
 │ ❖ -try:NTR-√is_asleep
-│ ➥ 🅰 tries to be asleep.
+│ ➥ [ɴᴛʀ] tries to be asleep.
 │ 
 │ ◆ -na-ƛʼa-łı̋
 │ ❖ -1P:NTR-try:NTR-√is_asleep
-│ ➥ 🅰 is me, who tries to be asleep.
+│ ➥ [ɴᴛʀ] is me, who tries to be asleep.
 │ “I try to sleep”.
 └─
 ┌───────────────
 │ ◆ -cál
 │ ❖ -√see
-│ ➥ 🅸 sees 🆄.
+│ ➥ [ᴇʀɢ] sees [ᴀᴄᴄ].
 │ 
 │ ◆ -ku-cál
 │ ❖ 2P:ACC-√see
-│ ➥ 🆄 is you and has the property [🅸 sees ____].
-│ ➥ 🆄 is you and is seen by 🅸.
-│ ➥ 🅸 sees 🆄 which is you.
+│ ➥ [ᴀᴄᴄ] is you and has the property [[ᴇʀɢ] sees ____].
+│ ➥ [ᴀᴄᴄ] is you and is seen by [ᴇʀɢ].
+│ ➥ [ᴇʀɢ] sees [ᴀᴄᴄ] which is you.
 │ 
 │ ◆ -nı-[ku-cál]
-│ ➥ 🅸 is me, who has the property [___ sees 🆄 which is you].
-│ ➥ me, who is 🅸, sees you, who is 🆄.
+│ ➥ [ᴇʀɢ] is me, who has the property [___ sees [ᴀᴄᴄ] which is you].
+│ ➥ me, who is [ᴇʀɢ], sees you, who is [ᴀᴄᴄ].
 │ ➥ “I see you”.
 └─
 ┌───────────────
 │ ◆ -nı-[ƛʼı-[ku-cál]]
-│ ➥ 🅸 is me, who tries to have the property [___ sees 🆄 which is you].
-│ ➥ me, who is 🅸, tries to see you, who is 🆄.
+│ ➥ [ᴇʀɢ] is me, who tries to have the property [___ sees [ᴀᴄᴄ] which is you].
+│ ➥ me, who is [ᴇʀɢ], tries to see you, who is [ᴀᴄᴄ].
 │ ➥ “I try to see you”.
 └─
 ┌───────────────
 │ ◆ -nı-[ku-[ƛʼu-cál]]
-│ ➥ 🅸 is me, who has the property [
-│      🆄 who is you, tries that ___ sees you].
-│ ➥ 🆄, you, try to be seen by 🅸, me.
+│ ➥ [ᴇʀɢ] is me, who has the property [
+│      [ᴀᴄᴄ] who is you, tries that ___ sees you].
+│ ➥ [ᴀᴄᴄ], you, try to be seen by [ᴇʀɢ], me.
 │ ➥ “You try to be seen by me”.
 └─
 ```
@@ -144,8 +144,8 @@ Removes two slots and adds one (bound to the affixal case).
 ┌───────────────
 │ ◆ -kwıyu-cál
 │ ❖ -RCP:ERG:ACC-√see
-│ ➥ 🅰 are in reciprocal relationship [___ sees ___].
-│ ➥ 🅰 see each other.
+│ ➥ [ɴᴛʀ] are in reciprocal relationship [___ sees ___].
+│ ➥ [ɴᴛʀ] see each other.
 └─
 ```
 
