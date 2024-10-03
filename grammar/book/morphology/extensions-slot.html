@@ -1,0 +1,307 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Slot #3: Extensions - Nahaıwa grammar</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../introduction.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="../phonology.html"><strong aria-hidden="true">2.</strong> Phonology</a></li><li class="chapter-item expanded "><a href="../phonotactics.html"><strong aria-hidden="true">3.</strong> Phonotactics</a></li><li class="chapter-item expanded "><a href="../morphology.html"><strong aria-hidden="true">4.</strong> Morphology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../morphology/contentives.html"><strong aria-hidden="true">4.1.</strong> Contentives</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../morphology/base-slot.html"><strong aria-hidden="true">4.1.1.</strong> Slot #4: Base</a></li><li class="chapter-item expanded "><a href="../morphology/extensions-slot.html" class="active"><strong aria-hidden="true">4.1.2.</strong> Slot #3: Extensions</a></li><li class="chapter-item expanded "><a href="../morphology/role-slot.html"><strong aria-hidden="true">4.1.3.</strong> Slot #2: Role</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../morphology/roles/root-verb-roles.html"><strong aria-hidden="true">4.1.3.1.</strong> Root verb roles</a></li><li class="chapter-item expanded "><a href="../morphology/roles/noun-roles.html"><strong aria-hidden="true">4.1.3.2.</strong> Noun roles</a></li><li class="chapter-item expanded "><a href="../morphology/roles/subordinators.html"><strong aria-hidden="true">4.1.3.3.</strong> Subordinators</a></li><li class="chapter-item expanded "><a href="../morphology/roles/saliency.html"><strong aria-hidden="true">4.1.3.4.</strong> Saliency</a></li><li class="chapter-item expanded "><a href="../morphology/roles/determinacy.html"><strong aria-hidden="true">4.1.3.5.</strong> Determinacy</a></li><li class="chapter-item expanded "><a href="../morphology/roles/other-case-like-roles.html"><strong aria-hidden="true">4.1.3.6.</strong> Other case-like roles</a></li><li class="chapter-item expanded "><a href="../morphology/roles/other-roles.html"><strong aria-hidden="true">4.1.3.7.</strong> Other roles</a></li></ol></li><li class="chapter-item expanded "><a href="../morphology/anchoring-slot.html"><strong aria-hidden="true">4.1.4.</strong> Slot #1: Anchoring</a></li></ol></li><li class="chapter-item expanded "><a href="../morphology/function-words.html"><strong aria-hidden="true">4.2.</strong> Function words</a></li></ol></li><li class="chapter-item expanded "><a href="../syntax.html"><strong aria-hidden="true">5.</strong> Syntax</a></li><li class="chapter-item expanded "><a href="../grammemes.html"><strong aria-hidden="true">6.</strong> Grammemes summary</a></li><li class="chapter-item expanded "><a href="../lexicon.html"><strong aria-hidden="true">7.</strong> Lexicon</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Nahaıwa grammar</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="slot-3-extensions"><a class="header" href="#slot-3-extensions">Slot #3: Extensions</a></h1>
+<p>The extension slot is optional, and may contain a string of extensional prefixes of arbitrary length, ordered by their relative scope: each such extensional prefix has semantic scope over all the remaining chain of extensional prefixes that follows it, and each prefix is under the scope of the prefixes that occurred before it. In other words, they express semantically compositional modifications of the word stem on their right: the root plus any other prefix appearing to their right (they are left-branching, right-grouping).</p>
+<p>To take an example using English vocabulary, considering three extensional prefixes meaning ‘not’, ‘often’, ‘want’, ordered in this way, the meaning of the whole prefix chain will be &quot;not often wants to…&quot;; but if the order is modified, say ‘want’ ‘often’ ‘not’, the meaning will be &quot;wants to often not do/be…&quot;.</p>
+<p>Extensional prefixes have compositional, transparent meanings: unlike derivational affixes in many natlangs, the combinations involving roots and extensional prefixes do not require being learnt separately from the meaning of their components; the meaning of such combinations can always be derived from the meanings of the components without any need to looking up combinations in a dictionary.</p>
+<p>Extensional prefixes that have fused with the root into a lexicalized combination with an opaque meaning always become part of the root/base itself, i.e. they are no longer located in the Extension slot (that is, the position of the prominent syllable in the word, which always appear on the first syllable of the lexicalized, semantically opaque part of the word, namely the word's root or base, is shifted leftwards so as to engulf any former extensional prefix that would have thusly formed an opaque combination with the root, transforming that former prefix into an element of the root itself, within the Root slot).</p>
+<p>Extensional prefixes have shape -C?CV(yV)-: they begin with a single consonant or a consonant cluster followed by a vowel, possibly elongated with a second syllable starting with the ⟪y⟫ semivowel. If they begin with a cluster, the first consonant of the cluster may be phonetically part of the coda of the preceding syllable (the cluster then crosses the syllable boundary): for example, ⟪nta⟫ is a valid extensional prefix, with the ⟪n⟫ part belonging to the preceding syllable.</p>
+<p>There exist several types of extensional prefixes, depending on two factors: how many slots of the stem they remove, and whether they add a new slot (bound to the &quot;affixal noun case&quot;). For some prefixes, the vowel part is not meaningful and the whole consonant+vowel is one single monolithic morpheme. However, for some other prefixes, the vowel is meaningful and expresses an Inner Case value, indicating the argument slot of the stem that is specifically targeted by this extensional prefix. Some prefixes may even target two slots at a time, in which case they assume the shape -C?CVyV-, where each of the two vowel segments express a different case.</p>
+<p>Below is a list of the different types of extensional prefixes:</p>
+<h2 id="type-0"><a class="header" href="#type-0">Type 0</a></h2>
+<p>No change in valency, does not select/remove any slot.</p>
+<p><strong>Examples:</strong></p>
+<ul>
+<li><strong>-ha-</strong> (negation): ⟪it is not the case that ………⟫;</li>
+<li><strong>-kʰao-</strong> (possibility): ⟪it is possible that ………⟫;</li>
+<li><strong>-šu-</strong> (cessative aspect): ⟪……… ceases to be the case⟫;</li>
+<li><strong>-lu-</strong> (past tense): ⟪……… was the case⟫.</li>
+</ul>
+<pre><code>┌───────────────
+│ ◆ -łı̋
+│ ➥ [ɴᴛʀ] is asleep.
+│ 
+│ ◆ -šu-łı̋
+│ ➥ it ceases to be the case that [[ɴᴛʀ] is asleep].
+│ 
+│ ◆ -ha-[šu-łı̋]
+│ ➥ [it is not the case that [it ceases to be the case that [[ɴᴛʀ] is asleep]]].
+│ ➥ [ɴᴛʀ] doesn't cease to sleep.
+│ 
+│ ◆ -kʰao-[ha-[šu-łı̋]]
+│ ➥ [it is possible that [it is not the case that [
+│      it ceases to be the case that [[ɴᴛʀ] is asleep]]]].
+│ ➥ maybe [ɴᴛʀ] doesn't cease to sleep.
+└─
+</code></pre>
+<h2 id="type-0-1"><a class="header" href="#type-0-1">Type 0+</a></h2>
+<p>Same as type 0, but adds an Extensional case slot, represented by ⟪[ᴇxᴛ]⟫ in definitions.</p>
+<p><strong>Examples:</strong></p>
+<ul>
+<li><strong>-qao-</strong> (causative): ⟪[ᴇxᴛ] agentively causes, makes ……… be the case⟫.</li>
+</ul>
+<pre><code>┌───────────────
+│ ◆ -cál
+│ ➥ [ᴇʀɢ] sees [ᴀᴄᴄ].
+│ 
+│ ◆ -qao-cál
+│ ➥ [ᴇxᴛ] makes [[ᴇʀɢ] sees [ᴀᴄᴄ]] be the case.
+│ 
+│ ◆ -ha-[qao-cál]
+│ ➥ it is not the case that [[ᴇxᴛ] makes [[ᴇʀɢ] sees [ᴀᴄᴄ]] be the case].
+└─
+</code></pre>
+<h2 id="type-"><a class="header" href="#type-">Type +</a></h2>
+<p>Does not select/remove any slot, but adds an affixal slot.</p>
+<p><strong>Examples:</strong><br />
+(none currently).</p>
+<h2 id="type--1"><a class="header" href="#type--1">Type −</a></h2>
+<p>Removes one slot, marked by the vowel form.</p>
+<p><strong>Examples:</strong><br />
+(none currently).</p>
+<h2 id="type--2"><a class="header" href="#type--2">Type −+</a></h2>
+<p>Modifies one slot of the stem (sort of removes one and adds one); the vowel part of the affix, represented by the symbol ⟪◈⟫ below, is variable and represents the “Inner Case” identifying which slot is selected by the affix; the meaning of the slot is modified, but this suffix type does not bind the extensional case, it just reuses the modified cases. The resulting valency and case set of the predicate is unchanged.<br />
+With unary bases, the vowel is ⟪a⟫ (Intransitive Inner Case).<br />
+With binary bases, the vowel is either ⟪ı⟫ (Ergative) or ⟪u⟫ (Accusative).</p>
+<p><strong>Examples:</strong></p>
+<ul>
+<li><strong>-n◈-</strong>: ⟪[new slot] is me, who satisfies the property of [target slot]⟫;</li>
+<li><strong>-k◈-</strong>: ⟪[new slot] is you, who satisfies the property of [target slot]⟫;</li>
+<li><strong>-ŋ◈-</strong>: ⟪[new slot] wants to satisfy the property of [target slot]⟫;.</li>
+<li><strong>-ƛʼ◈-</strong>: ⟪[new slot] attempts to satisfy the property of [target slot]⟫;.</li>
+<li><strong>-sc◈-</strong>: ⟪[new slot] is all that has the property of [target slot]⟫;.</li>
+</ul>
+<pre><code>┌───────────────
+│ ◆ -na-łı̋
+│ ❖ -1P:NTR-√is_asleep
+│ ➥ [ɴᴛʀ] is me and is asleep.
+└─
+┌───────────────
+│ ◆ -ƛʼa-łı̋
+│ ❖ -try:NTR-√is_asleep
+│ ➥ [ɴᴛʀ] tries to be asleep.
+│ 
+│ ◆ -na-ƛʼa-łı̋
+│ ❖ -1P:NTR-try:NTR-√is_asleep
+│ ➥ [ɴᴛʀ] is me, who tries to be asleep.
+│ “I try to sleep”.
+└─
+┌───────────────
+│ ◆ -cál
+│ ❖ -√see
+│ ➥ [ᴇʀɢ] sees [ᴀᴄᴄ].
+│ 
+│ ◆ -ku-cál
+│ ❖ 2P:ACC-√see
+│ ➥ [ᴀᴄᴄ] is you and has the property [[ᴇʀɢ] sees ____].
+│ ➥ [ᴀᴄᴄ] is you and is seen by [ᴇʀɢ].
+│ ➥ [ᴇʀɢ] sees [ᴀᴄᴄ] which is you.
+│ 
+│ ◆ -nı-[ku-cál]
+│ ➥ [ᴇʀɢ] is me, who has the property [___ sees [ᴀᴄᴄ] which is you].
+│ ➥ me, who is [ᴇʀɢ], sees you, who is [ᴀᴄᴄ].
+│ ➥ “I see you”.
+└─
+┌───────────────
+│ ◆ -nı-[ƛʼı-[ku-cál]]
+│ ➥ [ᴇʀɢ] is me, who tries to have the property [___ sees [ᴀᴄᴄ] which is you].
+│ ➥ me, who is [ᴇʀɢ], tries to see you, who is [ᴀᴄᴄ].
+│ ➥ “I try to see you”.
+└─
+┌───────────────
+│ ◆ -nı-[ku-[ƛʼu-cál]]
+│ ➥ [ᴇʀɢ] is me, who has the property [
+│      [ᴀᴄᴄ] who is you, tries that ___ sees you].
+│ ➥ [ᴀᴄᴄ], you, try to be seen by [ᴇʀɢ], me.
+│ ➥ “You try to be seen by me”.
+└─
+</code></pre>
+<h2 id="type--3"><a class="header" href="#type--3">Type −−+</a></h2>
+<p>Removes two slots and adds one (bound to the affixal case).</p>
+<p><strong>Examples:</strong></p>
+<ul>
+<li><strong>-kw◈y◈-</strong>: ⟪[new slot] are in the reciprocal relationship of [removed pair of slots]⟫.</li>
+</ul>
+<pre><code>┌───────────────
+│ ◆ -kwıyu-cál
+│ ❖ -RCP:ERG:ACC-√see
+│ ➥ [ɴᴛʀ] are in reciprocal relationship [___ sees ___].
+│ ➥ [ɴᴛʀ] see each other.
+└─
+</code></pre>
+<p>For certain type −−+ extensions, noted ⟪−−+*⟫, 
+the ⟪-ıyu-⟫ form can be shortened to simply ⟪-ı-⟫, for example, ⟪-kwı-⟫ is synonymous to ⟪-kwıyu-⟫.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../morphology/base-slot.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../morphology/role-slot.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../morphology/base-slot.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../morphology/role-slot.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>
