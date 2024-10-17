@@ -18,7 +18,7 @@
 |-------------------------------------|----------|-----------------------------------------|
 | aı                                  | ASR      | Assertive + unspecified evientiality    |
 | oı                                  | MEV      | Multievidential                         |
-| a                                   | INF      | Inferential                             |
+| a                                   | NFR      | Inferential                             |
 | ı                                   | SEN      | Sensorial                               |
 | eo                                  | ITU      | Intuitive                               |
 | u                                   | REC⁓RCL  | Recollective                            |
@@ -54,10 +54,10 @@
 | k / u                               | ACC      | Accusative Case                         |
 | p / e                               | DAT      | Dative Case                             |
 | č / eı                              | COD      | Codative Case                           |
-|                                     |          |                                         |
 | q / o                               | EXT⁓AFX  | Extensional Case, Affixal Case          |
 | š / ï                               | EV⁓EVT   | Eventive Case                           |
 | tʰ / eo                             | SIT      | Situative Case                          |
+| pʰ                                  | SEQ      | Sequential Case                         |
 
 ### ROLES ➤ ADJUNCTS:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |

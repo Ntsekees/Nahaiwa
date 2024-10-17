@@ -63,11 +63,12 @@ IC ≝ Internal/inner case
   
 Other core cases:  
 ```  
-┌──────────────┬─────┬─────┐  
-│ Extensional: │  q  │  o  │   
-│ Eventive:    │  š  │  ï  │  
-│ Situative:   │  tʰ │  eo │  
-└──────────────┴─────┴─────┘  
+┌─────────────┬─────┬─────┐  
+│ Extensional │  q  │  o  │   
+│ Eventive    │  š  │  ï  │  
+│ Situative   │  tʰ │  eo │  
+│ Sequential  │  pʰ │     │  
+└─────────────┴─────┴─────┘  
 ```  
   
 In the first table of cases above, the cases shown are ordered according to an animacy and temporal/causal hierarchy: the first case listed represents the most animate participant, or the one triggering or exercicing the most control over the event described by the predicate, or occasionally, in the case of stative relations, it may be the largest or most concrete participant. Abstract propositions, properties and relations have lowest rank in this hierarchy, and will typically be associated with the last cases of each case list.  
@@ -160,7 +161,17 @@ Below is an explanation of the functions of the other core cases mentioned in th
 ```
 
 • The Situative Case marks nouns referring to a world or a volume of spacetime within which the proposition expressed by the verb is true. For it to apply, the event and the target spacetime area must be entirely encompassed by the referent of the marked noun.  
-  
+
+• The Sequential Case is a special case exclusively used for listing nouns that make up a plural reference or a sequence/list, as initiated by a special prefix such as ⟪-ʎp-⟫ (plural union initiator) or ⟪-pš-⟫ (sequence initiator).
+
+```
+┌───────────────
+│ ◆ Aŋkaʎpanayá pʰakayá.
+│   A꞊ŋka-{ʎp-[a-na-yá] pʰ-[a-ka-yá]}.
+│ ❖ ASR.NFR꞊12:NTR-PUI-NTR-1:NTR-thing SEQ-NTR-2:NTR-thing
+│ ➥ We are me together with you.
+└─
+```
   
 ## Non-core (adjunct) cases:
 
