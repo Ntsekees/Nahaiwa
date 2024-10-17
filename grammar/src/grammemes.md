@@ -85,11 +85,11 @@
 | θı                                  | ECHO     | Echo-Resumptive                         |
 | ʎaı                                 | ATR      | Afterthought relativizer                |
 | hu                                  | COO      | Coordinative                            |
-| ña                                  | DPCZ     | Direct propositional coordinationizer  |
+| ña                                  | DPCZ     | Direct propositional coordinationizer   |
 | ñu                                  | IPCZ     | Inverse propositional coordinationizer  |
-| ñaı                                 | DECZ     | Direct eventive coordinationizer       |
+| ñaı                                 | DECZ     | Direct eventive coordinationizer        |
 | ñao                                 | IECZ     | Inverse eventive coordinationizer       |
-| ʎa                                  | DQZ      | Direct binary quantifierizer           |
+| ʎa                                  | DQZ      | Direct binary quantifierizer            |
 | ʎu                                  | IQZ      | Inverse binary quantifierizer           |
 
 ### SUBORDINATORS:
