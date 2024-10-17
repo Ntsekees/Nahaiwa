@@ -1,7 +1,7 @@
 
 # Grammemes summary
 
-### BINDING:
+### ANCHORING:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
 | ∅                                   | CC       | Current Clause                          |
