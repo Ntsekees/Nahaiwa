@@ -56,7 +56,7 @@
 | č / eı                              | COD      | Codative Case                           |
 |                                     |          |                                         |
 | q / o                               | EXT⁓AFX  | Extensional Case, Affixal Case          |
-| š / ï                               | EV       | Eventive Case                           |
+| š / ï                               | EV⁓EVT   | Eventive Case                           |
 | tʰ / eo                             | SIT      | Situative Case                          |
 
 ### ROLES ➤ ADJUNCTS:
