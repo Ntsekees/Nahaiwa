@@ -13,7 +13,7 @@ Below is a list of the possible root verb prefixes.
   * **aı-**:   assertion of unspecified evidentiality.  
   * **oı-**:   imformation confirmed from multiple different independent sources of information.  
   * **a-**:    inference from a combination of information from several sources.  
-  * **ı-**:    sensory information from current perception.  
+  * **ı-**:    sensory information from current perception, including metacognition.  
   * **eo-**:   intuition.  
   * **u-**:    recollection, memory of past experiences (but not memorized encyclopedic facts, for which Reportives or Epistemic should be used).  
   * **ıwa-**:  information obtained from sensorial recordings made by external devices (photographic or video camera, sound recorders…)  
