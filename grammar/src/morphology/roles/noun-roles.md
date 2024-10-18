@@ -141,7 +141,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
 ```
 ┌───────────────
 │ ◆ Unoqaoñú cacʰakóyu.
-│ ❖ ASR.REC-1P:EXT-CAUS-eat  ACC-NTR-DEF:NTR-dog
+│ ❖ ASR.REC-1:EXT-CAUS-eat  ACC-NTR-DEF:NTR-dog
 │ ➥ (I recall that) I made the dog eat (something).
 └─
 ┌───────────────
@@ -157,12 +157,12 @@ Below is an explanation of the functions of the other core cases mentioned in th
 ```
 ┌───────────────
 │ ◆ Iθırí šunıʎáıwa.
-│ ❖ ASR.SEN-EXO:ERG-walk_on  EV-ACC-1P:ERG-find_beautiful
+│ ❖ ASR.SEN-EXO:ERG-walk_on  EV-ACC-1:ERG-find_beautiful
 │ ➥ They walk in a manner that is beatiful to me.
 └─
 ┌───────────────
 │ ◆ Inıʎáıwa kïθırí.
-│ ❖ ASR.SEN-1P:ERG-find_beautiful  ACC-EV-EXO:ERG-walk_on
+│ ❖ ASR.SEN-1:ERG-find_beautiful  ACC-EV-EXO:ERG-walk_on
 │ ➥ I find beautiful their walking.
 └─
 ```
