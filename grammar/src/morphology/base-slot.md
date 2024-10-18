@@ -22,17 +22,13 @@ Word bases have verb-like meanings, in that each base is assigned a valency, whi
 The only intrinsic syntactic properties of word bases (other than those of function words) are their valency, and the types and grammatical cases associated with each of their argument slots.
 There are no lexically coded distinction between “verb”, “noun”, “adjective” etc., which are syntactic properties that are determined by the inflection of the whole word, specifically via the [Role Slot](roles/noun-roles.md).
 
-In the dictionay, all bases are given verb-like definitions, even for those representing concepts typically expressed with nouns in most other languages; for example, the base for “table” would be defined as ⟪🅰 is a table⟫; the one for “sibling” would be defined as ⟪🅸 is a sibling of 🆄⟫, where the circled numbers represent the core argument slots governed by the base.
+In the dictionay, all bases are given verb-like definitions, even for those representing concepts typically expressed with nouns in most other languages; for example, the base for “table” would be defined as ⟪[NTR] is a table⟫; the one for “sibling” would be defined as ⟪[ERG] is a sibling of [ACC]⟫, where the bracketed abbreviations are the glossing abbreviations of the noun cases of each of the core argument slots governed by the base. Nahaıwa exhibits a *tripartite alignment*, i.e. there is a special case, the Intransitive case (`NTR`) dedicated to the sole argument of monovalent verbs (e.g. “to sleep”, “to be a table”), which is not used with verbs of greater valencies, such as the bivalent verbs “to eat”, “to be a sibling of”, which instead govern the Ergative (`ERG`) and Accusative (`ACC`) cases. The list of core noun cases are detailed in the [Role Slot](roles/noun-roles.md) section.
 
-Given that Nahaıwa exhibits an extended tripartite alignment, each of the possible valencies (between zero and four) governs a different, non-overlapping set of noun cases. These are detailed in the [Role Slot](roles/noun-roles.md) section.
-
-Here's an overview:
-
- * Nullary bases (valency zero) don't govern any noun case.  
- * Unary bases (valency 1) govern one noun case: the Intransitive (`ɴᴛʀ`).  
- * Binary bases (valency 2) govern two noun cases: Ergative (`ᴇʀɢ`) and Accusative (`ᴀᴄᴄ`).  
- * Ternary bases (valency 3) govern three noun cases: Ergative, Dative (`ᴅᴀᴛ`) and Accusative.  
- * Quaternary bases (valency 4, rare) govern four noun cases: Ergative, Dative, Codative (`ᴄᴏᴅ`) and Accusative. 
+ * Avalent bases (valency zero) don't govern any noun case.  
+ * Monovalent bases (valency 1) govern one noun case: the Intransitive (`ɴᴛʀ`).  
+ * Bivalent bases (valency 2) govern two noun cases: Ergative (`ᴇʀɢ`) and Accusative (`ᴀᴄᴄ`).  
+ * Trivalent bases (valency 3) govern three noun cases: Ergative, Dative (`ᴅᴀᴛ`) and Accusative.  
+ * Tetravalent bases (valency 4, rare) govern four noun cases: Ergative, Dative, Codative (`ᴄᴏᴅ`) and Accusative. 
 
 For example:
 
