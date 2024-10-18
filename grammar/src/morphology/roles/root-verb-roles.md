@@ -9,36 +9,44 @@ The Illocution indicates whether the sentence is an assertion (a description of 
   
 Below is a list of the possible root verb prefixes. 
   
-* **Assertive illocution**: further inflects for evidentialities, shown below:  
-  * **aı-**:   assertion of unspecified evidentiality.  
-  * **oı-**:   imformation confirmed from multiple different independent sources of information.  
-  * **a-**:    inference from a combination of information from several sources.  
-  * **ı-**:    sensory information from current perception, including metacognition.  
-  * **eo-**:   intuition.  
-  * **u-**:    recollection, memory of past experiences (but not memorized encyclopedic facts, for which Reportives or Epistemic should be used).  
-  * **ıwa-**:  information obtained from sensorial recordings made by external devices (photographic or video camera, sound recorders…)  
-  * **o-**:    report, hearsay, second-hand information.  
-  * **ao-**:   trustworthy report.  
-  * **eı-**:   untrustworty report.  
-  * **e-**:    epistemic, collective knowledge, not personally verified.  
-  * **aya-**:  axiomatic, base beliefs not open to questioning.  
-  
-* **Non-assertive illocutions**:  
-  * **ï-**:    performative: utterance true merely by virtue of being uttered.  
-  * **ma-**:   verificative: request of confirmation, “… isn't it?”.  
-  * **mı-**:   polar interrogative, yes-no question.  
-  * **mu-**:   content interrogative, “wh” question (“what?”, “who?”, “which?”, “when?”, “where?”, “how”? “why?”, etc.).  
-  * **maı-**:  rethorical polar interrogative.  
-  * **mao-**:  rethorical content interrogative.  
-  * **kʰa-**:  directive: order with implied threat, negative consequences if unfulfilled.  
-  * **kʰo-**:  requestive: request with implied disappointment if unfulfilled.  
-  * **kʰu-**:  invitative/solicitive: mild request with no obligation of fulfillment, no grudge if not accepted.  
-  * **kʰı-**: recommandative.  
-  * **kʰaı-**:  permission-seeking.  
-  * **yea-**: permissive: expression of permission.
-  * **yao-**:  oblative: disinterested offers (*“I'm available for…”*, *“if you're interested…”*, *“if you want…”*).  
+## Assertive illocution
+The assertive illocution expresses the speech act of informing the addressee of what the speaker deem as true or likely true in their mental model of the world. It does not imply (nor deny) a desire to convince the addressee.
+The prefix for the assertive illocution further declines for a variety of possible *evidentialities*, which indicate the mean by which the asserted information was obtained. The assertive illocution is the only one to sport evidentiality marking, thus the evidentiality prefixes all also indicate that the illocution is assertive. The list of evidentiality prefixes is shown below:
 
-The content interrogative illocutions go hand-in-hand with the lambda pronominal extension ⟪-tʼ◈-⟫, which plays here the role of the content interrogative pronoun “what”. There is do distinct pronoun for “who”.
+| Form | Name | Gloss | Use |
+|------|------|-------|-----|
+| **aı-** | Unspecified | ASR | Assertion of unspecified evidentiality. |
+| **oı-** | Multievidential | MUL | Imformation confirmed from multiple different independent sources of information. |
+| **a-** | Inferential | NFR | Inference from a combination of information from several sources. |
+| **ı-** | Sensorial | SEN | Sensory information from current perception, including metacognition. |
+| **eo-** | Intuitive | ITU | Intuition. |
+| **u-** | Recollective | REC | Recollection, memory of past experiences (but not memorized encyclopedic facts, for which Reportives or Epistemic should be used). |
+| **ıwa-** | Reconstitutive | RCS | Information obtained from sensorial recordings made by external devices (photographic or video camera, sound recorders…). |
+| **o-** | Reportive | REP | Information obtained via communication: report, hearsay, second-hand information. |
+| **ao-** | | | Trustworthy report. |
+| **eı-** | | | Untrustworty report. |
+| **e-** | Epistemic | EPI | Collective knowledge, ‘common wisdom’, not personally verified. |
+| **aya-** | Axiomatic | AXM | Base beliefs not open to questioning. |
+  
+## Non-assertive illocutions
+
+| Form | Name | Gloss | Use |
+|------|------|-------|-----|
+| **ï-** | Performative | PFM | Utterance true merely by virtue of being uttered. |
+| **ma-** | Verificative | VRF | Request of confirmation, “… isn't it?”. | 
+| **mı-** | Polar Interrogative | PQ⁓PI | Yes-no question. |
+| **mu-** | Content Interrogative | CQ⁓CI | “wh” question (“what?”, “who?”, “which?”, “when?”, “where?”, “how”? “why?”, etc.). |
+| **maı-** | Rethorical Polar Interrogative. | RPQ⁓RPI | |
+| **mao-** | Rethorical Content Interrogative. | RCQ⁓RCI | |
+| **kʰa-** | Directive | DIR | Order with implied threat, negative consequences if unfulfilled. |
+| **kʰo-** | Requestive | REQ | Request with implied disappointment if unfulfilled. |
+| **kʰu-** | Invitative/Solicitive | INV | Mild request with no obligation of fulfillment, no grudge if not accepted. |
+| **kʰı-** | Recommandative | RCM | |
+| **kʰaı-** | Permission-seeking | PS | |  
+| **yea-** | Permissive | PRM | Expression of permission. |
+| **yao-** | Oblative | OBLT | Disinterested offers (*“I'm available for…”*, *“if you're interested…”*, *“if you want…”*). |
+
+The content interrogative illocutions go hand-in-hand with the lambda pronominal extension ⟪-tʼ◈-⟫ (glossed as `LBD`), which plays here the role of the content interrogative pronoun “what”. There is do distinct pronoun for “who”.
 
 Note: Whilst there's a prefix for granting permission, ⟪kʰaı-⟫, there's no dedicated one for prohibition, for that latter is expressed with negative imperatives instead:
 ```

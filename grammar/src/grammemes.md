@@ -22,7 +22,7 @@
 | ı                                   | SEN      | Sensorial                               |
 | eo                                  | ITU      | Intuitive                               |
 | u                                   | REC⁓RCL  | Recollective                            |
-| ıwa                                 | RCD      | Reconstitutive                          |
+| ıwa                                 | RCS      | Reconstitutive                          |
 | o                                   | REP      | Reportive                               |
 | ao                                  | TWR      | Trustworthy Reportive                   |
 | eı                                  | UTR      | Untrustworty Reportive                  |
