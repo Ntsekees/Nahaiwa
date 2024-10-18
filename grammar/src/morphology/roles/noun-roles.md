@@ -81,11 +81,18 @@ Below are some examples of internal and external case uses with unary roots and 
 │ ➥ It is asleep.
 └─
 ┌───────────────
+│ ◆ Ilı̋ taθayá.
+│ ❖ ASR.SEN-asleep  NTR-NTRᵢ-EXO:NTR-thing
+│ ➥ It is asleep.
+└─
+┌───────────────
 │ ◆ Ilı̋ tacʰakóyu.
-│ ❖ ASR.SEN-asleep NTR-NTR-DEF:NTR-dog
+│ ❖ ASR.SEN-asleep NTR-NTRᵢ-DEF:NTR-dog
 │ ➥ The dog is asleep.
 └─
 ```
+In the first example above, “it” is expressed as the extensional prefix ⟪-θ◈-⟫ sporting the Intransitive (`NTR`) inner case vowel ⟪a⟫, indicating that it is the sole argument of the monovalent verb “sleep”.  
+In the second example, “it” is expressed as a separate word (with the dummy root ⟪-yá⟫), sporting the consonantal outer case ⟪t-⟫, again expressing the Intransitive case.
 
 Examples with the binary root `-ñú`, “eat”:
 ```
