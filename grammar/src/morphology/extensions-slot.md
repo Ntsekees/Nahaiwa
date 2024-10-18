@@ -12,12 +12,14 @@ Extensional prefixes have shape -C?CV(yV)-: they begin with a single consonant o
   
 There exist several types of extensional prefixes, depending on two factors: how many slots of the stem they remove, and whether they add a new slot (bound to the "affixal noun case"). For some prefixes, the vowel part is not meaningful and the whole consonant+vowel is one single monolithic morpheme. However, for some other prefixes, the vowel is meaningful and expresses an Inner Case value, indicating the argument slot of the stem that is specifically targeted by this extensional prefix. Some prefixes may even target two slots at a time, in which case they assume the shape -C?CVyV-, where each of the two vowel segments express a different case.  
   
-Below is a list of the different types of extensional prefixes:  
+Below is a list of the different types of extensional prefixes.
+Ⓒ = any consonant or consonant cluster; Ⓥ = any vowel.
   
 ## Type 0
 No change in valency, does not select/remove any slot.  
+**Shapes:** Ⓒao / Ⓒaı / Ⓒea; ⒸⓋ if Ⓒ is a palatal or labialized consonant, or if Ⓒ is ⟪l⟫ or ⟪š⟫.
 
-  **Examples:**  
+### Examples 
   * **-ha-** (negation): ⟪it is not the case that ………⟫;
   * **-kʰao-** (possibility): ⟪it is possible that ………⟫;
   * **-šu-** (cessative aspect): ⟪……… ceases to be the case⟫;
@@ -45,8 +47,9 @@ No change in valency, does not select/remove any slot.
 
 ## Type 0+
 Same as type 0, but adds an Extensional case slot, represented by ⟪[ᴇxᴛ]⟫ in definitions.  
+**Shapes:** Ⓒao / Ⓒaı / Ⓒea
 
-  **Examples:**  
+### Examples  
   * **-qao-** (causative): ⟪[ᴇxᴛ] agentively causes, makes ……… be the case⟫.
 
 ```
@@ -77,9 +80,10 @@ Removes one slot, marked by the vowel form.
 ## Type −+
 Modifies one slot of the stem (sort of removes one and adds one); the vowel part of the affix, represented by the symbol ⟪◈⟫ below, is variable and represents the “Inner Case” identifying which slot is selected by the affix; the meaning of the slot is modified, but this suffix type does not bind the extensional case, it just reuses the modified cases. The resulting valency and case set of the predicate is unchanged.  
 With unary bases, the vowel is ⟪a⟫ (Intransitive Inner Case).  
-With binary bases, the vowel is either ⟪ı⟫ (Ergative) or ⟪u⟫ (Accusative).
+With binary bases, the vowel is either ⟪ı⟫ (Ergative) or ⟪u⟫ (Accusative).  
+**Shapes:** ⒸⓋ if Ⓒ is neither a palatal nor a labialized consonant, and is not ⟪l⟫ or ⟪š⟫.
 
-  **Examples:**  
+### Examples:  
   * **-n◈-**: ⟪[new slot] is me, who satisfies the property of [target slot]⟫;
   * **-k◈-**: ⟪[new slot] is you, who satisfies the property of [target slot]⟫;
   * **-ŋ◈-**: ⟪[new slot] wants to satisfy the property of [target slot]⟫;.  
@@ -136,8 +140,9 @@ With binary bases, the vowel is either ⟪ı⟫ (Ergative) or ⟪u⟫ (Accusativ
 
 ## Type −−+
 Removes two slots and adds one (bound to the affixal case).  
+**Shapes:** ⒸⓋyⓋ, occasionally ⒸⓋ
 
-  **Examples:**
+### Examples:
   * **-kw◈y◈-**: ⟪[new slot] are in the reciprocal relationship of [removed pair of slots]⟫.   
 
 ```
