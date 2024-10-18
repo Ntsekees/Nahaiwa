@@ -15,15 +15,17 @@ n•	ext	−+	[X] is me and has property [1]	deixis
 ha	ext	0	[0] is false, isn't the case.	logic	maruhe{[0]}
 kʰao	ext	0	[0] is possible.	logic modal	bamosu{[0]}
 mn•	ext	−+	[X] is comparable, similar to [1].	metaphor	
-cʼ•	ext	−+	{{binary lambda proboun #2}}	syntactic_pronoun	
-kʼ•	ext	−+	{{binary lambda proboun #1}}	syntactic_pronoun	
+cʼ•	ext	−+	{{binary lambda pronoun #2}}	syntactic_pronoun	
+kʼ•	ext	−+	{{binary lambda pronoun #1}}	syntactic_pronoun	
 lc•	ext	−+	{{Ergative case anaphora}}	syntactic_pronoun	
 ltʼ•	ext	−+	{{unary lambda pronoun #2}}	syntactic_pronoun	
 lt•	ext	−+	{{Intransitive case anaphora}}	syntactic_pronoun	
+sƛ•	ext	−+	{{World pronoun}}	syntactic_pronoun	
 tʼ•	ext	−+	{{unary lambda pronoun #1}}	syntactic_pronoun	
 ʎk•	ext	−+	{{Accusative case anaphora}}	syntactic_pronoun	
 rc•	ext	0	[0] is temporally discontinuous.	time	piduta{[0]}
 nƛ•	ext	−+	[X] is able to, has the ability to satisfy property [1].		zekupa{[X],[1]}
+ckʰ•	ext	−+	among what has property [X] something has property [1].		
 cwa	ext	−+	{{unbox unary predicate}}		
 c•	ext	−+	[X], which is one in number, [1]s.		
 hı	ext	★	{{prefix for number expressions}}		
@@ -43,11 +45,13 @@ nr•	ext	−++	[X] is related to [EXT] and has property [1].
 ntʰ•	ext	−+	[X] is among what has property [1].		
 nt•	ext	−+	[X] is this thing (which I a pointing at or am otherwise singling out ostensibly) having property [1]		
 nθ•	ext	−+	[X], together with certain recognizable ones associated with it/him/her/them, satisfy property [1].		
+pkʰ•	ext	−+	among what has property [X] everything has property [1].		
+pš•	ext	−+★	{{sequence initiator}}		
 p•	ext	−+	[X] are more than one things, collectively having property [1].		
 qao	ext	0+	[EXT] causes, makes [0] be the case.		
-qʰ•	ext	−+	[X] has part having property [1]		
-qʼ•	ext	−+	[X] is a part of what has property [1]		
-q•	ext	−+	[X] is/are the one(s) named after property [1]		
+qʰ•	ext	−+	[EXT] has part [X] having property [1].		
+qʼ•	ext	−+	[X] is a part of what has property [1].		
+q•	ext	−+	[X] is/are the one(s) named after property [1].		
 rk•	ext	−+	[X] is yours and has property [1].		
 rn•	ext	−+	[X] is mine and has property [1].		
 rwa	ext	→B	{{unbox binary predicate}}		
@@ -68,6 +72,7 @@ t•	ext	−+	{{relative clause antecedent pronoun (resumptive pronoun)}}
 čʰ•	ext	−+	[X] are the referents of the closest C-commanding noun phrase marked with the Discourse Pendent case and satisfy property [1].		
 č•(y•)	ext	−++	[X] [2]s a small number relatively to the median among [EXT].		
 č•(y•)	ext	−++	[X] [2]s a very small number relatively to the median among [EXT].		
+łao	ext		[0] is the case to the detriment of [EXT].		
 ŋkʼ•	ext	−+	[X] tries and fails to have property [1].		
 ŋk•	ext	−+	I and you are [X] and have property [1].		
 ŋm•(y•)	ext	−++	[X] [2]s a great number relatively to the median among [EXT], the former being one of them.		
@@ -75,13 +80,15 @@ t•	ext	−+	{{relative clause antecedent pronoun (resumptive pronoun)}}
 ŋ•	ext	−+	[X] wants to have property [1].		
 ƛʰ•	ext	★	[NTR] is/are the referents of the variable named [remaining of the word, starting on the prominent syllable].		
 ƛʼao	ext	0+	[0] is true if [EXT] is true.		
-ƛʼea	ext	0+	[0] would be true if [EXT] is true.		
+ƛʼea	ext	0+	[0] would be true if [EXT] were true.		
 ƛ•	ext	−+	[X] are the referents of the closest C-commanding noun phrase marked with the Pendent case and satisfy property [1].		
 ʎao	ext	0+	[0] seems to be the case to [EXT].		
+ʎaı	ext		[0] is the case to the benefice of [EXT].		
 ʎe	ext	★	{{prefix for foreign vocabulary namespace}}		
+ʎp•	ext	−+★	{{plural union initiator}}		
 ʼa	ext	★	{{scope anchor}}		
 ʼao	ext	★	{{plain content clause initiator}}		
-ʼeo	ext	★	{{relative clause initiator}}		
+ʼaı	ext	★	{{relative clause initiator}}		
 ʼn•	ext	−+	{{overt variable binding pronoun}}		
 ʼs•	ext	−+	{{pronoun bound with overt variable binding}}		
 ʼs•	ext		[X] is suitable for having property [1].		
@@ -92,6 +99,7 @@ ntʼáı	root		[ERG] grasps, holds [ACC].	action	cewomo
 ntʼáıne	root		[ERG] grasps, holds [ACC] with a hand.	action	racuha
 pákı	root		[PEG] helps [DAT] to satisfy property [MIS].	action	juhebi
 qwáo	root		[ERG] utters, emits vocalization [ACC] (sounds).	action	pisodi
+tʰáwa	root	3	[PEG] gives to [DAT] property [MIS].	action	behucu
 yáı	root		[PEG] uses, manipulates, exercises influence upon [DAT] in order to achieve the goal of satisfying property [MIS].	action	fuyayi
 čéwa	root		[PEG] purposefully has property [DAT] for ensuring that [MIS] be the case.	action	soyafo
 háhu	root		[NTR] breathes (in and out).	action body_action	bosuzu
@@ -142,7 +150,7 @@ séwa	root	1	[NTR] is a flower (plant reproductive organ).	body_part	pazuti
 łáı	root	1	[NTR] is a leaf (of a plant).	body_part	zozawe
 ƛʰı̋	root	1	[NTR] is a hair (possibly dead).	body_part	howice
 ʎúq	root	1	[NTR] is a tail (body part).	body_part	fuvika
-θáı	root	1	[NTR] is a teeth.	body_part	
+θáı	root	1	[NTR] is a tooth.	body_part	
 ’áo	root	1	[NTR] is an eye.	body_part	jovonu
 qʼí	root	1	[NTR] is a bone.	body_part bone	hobewe
 lóθ	root	1	[NTR] is blood.	body_part inner_organ	gefore
@@ -194,11 +202,11 @@ ná	root	1	[NTR] is a language.	linguistics	lasofe
 há	root	1	[NTR] is false, isn't the case.	logic	maruhe
 kwáı	root	1	[NTR] is true, is the case.	logic	tunabe
 kwíyu	root	2	[ERG] are in reciprocal relationship [ACC] with each other.	logic	josuma
-káoʼ	root		[PEG], [DAT] and [MIS] are in ternary relation [DP].	logic	dotuye{[PEG],[DAT],[MIS],[DP]}
+káoʼ	root		[PEG], [DAT] and [MIS] are in ternary relation [EXT].	logic	dotuye{[PEG],[DAT],[MIS],[EXT]}
 pθú	root	2	[ERG] are in relation [ACC] with different things.	logic	tafere
-ráʼ	root		[ERG] and [ACC] are in relation [DP].	logic	nikatu{[ERG],[ACC],[DP]}
+ráʼ	root		[ERG] and [ACC] are in relation [EXT].	logic	nikatu{[ERG],[ACC],[EXT]}
 wá	root		[ERG] has property [ACC].	logic	pohuti
-wáʼ	root		[NTR] has property [DP].	logic	pohuti{[NTR],[DP]}
+wáʼ	root		[NTR] has property [EXT].	logic	pohuti{[NTR],[EXT]}
 yá	root	1	[NTR] is something, anything, a thing.	logic	gisiwu
 ʼék	root	2	[ERG] or [ACC] is the case, or both are the case.	logic conjunction	zarowi
 ’áı	root	2	[ERG] and [ACC] are both the case.	logic conjunction	talage
@@ -243,8 +251,8 @@ qʼó	root		{{ternary lambda variable #3}}	syntactic_pronoun
 tʼá	root		{{unary lambda variable #1}}	syntactic_pronoun	
 čʼé	root		{{ternary lambda variable #1}}	syntactic_pronoun	
 ƛá	root		{{pendent pronoun}}	syntactic_pronoun	
+lá	root		[ERG] and [ACC] overlap temporally.	time	qakiro
 pʰá	root	2	[ERG] has duration, lasts for [ACC].	time	kehoye
-lá	root		[ERG] happens at the same time as [ACC]; [ERG] is simultaneous with [ACC].	toaq_copy	qakiro
 hwéa	root		[NTR] is wind, moving air.	weather	howahu
 ršı̋	root		[NTR] rains.	weather	nirunu
 ʎáoko	root	2	[ERG] looks after, takes care of [ACC].		keyepe
@@ -259,7 +267,6 @@ qúʎu	root	2	[ERG] is wet with liquid [ACC].		kupaka
 qʰá	root		[ERG] causes [ACC].		yajana
 sqácʰol	root		[NTR] is a settlement consisting at least of several buildings.		nutozi
 stíñu	root	1	[NTR] is a meal, prepared food.		ridufi
-tʰáwa	root	3	[PEG] gives to [DAT] property [MIS].		behucu
 yálı	root		[ERG] inhabits [ACC].		jawawe
 ñwáı	root		[ERG] is okay with, doesn't mind [ACC] being the case.		zeqodi
 číʼ	root		[NTR] is immature, not yet full-grown.		rihofa
@@ -280,8 +287,10 @@ lpá	root		[PEG] and [DAT] are separated by temporal distance [MIS].
 ntʰá	root		[NTR] is a male.		
 náqʰu	root	2	[ERG] is in physical contact with [ACC], opposing a forces cancelling the gravity pull drawing the latter in the former’s direction.		
 ná’	root		[ERG] has meaning [ACC].		
+pkʰáı	root		[ERG] carries, transports or wears [ACC].		
 píku	root	1	[NTR] is a bean plant.		
 pʰáhao	root		[NTR] is a day (duration of a daytime-nighttime cycle).		
+pʰáqo	root		[NTR] is a box.		
 pʰú	root		[NTR] falls.		
 qrú	root		[ERG] has half [ACC].		
 qwáoƛurı	root		[ERG] meows [ACC].		
@@ -294,16 +303,21 @@ stʰı̋ʼčırı	root		[NTR] is a staff, a walk stick.
 swákʼya	root	1	[NTR] is a morning (from dawn to noon).		
 sʼáı	root		[NTR] is straight (not bent).		
 tákı	root		[PEG] draws on [DAT] picture [MIS].		
+tól	root		[ERG] owns [ACC].		
 tʰáku	root		[ERG] is a number greater than number [ACC].		
-tʰáwa	root	3	[PEG] gives to [DAT] control of [MIS].		
+tʰána	root	3	[PEG] gives to [DAT] control of [MIS].		
+tʰáqa	root		[ERG] and [DAT] exchange respective services [COD] and [ACC] (propositions).		
+tʰáqatʰana	root		[ERG] and [DAT] exchange respective control of [COD] and [ACC].		
 tʰú	root		[ERG] finds [ACC] very likely, expects it to be true, has confidence in it being the case.		
-tʼáı	root		[ERG] exercises control over what has property [ACC].		
+tʼáı	root		[ERG] exercises control over the identity of what has property [ACC].		
+wíl	root		[NTR] is an answer to the question of what has property [EXT], which I assume is newsworthy and useful to you.		
 wíƛʰï	root		[NTR] is a fly.		
 wı̋ca	root		[ERG] is the sum of numbers [DAT] and [ACC].		
 yáo	root		[ERG] greets [ACC], expressing well-intentionedness and acknowledgement of presence. ⸨Used upon encounter but not upon parting.⸩		
 yémapıku	root	1	[NTR] is a bean pod.		
 yéo	root	2	For [ERG], having property [ACC] is beneficial.		
 yı̋rï	root		[ERG] runs on [ACC].		
+ñwá	root		[ERG] is the biological mother of [ACC].		
 ñʎwáı	root		[ERG] fares, has health state [ACC].		
 ñʎé	root		[ERG] has access to [ACC] ; [ACC] is available, at the disposal of [ERG].		
 číl	root		[NTR] is a fetus.		
@@ -325,6 +339,7 @@ yı̋rï	root		[ERG] runs on [ACC].
 ʎqó	root		[NTR] is a female.		
 ʎáo	root	2	[ERG] moves along spacetime path [ACC].		
 ʎóı	root		[NTR] moves away and then returns to its initial location.		
+ʼïʼ	root		[ERG] is true. ⸨The value of [ACC] is ignored.⸩		
 θpʰé	root		[NTR] is a night.		
 θı̋	root		[ERG] excretes, expulsate [ACC].		
 θı̋čıl	root		[ERG] gives birth to [ACC].		
