@@ -73,7 +73,7 @@ Other core cases:
   
 In the first table of cases above, the cases shown are ordered according to an animacy and temporal/causal hierarchy: the first case listed represents the most animate participant, or the one triggering or exercicing the most control over the event described by the predicate, or occasionally, in the case of stative relations, it may be the largest or most concrete participant. Abstract propositions, properties and relations have lowest rank in this hierarchy, and will typically be associated with the last cases of each case list.  
   
-Below are some examples of internal and external case uses with unary roots and stems (`-lı̋`, “asleep”; `-kóyu`, “dog”, `-cʰakóyu`, “the dog”):
+Below are some examples of internal and external case uses with monovalent roots and stems (`-lı̋`, “asleep”; `-kóyu`, “dog”, `-cʰakóyu`, “the dog”):
 ```  
 ┌───────────────
 │ ◆ Iθalı̋.
