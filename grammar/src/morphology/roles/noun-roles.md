@@ -139,7 +139,7 @@ When a verb governs two or more nouns, their relative order of appearance has no
 
 Below is an explanation of the functions of the other core cases mentioned in the second table above.  
   
-• The Extensional Case, or ‘Affixal Case’, is governed by certain extensional prefixes, which intoduces a new participant to the relationship expressed by the verb. For example, a causative extensional prefix will add a ‘causer’ participant, which will then be accessible via the Affixal Case.  
+• The Extensional Case, or ‘Affixal Case’, is governed by certain extensional prefixes, which intoduces a new participant to the relationship expressed by the verb. For example, a causative extensional prefix will add a ‘causer’ participant, which will then be accessible via the Extensional Case.  
   
 ```
 ┌───────────────
