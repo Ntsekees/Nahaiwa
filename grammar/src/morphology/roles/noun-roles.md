@@ -63,12 +63,13 @@ IC ≝ Internal/inner case
   
 Other core cases:  
 ```  
-┌─────────────┬─────┬─────┐  
-│ Extensional │  q  │  o  │   
-│ Eventive    │  š  │  ï  │  
-│ Situative   │  tʰ │  eo │  
-│ Sequential  │  ŋ  │     │  
-└─────────────┴─────┴─────┘  
+┌───────────────┬─────┬─────┐  
+│ Extensional   │  q  │  o  │   
+│ Eventive      │  š  │  ï  │  
+│ Propositional │  ł  │     │
+│ Situative     │  tʰ │  eo │  
+│ Sequential    │  ŋ  │     │  
+└───────────────┴─────┴─────┘  
 ```  
   
 In the first table of cases above, the cases shown are ordered according to an animacy and temporal/causal hierarchy: the first case listed represents the most animate participant, or the one triggering or exercicing the most control over the event described by the predicate, or occasionally, in the case of stative relations, it may be the largest or most concrete participant. Abstract propositions, properties and relations have lowest rank in this hierarchy, and will typically be associated with the last cases of each case list.  
@@ -155,7 +156,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
 └─
 ```
   
-• The Eventive Case may appear with pretty much any verb; it marks a noun that refers to a spatiotemporal event corresponding to the abstract proposition expressed by the verb.  
+• The Eventive Case may appear with pretty much any verb; it marks a noun that refers to a concrete spatiotemporal event corresponding to the abstract proposition expressed by the verb. Its purpose is much comparable to that of manner adverbs in English, expressing a quality of an event, such as “suddenly”, “beautifully”, “surprisingly”…  
 
 ```
 ┌───────────────
@@ -167,6 +168,16 @@ Below is an explanation of the functions of the other core cases mentioned in th
 │ ◆ Inıʎáıwa kïθırí.
 │ ❖ ASR.SEN-1:ERG-find_beautiful  ACC-EV-EXO:ERG-walk_on
 │ ➥ I find beautiful their walking.
+└─
+```
+
+• The Propositional Case is much similar to the Eventive case above, but describes the abstract proposition represented by the current clause, and not describing its concrete, physical spatiotemporal manifestation (event). It is suitable for expressing adverbs like "probably", "arguably", "frequently", but not adverbs about specific individual events such as "beautifully" or “suddenly”, for which the Eventive Case would be appropriate.  
+
+```
+┌───────────────
+│ ◆ Uršı̋ łaƛaokwáı.
+│ ❖ ASR.REC-rain PRP-NTR-repeatedly-true
+│ ➥ (I remember that) it rained repeatedly.
 └─
 ```
 

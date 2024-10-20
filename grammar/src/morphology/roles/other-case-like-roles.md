@@ -10,7 +10,6 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 │ Plural union        │  n  │  
 │ Sequential          │  ŋ  │  
 │ Attributive         │  l  │  
-│ Propositional       │  ł  │  
 └─────────────────────┴─────┘  
 ```  
   
@@ -67,7 +66,6 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
   └─  
 ```  
   
-• The Propositional Case turns the contentive word into a restrictive subordinating clausal adverb, i.e. an adverb that modifies the whole proposition represented by the current clause, and not describing the physical spatiotemporal manifestation (event) of that proposition: it would be suitable for expressing the adverbs "probably", "arguably", "frequently", but not event-specific adverbs such as "beautifully", for which the Eventive Case would be appropriate.  
 
 ## Discourse-level Roles
 
