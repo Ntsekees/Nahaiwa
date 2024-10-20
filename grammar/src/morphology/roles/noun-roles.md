@@ -67,7 +67,7 @@ Other core cases:
 │ Extensional │  q  │  o  │   
 │ Eventive    │  š  │  ï  │  
 │ Situative   │  tʰ │  eo │  
-│ Sequential  │  pʰ │     │  
+│ Sequential  │  ŋ  │     │  
 └─────────────┴─────┴─────┘  
 ```  
   
@@ -169,16 +169,6 @@ Below is an explanation of the functions of the other core cases mentioned in th
 
 • The Situative Case marks nouns referring to a world or a volume of spacetime within which the proposition expressed by the verb is true. For it to apply, the event and the target spacetime area must be entirely encompassed by the referent of the marked noun.  
 
-• The Sequential Case is a special case exclusively used for listing nouns that make up a plural reference or a sequence/list, as initiated by a special prefix such as ⟪-ʎp-⟫ (plural union initiator) or ⟪-pš-⟫ (sequence initiator).
-
-```
-┌───────────────
-│ ◆ Aŋkaʎpanayá pʰakayá.
-│   A꞊ŋka-{ʎp-[a-na-yá] pʰ-[a-ka-yá]}.
-│ ❖ ASR.NFR꞊12:NTR-PUI-NTR-1:NTR-thing SEQ-NTR-2:NTR-thing
-│ ➥ We are me together with you.
-└─
-```
   
 ## Non-core (adjunct) cases:
 

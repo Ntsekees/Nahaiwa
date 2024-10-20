@@ -57,7 +57,6 @@
 | q / o                               | EXT⁓AFX  | Extensional Case, Affixal Case          |
 | š / ï                               | EV⁓EVT   | Eventive Case                           |
 | tʰ / eo                             | SIT      | Situative Case                          |
-| pʰ                                  | SEQ      | Sequential Case                         |
 
 ### ROLES ➤ ADJUNCTS:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
@@ -68,6 +67,8 @@
 | y                                   | ITJ⁓INTJ | Interjective                            |
 | l                                   | ATR      | Attributive                             |
 | ł                                   | PRP      | Propositional                           |
+| n                                   | PU       | Plural Union                            |
+| ŋ                                   | SEQ      | Sequential Case                         |
 
 ### ROLES ➤ DISCOURSE LEVEL:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
@@ -79,8 +80,6 @@
 ### ROLES ➤ OTHERS:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
-| n                                   | PU       | Plural Union                            |
-| ŋ                                   | SEQ      | Sequential                              |
 | hı                                  | DP       | Dislocated Predicate, Dislocative       |
 | θı                                  | ECHO     | Echo-Resumptive                         |
 | ʎaı                                 | ATR      | Afterthought relativizer                |

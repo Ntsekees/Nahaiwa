@@ -44,8 +44,18 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
   └─  
 ```  
   
-• The Sequential Case is used to construct sequences, lists, and is applied to all non-initial members of the list. The first member's case indicates the syntactic role of the whole list.  
-  
+• The Sequential Case is a special case exclusively used for listing nouns that make up a plural reference or a sequence/list, as initiated by a special prefix such as ⟪-ʎp-⟫ (plural union initiator) or ⟪-pš-⟫ (sequence initiator). This case is applied to all non-initial members of the list; the first member's case indicates the syntactic role of the whole list.  
+
+
+```
+┌───────────────
+│ ◆ Aŋkaʎpanayá pʰakayá.
+│   A꞊ŋka-{ʎp-[a-na-yá] pʰ-[a-ka-yá]}.
+│ ❖ ASR.NFR꞊12:NTR-PUI-NTR-1:NTR-thing SEQ-NTR-2:NTR-thing
+│ ➥ We are me together with you.
+└─
+```
+
 • The Attributive Case turns the contentive word into a restrictive modifier targeting an immediately preceding contentive bearing an Inner Case slot `2c`, be it a noun, an adverb or another adjective. The contentive bearing the Attributive Case express an additional property of the referent of the preceding contentive, as selected by the Inner Case of that preceding contentive. The two words (the adjective and the word it modifies) are semantically conjoined by a ‘logical AND’ conjunction, i.e. the two words express two different properties or descriptions of their common referents.  
   
 ```  
