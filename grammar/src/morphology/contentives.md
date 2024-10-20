@@ -12,7 +12,9 @@ The morphology of the contentive is an agglutinative template of four slots, des
 ├───┼────────────┼────────────────┤  
 │ 3 │ C(VG)V*    │  Extensions    │  
 ├───┼────────────┼────────────────┤  
-│ 4 │ CV(CV…)(C) │  Root or base  │  
+│ 4 │ CV         │  Namespace     │  
+├───┼────────────┼────────────────┤  
+│ 5 │ CV(CV…)(C) │  Root or base  │  
 └───┴────────────┴────────────────┘  
 ```  
   
@@ -20,7 +22,7 @@ The morphology of the contentive is an agglutinative template of four slots, des
   
 (The asterisk means that the slot is optional and recursive, i.e. its may contain zero, one, two or more values strung together.)  
   
-Slot 1, 3 are optional; the other ones are mandatory.  
+Slot 1, 3 and 4 are optional; the other ones are mandatory.  
   
 However, the Role slot may further be subdivised into up to three further subslots when the word is inflected for certain syntactic functions (mainly functions others than that of main verb):  
   
@@ -58,7 +60,7 @@ The word ⟪ŋkaoluŋkıkwıyuráwa⟫ (“of the fact that we talked to each ot
 │ Slot #3  │ lu-    │ Extension: past tense                       │  
 │ Slot #3  │ ŋkı-   │ Extension: “you and me” + (Ergative)        │  
 │ Slot #3  │ kwıyu- │ Disyllabic extension (CVyV): “reciprocally” │  
-│ Slot #4  │ -ráwa  │ Root: “talk with”                           │  
+│ Slot #5  │ -ráwa  │ Root: “talk with”                           │  
 └──────────┴────────┴─────────────────────────────────────────────┘  
 ```  
   
