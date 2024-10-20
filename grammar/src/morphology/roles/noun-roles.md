@@ -91,10 +91,11 @@ Below are some examples of internal and external case uses with unary roots and 
 │ ➥ The dog is asleep.
 └─
 ```
-In the first example above, “it” is expressed as the extensional prefix ⟪-θ◈-⟫ sporting the Intransitive (`NTR`) inner case vowel ⟪a⟫, indicating that it is the sole argument of the monovalent verb “sleep”.  
-In the second example, “it” is expressed as a separate word (with the dummy root ⟪-yá⟫), sporting the consonantal outer case ⟪t-⟫, again expressing the Intransitive case.
-
-Examples with the binary root `-ñú`, “eat”:
+The root ⟪-lı̋⟫, meaning ⟪[NTR] is asleep⟫, is monovalent, and therefore governs only one noun case, the Intransitive case (`NTR`), with consonantal outer case form ⟪t-⟫, and vocalic inner case form ⟪-a-⟫.  
+In the first example above, “it” is expressed as the pronominal extensional prefix ⟪-θ◈-⟫ sporting the inner case vowel ⟪a⟫, indicating that it is the sole argument of the verb “sleep”. “It is asleep” can therefore be expressed as a single word.  
+In the second example, with the exact same meaning as the first, “it” is expressed as a separate word (with the dummy root ⟪-yá⟫), sporting the consonantal outer case ⟪t-⟫, again expressing the Intransitive case.  
+  
+Examples with the bivalent root `-ñú`, “eat”, governing the Ergative and Accusative cases:
 ```
 ┌───────────────
 │ ◆ Unıθuñú.
@@ -133,6 +134,8 @@ Examples with the binary root `-ñú`, “eat”:
 │ ➥ (I recall that) the eaten thing was a dog.
 └─
 ```
+
+When a verb governs two or more nouns, their relative order of appearance has no significance on the utterance's meaning, it has no effect on information structure (topicality, focus…); the default order is the same as the one presented in the cases table above, following the hierarchy Ergative → Dative → Codative → Accusative. However they order can be freely changed to the convenience of the speaker, for example for moving a heavy complement, such as a subordinate clause, to the right edge of the clause for avoiding center embedding.  
 
 Below is an explanation of the functions of the other core cases mentioned in the second table above.  
   
