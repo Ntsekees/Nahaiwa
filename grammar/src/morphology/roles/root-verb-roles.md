@@ -80,7 +80,7 @@ Note: Whilst there's a prefix for granting permission, ⟪kʰaı-⟫, there's no
 * **Kʰo(ne)pákı.**  
   `kʰo=(ne)-  -pákı`  
   `REQ=(1:DAT)-help`  
-  *Could you please help me?*
+  *Could you please help (me)?*
   
 * **Yao(ke)pákı.**  
   `yao=  (ke)-  -pákı`  
