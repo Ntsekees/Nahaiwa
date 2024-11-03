@@ -50,8 +50,8 @@ Note: Whilst there's a prefix for granting permission, ⟪kʰaı-⟫, there's no
 
 * **— Kʰaıʎáıša.  
     — Kʰohaʎáıša.**  
-    `— PS-music`  
-    `— REQ-NEG-music`  
+    `— PS=music`  
+    `— REQ=NEG-music`  
     *— Can I put music on?  
      — Please no music.*
  
