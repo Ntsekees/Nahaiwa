@@ -83,8 +83,8 @@ Removes one slot, marked by the vowel form.
   
 ### Type −+
 Modifies one slot of the stem (sort of removes one and adds one); the vowel part of the affix, represented by the symbol ⟪◈⟫ below, is variable and represents the “Inner Case” identifying which slot is selected by the affix; the meaning of the slot is modified, but this suffix type does not bind the extensional case, it just reuses the modified cases. The resulting valency and case set of the predicate is unchanged.  
-With unary bases, the vowel is ⟪a⟫ (Intransitive Inner Case).  
-With binary bases, the vowel is either ⟪ı⟫ (Ergative) or ⟪u⟫ (Accusative).  
+With monovalent bases, the vowel is ⟪**a**⟫ (Intransitive Inner Case).  
+With bivalent bases, the vowel is either ⟪**ı**⟫ (Ergative) or ⟪**u**⟫ (Accusative).  
 **Shapes:** ⒸⓋ if Ⓒ is neither a palatal nor a labialized consonant, and is not ⟪l⟫ or ⟪š⟫.
 
 #### Examples:  
@@ -158,8 +158,8 @@ Removes two slots and adds one (bound to the affixal case).
 └─
 ```
 
-For certain type −−+ extensions, noted ⟪−−+*⟫, 
-the ⟪-ıyu-⟫ form can be shortened to simply ⟪-ı-⟫, for example, ⟪-kwı-⟫ is synonymous to ⟪-kwıyu-⟫.
+For certain type −−+ extensions, noted ⟪**−−+\***⟫, 
+the ⟪**-ıyu-**⟫ form can be shortened to simply ⟪**-ı-**⟫, for example, ⟪**-kwı-**⟫ is synonymous to ⟪**-kwıyu-**⟫.
 
 ## Pronominals
 
@@ -177,7 +177,7 @@ Here are some of the main pronominals:
 | t◈   | resumptive pronominal (refers to the antecedent in relative clauses) |
 | tʼ◈  | monovalent lambda pronominal (covers the interrogative “what” among other uses) |
 
-The plural “we” has no dedicated pronominal, but can be expressed by adding the associative plural extension ⟪-nθ◈-⟫ right after ⟪-n◈-⟫, with the same inner case vowel: ⟪-n◈nθ◈-⟫ (“me and co.”).
+The plural *“we”* has no dedicated pronominal, but can be expressed by adding the associative plural extension ⟪**-nθ◈-**⟫ right after ⟪**-n◈-**⟫, with the same inner case vowel: ⟪**-n◈nθ◈-**⟫ (*“me and co.”*).
 
-They all can be used as full words by combinging the with the dummy root ⟪-yá⟫, ⟪[NTR] is a thing, is something⟫, with the Intransitive inner case vowel ⟪-a-⟫: ⟪-nayá⟫ ≍ ⟪[NTR] is me⟫.
+They all can be used as full words by combinging the with the dummy root ⟪**-yá**⟫, *⟪[NTR] is a thing, is something⟫*, with the Intransitive inner case vowel ⟪**-a-**⟫: ⟪**-nayá**⟫ ≍ *⟪[NTR] is me⟫*.
 
