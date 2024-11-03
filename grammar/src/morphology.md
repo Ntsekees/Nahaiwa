@@ -1,9 +1,9 @@
 # Morphophonology and Morphology  
   
 As indicated earlier, there are three morphological classes of words:  
-• contentives (open class: the lexical words used to refer to the concepts being talked about in the utterance);  
-• inflecting function words (closed class; morphophonologically indistinguishable from contentives, but differing from the latters by having special effects on the surrounding syntax);  
-• indeclinable, uninflected function words, AKA particles (closed class).  
+* contentives (open class: the lexical words used to refer to the concepts being talked about in the utterance);  
+* inflecting function words (closed class; morphophonologically indistinguishable from contentives, but differing from the latters by having special effects on the surrounding syntax);  
+* indeclinable, uninflected function words, AKA particles (closed class).  
   
 Function words are closed classes, i.e. they have a limited, restricted membership, no new members are added to them, or only rarely.  
   
