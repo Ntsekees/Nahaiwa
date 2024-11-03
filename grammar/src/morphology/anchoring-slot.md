@@ -29,7 +29,7 @@ This ‘Injective’ clitic may occur on nouns and adverbials and indicates that
   │   (the one who ate the meal)  
   └─  
   ┌───────────────  
-  │ ◆ Oqʰá cïlú kïłqʼáı ntasqáčʰol.  
+  │ ◆ Oqʰá cïlú kïłqʼáı ntasqácʰol.  
   │ ❖ O−     √qʰá    c-  ï- √lú   k-  ï- √łqʼáı
   │   ASR.RPT-cause  ERG-EV-flow  ACC-EV-undergoes_destruction
   │   n꞊  t-  a-  -sqáčʰol
@@ -45,7 +45,7 @@ This ‘Injective’ clitic may occur on nouns and adverbials and indicates that
 
 ```
   ┌───────────────  
-  │ ◆ Oqʰá caweotïƛúru tačʰóqa θakïłqʼáı ntačʰól.  
+  │ ◆ Oqʰá caweotïƛúru tačʰóqa θakïłqʼáı ntacʰól.  
   │ ❖ ASR.RPT-cause  ERG-ELU-RCS-RSM:EV-shake  NTR-NTR-ground
   │   PSUB꞊ACC-EV-undergoes_destruction  IJV꞊NTR-NTR-building 
   │ ➥ I heard that it was an earthquake that caused the
