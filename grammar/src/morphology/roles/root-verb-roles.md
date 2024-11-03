@@ -74,16 +74,16 @@ Note: Whilst there's a prefix for granting permission, ⟪kʰaı-⟫, there's no
   
 * **Kʰıkıƛú.**  
   `kʰı=kı-  -ƛú`  
-  `RCM-2:ERG-drink`  
+  `RCM=2:ERG-drink`  
   *You should drink (something).*
   
 * **Kʰo(ne)pákı.**  
-  `kʰo-(ne)-  -pákı`  
-  `REQ-(1:DAT)-help`  
+  `kʰo=(ne)-  -pákı`  
+  `REQ=(1:DAT)-help`  
   *Could you please help me?*
   
 * **Yao(ke)pákı.**  
-  `yao-  (ke)-  -pákı`  
-  `OBLAT-(2:DAT)-help`  
+  `yao=  (ke)-  -pákı`  
+  `OBLAT=(2:DAT)-help`  
   *I'm available to help (you).*
 
