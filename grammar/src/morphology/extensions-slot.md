@@ -179,5 +179,5 @@ Here are some of the main pronominals:
 
 The plural *“we”* has no dedicated pronominal, but can be expressed by adding the associative plural extension ⟪**-nθ◈-**⟫ right after ⟪**-n◈-**⟫, with the same inner case vowel: ⟪**-n◈nθ◈-**⟫ (*“me and co.”*).
 
-They all can be used as full words by combinging the with the dummy root ⟪**-yá**⟫, *⟪[NTR] is a thing, is something⟫*, with the Intransitive inner case vowel ⟪**-a-**⟫: ⟪**-nayá**⟫ ≍ *⟪[NTR] is me⟫*.
+They all can be used as full words by combinging them with the dummy root ⟪**-yá**⟫, *⟪[NTR] is a thing, is something⟫*, with the Intransitive inner case vowel ⟪**-a-**⟫: ⟪**-nayá**⟫ ≍ *⟪[NTR] is me⟫*.
 
