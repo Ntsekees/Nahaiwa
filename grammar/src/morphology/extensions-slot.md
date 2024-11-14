@@ -98,7 +98,7 @@ With bivalent bases, the vowel is either ⟪**ı**⟫ (Ergative) or ⟪**u**⟫ 
 ```
 ┌───────────────
 │ ◆ -na-łı̋
-│ ❖ -1P:NTR-√is_asleep
+│ ❖ -1:NTR-√is_asleep
 │ ➥ [ɴᴛʀ] is me and is asleep.
 └─
 ┌───────────────
@@ -107,7 +107,7 @@ With bivalent bases, the vowel is either ⟪**ı**⟫ (Ergative) or ⟪**u**⟫ 
 │ ➥ [ɴᴛʀ] tries to be asleep.
 │ 
 │ ◆ -na-ƛʼa-łı̋
-│ ❖ -1P:NTR-try:NTR-√is_asleep
+│ ❖ -1:NTR-try:NTR-√is_asleep
 │ ➥ [ɴᴛʀ] is me, who tries to be asleep.
 │ “I try to sleep”.
 └─
@@ -117,7 +117,7 @@ With bivalent bases, the vowel is either ⟪**ı**⟫ (Ergative) or ⟪**u**⟫ 
 │ ➥ [ᴇʀɢ] sees [ᴀᴄᴄ].
 │ 
 │ ◆ -ku-cál
-│ ❖ 2P:ACC-√see
+│ ❖ 2:ACC-√see
 │ ➥ [ᴀᴄᴄ] is you and has the property [[ᴇʀɢ] sees ____].
 │ ➥ [ᴀᴄᴄ] is you and is seen by [ᴇʀɢ].
 │ ➥ [ᴇʀɢ] sees [ᴀᴄᴄ] which is you.
