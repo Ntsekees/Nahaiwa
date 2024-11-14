@@ -22,7 +22,7 @@ The Dislocated Predicate (DP) Role ⟪hı-⟫ is used for displacing a verb stem
 ```  
 ┌───────────────  
 │ ◆ Aıráʼ cacʰatʼí hınucál. 
-│ ❖ ASR꞊DUMMY  NTR-NTR-DEF:NTR-bird  DP-ERG-1:ACC-see_stimulus  
+│ ❖ ASR꞊DUMMY  NTR-NTR-DEF:NTR-bird  DP-1:ACC-see_stimulus  
 │ ➥ The bird sees me. 
 └─  
 ```  
