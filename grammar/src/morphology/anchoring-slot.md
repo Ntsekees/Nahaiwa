@@ -29,10 +29,10 @@ This ‘Injective’ clitic may occur on nouns and adverbials and indicates that
   │   (the one who ate the meal)  
   └─  
   ┌───────────────  
-  │ ◆ Oqʰá cïlú kïłqʼáı ntasqácʰol.  
+  │ ◆ Oqʰá cïlú kïłqʼáı ntaqʰácʰol.  
   │ ❖ O−     √qʰá    c-  ï- √lú   k-  ï- √łqʼáı
   │   ASR.RPT-cause  ERG-EV-flow  ACC-EV-undergoes_destruction
-  │   n꞊  t-  a-  -sqáčʰol
+  │   n꞊  t-  a-  -qʰáčʰol
   │   IJV꞊NTR-NTR-settlement  
   │ ➥ I heard that the water caused the destruction of the
   │   settlement.  
