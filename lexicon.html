@@ -101,7 +101,7 @@
 					l.forEach((e, i, l) => {
 						morpheme = e.type == "root"
 							? "-" + e.morpheme : e.morpheme + "-";
-						type = e.type == "root" ? "-" + "V" : "E";
+						type = e.type == "root" ? "V" : "E";
 						tags = e.tags == "" ?
 							"" : "⟨" + with_escaped_html(e.tags) + "⟩ ";
 						s += "<b style='color: #002255'>"
