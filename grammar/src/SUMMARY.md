@@ -8,6 +8,7 @@
         - [Slot #5: Base](./morphology/base-slot.md)
         - [Slot #4: Namespace](./morphology/namespace.md)
         - [Slot #3: Extensions](./morphology/extensions-slot.md)
+            - [Proforms](./morphology/proforms.md)
         - [Slot #2: Role](./morphology/role-slot.md)
             - [Root verb roles](./morphology/roles/root-verb-roles.md)
             - [Noun roles](./morphology/roles/noun-roles.md)
