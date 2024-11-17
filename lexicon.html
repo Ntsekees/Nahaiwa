@@ -40,6 +40,11 @@
 		<br /><br />
 		<span id="lexemes_stats"></span>
 		<br /><br />
+		<h4>Lexical entry template:</h4>
+		<span style="margin-left: 3em;">
+			<b style='color: #002255;'>lemma</b> <span style='color: #552200'>[type]</span> <span style='color: #225500';>⟨semantic category⟩</span> English definition
+		</span>
+		<br /><br />
 		<div id="content">(LEXICON NOT YET LOADED!)</div>
 		<script type="text/javascript">
 			function with_escaped_html(text) {
@@ -88,7 +93,7 @@
 						type = e.type == "root" ? "-" + "V" : "E";
 						tags = e.tags == "" ?
 							"" : "⟨" + with_escaped_html(e.tags) + "⟩ ";
-						s += "<b style='color: #002255';>"
+						s += "<b style='color: #002255'>"
 							+ with_escaped_html(morpheme) +"</b> "
 							+ "<span style='color: #552200'>["
 							+ with_escaped_html(type) + "<sup>"
