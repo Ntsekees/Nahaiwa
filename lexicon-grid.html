@@ -25,8 +25,7 @@
 				return Object.prototype.toString.call(v) ===
 					'[object Undefined]';
 			}
-			g_ext_lexicon = [];
-			g_base_lexicon = [];
+			g_lexicon = [];
 		</script>
 	</head>
 	<body>
@@ -35,7 +34,7 @@
 			id="sorting_checkbox"
 			name="sorting_checkbox"
 			checked=false
-			onchange="proceed(g_ext_lexicon, g_base_lexicon);" />
+			onchange="proceed(g_lexicon);" />
 		<label for="sorting_checkbox">Sort by semantic category</label>
 		<br /><br />
 		<span id="lexemes_stats"></span>
@@ -64,10 +63,10 @@
 					return a < b ? -1 : a > b ? 1 : 0;
 				}
 			}
-			function proceed(exts, bases) {
+			function proceed(lexicon) {
 				shall_sort_by_semantic_tags =
 					document.getElementById("sorting_checkbox").checked;
-				sorted = (l) => l.sort((a, b) => {
+				lexicon = lexicon.sort((a, b) => {
 					if (shall_sort_by_semantic_tags)
 						return (
 							a.type.localeCompare(b.type)
@@ -78,44 +77,31 @@
 							a.type.localeCompare(b.type)
 							|| compare(a.morpheme, b.morpheme))
 				});
-				exts = sorted(exts);
-				bases = sorted(bases);
-				function f(l) {
-					s = "";
-					l.forEach((e, i, l) => {
-						morpheme = e.type == "root"
-							? "-" + e.morpheme : e.morpheme + "-";
-						type = e.type == "root" ? "-" + "V" : "E";
-						tags = e.tags == "" ?
-							"" : "⟨" + with_escaped_html(e.tags) + "⟩ ";
-						s += "<b style='color: #002255';>"
-							+ with_escaped_html(morpheme) +"</b> "
-							+ "<span style='color: #552200'>["
-							+ with_escaped_html(type) + "<sup>"
-							+ with_escaped_html(e.subtype) + "</sup>]</span> "
-							+ "<span style='color: #225500';>"
-							+ with_escaped_html(tags) + "</span>"
-							+ with_escaped_html(e.eng) +"<br/>";
-					});
-					return s;
-				}
-				es = f(exts);
-				bs = f(bases);
-				content = "<h2>Extensional prefixes</h2><hr/><br/>\n" + es
-					+ "<br/><br/>\n<h2>Lexical bases</h2><hr/><br/>\n"
-					+ bs + "\n";
+				s = "";
+				lexicon.forEach((e, i, l) => {
+					entries = [
+						e.morpheme, e.type, e.subtype, e.eng, e.tags, e.predilex_id];
+					entries = entries.map(
+						ε => "<td>" + with_escaped_html(ε) + "</td>\n");
+					s += "<tr>\n" + entries.join("") + "</tr>\n";
+				});
+				content =
+					"<table cellspacing='2px'>\n<thead>\n<td>Morpheme</td>" +
+					"<td>Type</td><td>Subtype</td><td>Meaning</td>" + 
+					"<td>Tags</td><td>Predilex ID</td>\n</thead>\n<tbody>\n";
+				content += (s + "\n</tbody>\n</table>\n");
 				document.getElementById("content").innerHTML = content;
+				n_roots = lexicon.filter(e => e.type === "root").length;
+				n_extensions = lexicon.filter(e => e.type === "ext").length;
 				document.getElementById('lexemes_stats').innerHTML =
-					"Number of lexemes: " + (bases.length + exts.length) +
-					" (" + bases.length + " bases, " + exts.length +
+					"Number of lexemes: " + (n_roots + n_extensions) +
+					" (" + n_roots + " bases, " + n_extensions +
 					" extensional prefixes).";
 			}
 			d3.tsv("lexicon.tsv", (tsv) => {
-				g_ext_lexicon = tsv.filter(e => e.type === "ext");
-				g_base_lexicon = tsv.filter(e => e.type === "root");
-				proceed(g_ext_lexicon, g_base_lexicon);
+				g_lexicon = tsv;
+				proceed(tsv);
 			});
 		</script>
 	</body>
 </html>
-

@@ -46,10 +46,11 @@ nt•	ext	−+	[X] is this thing (which I a pointing at or am otherwise singling
 nƛ•	ext	−+	[X] is able to, has the ability to satisfy property [1].		zekupa{[X],[1]}
 nθ•	ext	−+	[X], together with certain recognizable ones associated with it/him/her/them, satisfy property [1].		
 pkʰ•	ext	−+	among what has property [X] everything has property [1].		
+pt•	ext	−+	[X] is the time interval of [1].		
 pš•	ext	−+★	{{sequence initiator}}		
 p•	ext	−+	[X] are more than one things, collectively having property [1].		
 qao	ext	0+	[EXT] causes, makes [0] be the case.		
-qʰ•	ext	−+	[EXT] has part [X] having property [1].		
+qʰ•	ext	−+	[X] is a group, aggregate of things having property [1].		
 qʼ•	ext	−+	[X] is a part of what has property [1].		
 q•	ext	−+	[X] is/are the one(s) named after property [1].		
 rk•	ext	−+	[X] is yours and has property [1].		
@@ -60,7 +61,7 @@ sao	ext	0+	[EXT] is a place indended for [0] to be true.
 scʰ•(y•)	ext	−++*	[X] is in relation [2] with themself.		
 sc•	ext	−+	[X] is all that has property [1].		
 sk•	ext	−+	what has property [X] has property [1].		
-sq•	ext	−+	[X] is a group, aggregate of things having property [1].		
+sqʰ•	ext	−+	[X] is the 3D spatial area occupied by [1].		
 st•	ext	0+	[EXT] is the truth value of proposition [0].		
 s•	ext	−+	{{Same-case switch-reference}}		
 s•y•	ext	−+	{{Different-case switch-reference}}		
@@ -68,6 +69,7 @@ tw•y•	ext	−++	[X] [2]s an average number relatively to the median among [E
 tʰao	ext	0+	[EXT] intentionally makes [0] be the case.		
 tʰ•	ext	−+	[X] has property [1] intentionally, voluntarily.		
 t•	ext	−+	{{relative clause antecedent pronoun (resumptive pronoun)}}		
+wa	ext	★	{{post-extension clausal anchor}}		
 čʰ•	ext	−+	[X] are the referents of the closest C-commanding noun phrase marked with the Discourse Pendent case and satisfy property [1].		
 č•(y•)	ext	−++	[X] [2]s a small number relatively to the median among [EXT].		
 č•(y•)	ext	−++	[X] [2]s a very small number relatively to the median among [EXT].		
@@ -75,6 +77,7 @@ t•	ext	−+	{{relative clause antecedent pronoun (resumptive pronoun)}}
 ŋkʼ•	ext	−+	[X] tries and fails to have property [1].		
 ŋk•	ext	−+	I and you are [X] and have property [1].		
 ŋm•(y•)	ext	−++	[X] [2]s a great number relatively to the median among [EXT], the former being one of them.		
+ŋqʼ•	ext	−+	[EXT] has part [X] having property [1].		
 ŋr•	ext	−+	[X] intends, plans to have property [1].		
 ŋ•	ext	−+	[X] wants to have property [1].		
 ƛʰ•	ext	−+★	[NTR] is/are the referents of the variable named [remaining of the word, starting on the prominent syllable].		
@@ -93,11 +96,11 @@ t•	ext	−+	{{relative clause antecedent pronoun (resumptive pronoun)}}
 ʼč•	ext		[X] is suitable for use for having property [1].		
 θao	ext	0+	[EXT] is the proposition [0]		
 ’l•	ext	−+	[X] succeeds to have property [1].		
-ntʼáı	root		[ERG] grasps, holds [ACC].	action	cewomo
-ntʼáıne	root		[ERG] grasps, holds [ACC] with a hand.	action	racuha
 pákı	root		[ERG] helps [DAT] to satisfy property [ACC].	action	juhebi
 qwáo	root		[ERG] utters, emits vocalization [ACC] (sounds).	action	pisodi
 tʰáwa	root	3	[ERG] gives to [DAT] property [ACC].	action	behucu
+tʰáı	root		[ERG] grasps, holds [ACC].	action	cewomo
+tʰáıntʰaı	root		[ERG] grasps, holds [ACC] with a hand.	action	racuha
 yáı	root		[ERG] uses, manipulates, exercises influence upon [DAT] in order to achieve the goal of satisfying property [ACC].	action	fuyayi
 čéwa	root		[ERG] purposefully has property [DAT] for ensuring that [ACC] be the case.	action	soyafo
 ʎáoko	root	2	[ERG] looks after, takes care of [ACC].	action	keyepe
@@ -127,37 +130,40 @@ stíncʰwao	root		[NTR] is a chair.	artifact furniture	zunoko
 pyáno	root		[NTR] is a piano.	artifact musical_instrument	pepiyi
 ƛéra	root	1	[NTR] is a harp.	artifact musical_instrument string_instrument	lozimu
 θíwa	root		[NTR] is a flute.	artifact musical_instrument wind_instrument	sifana
+qʰáo	root		[NTR] is a star, a sun.	astronomy	sawahe
 wíl	root		[ERG] is an answer to the question of what has property [ACC], which I assume is newsworthy and useful to you.	basic presuppositional	togilu
 cáı	root	1	[NTR] is alive.	biology	yogije
+ntʰá	root		[NTR] has male phenotype (including inner organ configuration, but not implying fertility / reproducive ability).	biology	danima
 qʼúlu	root	1	[NTR] is dead, is a dead body, a cadaver.	biology	miqimi
 sáʼ	root	1	[NTR] is awake.	biology	rewoma
 yó	root	1	[NTR] is an egg (possibly unfertilized).	biology	fuqilo
 yónƛe	root	1	[NTR] is a seed.	biology	dorawo
+ʎqó	root		[NTR] has female phenotype (including inner organ configuration, but not implying fertility / reproducive ability).	biology	nonufa
 cʼé	root	1	[NTR] is a fingernail, a toenail, a claw or a hoof.	body_part	yeyeqo
 héwa	root	1	[NTR] is a muzzle or snout (body part).	body_part	newana
 kíwa	root		[NTR] is skin (body part).	body_part	soyaba
 kíwaƛʰaı	root		[NTR] is tree bark.	body_part	gaziwa
-mpú	root	1	[NTR] is a mouth lip.	body_part	
+mpú	root	1	[NTR] is a mouth lip.	body_part	suruti
 né	root	1	[NTR] is a hand.	body_part	tehihi
 qá	root		[NTR] is a body part.	body_part	rupiwa
 qán	root	1	[NTR] is a hind leg.	body_part	maqawo
 qárı	root	1	[NTR] is a leg (ambulatory appendage, either front or hind).	body_part	yeqave
 qéƛï	root		[NTR] is a branch (plant body part).	body_part	tisoke
+qʰáƛʰï	root	1	[NTR] is a patch of hairs; [NTR] is fur (not necessarily of a dead animal).	body_part	yikani
 rı̋’	root	1	[NTR] is an ear (including outer and inner ear).	body_part	qiceva
-sqáƛʰï	root	1	[NTR] is a patch of hairs; [NTR] is fur (not necessarily of a dead animal).	body_part	yikani
 séwa	root	1	[NTR] is a flower (plant reproductive organ).	body_part	pazuti
+yéma	root	1	[NTR] is a seedpod.	body_part	fekiba
 ñı̋	root	1	[NTR] is a nose.	body_part	tuhoji
 łáı	root	1	[NTR] is a leaf (of a plant).	body_part	zozawe
 ƛʰı̋	root	1	[NTR] is a hair (possibly dead).	body_part	howice
 ʎúq	root	1	[NTR] is a tail (body part).	body_part	fuvika
-θáı	root	1	[NTR] is a tooth.	body_part	
 ’áo	root	1	[NTR] is an eye.	body_part	jovonu
 qʼí	root	1	[NTR] is a bone.	body_part bone	hobewe
 lóθ	root	1	[NTR] is blood.	body_part inner_organ	gefore
 qálao	root	1	[NTR] is a heart.	body_part inner_organ	cizehu
 páƛ	root	1	[NTR] is a root (of a plant).	body_part plant_body_part	diceva
-yéma	root	1	[NTR] is a seedpod.	body_part plant_body_part	
 yópaƛ	root	1	[NTR] is a tubercule.	body_part plant_body_part	fucono
+θáı	root	1	[NTR] is a tooth (possibly dead).	body_part tooth	yapahi
 cı̋	root	1	[NTR] is one in number.	cardinality	wehuke
 káı	root	1	[NTR] are three in number.	cardinality	kiraya
 néq	root	1	[NTR] are five in number.	cardinality	kuyope
@@ -167,7 +173,6 @@ rú	root	1	[NTR] are two in number.	cardinality	qudase
 sƛéo	root	2	[ERG] computes, calculates the answer to what satisfies property [ACC].	cognition	kewapo
 ƛéo	root	3	[ERG] computes, calculates that [DAT] is the answer to what satisfies property [ACC].	cognition	woqihi
 háı	root		[NTR] is of tetrachromatic white color.	color	
-hú	root		[NTR] is of tetrachromatic near ultraviolet (UVA) color.	color	
 húkʰo	root		[NTR] is of tetrachromatic ‘uva-uvared’ color.	color	
 húse	root		[NTR] is of tetrachromatic ‘uva-uvablue’ color.	color	
 húƛʰï	root		[NTR] is of tetrachromatic ‘uva-uvagreen’ color.	color	
@@ -176,37 +181,25 @@ láı	root		[NTR] is of tetrachromatic blue color.	color
 láıma	root		[NTR] is of tetrachromatic violet color.	color	
 láınu	root		[NTR] is of tetrachromatic azure color.	color	
 láıse	root		[NTR] is of tetrachromatic ‘blue-uvablue’ color.	color	
-lé	root		[NTR] is of trichromatic blue color.	color	
-lépı	root		[NTR] is of trichromatic azure color.	color	
-léyek	root		[NTR] is of trichromatic violet color.	color	
 nécʼu	root		[NTR] is of tetrachromatic ‘uva-spring’ color.	color	
 qʰı̋l	root		[NTR] is of tetrachromatic black color.	color	
 sé	root		[NTR] is of tetrachromatic ‘uvablue’ color.	color	
-tó	root		[NTR] is of trichromatic red color.	color	
 tóma	root		[NTR] is of tetrachromatic rose color.	color	
 tóra	root		[NTR] is of tetrachromatic orange color.	color	
 tóya	root		[NTR] is of trichromatic orange color.	color	
-tóyek	root		[NTR] is of trichromatic rose color.	color	
 tół	root		[NTR] is of tetrachromatic red color.	color	
 tółkʰo	root		[NTR] is of tetrachromatic ‘red-uvared’ color.	color	
-tʰı̋wa	root		[NTR] is of trichromatic grey color.	color	
 wéhı	root		[NTR] is of tetrachromatic grey color.	color	
 yóma	root		[NTR] is of tetrachromatic magenta color.	color	
-yóyek	root		[NTR] is of trichromatic magenta color.	color	
 čúʎu	root		[NTR] is of tetrachromatic ‘uvaviolet’ color.	color	
 łánu	root		[NTR] is of tetrachromatic spring green color.	color	
 łára	root		[NTR] is of tetrachromatic chartreuse green color.	color	
 łáʼ	root		[NTR] is of tetrachromatic green color.	color	
 łáʼƛʰï	root		[NTR] is of tetrachromatic ‘green-uvagreen’ color.	color	
-łı̋	root		[NTR] is of trichromatic green color.	color	
-łı̋pı	root		[NTR] is of trichromatic spring green color.	color	
-łı̋ya	root		[NTR] is of trichromatic chartreuse green color.	color	
 ŋóra	root		[NTR] is of tetrachromatic yellow color.	color	
-ŋóya	root		[NTR] is of trichromatic yellow color.	color	
 ŋúqu	root		[NTR] is of tetrachromatic ‘uvayellow’ color.	color	
 šáwa	root		[NTR] is of tetrachromatic grey color.	color	
 ƛúnu	root		[NTR] is of tetrachromatic cyan color.	color	
-ƛúyï	root		[NTR] is of trichromatic cyan color.	color	
 ƛʰı̋	root		[NTR] is of tetrachromatic ‘uvagreen’ color.	color	
 háoye	root		[NTR] is today.	deixis	teveku
 yé	root		[NTR] is the here and now (my here and now), this expanse of spacetime within which I am communicating this message to you.	deixis spacetime	budeja
@@ -217,13 +210,30 @@ yéwa	root	3	[ERG] is thankful, grateful to [DAT] for having property [ACC].	emo
 ƛʰwén	root		[ERG] is worried, anxious that [ACC] may be the case.	emotion	vobose
 ʎáıwa	root		[ERG] finds [ACC] to be beautiful (not necessarily visually).	emotion	zeyawu
 θƛáı	root		[ERG] feels frustration of having property [ACC].	emotion	rinoyu
-łı̋ro	root	1	[NTR] is a river.	geographic_feature	fujofa
+tʰwá	root		[NTR] is land, terrain.	geographic_feature	gasegi
+łı̋ra	root	1	[NTR] is a river.	geographic_feature	fujofa
 ƛáok	root	1	[NTR] is a mountain or hill.	geographic_feature	giwupu
+hú	root		[NTR] is of tetrachromatic near-ultraviolet (UVA) color.	has_color bichromatic pseudo-absolute	nosone
+ŋóya	root		[NTR] is of trichromatic yellow color.	has_color bichromatic pseudo-absolute	putovo
+ƛúyï	root		[NTR] is of bichromatic cyan color.	has_color bichromatic pseudo-absolute	qakema
+cʰáı	root		[NTR] is of trichromatic white color.	has_color trichromatic pseudo-absolute	qokaza
+lé	root		[NTR] is of trichromatic blue color.	has_color trichromatic pseudo-absolute	jayina
+lépı	root		[NTR] is of trichromatic azure color.	has_color trichromatic pseudo-absolute	roneda
+léyek	root		[NTR] is of trichromatic purple color or violet color.	has_color trichromatic pseudo-absolute	wazuko
+qʰú	root		[NTR] is of trichromatic black color.	has_color trichromatic pseudo-absolute	nosune
+tó	root		[NTR] is of trichromatic red color.	has_color trichromatic pseudo-absolute	kukewo
+tóyek	root		[NTR] is of trichromatic rose color.	has_color trichromatic pseudo-absolute	minequ
+tʰı̋wa	root		[NTR] is of trichromatic grey color.	has_color trichromatic pseudo-absolute	kukihu
+yóyek	root		[NTR] is of trichromatic magenta, fuchsia color.	has_color trichromatic pseudo-absolute	dapeno
+łı̋	root		[NTR] is of trichromatic green color.	has_color trichromatic pseudo-absolute	ralija
+łı̋pı	root		[NTR] is of trichromatic spring-green, turquoise color.	has_color trichromatic pseudo-absolute	rubuho
+łı̋ya	root		[NTR] is of trichromatic chatreuse-green (yellow-green) color.	has_color trichromatic pseudo-absolute	cefazi
 ʎún	root		[ERG] is a direct biological parent of [ACC].	kinship	yelepu
 lóya	root		[NTR] is a sky.	landscape	zayawa
 náhaıwa	root		[NTR] is the Nahaıwa language.	language conlang loglang	yeliwa
 yéwak	root		[NTR] is an animal, a Metazoa.	lifeform animal arthropod	ziwayu
 néš	root		[NTR] is a bee.	lifeform animal arthropod insect	zayami
+wíƛʰï	root		[NTR] is a fly, a diptere.	lifeform animal arthropod insect diptere	zijiku
 púpu, tʼípupu	root	1	[NTR] is a typical cuckoo (Cuculus genus).	lifeform animal vertebrate bird	yicaga
 qrá, tʼíqra	root		[NTR] belongs to the Corvus genus (ravens, crows, jackdaws, rooks).	lifeform animal vertebrate bird	yahalo
 tʼí	root	1	[NTR] is a bird (Aves taxonomic class).	lifeform animal vertebrate bird	daliwe
@@ -231,8 +241,9 @@ lúc	root	1	[NTR] is a fish.	lifeform animal vertebrate fish	buzote
 kóyu	root	1	[NTR] is a dog (Canis familiaris).	lifeform animal vertebrate mammal	yobanu
 qánwe	root		[NTR] is a human, a human being.	lifeform animal vertebrate mammal	wayami
 yáʼı	root		[NTR] is a horse (member of species Equus ferus caballus).	lifeform animal vertebrate mammal	qibawe
+yóʎkwa	root	1	[NTR] is a fox.	lifeform animal vertebrate mammal	
 ƛúrı	root	1	[NTR] is a domestic cat (Felis catus).	lifeform animal vertebrate mammal	fufuki
-ƛʼíwın	root	1	[NTR] is a mouse.	lifeform animal vertebrate mammal	
+ƛʼíwın	root	1	[NTR] is a mouse.	lifeform animal vertebrate mammal	mafawe
 θı̋lïʼ	root	1	[NTR] is a snake.	lifeform animal vertebrate squamate snake	kisudo
 nƛé	root	1	[NTR] is a plant.	lifeform plant	dayilu
 ñóq	root		[NTR] is a potato.	lifeform plant	guluna
@@ -245,16 +256,16 @@ ná	root	1	[NTR] is a language.	linguistics	lasofe
 há	root	1	[NTR] is false, isn't the case.	logic	maruhe
 kwáı	root	1	[NTR] is true, is the case.	logic	tunabe
 kwíyu	root	2	[ERG] are in reciprocal relation [ACC] with each other.	logic	josuma
-káoʼ	root		[ERG], [DAT] and [ACC] are in ternary relation [EXT].	logic	dotuye{[ERG],[DAT],[ACC],[EXT]}
+káoʼ	root		[ERG], [DAT] and [ACC] are in ternary relation [EXT/DP].	logic	dotuye{[ERG],[DAT],[ACC],[EXT/DP]}
 pθú	root	2	[ERG] are in relation [ACC] with different things.	logic	tafere
-ráʼ	root		[ERG] and [ACC] are in relation [EXT].	logic	nikatu{[ERG],[ACC],[EXT]}
+ráʼ	root		[ERG] and [ACC] are in relation [EXT/DP].	logic	nikatu{[ERG],[ACC],[EXT/DP]}
 wá	root		[ERG] has property [ACC].	logic	pohuti
-wáʼ	root		[NTR] has property [EXT].	logic	pohuti{[NTR],[EXT]}
+wáʼ	root		[NTR] has property [EXT/DP].	logic	pohuti{[NTR],[EXT/DP]}
 yá	root	1	[NTR] is something, anything, a thing.	logic	gisiwu
 ʼék	root	2	[ERG] or [ACC] is the case, or both are the case.	logic conjunction	zarowi
 ’áı	root	2	[ERG] and [ACC] are both the case.	logic conjunction	talage
 cwáı	root	2	Having property [ERG] is frequent, common among what has property [ACC].	logic quantification	gakile
-kú	root	1	everything has property [NTR] in 🆆.	logic quantification	fafine
+kú	root	1	everything has property [NTR] in [SIT].	logic quantification	fafine
 cʼáo	root	1	[NTR] is snow.	material	ladata
 šác	root	1	[NTR] is sand.	material	cicuva
 łí	root	1	[NTR] is powder.	material_structure	fipayi
@@ -265,12 +276,11 @@ sé’	root	1	[NTR] is a cloud.	natural_feature weather	noneyi
 kʼao	root	1	[NTR] is fire (possibly invisible).	natural_phenomenon	jaqare
 cál	root		[ERG] sees source of visual stimulus [ACC] (physical entity).	perception	zapiyo
 cáo	root		[ERG] sees view [ACC] (visual quale).	perception	liwate
+cʰwákʼaı	root		[ERG] emits light [ACC].	perception	yuziba
 kyácao	root		[ERG] interprets visual quale [DAT] as inducing information [ACC] (proposition).	perception	kesipi
 lúq	root	1	[NTR] is cold, cool.	perception	jibuda
 wál	root		[ERG] has sensory perception of [ACC] (physical entity, source of stimulus).	perception	dibeya
 wáo	root		[ERG] has sensory perception [ACC] (quale, raw sensory experience, neither the stimuli/cause thereof nor any proposition induced from it).	perception	yeraru
-ñál	root		[ERG] smell source of olfactory stimulus [ACC] (physical entity).	perception	
-ñáo	root		[ERG] smell odor [ACC] (olfactory quale).	perception	
 ñéwa	root	1	[NTR] is a quale.	perception	wiliku
 šál	root		[ERG] hears source of auditory stimulus [ACC] (physical entity).	perception	miciko
 šáo	root		[ERG] hears sound [ACC] (auditory quale).	perception	viqusi
@@ -278,6 +288,8 @@ wáo	root		[ERG] has sensory perception [ACC] (quale, raw sensory experience, ne
 ƛʼícal	root		[ERG] looks at [ACC].	perception	gebuze
 ƛʼóı	root	1	[NTR] is pain.	perception	busoni
 łéo	root		[NTR] is a color.	perception color	piyiwu
+ñál	root		[ERG] smells source of olfactory stimulus [ACC] (physical entity).	perception olfaction	naneje
+ñáo	root		[ERG] smells odor, scent [ACC] (olfactory quale).	perception olfaction	wolapi
 tʰán	root	2	[ERG] has a size of [ACC], the distance between the two points on it which are farthest apart.	physical_property	tuweno
 cʰó	root	2	[ERG] has temperature [ACC].	physical_property amount	saloki
 ʼní	root		[ERG] is spatially adjacent to [ACC].	space	migibe
@@ -300,8 +312,8 @@ lá	root		[ERG] and [ACC] overlap temporally.	time	qakiro
 pʰá	root	2	[ERG] has duration, lasts for [ACC].	time	kehoye
 hwéa	root		[NTR] is wind, moving air.	weather	howahu
 ršı̋	root		[NTR] rains.	weather	nirunu
+pkʰáı	root		[ERG] carries, holds, wears, has [ACC] on themself.	⚠	ribeta
 cʰwá	root		[ERG] emits [ACC].		
-cʰwákʼaı	root		[ERG] emits light [ACC].		
 cʼék	root		[NTR] is a blade ⁓ knife.		
 cʼéwa	root		[ERG] waits for [ACC] to be the case.		goveda
 háo	root		[NTR] is a day (event of a daytime-nighttime cycle).		
@@ -309,38 +321,39 @@ háłu	root	1	[NTR] is gravel.		timisi
 kłı̋	root	2	For [ERG], having property [ACC] is detrimental.		
 kʼyá	root		[NTR] is a daytime.		
 kʼáı	root		[NTR] is light (visible electromagnetic radiation).		kayayu
-lpá	root		[ERG] and [DAT] are separated by temporal distance [ACC].		
+kʼáıkʼya	root		[NTR] is daylight.		
 lı̋	root	1	[NTR] is asleep.		givera
 méƛʰuʼ	root		[ERG] does property [ACC] with difficulty, with a significant amount of effort.		hegibu
 ncʰwáo	root		[ERG] is sitting on [ACC].		vazoco
 nte	root		[ERG] reads, decypher symbolic code [DAT] as encoding data [ACC].		jabaye
-ntʰá	root		[NTR] is a male.		
 nwíl	root		[ERG] washes [ACC].		
 náqʰu	root	2	[ERG] is in physical contact with [ACC], opposing a forces cancelling the gravity pull drawing the latter in the former’s direction.		
 ná’	root		[ERG] has meaning [ACC].		
 nčáwa	root	2	[ERG] is familiarity with, is acquitained with, has already interacted with or been exposed to [ACC].		ciboya
-pkʰáı	root		[ERG] carries, transports or wears [ACC].		
 píku	root	1	[NTR] is a bean plant.		
 pʰáhao	root		[NTR] is a day (duration of a daytime-nighttime cycle).		
 pʰáqo	root		[NTR] is a box.		
+pʰáıwa	root		[NTR] is the Earth planet.		
 pʰú	root		[NTR] falls.		
 pʼúh	root		[NTR] explodes.		papaku
 qrú	root		[ERG] has half [ACC].		
 qwáoƛurı	root		[ERG] meows [ACC].		
 qúʎu	root	2	[ERG] is wet with liquid [ACC].		kupaka
 qʰá	root		[ERG] causes [ACC].		yajana
-qʰáo	root		[NTR] is a sun.		
+qʰácʰol	root		[NTR] is a settlement consisting at least of several buildings.		nutozi
+qʰáokʼya	root		[NTR] is a sun, providing daylight locally.		
+qʰáƛʰaı	root		[NTR] is a forest.		suhiwe
 qʰíya	root		[ERG] knows how to have property [ACC] (through motor memory).		
 qʰíʎqı	root		[ERG] is a fluid in which [ACC] is at least partly immersed, by which it is at least partly coated.		
 rúk	root		The preceding sentence is true.		
-sqácʰol	root		[NTR] is a settlement consisting at least of several buildings.		nutozi
 stíñu	root	1	[NTR] is a meal, prepared food.		ridufi
 stʰı̋	root		[NTR] is something long and straight.		
 stʰı̋ʼčırı	root		[NTR] is a staff, a walk stick.		
 swákʼya	root	1	[NTR] is a morning (from dawn to noon).		
-sʼáı	root		[NTR] is straight (not bent).		
+sʼáı	root		[NTR] is straight, not bent.		
 tákı	root		[ERG] draws on [DAT] picture [ACC].		
 tól	root		[ERG] owns [ACC].		
+tʰwáƛʰaı	root		[NTR] is a forest.		suhiwe
 tʰáku	root		[ERG] is a number greater than number [ACC].		
 tʰána	root	3	[ERG] gives to [DAT] control of [ACC].		
 tʰánïsa	root		[ERG] has tallness [ACC].		lalega
@@ -349,7 +362,6 @@ tʰáqatʰana	root		[ERG] and [DAT] exchange respective control of [COD] and [AC
 tʰú	root		[ERG] finds [ACC] very likely, expects it to be true, has confidence in it being the case.		
 tʰúqa	root		[ERG] pulls [ACC].		
 tʼáı	root		[ERG] exercises control over the identity of what has property [ACC].		
-wíƛʰï	root		[NTR] is a fly.		
 wı̋ca	root		[ERG] is the sum of numbers [DAT] and [ACC].		
 yálı	root		[ERG] inhabits [ACC].		jawawe
 yáo	root		[ERG] greets [ACC], expressing well-intentionedness and acknowledgement of presence. ⸨Used upon encounter but not upon parting.⸩		
@@ -368,9 +380,11 @@ yı̋rï	root		[ERG] runs on [ACC].
 čʰóqa	root		[NTR] is a ground.		
 łqʰwé	root		[NTR] is an excrement.		
 łqʼáı	root		[NTR] undergoes destruction.		
+łwáı	root		[NTR] flows.		danake
 łúʼ	root	1	[NTR] is senecent.		
 łčál	root		[ERG] jokingly asserts that [ACC] is the case.		yuzocu
 łčʼé	root		[ERG] has sickness or illness of having property [ACC].		
+šíčıl	root		[NTR] undergoes birth or hatching.		
 ƛwí	root		[ERG] precedes [ACC] in time.		
 ƛwíhaoye	root		[NTR] is yesterday.		
 ƛéona’	root		[ERG] understands, interprets the meaning of [DAT] as being [ACC].		kimana
@@ -381,12 +395,16 @@ yı̋rï	root		[ERG] runs on [ACC].
 ƛʰúʼ	root		[ERG] puts amount [DAT] of effort into doing property [ACC].		zupomu
 ƛʼíyï	root		[NTR] is an ant.		
 ʎkʼá	root		[ERG] is light illuminating, reflecting on [ACC].		
+ʎpá	root		[ERG] and [DAT] are separated by temporal distance [ACC].		
+ʎpášıye	root		[ERG] has [ACC] as its age since the beginning of its existence (including fetal time in the case of animals).		
+ʎpášıčıl	root		[ERG] has [ACC] as their age since birth or hatching.		
+ʎpáƛwı	root		[ERG] precedes [DAT] at temporal distance [ACC].		
 ʎqí	root		[ERG] is a fluid in which [ACC] is immersed, by which it is coated.		
-ʎqó	root		[NTR] is a female.		
 ʎáo	root	2	[ERG] moves along spacetime path [ACC].		
 ʎáıša	root		[NTR] is music.		tatazu
 ʎóı	root		[NTR] moves away and then returns to its initial location.		
 ʎú	root	3	[ERG] goes, moves, translocates from [DAT] to [ACC].		jogavu
+ʎúpkʰaı	root		[ERG] brings [DAT] to location [ACC].		
 ʼám	root	2	[ERG] is the case along/together with [ACC].		voyove
 ʼïʼ	root		[ERG] is true. ⸨The value of [ACC] is ignored.⸩		
 θpʰé	root		[NTR] is a night.		
