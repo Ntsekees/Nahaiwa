@@ -42,10 +42,19 @@
 		<br /><br />
 		<h4>Lexical entry template:</h4>
 		<span style="margin-left: 3em;">
-			<b style='color: #002255;'>lemma</b> <span style='color: #552200'>[type]</span> <span style='color: #225500';>⟨semantic category⟩</span> English definition
+			<b style='color: #002255;'>lemma</b>
+			<span style='color: #552200'>[type]</span>
+			<span style='color: #225500';>⟨semantic category⟩</span>
+			English definition
 		</span>
 		<br /><br />
+		<form class="filter_form">
+		  <input type="text" placeholder="" id="filter" style="font-size: 16px; width: 16em;">
+		  <button type="button" style="font-size: 16px;" onclick="proceed(g_ext_lexicon, g_base_lexicon);">Filter</button>
+		</form>
+		<br />
 		<div id="content">(LEXICON NOT YET LOADED!)</div>
+		<br /><br />
 		<script type="text/javascript">
 			function with_escaped_html(text) {
 				return text.replace(/[&<>"']/g, function(ch) {
@@ -83,8 +92,10 @@
 							a.type.localeCompare(b.type)
 							|| compare(a.morpheme, b.morpheme))
 				});
-				exts = sorted(exts);
-				bases = sorted(bases);
+				filter_text = document.getElementById("filter").value;
+				filter_func = (e) => e.morpheme.includes(filter_text) || e.eng.includes(filter_text);
+				exts = sorted(exts.filter(filter_func));
+				bases = sorted(bases.filter(filter_func));
 				function f(l) {
 					s = "";
 					l.forEach((e, i, l) => {
