@@ -231,39 +231,41 @@ yóyek	root		[NTR] is of trichromatic magenta, fuchsia color.	has_color trichrom
 łı̋	root		[NTR] is of trichromatic green color.	has_color trichromatic pseudo-absolute	ralija
 łı̋pı	root		[NTR] is of trichromatic spring-green, turquoise color.	has_color trichromatic pseudo-absolute	rubuho
 łı̋ya	root		[NTR] is of trichromatic chatreuse-green (yellow-green) color.	has_color trichromatic pseudo-absolute	cefazi
-ʎún	root		[ERG] is a direct biological parent of [ACC].	kinship	yelepu
-lóya	root		[NTR] is a sky.	landscape	zayawa
-náhaıwa	root		[NTR] is the Nahaıwa language.	language conlang loglang	yeliwa
-yéwak	root		[NTR] is an animal, a Metazoa.	lifeform animal arthropod	ziwayu
-néš	root		[NTR] is a bee.	lifeform animal arthropod insect	zayami
+ʎún	root	2	[ERG] is a direct biological parent of [ACC].	kinship	yelepu
+lóya	root	1	[NTR] is a sky.	landscape	zayawa
+náhaıwa	root	1	[NTR] is the Nahaıwa language.	language conlang loglang	yeliwa
+yéwak	root	1	[NTR] is an animal, a Metazoa.	lifeform animal arthropod	ziwayu
+néš	root	1	[NTR] is a bee.	lifeform animal arthropod insect	zayami
 wíƛʰï	root		[NTR] is a fly, a diptere.	lifeform animal arthropod insect diptere	zijiku
-púpu, tʼípupu	root	1	[NTR] is a typical cuckoo (Cuculus genus).	lifeform animal vertebrate bird	yicaga
-qrá, tʼíqra	root		[NTR] belongs to the Corvus genus (ravens, crows, jackdaws, rooks).	lifeform animal vertebrate bird	yahalo
+púpu	root	1	[NTR] is a typical cuckoo (Cuculus genus).	lifeform animal vertebrate bird	yicaga
+qrá	root	1	[NTR] belongs to the Corvus genus (ravens, crows, jackdaws, rooks).	lifeform animal vertebrate bird	yahalo
 tʼí	root	1	[NTR] is a bird (Aves taxonomic class).	lifeform animal vertebrate bird	daliwe
+tʼípupu	root	1	[NTR] is a typical cuckoo (Cuculus genus).	lifeform animal vertebrate bird	yicaga
+tʼíqra	root	1	[NTR] belongs to the Corvus genus (ravens, crows, jackdaws, rooks).	lifeform animal vertebrate bird	yahalo
 lúc	root	1	[NTR] is a fish.	lifeform animal vertebrate fish	buzote
 kóyu	root	1	[NTR] is a dog (Canis familiaris).	lifeform animal vertebrate mammal	yobanu
-qánwe	root		[NTR] is a human, a human being.	lifeform animal vertebrate mammal	wayami
-yáʼı	root		[NTR] is a horse (member of species Equus ferus caballus).	lifeform animal vertebrate mammal	qibawe
+qánwe	root	1	[NTR] is a human, a human being.	lifeform animal vertebrate mammal	wayami
+yáʼı	root	1	[NTR] is a horse (member of species Equus ferus caballus).	lifeform animal vertebrate mammal	qibawe
 yóʎkwa	root	1	[NTR] is a fox.	lifeform animal vertebrate mammal	
 ƛúrı	root	1	[NTR] is a domestic cat (Felis catus).	lifeform animal vertebrate mammal	fufuki
 ƛʼíwın	root	1	[NTR] is a mouse.	lifeform animal vertebrate mammal	mafawe
 θı̋lïʼ	root	1	[NTR] is a snake.	lifeform animal vertebrate squamate snake	kisudo
 nƛé	root	1	[NTR] is a plant.	lifeform plant	dayilu
-ñóq	root		[NTR] is a potato.	lifeform plant	guluna
-ƛís	root		[NTR] is grass.	lifeform plant	sosudi
+ñóq	root	1	[NTR] is a potato.	lifeform plant	guluna
+ƛís	root	1	[NTR] is grass.	lifeform plant	sosudi
 nóko	root	1	[NTR] is an apple.	lifeform plant fruit	nahala
-qí	root		[NTR] is a fruit.	lifeform plant fruit	gufoja
+qí	root	1	[NTR] is a fruit.	lifeform plant fruit	gufoja
 rópo	root	1	[NTR] is a tomato.	lifeform plant fruit	seruwi
 ƛʰáı	root	1	[NTR] is a tree.	lifeform plant tree	tiliva
 ná	root	1	[NTR] is a language.	linguistics	lasofe
 há	root	1	[NTR] is false, isn't the case.	logic	maruhe
 kwáı	root	1	[NTR] is true, is the case.	logic	tunabe
 kwíyu	root	2	[ERG] are in reciprocal relation [ACC] with each other.	logic	josuma
-káoʼ	root		[ERG], [DAT] and [ACC] are in ternary relation [EXT/DP].	logic	dotuye{[ERG],[DAT],[ACC],[EXT/DP]}
+káoʼ	root	4	[ERG], [DAT] and [ACC] are in ternary relation [EXT/DP].	logic	dotuye{[ERG],[DAT],[ACC],[EXT/DP]}
 pθú	root	2	[ERG] are in relation [ACC] with different things.	logic	tafere
-ráʼ	root		[ERG] and [ACC] are in relation [EXT/DP].	logic	nikatu{[ERG],[ACC],[EXT/DP]}
-wá	root		[ERG] has property [ACC].	logic	pohuti
-wáʼ	root		[NTR] has property [EXT/DP].	logic	pohuti{[NTR],[EXT/DP]}
+ráʼ	root	3	[ERG] and [ACC] are in relation [EXT/DP].	logic	nikatu{[ERG],[ACC],[EXT/DP]}
+wá	root	2	[ERG] has property [ACC].	logic	pohuti
+wáʼ	root	2	[NTR] has property [EXT/DP].	logic	pohuti{[NTR],[EXT/DP]}
 yá	root	1	[NTR] is something, anything, a thing.	logic	gisiwu
 ʼáı	root	2	[ERG] and [ACC] are both the case.	logic conjunction	talage
 ʼék	root	2	[ERG] or [ACC] is the case, or both are the case.	logic conjunction	zarowi
@@ -345,7 +347,7 @@ qúʎu	root	2	[ERG] is wet with liquid [ACC].		kupaka
 qʰá	root		[ERG] causes [ACC].		yajana
 qʰácʰol	root		[NTR] is a settlement consisting at least of several buildings.		nutozi
 qʰáokʼya	root		[NTR] is a sun, providing daylight locally.		
-qʰáƛʰaı	root		[NTR] is a forest.		suhiwe
+qʰáƛʰaı	root	1	[NTR] is a forest.		suhiwe
 qʰíya	root		[ERG] knows how to have property [ACC] (through motor memory).		
 qʰíʎqı	root		[ERG] is a fluid in which [ACC] is at least partly immersed, by which it is at least partly coated.		
 rúk	root		The preceding sentence is true.		
@@ -356,7 +358,7 @@ swákʼya	root	1	[NTR] is a morning (from dawn to noon).
 sʼáı	root		[NTR] is straight, not bent.		
 tákı	root		[ERG] draws on [DAT] picture [ACC].		
 tól	root		[ERG] owns [ACC].		
-tʰwáƛʰaı	root		[NTR] is a forest.		suhiwe
+tʰwáƛʰaı	root	1	[NTR] is a forest.		suhiwe
 tʰáku	root		[ERG] is a number greater than number [ACC].		
 tʰána	root	3	[ERG] gives to [DAT] control of [ACC].		
 tʰánïʼsa	root		[ERG] has tallness [ACC].		lalega
