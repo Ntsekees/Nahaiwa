@@ -16,14 +16,15 @@ n•	ext	−+	[X] is me and has property [1]	deixis
 ha	ext	0	[0] is false, isn't the case.	logic	maruhe{[0]}
 kʰao	ext	0	[0] is possible.	logic modal	bamosu{[0]}
 mn•	ext	−+	[X] is comparable, similar to [1].	metaphor	
-cʼ•	ext	−+	{{binary lambda pronoun #2}}	syntactic_pronoun	
-kʼ•	ext	−+	{{binary lambda pronoun #1}}	syntactic_pronoun	
-lc•	ext	−+	{{Ergative case anaphora}}	syntactic_pronoun	
-ltʼ•	ext	−+	{{unary lambda pronoun #2}}	syntactic_pronoun	
-lt•	ext	−+	{{Intransitive case anaphora}}	syntactic_pronoun	
-sƛ•	ext	−+	{{World pronoun}}	syntactic_pronoun	
-tʼ•	ext	−+	{{unary lambda pronoun #1}}	syntactic_pronoun	
-ʎk•	ext	−+	{{Accusative case anaphora}}	syntactic_pronoun	
+cʼ•	ext	−+	{{ergative lambda pronoun}}	syntactic_pronoun	
+kʼ•	ext	−+	{{accusative lambda pronoun}}	syntactic_pronoun	
+lc•	ext	−+	{{ergative case anaphora}}	syntactic_pronoun	
+pʼ•	ext	−+	{{dative lambda pronoun}}	syntactic_pronoun	
+sƛ•	ext	−+	{{world pronoun}}	syntactic_pronoun	
+tʼ•	ext	−+	{{intransitive lambda pronoun}}	syntactic_pronoun	
+ʎk•	ext	−+	{{accusative case anaphora}}	syntactic_pronoun	
+ʎp•	ext	−+	{{dative case anaphora}}	syntactic_pronoun	
+ʎq•	ext	−+	{{extensional case anaphora}}	syntactic_pronoun	
 rc•	ext	0	[0] is temporally discontinuous.	time	piduta{[0]}
 ckʰ•	ext	−+	among what has property [X] something has property [1].		
 cwa	ext	−+	{{unbox unary predicate}}		
@@ -54,6 +55,7 @@ qʰ•	ext	−+	[X] is a group, aggregate of things having property [1].
 qʼ•	ext	−+	[X] is a part of what has property [1].		
 q•	ext	−+	[X] is/are the one(s) named after property [1].		
 rk•	ext	−+	[X] is yours and has property [1].		
+rm•	ext	−+★	{{plural union initiator}}		
 rn•	ext	−+	[X] is mine and has property [1].		
 rwa	ext	→B	{{unbox binary predicate}}		
 r•	ext	−+	[X] is related to what has property [1].		
@@ -70,10 +72,10 @@ tʰao	ext	0+	[EXT] intentionally makes [0] be the case.
 tʰ•	ext	−+	[X] has property [1] intentionally, voluntarily.		
 t•	ext	−+	{{relative clause antecedent pronoun (resumptive pronoun)}}		
 wa	ext	★	{{post-extension clausal anchor}}		
+čw•(y•)	ext	−++	[X] [2]s a very small number relatively to the median among [EXT].		
 čʰ•	ext	−+	[X] are the referents of the closest C-commanding noun phrase marked with the Discourse Pendent case and satisfy property [1].		
 č•(y•)	ext	−++	[X] [2]s a small number relatively to the median among [EXT].		
-č•(y•)	ext	−++	[X] [2]s a very small number relatively to the median among [EXT].		
-łao	ext		[0] is the case to the detriment of [EXT].		
+łao	ext	0+	[0] is the case to the detriment of [EXT].		
 ŋkʼ•	ext	−+	[X] tries and fails to have property [1].		
 ŋk•	ext	−+	I and you are [X] and have property [1].		
 ŋm•(y•)	ext	−++	[X] [2]s a great number relatively to the median among [EXT], the former being one of them.		
@@ -85,15 +87,16 @@ wa	ext	★	{{post-extension clausal anchor}}
 ƛʼea	ext	0+	[0] would be true if [EXT] were true.		
 ƛ•	ext	−+	[X] are the referents of the closest C-commanding noun phrase marked with the Pendent case and satisfy property [1].		
 ʎao	ext	0+	[0] seems to be the case to [EXT].		
-ʎaı	ext		[0] is the case to the benefit of [EXT].		
-ʎp•	ext	−+★	{{plural union initiator}}		
+ʎaı	ext	0+	[0] is the case to the benefit of [EXT].		
 ʼa	ext	★	{{scope anchor}}		
 ʼao	ext	0★	{{plain content clause initiator}}		
 ʼaı	ext	0★	{{relative clause initiator}}		
+ʼm•(y•)	ext	−++	[X] surpasses, is more than [EXT] in what number they are in relation [2] with.		
 ʼn•	ext	−+	{{overt variable binding pronoun}}		
-ʼs•	ext	−+	{{pronoun bound with overt variable binding}}		
-ʼs•	ext		[X] is suitable for having property [1].		
-ʼč•	ext		[X] is suitable for use for having property [1].		
+ʼs•	ext	−+	[X] is suitable for having property [1].		
+ʼč•	ext	−+	[X] is suitable for use for having property [1].		
+ʼč•(y•)	ext	−++	[X] is surpassed by, is less than [EXT] in what number they are in relation [2] with.		
+ʼš•	ext	−+	{{pronoun bound with overt variable binding}}		
 θao	ext	0+	[EXT] is the proposition [0]		
 ’l•	ext	−+	[X] succeeds to have property [1].		
 pákı	root		[ERG] helps [DAT] to satisfy property [ACC].	action	juhebi
@@ -157,7 +160,7 @@ yéma	root	1	[NTR] is a seedpod.	body_part	fekiba
 łáı	root	1	[NTR] is a leaf (of a plant).	body_part	zozawe
 ƛʰı̋	root	1	[NTR] is a hair (possibly dead).	body_part	howice
 ʎúq	root	1	[NTR] is a tail (body part).	body_part	fuvika
-’áo	root	1	[NTR] is an eye.	body_part	jovonu
+ʼáo	root	1	[NTR] is an eye.	body_part	jovonu
 qʼí	root	1	[NTR] is a bone.	body_part bone	hobewe
 lóθ	root	1	[NTR] is blood.	body_part inner_organ	gefore
 qálao	root	1	[NTR] is a heart.	body_part inner_organ	cizehu
@@ -262,8 +265,8 @@ ráʼ	root		[ERG] and [ACC] are in relation [EXT/DP].	logic	nikatu{[ERG],[ACC],[
 wá	root		[ERG] has property [ACC].	logic	pohuti
 wáʼ	root		[NTR] has property [EXT/DP].	logic	pohuti{[NTR],[EXT/DP]}
 yá	root	1	[NTR] is something, anything, a thing.	logic	gisiwu
+ʼáı	root	2	[ERG] and [ACC] are both the case.	logic conjunction	talage
 ʼék	root	2	[ERG] or [ACC] is the case, or both are the case.	logic conjunction	zarowi
-’áı	root	2	[ERG] and [ACC] are both the case.	logic conjunction	talage
 cwáı	root	2	Having property [ERG] is frequent, common among what has property [ACC].	logic quantification	gakile
 kú	root	1	everything has property [NTR] in [SIT].	logic quantification	fafine
 cʼáo	root	1	[NTR] is snow.	material	ladata
@@ -356,7 +359,7 @@ tól	root		[ERG] owns [ACC].
 tʰwáƛʰaı	root		[NTR] is a forest.		suhiwe
 tʰáku	root		[ERG] is a number greater than number [ACC].		
 tʰána	root	3	[ERG] gives to [DAT] control of [ACC].		
-tʰánïsa	root		[ERG] has tallness [ACC].		lalega
+tʰánïʼsa	root		[ERG] has tallness [ACC].		lalega
 tʰáqa	root		[ERG] and [DAT] exchange respective services [COD] and [ACC] (propositions).		
 tʰáqatʰana	root		[ERG] and [DAT] exchange respective control of [COD] and [ACC].		
 tʰú	root		[ERG] finds [ACC] very likely, expects it to be true, has confidence in it being the case.		
