@@ -36,8 +36,8 @@
 		<span style="margin-left: 3em;">
 			<b style='color: #002255;'>lemma</b>
 			<span style='color: #552200'>[type]</span>
-			<span style='color: #225500';>⟨semantic category⟩</span>
-			English definition
+			<span style='color: #225500; font-size: 85%;'>⟨semantic category⟩</span>
+			<span style='color: #223366'>➤</span> English definition
 		</span>
 		<br /><br />
 		<form class="filter_form">
@@ -101,7 +101,7 @@
 					l.forEach((e, i, l) => {
 						morpheme = e.type == "root"
 							? "-" + e.morpheme : e.morpheme + "-";
-						type = e.type == "root" ? "V" : "E";
+						type = e.type == "root" ? "V" : "Ext";
 						tags = e.tags == "" ?
 							"" : "⟨" + with_escaped_html(e.tags) + "⟩ ";
 						s += "<b style='color: #002255'>"
@@ -109,8 +109,9 @@
 							+ "<span style='color: #552200'>["
 							+ with_escaped_html(type) + "<sup>"
 							+ with_escaped_html(e.subtype) + "</sup>]</span> "
-							+ "<span style='color: #225500';>"
-							+ with_escaped_html(tags) + "</span>"
+							+ "<span style='color: #225500; font-size: 85%;'>"
+							+ with_escaped_html(tags) + "</span> "
+							+ "<span style='color: #223366'>➤</span> "
 							+ with_escaped_html(e.eng) +"<br/>";
 					});
 					return s;
