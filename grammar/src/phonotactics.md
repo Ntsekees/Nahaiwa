@@ -25,7 +25,7 @@ The [ɴ] allophone is written ⟪ŋ⟫:
   
 Similarly, the coda of the last syllable of a word never contains a consonant cluster.  
   
-Consonant clusters may only occur across syllable boundaries, where two-consonant clusters and more rarely three-consonant clusters may occur.  
+Consonant clusters may only occur across syllable boundaries, where two-consonant clusters may occur, as well as `CCw` clusters like /t͡skw/. More complex clusters are not allowed.  
   
 *⸨TODO: List allowed and disallowed clusters.⸩*
 
