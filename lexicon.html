@@ -42,7 +42,7 @@
 		<br /><br />
 		<form class="filter_form">
 		  <input type="text" placeholder="" id="filter" style="font-size: 16px; width: 16em;">
-		  <button type="button" style="font-size: 16px;" onclick="proceed(g_ext_lexicon, g_base_lexicon);">Filter</button>
+		  <button type="button" style="font-size: 16px;" onclick="proceed(g_prt_lexicon, , g_ext_lexicon, g_base_lexicon);">Filter</button>
 		</form>
 		<br />
 		<input
@@ -50,7 +50,7 @@
 			id="sorting_checkbox"
 			name="sorting_checkbox"
 			checked=false
-			onchange="proceed(g_ext_lexicon, g_base_lexicon);" />
+			onchange="proceed(g_prt_lexicon, g_ext_lexicon, g_base_lexicon);" />
 		<label for="sorting_checkbox">Sort by semantic category</label>
 		<br /><br />
 		<div id="content">(LEXICON NOT YET LOADED!)</div>
@@ -78,7 +78,7 @@
 					return a < b ? -1 : a > b ? 1 : 0;
 				}
 			}
-			function proceed(exts, bases) {
+			function proceed(prts, exts, bases) {
 				shall_sort_by_semantic_tags =
 					document.getElementById("sorting_checkbox").checked;
 				sorted = (l) => l.sort((a, b) => {
@@ -94,14 +94,27 @@
 				});
 				filter_text = document.getElementById("filter").value;
 				filter_func = (e) => e.morpheme.includes(filter_text) || e.eng.includes(filter_text);
+				prts = sorted(prts.filter(filter_func));
 				exts = sorted(exts.filter(filter_func));
 				bases = sorted(bases.filter(filter_func));
 				function f(l) {
 					s = "";
 					l.forEach((e, i, l) => {
-						morpheme = e.type == "root"
-							? "-" + e.morpheme : e.morpheme + "-";
-						type = e.type == "root" ? "V" : "Ext";
+						switch (e.type) {
+							case "prt":
+								type = "Prt";
+								morpheme = e.morpheme;
+								break;
+							case "root":
+								type = "V";
+								morpheme = "-" + e.morpheme;
+								break;
+							case "ext":
+								type = "Ext";
+								morpheme = e.morpheme + "-";
+								break;
+							default: type = "?"; break;
+						}
 						tags = e.tags == "" ?
 							"" : "⟨" + with_escaped_html(e.tags) + "⟩ ";
 						s += "<b style='color: #002255'>"
@@ -116,21 +129,26 @@
 					});
 					return s;
 				}
+				ps = f(prts);
 				es = f(exts);
 				bs = f(bases);
-				content = "<h2>Extensional prefixes</h2><hr/><br/>\n" + es
+				content = "<h2>Particles</h2><hr/><br/>\n" + ps
+					+ "<h2>Extensional prefixes</h2><hr/><br/>\n" + es
 					+ "<br/><br/>\n<h2>Lexical bases</h2><hr/><br/>\n"
 					+ bs + "\n";
 				document.getElementById("content").innerHTML = content;
 				document.getElementById('lexemes_stats').innerHTML =
-					"Number of lexemes: " + (bases.length + exts.length) +
-					" (" + bases.length + " bases, " + exts.length +
-					" extensional prefixes).";
+					"Number of lexemes: "
+					+ (prts.length + exts.length + bases.length)
+					+ " (" + prts.length + " particles, "
+					+ bases.length + " bases, " + exts.length
+					+ " extensional prefixes).";
 			}
 			d3.tsv("lexicon.tsv", (tsv) => {
+				g_prt_lexicon = tsv.filter(e => e.type === "prt");
 				g_ext_lexicon = tsv.filter(e => e.type === "ext");
 				g_base_lexicon = tsv.filter(e => e.type === "root");
-				proceed(g_ext_lexicon, g_base_lexicon);
+				proceed(g_prt_lexicon, g_ext_lexicon, g_base_lexicon);
 			});
 		</script>
 	</body>
