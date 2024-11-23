@@ -34,10 +34,10 @@ ckʰ•	ext	−+	among what has property [X] something has property [1].
 cwa	ext	−+	{{unbox unary predicate}}		
 c•	ext	−+	[X], which is one in number, [1]s.		
 kcʰ•	ext	−−+*	[X] and [EXT] are in relation [2] with different things.		
-km•(y•)	ext	−++	[X] is, in comparison with [EXT] (default: contextual), in relation [2] with the greatest number.		
+km•(y•)	ext	−−++	[X] is, in comparison with [EXT] (default: contextual), in relation [2] with the greatest number.		
 ktʰ•	ext	−+	[X] has property [1] unintentionally, involuntarily.		
 kw•(y•)	ext	−−+*	[EXT] are in the reciprocal relationship [2] ; [EXT] [2] each other.		
-kč•(y•)	ext	−++	[X] is, in comparison with [EXT] (default: contextual), in relation [2] with the smallest number.		
+kč•(y•)	ext	−−++	[X] is, in comparison with [EXT] (default: contextual), in relation [2] with the smallest number.		
 la	ext	0	{{Present tense}}		
 lao	ext	0	Existential tense		
 lcʰ•	ext	−−+*	[X] and [EXT] are in relation [2] with the same things.		
@@ -46,8 +46,8 @@ ltʰ•	ext	−++	[X] has property [1] intentionally, in order to make [EXT] be 
 lt•	ext	−+	[X] is among what has property [1].		
 lu	ext	0	{{Past tense}}		
 lı	ext	0	[0] is the case after the event of the next outer clause, or if there’s none, then after the event described by the preceding sentence.		
-mw•(y•)	ext	−++	[X] is in relation [2] with a very great number relatively to the median among [EXT] (default: contextual).		
-m•(y•)	ext	−++	[X] is in relation [2] with a great number relatively to the median among [EXT] (default: contextual).		
+mw•(y•)	ext	−−++*	[X] is in relation [2] with a very great number relatively to the median among [EXT] (default: contextual).		
+m•(y•)	ext	−−++*	[X] is in relation [2] with a great number relatively to the median among [EXT] (default: contextual).		
 nc’•	ext	−+	[X] is the property of having property [1].		
 nm•	ext	−+	[X] is a spatiotemporally bounded chunk of the (boundless) material that has property [1].		
 nr•	ext	−++	[X] is related to [EXT] and has property [1].		
@@ -66,7 +66,7 @@ rm•	ext	−+★	{{plural union initiator}}
 rwa	ext	→B	{{unbox binary predicate}}		
 r•	ext	−+	[X] is related to what has property [1].		
 sao	ext	0	[EXT] is a place indended for [0] to be true.		
-scʰ•(y•)	ext	−++*	[X] is in relation [2] with themself.		
+scʰ•(y•)	ext	−−+*	[X] is in relation [2] with themself.		
 sc•	ext	−+	[X] is all that has property [1].		
 sk•	ext	−+	what has property [X] has property [1].		
 sqʰ•	ext	−+	[X] is the 3D spatial area occupied by [1].		
@@ -77,14 +77,14 @@ tw•y•	ext	−++	[X] is in relation [2] with an average number relatively to 
 tʰao	ext	0	[EXT] intentionally makes [0] be the case.		
 tʰ•	ext	−+	[X] has property [1] intentionally, voluntarily.		
 wa	ext	★	{{post-extension clausal anchor}}		
-čw•(y•)	ext	−++	[X] is in relation [2] with a very small number relatively to the median among [EXT] (default: contextual).		
-čʰw•(y•)	ext	−++	[X] is in relation [2] with an increasingly small number.		
-č•(y•)	ext	−++	[X] is in relation [2] with a small number relatively to the median among [EXT] (default: contextual).		
+čw•(y•)	ext	−−++*	[X] is in relation [2] with a very small number relatively to the median among [EXT] (default: contextual).		
+čʰw•(y•)	ext	−−+*	[X] is in relation [2] with an increasingly small number.		
+č•(y•)	ext	−−++*	[X] is in relation [2] with a small number relatively to the median among [EXT] (default: contextual).		
 łao	ext	0	[0] is the case to the detriment of [EXT].		
 ł•	ext	−+	[X] has property [1] and is the same as the previous reference bearing the same noun case as the inner case of this very extional prefix. ⸨Same-case switch-reference⸩		
 ŋkʼ•	ext	−+	[X] tries and fails to have property [1].		
 ŋk•	ext	−+	I and you are [X] and have property [1].		
-ŋm•(y•)	ext	−++	[X] is in relation [2] with a great number relatively to the median among [EXT] (default: contextual), the former being one of them.		
+ŋm•(y•)	ext	−−++*	[X] is in relation [2] with a great number relatively to the median among [EXT] (default: contextual), the former being one of them.		
 ŋqʼ•	ext	−+	[EXT] has part [X] having property [1].		
 ŋr•	ext	−+	[X] intends, plans to have property [1].		
 ŋ•	ext	−+	[X] wants to have property [1].		
@@ -95,11 +95,11 @@ wa	ext	★	{{post-extension clausal anchor}}
 ʼa	ext	★	{{scope anchor}}		
 ʼao	ext	0★	{{plain content clause initiator}}		
 ʼaı	ext	0★	{{relative clause initiator}}		
-ʼm•(y•)	ext	−++	[X] surpasses, is more than [EXT] in what number they are in relation [2] with.		
+ʼm•(y•)	ext	−−++*	[X] surpasses, is more than [EXT] in what number they are in relation [2] with.		
 ʼn•	ext	−+	{{overt variable binding pronoun}}		
 ʼs•	ext	−+	[X] is suitable for having property [1].		
 ʼč•	ext	−+	[X] is suitable for use for having property [1].		
-ʼč•(y•)	ext	−++	[X] is surpassed by, is less than [EXT] in what number they are in relation [2] with.		
+ʼč•(y•)	ext	−−++*	[X] is surpassed by, is less than [EXT] in what number they are in relation [2] with.		
 ʼš•	ext	−+	{{pronoun bound with overt variable binding}}		
 θao	ext	0	[EXT] is the proposition [0]		
 ’l•	ext	−+	[X] succeeds to have property [1].		
