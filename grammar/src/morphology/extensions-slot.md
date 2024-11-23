@@ -183,8 +183,8 @@ Degree extensions allow to derive stems meaning e.g. ⟪**[ᴇʀɢ]** is big, ha
 For example:
 
 * **-cʰó** (root) = ⟪**[ᴇʀɢ]** has temperature **[ᴀᴄᴄ]**⟫
-* **-m◈(y◈)-** (extension) = ⟪[X] is in relation [2] with a great number relatively to the median among [EXT] (default: contextual).⟫
-* **-č◈(y◈)-** (extension) = ⟪[X] is in relation [2] with a small number relatively to the median among [EXT] (default: contextual).⟫
+* **-m◈(y◈)-** (extension) = ⟪[X] is in relation [2] with a great number relatively to the median among [ᴇxᴛ] (default: contextual).⟫
+* **-č◈(y◈)-** (extension) = ⟪[X] is in relation [2] with a small number relatively to the median among [ᴇxᴛ] (default: contextual).⟫
 
 
 ```
