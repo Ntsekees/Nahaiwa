@@ -143,9 +143,9 @@
 | █                                   | SI       | Set initiator                           |
 | █                                   | LI       | List initiator                          |
 | █                                   | SWQI     | Single-word quote initiator             |
-| pʰaı                                | MWQI     | Multi-word quote initiator              |
+| pʰáı                                | MWQI     | Multi-word quote initiator              |
 | █                                   | SWNI     | Single-word name initiator              |
-| ñeo                                 | MWNI     | Multi-word name initiator               |
-| qʼwaı                               | FQI      | Foreign quote initiator                 |
+| ñéo                                 | MWNI     | Multi-word name initiator               |
+| qʼwáı                               | FQI      | Foreign quote initiator                 |
 
 
