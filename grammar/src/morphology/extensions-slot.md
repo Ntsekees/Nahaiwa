@@ -23,11 +23,13 @@ Below is a list of the different types of extensional prefixes.
 No change in valency, does not select/remove any slot.  
 **Shapes:** Ⓒao / Ⓒaı / Ⓒea; ⒸⓋ if Ⓒ is a palatal or labialized consonant, or if Ⓒ is ⟪l⟫ or ⟪š⟫.
 
+In the lexicon definitions for this type, `[0]` stands for the information represented by the remaining of the stem following the type-0 extensional affixes. The number `0` indicates that no abstract slot is selected.
+
 #### Examples 
-  * **-ha-** (negation): ⟪it is not the case that ………⟫;
-  * **-kʰao-** (possibility): ⟪it is possible that ………⟫;
-  * **-šu-** (cessative aspect): ⟪……… ceases to be the case⟫;
-  * **-lu-** (past tense): ⟪……… was the case⟫.
+  * **-ha-** (negation): ⟪it is not the case that **[0]** is the case⟫;
+  * **-kʰao-** (possibility): ⟪it is possible that **[0]** is the case⟫;
+  * **-šu-** (cessative aspect): ⟪**[0]** ceases to be the case⟫;
+  * **-lu-** (past tense): ⟪**[0]** was the case⟫.
 
 
 ```
@@ -54,7 +56,7 @@ Same as type 0, but adds an Extensional case slot, represented by ⟪[ᴇxᴛ]�
 **Shapes:** Ⓒao / Ⓒaı / Ⓒea
 
 #### Examples  
-  * **-qao-** (causative): ⟪[ᴇxᴛ] agentively causes, makes ……… be the case⟫.
+  * **-qao-** (causative): ⟪[ᴇxᴛ] agentively causes, makes **[0]** be the case⟫.
 
 ```
 ┌───────────────
@@ -87,13 +89,16 @@ With monovalent bases, the vowel is ⟪**a**⟫ (Intransitive Inner Case).
 With bivalent bases, the vowel is either ⟪**ı**⟫ (Ergative) or ⟪**u**⟫ (Accusative).  
 **Shapes:** ⒸⓋ if Ⓒ is neither a palatal nor a labialized consonant, and is not ⟪l⟫ or ⟪š⟫.
 
+In the lexicon definitions for this type, `[1]` stands for the monovalent property represented by the remaining of the stem by abstracting away the target slot selected with the inner case vowel; `[X]` represent the new value for the selected slot.
+
 #### Examples:  
-  * **-n◈-**: ⟪[new slot] is me, who satisfies the property of [target slot]⟫;
-  * **-k◈-**: ⟪[new slot] is you, who satisfies the property of [target slot]⟫;
-  * **-ŋ◈-**: ⟪[new slot] wants to satisfy the property of [target slot]⟫;.  
-  * **-ƛʼ◈-**: ⟪[new slot] attempts to satisfy the property of [target slot]⟫;.  
-  * **-sc◈-**: ⟪[new slot] is all that has the property of [target slot]⟫;.  
-  
+  * **-n◈-**: ⟪[X] is me, who satisfies the property of [1]⟫;
+  * **-k◈-**: ⟪[X] is you, who satisfies the property of [1]⟫;
+  * **-ŋ◈-**: ⟪[X] wants to satisfy the property of [1]⟫;.  
+  * **-ƛʼ◈-**: ⟪[X] attempts to satisfy the property of [1]⟫;.  
+  * **-sc◈-**: ⟪[X] is all that has the property of [1]⟫;.  
+
+Thus, applying the extension ⟪ŋa⟫ (selecting the Intransitive case slot) to the stem ⟪**[NTR]** sleeps⟫, we obtain a new, modified stem meaning ⟪**[NTR]** wants to sleep⟫. 
   
 ```
 ┌───────────────
@@ -146,19 +151,22 @@ With bivalent bases, the vowel is either ⟪**ı**⟫ (Ergative) or ⟪**u**⟫ 
 Removes two slots and adds one (bound to the affixal case).  
 **Shapes:** ⒸⓋyⓋ, occasionally ⒸⓋ
 
+With this special type, there are two inner case vowels, separated by a ⟪-y-⟫ linker, each vowel selecting a different case slot. The first of the selected cases gets its meaning modified, while the second case slot is deleted.
+
+In the lexicon definitions, `[2]` represents the bivalent relation resulting from abstracting away the two slots selected with the two inner case vowels. `[X]` represents the new value for the first of the two selected vowels.
+
 #### Examples:
-  * **-kw◈y◈-**: ⟪[new slot] are in the reciprocal relationship of [removed pair of slots]⟫.   
+  * **-kw◈y◈-**: ⟪[X] are in the reciprocal relationship of [2]⟫.   
 
 ```
 ┌───────────────
 │ ◆ -kwıyu-cál
 │ ❖ -RCP:ERG:ACC-√see
-│ ➥ [ɴᴛʀ] are in reciprocal relationship [___ sees ___].
-│ ➥ [ɴᴛʀ] see each other.
+│ ➥ [ᴇʀɢ] are in reciprocal relationship [___ sees ___].
+│ ➥ [ᴇʀɢ] see each other.
 └─
 ```
 
-For certain type −−+ extensions, noted ⟪**−−+\***⟫, 
-the ⟪**-ıyu-**⟫ form can be shortened to simply ⟪**-ı-**⟫, for example, ⟪**-kwı-**⟫ is synonymous to ⟪**-kwıyu-**⟫.
+For certain type −−+ extensions, noted ⟪**−−+\***⟫, the ⟪**-ıyu-**⟫ form can be shortened to simply ⟪**-ı-**⟫, for example, ⟪**-kwı-**⟫ is synonymous to ⟪**-kwıyu-**⟫.
 
 
