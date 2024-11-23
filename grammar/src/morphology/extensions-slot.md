@@ -170,3 +170,33 @@ In the lexicon definitions, `[2]` represents the bivalent relation resulting fro
 For certain type −−+ extensions, noted ⟪**−−+\***⟫, the ⟪**-ıyu-**⟫ form can be shortened to simply ⟪**-ı-**⟫, for example, ⟪**-kwı-**⟫ is synonymous to ⟪**-kwıyu-**⟫.
 
 
+### Type −−++
+
+Same as Type `−−+`, but with the addition of an Extensional case slot, just like with Type `0+` extensions described earlier.
+
+#### Degree extensions
+
+In the type `−−++`, we mainly find extensions relating to amounts and degrees, meant to be used with objective amount measure roots such as ⟪**[ᴇʀɢ]** has size **[ᴀᴄᴄ]**⟫, ⟪**[ᴇʀɢ]** has temperature **[ᴀᴄᴄ]**⟫, and so on.
+
+Degree extensions allow to derive stems meaning e.g. ⟪**[ᴇʀɢ]** is big, has great size (relatively to the median among **[ᴇxᴛ]**)⟫, ⟪**[ᴇʀɢ]** is small, has small size (relatively to the median among **[ᴇxᴛ]**)⟫, and so on, from the aforementioned objective amount roots.
+
+For example:
+
+* **-cʰó** (root) = ⟪**[ᴇʀɢ]** has temperature **[ᴀᴄᴄ]**⟫
+* **-m◈(y◈)-** (extension) = ⟪[X] is in relation [2] with a great number relatively to the median among [EXT] (default: contextual).⟫
+* **-č◈(y◈)-** (extension) = ⟪[X] is in relation [2] with a small number relatively to the median among [EXT] (default: contextual).⟫
+
+
+```
+┌───────────────
+│ ◆ -mı(yu)-cʰó
+│ ❖ -to_great_degree:ERG:ACC-√has_temperature
+│ ➥ [ᴇʀɢ] is hot, has great temperature (relatively to [ᴇxᴛ]).
+└─
+┌───────────────
+│ ◆ -čı(yu)-cʰó
+│ ❖ -to_small_degree:ERG:ACC-√has_temperature
+│ ➥ [ᴇʀɢ] is cold, has low temperature (relatively to [ᴇxᴛ]).
+└─
+```
+
