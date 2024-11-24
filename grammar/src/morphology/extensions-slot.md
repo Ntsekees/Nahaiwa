@@ -185,18 +185,25 @@ For example:
 * **-cʰó** (root) = ⟪**[ᴇʀɢ]** has temperature **[ᴀᴄᴄ]**⟫
 * **-m◈(y◈)-** (extension) = ⟪**[X]** is in relation **[2]** with a great number relatively to the median among **[ᴇxᴛ]** (default: contextual).⟫
 * **-č◈(y◈)-** (extension) = ⟪**[X]** is in relation **[2]** with a small number relatively to the median among **[ᴇxᴛ]** (default: contextual).⟫
+* **-km◈(y◈)-** (extension) = ⟪**[X]** is, in comparison with **[ᴇxᴛ]** (default: contextual), in relation **[2]** with the greatest number.⟫
 
 
 ```
 ┌───────────────
 │ ◆ -mı(yu)-cʰó
 │ ❖ -to_great_degree:ERG:ACC-√has_temperature
-│ ➥ [ᴇʀɢ] is hot, has great temperature (relatively to [ᴇxᴛ]).
+│ ➥ [ᴇʀɢ] is warm/hot, has great temperature (relatively to [ᴇxᴛ]).
 └─
 ┌───────────────
 │ ◆ -čı(yu)-cʰó
 │ ❖ -to_small_degree:ERG:ACC-√has_temperature
 │ ➥ [ᴇʀɢ] is cold, has low temperature (relatively to [ᴇxᴛ]).
+└─
+┌───────────────
+│ ◆ -kmı(yu)-cʰó
+│ ❖ -to_greatest_degree:ERG:ACC-√has_temperature
+│ ➥ [ᴇʀɢ] is the warmest, the one with greatest temperature
+│   (relatively to [ᴇxᴛ]).
 └─
 ```
 
