@@ -60,6 +60,8 @@ IC ≝ Internal/inner case
 │              │ k  │ u   │ Accusative   │
 └──────────────┴────┴─────┴──────────────┘
 ```  
+
+Note: All of the outers case consonants above (as well as those for some other roles) can become ejectives (shown with a trailing `ʼ`) for marking the ‘Abstract Property’ Determinacy, see the chapter on Determinacy for details.
   
 Other core cases:  
 ```  
