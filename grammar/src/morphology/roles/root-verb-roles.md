@@ -8,7 +8,7 @@ The Illocution indicates whether the sentence is an assertion (a description of 
 Below is a list of the possible root verb prefixes. 
   
 ## Assertive illocution
-The assertive illocution expresses the speech act of informing the addressee of what the speaker deem as true or likely true in their mental model of the world. It does not imply (nor deny) a desire to convince the addressee.
+The assertive illocution expresses the speech act of informing the addressee of what the speaker deems as true or likely true in their mental model of the world. It does not imply (nor deny) a desire to convince the addressee.
 The prefix for the assertive illocution further declines for a variety of possible *evidentialities*, which indicate the mean by which the asserted information was obtained. The assertive illocution is the only one to sport evidentiality marking, thus the evidentiality prefixes all also indicate that the illocution is assertive. The list of evidentiality prefixes is shown below:
 
 | Form | Name | Gloss | Use |
