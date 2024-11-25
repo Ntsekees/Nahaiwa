@@ -149,7 +149,7 @@ Thus, applying the extension ⟪ŋa⟫ (selecting the Intransitive case slot) to
 ```
 
 ### Type −−+
-Removes two slots and adds one (bound to the affixal case).  
+Removes two slots and adds one (bound to the same case as the first of the two removed slots).  
 **Shapes:** ⒸⓋyⓋ, occasionally ⒸⓋ
 
 With this special type, there are two inner case vowels, separated by a ⟪-y-⟫ linker, each vowel selecting a different case slot. The first of the selected cases gets its meaning modified, while the second case slot is deleted.
