@@ -48,8 +48,8 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 
 ```
 ┌───────────────
-│ ◆ Aŋkaʎpanayá pʰakayá.
-│   A꞊ŋka-{ʎp-[a-na-yá] pʰ-[a-ka-yá]}.
+│ ◆ Aŋkaʎpanayá ŋakayá.
+│   A꞊ŋka-{ʎp-[a-na-yá] ŋ-[a-ka-yá]}.
 │ ❖ ASR.NFR꞊12:NTR-PUI-NTR-1:NTR-thing SEQ-NTR-2:NTR-thing
 │ ➥ We are me together with you.
 └─
