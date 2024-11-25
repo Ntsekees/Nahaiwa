@@ -9,7 +9,7 @@ The language exhibits ‘scopal polysynthesis’, i.e. words may contain an arbi
   
 Functors are closed classes, and they have a fairly small number of members.  
   
-The vocabulary is a priori, not derived or borrowed from that of existing natural or constructed languages.  
+The vocabulary is a priori, not derived or borrowed from that of existing natural or constructed languages, with the exception of concepts which are highly culture-specific, such as ethny names, specific customs and cultural practices, prepared foods…  
   
 The consonant inventory is large (36 consonants), and mainly inspired by the inventories of Athabascan languages, Aymaran and Quechuan languages.  
   
