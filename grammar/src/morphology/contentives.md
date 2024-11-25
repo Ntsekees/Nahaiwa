@@ -24,7 +24,7 @@ The morphology of the contentive is an agglutinative template of five slots, des
   
 Slot 1, 3 and 4 are optional; the other ones are mandatory.  
   
-However, the Role slot may further be subdivised into up to three further subslots when the word is inflected for certain syntactic functions (mainly functions others than that of main verb):  
+However, the Role slot may further be subdivised into up to five further subslots when the word is inflected for certain syntactic functions (mainly functions others than that of main verb):  
   
 ```  
 ┌────┬───────┬──────────────────┐  
