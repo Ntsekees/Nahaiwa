@@ -102,17 +102,17 @@ Examples with the bivalent root `-ñú`, “eat”, governing the Ergative and A
 ```
 ┌───────────────
 │ ◆ Unıθuñú.
-│ ❖ ASR.REC-1P:ERG-EXO:ACC-eat
+│ ❖ ASR.REC-1:ERG-EXO:ACC-eat
 │ ➥ (I recall that) I ate it.
 └─
 ┌───────────────
 │ ◆ Unıñú kacʰastíñu.
-│ ❖ ASR.REC-1P:ERG-eat  ACC-NTR-DEF:NTR-food
+│ ❖ ASR.REC-1:ERG-eat  ACC-NTR-DEF:NTR-food
 │ ➥ (I recall that) I ate the food.
 └─
 ┌───────────────
 │ ◆ Uñú cacʰakóyu kacʰastíñu.
-│ ❖ ASR.REC-1P:ERG-eat  ERG-NTR-DEF:NTR-dog
+│ ❖ ASR.REC-1:ERG-eat  ERG-NTR-DEF:NTR-dog
 │   ACC-NTR-DEF:NTR-food
 │ ➥ (I recall that) the dog ate the food.
 └─
