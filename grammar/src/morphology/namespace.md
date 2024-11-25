@@ -31,7 +31,7 @@ This prefix indicates that the word base represents an abstract number:
 ┌───────────────
 │ ◆ Aıwı̋ca cahıkáı pahıcı̋ kahırú.
 │ ❖ ASR꞊sum ERG-NTRᵢ-NUM-three DAT-NTRᵢ-NUM-one ACC-NTRᵢ-NUM-two
-│ ➥  1 + 1 = 3
+│ ➥  1 + 2 = 3
 └─
 ```
 
