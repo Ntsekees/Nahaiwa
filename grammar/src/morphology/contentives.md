@@ -1,6 +1,6 @@
 # Contentives
   
-The morphology of the contentive is an agglutinative template of four slots, described by the table below, starting with the first slot as the first row and ending with the last slot:  
+The morphology of the contentive is an agglutinative template of five slots, described by the table below, starting with the first slot as the first row and ending with the last slot:  
   
 ```  
 ┌───┬────────────┬────────────────┐  
