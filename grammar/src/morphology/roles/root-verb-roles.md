@@ -44,7 +44,7 @@ The prefix for the assertive illocution further declines for a variety of possib
 | **yao-** | Oblative | OBLT | Disinterested offers (*“I'm available for…”*, *“if you're interested…”*, *“if you want…”*). |
 
 
-The content interrogative illocutions go hand-in-hand with the ‘lambda’ pronominal extension ⟪-tʼ◈-⟫ (glossed as `LAM` or `LBD`), which plays here the role of the content interrogative pronoun “what”. There is do distinct pronoun for “who”, unlike English.
+The content interrogative illocutions go hand-in-hand with the ‘lambda’ pronominal extension ⟪-tʼ◈-⟫ (glossed as `LAM` or `LBD`), which plays here the role of the content interrogative pronoun “what”. There is no distinct pronoun for “who”, unlike English.
 
 Note: Whilst there's a prefix for granting permission, ⟪kʰaı-⟫, there's no dedicated one for prohibition, for that latter is expressed with negative imperatives instead:
 
