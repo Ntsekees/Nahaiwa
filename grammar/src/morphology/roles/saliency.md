@@ -36,7 +36,7 @@ When a clause does not contain an Elucidative Focus, the clause's verb plays the
 │   ⸨Presupposition: someone drew it.⸩
 └─
 ┌───────────────
-│ ◆ Mułčʼé tayakaıcʰuʎún.
+│ ◆ Mułčʼé tayakaılcʰuʎún.
 │ ❖ PQ꞊√ill  NTR-BG-NTR-2:EXT-same:ACC-√biological_parent
 │ ➥ Is your (biological) sibling ill?
 │   ⸨Presupposition: you have a (biological) sibling.⸩
