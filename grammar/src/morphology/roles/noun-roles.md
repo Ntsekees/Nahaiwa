@@ -138,7 +138,7 @@ Examples with the bivalent root `-ñú`, “eat”, governing the Ergative and A
 └─
 ```
 
-When a verb governs two or more nouns, their relative order of appearance has no significance on the utterance's meaning, it has no effect on information structure (topicality, focus…); the default order is the same as the one presented in the cases table above, following the hierarchy Ergative → Dative → Codative → Accusative. However they order can be freely changed to the convenience of the speaker, for example for moving a heavy complement, such as a subordinate clause, to the right edge of the clause for avoiding center embedding.  
+When a verb governs two or more nouns, their relative order of appearance has no significance on the utterance's meaning, it has no effect on information structure (topicality, focus…); the default order is the same as the one presented in the cases table above, following the hierarchy Ergative → Dative → Codative → Accusative. However their order can be freely changed to the convenience of the speaker, for example for moving a heavy complement, such as a subordinate clause, to the right edge of the clause for avoiding center embedding.  
 
 Below is an explanation of the functions of the other core cases mentioned in the second table above.  
   
