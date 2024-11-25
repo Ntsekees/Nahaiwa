@@ -1,4 +1,4 @@
-# Slot #4: Base
+# Slot #5: Base
   
 ## Morphophonological characteristics
 

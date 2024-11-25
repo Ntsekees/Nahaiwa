@@ -1,4 +1,4 @@
-# Namespace
+# Slot #4: Namespace
 
 The pre-root namespace slot determines the namespace for the following word base. Here are its possible values:
 
