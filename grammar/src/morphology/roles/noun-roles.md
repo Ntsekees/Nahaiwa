@@ -164,7 +164,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
 ┌───────────────
 │ ◆ Iθırí šunıʎáıwa.
 │ ❖ ASR.SEN-EXO:ERG-walk_on  EV-ACC-1:ERG-find_beautiful
-│ ➥ They walk in a manner that is beatiful to me.
+│ ➥ They walk in a manner that is beautiful to me.
 └─
 ┌───────────────
 │ ◆ Inıʎáıwa kïθırí.
