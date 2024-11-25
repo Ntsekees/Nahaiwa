@@ -41,12 +41,13 @@ In the lexicon definitions for this type, `[0]` stands for the information repre
 │ ➥ it ceases to be the case that [[ɴᴛʀ] is asleep].
 │ 
 │ ◆ -ha-[šu-łı̋]
-│ ➥ [it is not the case that [it ceases to be the case that [[ɴᴛʀ] is asleep]]].
+│ ➥ [it is not the case that [
+│       it ceases to be the case that [[ɴᴛʀ] is asleep]]].
 │ ➥ [ɴᴛʀ] doesn't cease to sleep.
 │ 
 │ ◆ -kʰao-[ha-[šu-łı̋]]
 │ ➥ [it is possible that [it is not the case that [
-│      it ceases to be the case that [[ɴᴛʀ] is asleep]]]].
+│       it ceases to be the case that [[ɴᴛʀ] is asleep]]]].
 │ ➥ maybe [ɴᴛʀ] doesn't cease to sleep.
 └─
 ```
