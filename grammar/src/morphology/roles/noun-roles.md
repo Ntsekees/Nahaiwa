@@ -207,7 +207,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
 └─  
 ```  
   
-• The Instrumental Case marks a noun referring to an instrument used by the referent of the most animate slot of the verb (e.g. the ⟪c-⟫ Case slot of binary predicates, the ⟪p-⟫ case slot of ternary predicates…) for achieving the action described by the current clause.  
+• The Instrumental Case marks a noun referring to an instrument used by the referent of the most animate slot of the verb (e.g. the ⟪c-⟫ Ergative Case participant of bivalent and trivalent predicates) for achieving the action described by the current clause.  
 
 ```  
 ┌───────────────  
