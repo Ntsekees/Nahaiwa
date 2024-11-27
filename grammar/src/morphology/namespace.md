@@ -21,7 +21,7 @@ The sound-based proper name prefix ⟪ña-⟫ introduces a base that refers by n
 └─
 ```
 
-Related to the ⟪ña⟫ namespace, there also exists the extensional prefix ⟪q◈⟫ for concept-based name references, for example: ⟪-qa-cʼáo⟫, “[NTR] is the one named after the concept of being snow”. Generally, Nahaıwa draws a clear-cut distinction beteen sound-based names (which don't have an inherent meaning in Nahaıwa) and meaning-based names, based on semantic concepts.
+Related to the ⟪ña⟫ namespace, there also exists the extensional prefix ⟪q◈⟫ for concept-based name references, for example: ⟪-qa-cʼáo⟫, “[NTR] is the one named after the concept of being snow”. Generally, Nahaıwa draws a clear-cut distinction between sound-based names (which don't have an inherent meaning in Nahaıwa) and meaning-based names, based on semantic concepts.
 
 ## hı-: numeric expressions
 
