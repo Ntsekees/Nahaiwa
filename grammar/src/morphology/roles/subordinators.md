@@ -24,6 +24,7 @@ Content clauses, on the other hand, do not involve any resumptive pronoun, and t
 Template clauses are similar to content clauses but contain ‘blanks’, parts that have been abstracted away, similarly to blanks in a form, ready to be filled in. A template clause defines a predicate, and each ‘blank’ corresponds to one of the argument slots of the predicate.  
 Each such blank or slot is represented by a so-called ‘lambda pronoun’ (named after lambda calculus).  
 There is one vocalic morpheme for each predicate arity, and each arity has its own set of lambda pronouns. Additionally, there are two different morphemes for unary predicates, they only differ in having a different lambda pronoun.  
+Like other Nahaıwa pronominals, the lambda pronouns are extensional prefixes, with a variable vowel representing an Inner Case, represented as ⟪◈⟫ below:
   
 ```  
 ┌────────────────────────────┬─────┬────────────────────┐  
@@ -35,10 +36,9 @@ There is one vocalic morpheme for each predicate arity, and each arity has its o
 │ Quaternary Template Clause │ oʼo │ cʼ◈, pʼ◈, čʼ◈, kʼ◈ │  
 └────────────────────────────┴─────┴────────────────────┘  
 ```  
-  
-The lambda pronouns are shown in their contentive root form, with equivalent extensional prefix forms in the right-hand square (with ⟪◈⟫ standing for an Inner Case vocalic affix); only the unary and binary templates have extensional prefix forms for their lambda pronouns, as they are the most frequent in usage.  
-It is noteworthy that the consonant of the lambda pronouns is the same as that of corresponding outer case's consonantal morpheme, and the vowel is likewise the same as the vowel of the corresponding inner case.  
-  
+
+It is noteworthy that the consonant of the lambda pronominals is the same as that of corresponding outer case's consonantal morpheme, and the vowel is likewise the same as the vowel of the corresponding inner case.
+
 ```  
   ┌───────────────  
   │ ◆ Aŋkıpθú koacʼıtʰú kaoθıkʼutwá.  
