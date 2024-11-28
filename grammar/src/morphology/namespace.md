@@ -13,13 +13,10 @@ The pre-root namespace slot determines the namespace for the following word base
 
 The sound-based proper name prefix ⟪ña-⟫ introduces a base that refers by name to an individual, be it a person, a place or an event. Its use is discouraged when the context of utterance is insufficient for the addressee to resolve the identity of the named one. Foreign names are rendered phonetically using Nahaıwa's phonotactics and orthography.
 
-```
-┌───────────────
-│ ◆ Aınayá tañahwán.
-│ ❖ ASR꞊1:NTR-thing NTR-NTRᵢ-NAME-Juan
-│ ➥  Juan is me.
-└─
-```
+* **Aınayá tañahwán.**
+  `aı꞊ na-   yá    t-  a-  ña-  hwán`
+  `ASR꞊1:NTR-thing NTR-NTRᵢ-NAME-Juan`
+  *Juan is me.*
 
 Related to the ⟪ña⟫ namespace, there also exists the extensional prefix ⟪q◈⟫ for concept-based name references, for example: ⟪-qa-cʼáo⟫, “[NTR] is the one named after the concept of being snow”. Generally, Nahaıwa draws a clear-cut distinction between sound-based names (which don't have an inherent meaning in Nahaıwa) and meaning-based names, based on semantic concepts.
 
@@ -27,11 +24,8 @@ Related to the ⟪ña⟫ namespace, there also exists the extensional prefix ⟪
 
 This prefix indicates that the word base represents an abstract number:
 
-```
-┌───────────────
-│ ◆ Aıwı̋ca cahıkáı pahıcı̋ kahırú.
-│ ❖ ASR꞊sum ERG-NTRᵢ-NUM-three DAT-NTRᵢ-NUM-one ACC-NTRᵢ-NUM-two
-│ ➥  1 + 2 = 3
-└─
-```
+* **Aıwı̋ca cahıkáı pahıcı̋ kahırú.**
+  `aı꞊ wı̋ca c-  a-  hı- káı   p-  a-  hı- cı̋  k-  a-  hı-  rú`
+  `ASR꞊sum  ERG-NTRᵢ-NUM-three DAT-NTRᵢ-NUM-one ACC-NTRᵢ-NUM-two`
+  *1 + 2 = 3*
 
