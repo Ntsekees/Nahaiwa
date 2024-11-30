@@ -17,7 +17,7 @@ However, since word bases are always lexicalized, i.e. semantically opaque, the 
 
 ## Semantics
   
-Word bases have verb-like meanings, in that each base is assigned a valency, which dictates the set of core noun cases it can govern.
+Word bases have verb-like meanings, in that each base is assigned a valency (or “arity”), which dictates the set of core noun cases it can govern.
 
 The only intrinsic syntactic properties of word bases (other than those of function words) are their valency, and the types and grammatical cases associated with each of their argument slots.
 There are no lexically coded distinction between “verb”, “noun”, “adjective” etc., which are syntactic properties that are determined by the inflection of the whole word, specifically via the [Role Slot](roles/noun-roles.md).
