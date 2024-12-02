@@ -211,3 +211,8 @@ Below is an explanation of the functions of the other core cases mentioned in th
   
 • The Spatiotemporal Locative Case marks nouns referring to a volume of spacetime where the event described is taking place. For it to apply, the event and the target spacetime area must simply overlap, the event needs not be entirely encompassed by that area.  
   
+  * **Iłı̋ł sakoŋqʼaqʰáƛʰï.**  
+  `ı=      łı̋ł     s-  a-   ko-   ŋqʼa-     qʰáƛʰï`  
+  `ASR.SEN꞊is_mud  LOC-NTRᵢ-2:EXT-with_whole-is_fur`  
+  *(I see that) there's mud on your fur.*  
+  
