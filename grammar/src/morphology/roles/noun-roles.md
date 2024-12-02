@@ -189,7 +189,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
 └───────────────┴─────┘  
 ```  
  
-• The Pendent Case introduces a noun phrase without stating any relation between it and the current clause, and binds it to the Pendent pronoun (whose extensional form is ⟪-ƛ◈-⟫, with ⟪◈⟫ representing an Inner Case vowel). This allows the introduced noun phrase (now bound to the pendent pronoun) to be used latter, possibly in a subordinate clause not yet opened. This is especially useful for expressing quantification binding a variable that is not used in the same clause as the one in which the quantifier appears, but rather in a more deeply nested clause:  
+* The Pendent Case introduces a noun phrase without stating any relation between it and the current clause, and binds it to the Pendent pronoun (whose extensional form is ⟪-ƛ◈-⟫, with ⟪◈⟫ representing an Inner Case vowel). This allows the introduced noun phrase (now bound to the pendent pronoun) to be used latter, possibly in a subordinate clause not yet opened. This is especially useful for expressing quantification binding a variable that is not used in the same clause as the one in which the quantifier appears, but rather in a more deeply nested clause:  
 
   * **Anıtʰú ƛïyaltaθayá kaohakʰaoƛıkepákı.**  
   `a=      nı-   tʰú        ƛ-  ïy-a-   lta-      θa-     yá`  
@@ -200,7 +200,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
   ———  
   Here, the affix ⟪**-ïy-**⟫ is the *Nonexistential Determinacy*. See [the Determinacy section](determinacy.md) for details.
   
-• The Instrumental Case marks a noun referring to an instrument used by the referent of the most animate slot of the verb (e.g. the ⟪c-⟫ Ergative Case participant of bivalent and trivalent predicates) for achieving the action described by the current clause.  
+* The Instrumental Case marks a noun referring to an instrument used by the referent of the most animate slot of the verb (e.g. the ⟪c-⟫ Ergative Case participant of bivalent and trivalent predicates) for achieving the action described by the current clause.  
 
   * **Iθıwétakı kʼakóyu ƛʰaƛʰísı.**  
   `ı=      θı-     wétakı           kʼ-      a-   kóyu`  
@@ -209,7 +209,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
   `INS-NTRᵢ-is_a_pencil`  
   *They draw (a representation of) dogness, using a pencil.*  
   
-• The Spatiotemporal Locative Case marks nouns referring to a volume of spacetime where the event described is taking place. For it to apply, the event and the target spacetime area must simply overlap, the event needs not be entirely encompassed by that area.  
+* The Spatiotemporal Locative Case marks nouns referring to a volume of spacetime where the event described is taking place. For it to apply, the event and the target spacetime area must simply overlap, the event needs not be entirely encompassed by that area.  
   
   * **Iłı̋ł sakoŋqʼaqʰáƛʰï.**  
   `ı=      łı̋ł     s-  a-   ko-   ŋqʼa-     qʰáƛʰï`  
