@@ -196,7 +196,9 @@ Below is an explanation of the functions of the other core cases mentioned in th
   `ASR.NFR=1:ERG-deem_true  PND-∄- NTRᵢ-among:NTR-EXO:NTR-thing`  
   `k-  ao= ha- kʰao- ƛı-        ke-   pákı`  
   `ACC-DCS-NEG-POSB-PND_PRO:ERG-2:DAT-help`  
-  *I expect, for none of them, that it's not possible that he/she help you.*
+  *I expect, for none of them, that it's not possible that he/she help you.*  
+  ———  
+  Here, the affix ⟪**-ïy-**⟫ is the *Nonexistential Determinacy*. See [the Determinacy section](determinacy.md) for details.
   
 • The Instrumental Case marks a noun referring to an instrument used by the referent of the most animate slot of the verb (e.g. the ⟪c-⟫ Ergative Case participant of bivalent and trivalent predicates) for achieving the action described by the current clause.  
 
