@@ -148,7 +148,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
   `ASR.REC=1:EXT-CAUS-eat ACC-NTRᵢ-DEF:NTR-dog`  
   *(I recall that) I made the dog eat (something).*
 
-  * **Uqaoñú qıcʰıʎáoko cacʰakóyu kacʰastíñu.**
+  * **Uqaoñú qıcʰıʎáoko cacʰakóyu kacʰastíñu.**  
   `U=      qao- ñú  q-  ı-   cʰı-    ʎáoko`  
   `ASR.REC=CAUS-eat EXT-ERGᵢ-DEF:ERG-take_care`  
   `c-  a-   cʰa-    kóyu k-   a-  cʰa-    stíñu`  
