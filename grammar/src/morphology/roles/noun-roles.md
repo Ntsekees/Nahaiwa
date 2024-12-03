@@ -81,17 +81,17 @@ Below are some examples of internal and external case uses with monovalent roots
 
 * **Iθalı̋.**  
   `ı=      θa-     lı̋`  
-  `ASR.SEN=EXO:NTR-asleep`  
+  `ASR;SEN=EXO:NTR-asleep`  
   *It is asleep.*
 
 * **Ilı̋ taθayá.**  
   `ı=      lı     t-  a-   θa-     yá`  
-  `ASR.SEN=asleep NTR-NTRᵢ-EXO:NTR-thing`   
+  `ASR;SEN=asleep NTR-NTRᵢ-EXO:NTR-thing`   
   *It is asleep.* 
 
 * **Ilı̋ tacʰakóyu.**  
   `ı=      lı     t-  a-   cʰa-    kóyu`  
-  `ASR.SEN=asleep NTR-NTRᵢ-DEF:NTR-dog`  
+  `ASR;SEN=asleep NTR-NTRᵢ-DEF:NTR-dog`  
   *The dog is asleep.*
 
 The root ⟪-lı̋⟫, meaning ⟪[NTR] is asleep⟫, is monovalent, and therefore governs only one noun case, the Intransitive case (`NTR`), with consonantal outer case form ⟪t-⟫, and vocalic inner case form ⟪-a-⟫.  
@@ -101,39 +101,39 @@ In the second example, with the exact same meaning as the first, “it” is exp
 Examples with the bivalent root `-ñú`, “eat”, governing the Ergative and Accusative cases:
 * **Unıθuñú.**  
   `u=      nı-   θu-     ñú`  
-  `ASR.REC=1:ERG-EXO:ACC-eat`  
+  `ASR;REC=1:ERG-EXO:ACC-eat`  
   *(I recall that) I ate it.*
   
 * **Unıñú kacʰastíñu.**  
   `U=      nı-   ñú  k-  a-   cʰa-    stíñu`  
-  `ASR.REC=1:ERG-eat ACC-NTRᵢ-DEF:NTR-food`  
+  `ASR;REC=1:ERG-eat ACC-NTRᵢ-DEF:NTR-food`  
   *(I recall that) I ate the food.*
   
 * **Uñú cacʰakóyu kacʰastíñu.**  
   `U=      ñú  c-  a-   cʰa-    kóyu`  
-  `ASR.REC=eat ERG-NTRᵢ-DEF:NTR-dog`  
+  `ASR;REC=eat ERG-NTRᵢ-DEF:NTR-dog`  
   `k-  a-   cʰa-    stíñu`  
   `ACC-NTRᵢ-DEF:NTR-food`  
   *(I recall that) the dog ate the food.*
   
 * **Uñú kacʰastíñu.**  
   `U=      ñú  k-  a-   cʰa-    stíñu`  
-  `ASR.REC=eat ACC-NTRᵢ-DEF:NTR-food`  
+  `ASR;REC=eat ACC-NTRᵢ-DEF:NTR-food`  
   *(I recall that) the food was eaten / something ate the food.*
   
 * **Uñú cacʰakóyu.**  
   `U=      ñú  c-  a-   cʰa-    kóyu`  
-  `ASR.REC=eat ERG-NTRᵢ-DEF:NTR-dog`  
+  `ASR;REC=eat ERG-NTRᵢ-DEF:NTR-dog`  
   *(I recall that) the dog ate (something).*
   
 * **Ukóyu tıcʰıñú.**  
   `U=      kóyu t-  ı-   cʰı-    ñú`  
-  `ASR.REC=dog  NTR-ERGᵢ-DEF:ERG-eat`  
+  `ASR;REC=dog  NTR-ERGᵢ-DEF:ERG-eat`  
   *(I recall that) the eater was a dog.*
   
 * **Ukóyu tucʰuñú.**  
   `U=      kóyu t-  u-   cʰu-    ñú`  
-  `ASR.REC=dog  NTR-ACCᵢ-DEF:ACC-eat`  
+  `ASR;REC=dog  NTR-ACCᵢ-DEF:ACC-eat`  
   *(I recall that) the eaten thing was a dog.*
 
 
@@ -145,12 +145,12 @@ Below is an explanation of the functions of the other core cases mentioned in th
   
   * **Unoqaoñú cacʰakóyu.**  
   `u=      no-   qao- ñú  c-  a-   cʰa-    kóyu`  
-  `ASR.REC=1:EXT-CAUS-eat ACC-NTRᵢ-DEF:NTR-dog`  
+  `ASR;REC=1:EXT-CAUS-eat ACC-NTRᵢ-DEF:NTR-dog`  
   *(I recall that) I made the dog eat (something).*
 
   * **Uqaoñú qıcʰıʎáoko cacʰakóyu kacʰastíñu.**  
   `U=      qao- ñú  q-  ı-   cʰı-    ʎáoko`  
-  `ASR.REC=CAUS-eat EXT-ERGᵢ-DEF:ERG-take_care`  
+  `ASR;REC=CAUS-eat EXT-ERGᵢ-DEF:ERG-take_care`  
   `c-  a-   cʰa-    kóyu k-   a-  cʰa-    stíñu`  
   `ERG-NTRᵢ-DEF:NTR-dog  ACC-NTRᵢ-DEF:NTR-food`  
   *(I recall that) the caretaker made the dog eat the food.*
@@ -160,12 +160,12 @@ Below is an explanation of the functions of the other core cases mentioned in th
 
   * **Iθırí šunıʎáıwa.**  
   `ı=      θı-     rí      š- u-   nı-   ʎáıwa`  
-  `ASR.SEN=EXO:ERG-walk_on EV-ACCᵢ-1:ERG-find_beautiful`  
+  `ASR;SEN=EXO:ERG-walk_on EV-ACCᵢ-1:ERG-find_beautiful`  
   *They walk in a manner that is beautiful to me.*
 
   * **Inıʎáıwa kïθırí.**  
   `ı=      nı-   ʎáıwa          k-  ï-  θı-     rí`  
-  `ASR.SEN-1:ERG-find_beautiful ACC-EVᵢ-EXO:ERG-walk_on`  
+  `ASR;SEN-1:ERG-find_beautiful ACC-EVᵢ-EXO:ERG-walk_on`  
   *I find beautiful their walking.*
 
 
@@ -173,7 +173,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
 
   * **Uršı̋ łaƛaokwáı.**  
   `u=      ršı̋  ł-  a-   ƛao-       kwáı`  
-  `ASR.REC=rain PRP-NTRᵢ-repeatedly-true`  
+  `ASR;REC=rain PRP-NTRᵢ-repeatedly-true`  
   *(I remember that) it rained repeatedly.*
 
 * The Situative Case marks nouns referring to a world or a volume of spacetime within which the proposition expressed by the verb is true. For it to apply, the event and the target spacetime area must be entirely encompassed by the referent of the marked noun.  
@@ -192,8 +192,10 @@ Below is an explanation of the functions of the other core cases mentioned in th
 * The Pendent Case introduces a noun phrase without stating any relation between it and the current clause, and binds it to the Pendent pronoun (whose extensional form is ⟪-ƛ◈-⟫, with ⟪◈⟫ representing an Inner Case vowel). This allows the introduced noun phrase (now bound to the pendent pronoun) to be used latter, possibly in a subordinate clause not yet opened. This is especially useful for expressing quantification binding a variable that is not used in the same clause as the one in which the quantifier appears, but rather in a more deeply nested clause:  
 
   * **Anıtʰú ƛïyaltaθayá kaohakʰaoƛıkepákı.**  
-  `a=      nı-   tʰú        ƛ-  ïy-a-   lta-      θa-     yá`  
-  `ASR.NFR=1:ERG-deem_true  PND-∄- NTRᵢ-among:NTR-EXO:NTR-thing`  
+  `a=      nı-   tʰú      `  
+  `ASR;NFR=1:ERG-deem_true`  
+  `ƛ-  ïy-a-   lta-      θa-     yá`  
+  `PND-∄- NTRᵢ-among:NTR-EXO:NTR-thing`  
   `k-  ao= ha- kʰao- ƛı-        ke-   pákı`  
   `ACC-DCS-NEG-POSB-PND_PRO:ERG-2:DAT-help`  
   *I expect, for none of them, that it's not possible that he/she help you.*  
@@ -204,7 +206,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
 
   * **Iθıwétakı kʼakóyu ƛʰaƛʰísı.**  
   `ı=      θı-     wétakı           kʼ-      a-   kóyu`  
-  `ASR.SEN꞊EXO:ERG-draws_depiction  ACC;PROP-NTRᵢ-is_a_dog`  
+  `ASR;SEN꞊EXO:ERG-draws_depiction  ACC;PROP-NTRᵢ-is_a_dog`  
   `ƛʰ- a-   ƛʰísı`  
   `INS-NTRᵢ-is_a_pencil`  
   *They draw (a representation of) dogness, using a pencil.*  
@@ -212,7 +214,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
 * The Spatiotemporal Locative Case marks nouns referring to a volume of spacetime where the event described is taking place. For it to apply, the event and the target spacetime area must simply overlap, the event needs not be entirely encompassed by that area.  
   
   * **Iłı̋ł sakoŋqʼaqʰáƛʰï.**  
-  `ı=      łı̋ł     s-  a-   ko-   ŋqʼa-     qʰáƛʰï`  
-  `ASR.SEN꞊is_mud  LOC-NTRᵢ-2:EXT-with_whole-is_fur`  
+  `ı=      łı̋ł     s-  a-   ko-   ŋqʼa-   qʰáƛʰï`  
+  `ASR.SEN꞊is_mud  LOC-NTRᵢ-2:EXT-part_of-is_fur`  
   *(I see that) there's mud on your fur.*  
   
