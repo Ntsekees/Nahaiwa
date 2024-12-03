@@ -62,7 +62,7 @@ However, unlike simple nouns, nominal relative clauses allow a greater complexit
 
 Like simple nouns, the consonantal Outer Case or Role of relative clauses shows the role it plays as a whole within the outside clause:
 
-* **Oθınepá kaıraontʰetupá caqaséwa.**  
+* **Oθınepá kaıraoncʰetupá caqaséwa.**  
   `o=      θı-     ne-   pá`  
   `ASR;RPT=EXO:ERG-1:DAT-say`  
   `k-  aı= rao-ncʰe-       tu-     pá`  
