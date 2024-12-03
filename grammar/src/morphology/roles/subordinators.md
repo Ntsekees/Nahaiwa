@@ -121,7 +121,7 @@ It is noteworthy that the consonant of the lambda pronominals is the ejective ve
 
 Ternary and Quaternary template clauses are rare in usage. Unary (monovalent) templates define a monovalent predicate, with a single argument. These are also called *‘properties’*. Binary (bivalent) templates define bivalent predicates, with two arguments; these are also called *‘bivalent relations’*, or *‘binary relations’* (relating the two arguments together).
 
-Most of the time, template clauses are used as arguments for so-called *higher-order predicates*, i.e. predicates which take other abstract predicates as argument. In the dictionary, when an argument slot expects one of these, the words “property” and “relation” are used in the definition, depending on the required valency.
+Most of the time, template clauses are used as arguments for so-called *higher-order predicates*, i.e. predicates which take other abstract predicates as arguments. In the dictionary, when an argument slot expects one of these, the words “property” and “relation” are used in the definition, depending on the required valency.
 
 * **Inıkeyéwa koıtʼınepákı.**  
   `ı=      nı-   ke-   yéwa`  
