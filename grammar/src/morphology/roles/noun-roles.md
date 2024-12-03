@@ -85,12 +85,12 @@ Below are some examples of internal and external case uses with monovalent roots
   *It is asleep.*
 
 * **Ilı̋ taθayá.**  
-  `ı=      lı     t-  a-   θa-     yá`  
+  `ı=      lı̋     t-  a-   θa-     yá`  
   `ASR;SEN=asleep NTR-NTRᵢ-EXO:NTR-thing`   
   *It is asleep.* 
 
 * **Ilı̋ tacʰakóyu.**  
-  `ı=      lı     t-  a-   cʰa-    kóyu`  
+  `ı=      lı̋     t-  a-   cʰa-    kóyu`  
   `ASR;SEN=asleep NTR-NTRᵢ-DEF:NTR-dog`  
   *The dog is asleep.*
 
