@@ -104,10 +104,7 @@ Another kind of content clause is the *‘polarity clause’*, opened by the sub
 
 ## Template clauses
 
-Template clauses are similar to content clauses but contain ‘blanks’, parts that have been abstracted away, similarly to blanks in a form, ready to be filled in. A template clause defines a predicate, and each ‘blank’ corresponds to one of the argument slots of the predicate.  
-Each such blank or slot is represented by a so-called ‘lambda pronoun’ (named after lambda calculus).  
-There is one vocalic morpheme for each predicate arity, and each arity has its own set of lambda pronouns. Additionally, there are two different morphemes for unary predicates, they only differ in having a different lambda pronoun.  
-Like other Nahaıwa pronominals, the lambda pronouns are extensional prefixes, with a variable vowel representing an Inner Case, represented as ⟪◈⟫ below:
+Template clauses are similar to content clauses but contain ‘blanks’, parts that have been abstracted away, similarly to blanks in a form, ready to be filled in. A template clause defines a predicate, and each ‘blank’ corresponds to one of the argument slots of the predicate. Each such blank or slot is represented by a so-called *‘lambda pronoun’* (named after lambda calculus). There is one vocalic morpheme for each predicate valency, and each valency has its own set of lambda pronouns. Like other Nahaıwa pronominals, the lambda pronouns are extensional prefixes, with a variable vowel representing an Inner Case, represented as ⟪◈⟫ in the table below:
   
 ```  
 ┌────────────────────────────┬─────┬────────────────────┐  
@@ -122,12 +119,18 @@ Like other Nahaıwa pronominals, the lambda pronouns are extensional prefixes, w
 
 It is noteworthy that the consonant of the lambda pronominals is the ejective version fo the consonant of corresponding outer case's consonantal morpheme.
 
+Ternary and Quaternary template clauses are rare in usage. Unary (monovalent) templates define a monovalent predicate, with a single argument. These are also called *‘properties’*. Binary (bivalent) templates define bivalent predicates, with two arguments; these are also called *‘bivalent relations’*, or *‘binary relations’* (relating the two arguments together).
+
+Most of the time, template clauses are used as arguments for so-called *higher-order predicates*, i.e. predicates which take other abstract predicates as argument. In the dictionary, when an argument slot expects one of these, the words “property” and “relation” are used in the definition, depending on the required valency.
+
 * **Inıkeyéwa koıtʼınepákı.**  
   `ı=      nı-   ke-   yéwa`  
   `ASR;SEN=1:ERG-2:DAT-grateful`  
   `k-  oı= tʼı-        ne-   pákı`  
   `ACC-UTC=NTR_LAM:ERG-1:DAT-help`  
-  *I am grateful to you for having helped me.*
+  *I am grateful to you for having helped me.*  
+  ————  
+  ⸨Here, `NTR_LAM` represents the Intransitive Case Lambda pronominal **-tʼ◈-**, governed by the unary template subordinator **-oı-**.⸩
 
 * **Aŋkıpθú koacʼıtʰú kaoθıkʼutwá.**  
   `a=      ŋkı-   pθú   `  
@@ -136,5 +139,7 @@ It is noteworthy that the consonant of the lambda pronominals is the ejective ve
   `ACC-BTC=ERG_LAM:ERG-deem_true`  
   `k-  ao= θı-     kʼu-        twá`  
   `ACC-DCS꞊EXO:ERG-ACC_LAM:ACC-intend`  
-  *We (me+you) differ in what we think he intends to do.*
+  *We (me+you) differ in what we think he intends to do.*  
+  ————  
+  ⸨Here, `ERG_LAM` and `ACC_LAM` respectively represent the Ergative Case Lambda pronominal **-cʼ◈-** and the Accusative Case Lambda **-kʼ◈-**, both governed by the binary template subordinator **-oa-**.⸩
 
