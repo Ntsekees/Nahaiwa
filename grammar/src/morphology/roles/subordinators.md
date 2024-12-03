@@ -120,7 +120,7 @@ Like other Nahaıwa pronominals, the lambda pronouns are extensional prefixes, w
 └────────────────────────────┴─────┴────────────────────┘  
 ```  
 
-It is noteworthy that the consonant of the lambda pronominals is the same as that of corresponding outer case's consonantal morpheme, and the vowel is likewise the same as the vowel of the corresponding inner case.
+It is noteworthy that the consonant of the lambda pronominals is the ejective version fo the consonant of corresponding outer case's consonantal morpheme.
 
 * **Inıkeyéwa koıtʼınepákı.**  
   `ı=      nı-   ke-   yéwa`  
