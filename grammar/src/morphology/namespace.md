@@ -25,7 +25,7 @@ Related to the ⟪ña⟫ namespace, there also exists the extensional prefix ⟪
 This prefix indicates that the word base represents an abstract number:
 
 * **Aıwı̋ca cahıkáı pahıcı̋ kahırú.**  
-  `aı꞊ wı̋ca c-  a-  hı- káı   p-  a-   hı- cı̋  k-  a-  hı-  rú`  
+  `aı꞊ wı̋ca c-  a-  hı- káı   p-  a-   hı- cı̋  k-  a-   hı- rú`  
   `ASR꞊sum  ERG-NTRᵢ-NUM-three DAT-NTRᵢ-NUM-one ACC-NTRᵢ-NUM-two`  
   *1 + 2 = 3*
 
