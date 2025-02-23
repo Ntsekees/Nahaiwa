@@ -1,0 +1,1515 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Nahaıwa grammar</title>
+        <meta name="robots" content="noindex" />
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="introduction.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="phonology.html"><strong aria-hidden="true">2.</strong> Phonology</a></li><li class="chapter-item expanded "><a href="phonotactics.html"><strong aria-hidden="true">3.</strong> Phonotactics</a></li><li class="chapter-item expanded "><a href="morphology.html"><strong aria-hidden="true">4.</strong> Morphology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="morphology/contentives.html"><strong aria-hidden="true">4.1.</strong> Contentives</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="morphology/base-slot.html"><strong aria-hidden="true">4.1.1.</strong> Slot #5: Base</a></li><li class="chapter-item expanded "><a href="morphology/namespace.html"><strong aria-hidden="true">4.1.2.</strong> Slot #4: Namespace</a></li><li class="chapter-item expanded "><a href="morphology/extensions-slot.html"><strong aria-hidden="true">4.1.3.</strong> Slot #3: Extensions</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="morphology/proforms.html"><strong aria-hidden="true">4.1.3.1.</strong> Proforms</a></li></ol></li><li class="chapter-item expanded "><a href="morphology/role-slot.html"><strong aria-hidden="true">4.1.4.</strong> Slot #2: Role</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="morphology/roles/root-verb-roles.html"><strong aria-hidden="true">4.1.4.1.</strong> Root verb roles</a></li><li class="chapter-item expanded "><a href="morphology/roles/noun-roles.html"><strong aria-hidden="true">4.1.4.2.</strong> Noun roles</a></li><li class="chapter-item expanded "><a href="morphology/roles/subordinators.html"><strong aria-hidden="true">4.1.4.3.</strong> Subordinators</a></li><li class="chapter-item expanded "><a href="morphology/roles/saliency.html"><strong aria-hidden="true">4.1.4.4.</strong> Saliency</a></li><li class="chapter-item expanded "><a href="morphology/roles/determinacy.html"><strong aria-hidden="true">4.1.4.5.</strong> Determinacy</a></li><li class="chapter-item expanded "><a href="morphology/roles/other-case-like-roles.html"><strong aria-hidden="true">4.1.4.6.</strong> Other case-like roles</a></li><li class="chapter-item expanded "><a href="morphology/roles/other-roles.html"><strong aria-hidden="true">4.1.4.7.</strong> Other roles</a></li></ol></li><li class="chapter-item expanded "><a href="morphology/anchoring-slot.html"><strong aria-hidden="true">4.1.5.</strong> Slot #1: Anchoring</a></li></ol></li><li class="chapter-item expanded "><a href="morphology/function-words.html"><strong aria-hidden="true">4.2.</strong> Function words</a></li></ol></li><li class="chapter-item expanded "><a href="syntax.html"><strong aria-hidden="true">5.</strong> Syntax</a></li><li class="chapter-item expanded "><a href="grammemes.html"><strong aria-hidden="true">6.</strong> Grammemes summary</a></li><li class="chapter-item expanded "><a href="lexicon.html"><strong aria-hidden="true">7.</strong> Lexicon</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Nahaıwa grammar</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="introduction"><a class="header" href="#introduction">Introduction</a></h1>
+<p>Nahaıwa, also known as Haıwa or NLL1 (acronym for ⟪Ntsékees' Logical Language #1⟫) is a prototype of a constructed monosemic language, i.e. a loglang: syntactic ambiguities are disallowed, as well as word polysemy and homonymy not resolvable through syntax alone, as well as opaque idiomatic expressions not explicitly marked as such. It is also an artlang, inasmuch as aesthetics (in the eyes of the author) is taken into account.<br />
+It is currently in a developmental stage of prototype, and the description given here may be obsoleted by future changes to the language. The development of the language started in mid 2016.<br />
+The language exhibits ‘scopal polysynthesis’, i.e. words may contain an arbitrary number of recursively stacked affixes —in this case, prefixes— with transparent meanings, called “extensional prefixes”. Its morphology is purely prefixal, of agglutinative nature with some portmanteau morphemes. There are three main lexically-assigned categories of lexical units:<br />
+• contentives (which may assume the syntactic roles of finite verb, relativized verb, noun, adjective, adverb, conjunction or quantifier, depending on the way they are inflected);<br />
+• inflecting functors / functional words (these have exactly the same morphology as contentives, but have special effects on the surrounding syntax);<br />
+• uninflected functors, i.e. particles.</p>
+<p>Functors are closed classes, and they have a fairly small number of members.</p>
+<p>The vocabulary is a priori, not derived or borrowed from that of existing natural or constructed languages, with the exception of concepts which are highly culture-specific, such as ethny names, specific customs and cultural practices, prepared foods…</p>
+<p>The consonant inventory is large (36 consonants), and mainly inspired by the inventories of Athabascan languages, Aymaran and Quechuan languages.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="phonology"><a class="header" href="#phonology">Phonology</a></h1>
+<h2 id="vowel-phonemes"><a class="header" href="#vowel-phonemes">Vowel phonemes</a></h2>
+<p>There are 6 vowel phonemes:</p>
+<pre><code>┌─────────────┐┌─────────────┐  
+│ IPA         ││ Spelling    │  
+├─────────────┤├─────────────┤  
+│  i   ɨ   u  ││  ı   ï   u  │  
+│  e̞       o̞  ││  e       o  │  
+│      ä      ││      a      │  
+└─────────────┘└─────────────┘  
+</code></pre>
+<p>There are 6 diphthongs:</p>
+<pre><code>┌──────────────┐┌──────────────┐  
+│ IPA          ││ Spelling     │  
+├──────────────┤├──────────────┤  
+│  e̞i̯      o̞i̯  ││  eı      oı  │  
+│  e̞o̞̯          ││  eo          │  
+│  äi̯  äɨ̯  äo̞̯  ││  aı  aï  ao  │  
+└──────────────┘└──────────────┘  
+</code></pre>
+<p>/äi̯/ may be pronounced [äe̯] in a closed syllable, or [äj] when the next syllable begins with the consonant /j/, in which case the approximant is geminated at the syllable boundary: /äi̯.jä/ → [äj.jä].<br />
+Similarly, /äo̯/ may be optionally pronounced [äw] when immediately preceding a syllable beginning with /w/: /äo̯.wä/ → [äw.wä]. /e̞o̯/ behaves similarly.</p>
+<p>Vowels immediately preceding the uvular plosive /q/ may optionally undergo slight lowering and backening, as shown below:<br />
+[i] → [ɪ]<br />
+[e̞] → [ɛ]<br />
+[ɨ] → [ɘ]<br />
+[ä] → [ɑ]<br />
+[u] → [ʊ]<br />
+[o̞] → [ɔ]</p>
+<p>Prominent syllables are indicated in the Latin orthography with acute accent marks. In the case of diphthongs, the first vowel member bears the acute accent. The letter ⟪ï⟫ becomes ⟪ı̋⟫ when prominent (i.e. bearing a double-acute accent mark).</p>
+<hr />
+<h2 id="consonant-phonemes"><a class="header" href="#consonant-phonemes">Consonant phonemes</a></h2>
+<p>There are 36 consonant phonemes:</p>
+<pre><code>┌──────────────────────────┐┌──────────────────────────┐  
+│ IPA                      ││ Spelling                 │  
+├──────────────────────────┤├──────────────────────────┤  
+│  pʼ t͇ʼ          kʼ qʼ    ││  pʼ tʼ          kʼ qʼ    │  
+│  pʰ t͇ʰ          kʰ qʰ    ││  pʰ tʰ          kʰ qʰ    │  
+│  p  t͇           k  q  ʔ  ││  p  t           k  q  ʼ  │  
+│     t͡s̻ʼ t͡ʃʼ t͡ɬʼ          ││     cʼ  čʼ  ƛʼ           │  
+│     t͡s̻ʰ t͡ʃʰ t͡ɬʰ          ││     cʰ  čʰ  ƛʰ           │  
+│     t͡s̻  t͡ʃ  t͡ɬ           ││     c   č   ƛ            │  
+│                          ││                          │  
+│   θ s̻   ʃ   ɬ ç~x~h      ││   θ s   š   ł   h        │  
+│                          ││                          │  
+│  m  n͇   ɲ       ŋ        ││  m  n   ñ       ŋ        │  
+│     l͇   ʎ                ││     l   ʎ                │  
+│     ɾ͇                    ││     r                    │  
+│         j       w        ││         y       w        │  
+│                          ││                          │  
+└──────────────────────────┘└──────────────────────────┘  
+</code></pre>
+<p>Word-initial glottal stops are not written explicitly in the romanization orthography.</p>
+<h3 id="consonant-allophony"><a class="header" href="#consonant-allophony">Consonant allophony:</a></h3>
+<ul>
+<li>/j/, when immediately preceding /i/, may be realized as [j̝] (semi-fricatized palatal approximant) or even [ʝ] (voiced palatal fricative), for increasing the contrast with the following /i/.</li>
+<li>/w/, likewise, may be pronounced as [w̝]/[ɰ̝ʷ] or even [ɣʷ] when immediately preceding /u/.</li>
+<li>/h/ is realized as [ç] before /i/, or after /i/ if no vowel is following this /h/; similarly, it is realized as [ç̱] (prevelar fricative) before /ɨ/ or after it if no vowel is following this /h/, and likewise [x] before /u/, or after it if no vowel follows. In other situations, it remains realized as [h].</li>
+<li>/t͡ɬ/ and its variants (aspirated, ejective) are realized as [k͡ʟ̝̊] (and aspirated and ejective variants, respectively) when between a /u/ and a consonant or word break; the same realization may optionally occur immediately before a /u/ vowel.<br />
+Optionally, in similar environments with /i/ instead of /u/, it may be rendered palatally as [c͡ʎ̝̥].</li>
+<li>/w/, when occurring immediately after a consonant, especially a velar or uvular one, is realized as labialization of that consonant.</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="phonotactics"><a class="header" href="#phonotactics">Phonotactics</a></h1>
+<p>All words except particles contain at least two syllables.<br />
+Words cannot begin on a vowel; in the romanization, words that are written with a vowel as their first letter actually have an unwritten glottal stop onset preceding the vowel.</p>
+<h2 id="pitch-accent"><a class="header" href="#pitch-accent">Pitch accent</a></h2>
+<p>All words bear a pitch accent, or ‘word-tone’, which is a tone contour that extends across the whole word, and which emphasizes one specific syllable called the ‘prominent syllable’, homologuous to the stressed syllable in stress-based languages. In this language, words always begin with a pitch level that is low but still at least a little higher than the pitch level of the last syllable of the immediately preceding word in the same breathe group, if any. Then, until the prominent syllable is met (it is marked in the romanization orthography with an acute accent or a double acute accent), which bears the highest pitch of the whole word, any of the two following scenarios are possible, in free variation: ① each syllable's pitch is a little higher than that of the preceding syllable, or ② the pitch remains flats, mid-level, until the prominent syllable is met, where the pitch raises to a peak. After the prominent syllable, the pitch goes down more or less abruptly until the end of the word is reached. There again, the pitch level may become low and flat after the prominent syllable is passed, especially if the word is long (as it may not be comfortable to keep the pitch going progressively down on a long word).</p>
+<h2 id="syllable-structure"><a class="header" href="#syllable-structure">Syllable structure</a></h2>
+<p>/ʎi/ and /ɲi/ are not allowed, except possibly as allophonic realizations of /li/ and /ni/ respectively.</p>
+<p>Words never begin with a consonant clusters, with a few exceptions:</p>
+<ul>
+<li>/w/ may appear after certain consonants, and is realized as labialization of the preceding consonant.</li>
+<li>One of the Anchoring proclitics, the nasal proclitic /ʔm̩꞊/, realized as a syllabic nasal (a bilabial one most of the time) preceded by an unwritten glottal stop, can appear at the beginning of a word immediately before another consonant; the syllabic nasal assimilates in place of articulation with certain (not all) consonants:<br />
+  — coronal plosives and affricates (/ʔm̩꞊t/ → [ʔn̩꞊t]);<br />
+  — velar and uvular plosives (/ʔm̩꞊k/ → [ʔŋ̩꞊k]; /ʔm̩꞊q/ → [ʔɴ̩꞊q]).<br />
+The assimilation is shown in the romanized orthography:<br />
+  /ʔm̩꞊takóju/ ↦ ⟪ntakóyu⟫.<br />
+The [ɴ] allophone is written ⟪ŋ⟫:<br />
+  /ʔm̩꞊qakóju/ ↦  ⟪ŋqakóyu⟫.</li>
+</ul>
+<p>Similarly, the coda of the last syllable of a word never contains a consonant cluster.</p>
+<p>Consonant clusters may only occur across syllable boundaries, where two-consonant clusters may occur, as well as <code>CCw</code> clusters like /t͡skw/. More complex clusters are not allowed.</p>
+<p><em>⸨TODO: List allowed and disallowed clusters.⸩</em></p>
+<h2 id="word-boundaries"><a class="header" href="#word-boundaries">Word boundaries</a></h2>
+<p>Word-final occlusives (plosives and affricates) are mildly aspirated, which prevents the eventuality of misinterpreting them as belonging to the next word.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="morphophonology-and-morphology"><a class="header" href="#morphophonology-and-morphology">Morphophonology and Morphology</a></h1>
+<p>As indicated earlier, there are three morphological classes of words:</p>
+<ul>
+<li>contentives (open class: the lexical words used to refer to the concepts being talked about in the utterance);</li>
+<li>inflecting function words (closed class; morphophonologically indistinguishable from contentives, but differing from the latters by having special effects on the surrounding syntax);</li>
+<li>indeclinable, uninflected function words, AKA particles (closed class).</li>
+</ul>
+<p>Function words are closed classes, i.e. they have a limited, restricted membership, no new members are added to them, or only rarely.</p>
+<p>In the language, function words are few, as many grammatical functions are expressed as inflection of contentive words.</p>
+<p>We will proceed by examining the morphophonology of contentives (which is the same as that of inflecting function words), and a list of function words —together with their function— will be given afterwards. </p>
+<p>Various example sentences will be shown as illustrations, accompanied by interlinear glosses. The glossing abbreviations used there are listed on the <a href="grammemes.html">Grammemes</a> page.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="contentives"><a class="header" href="#contentives">Contentives</a></h1>
+<p>The morphology of the contentive is an agglutinative template of five slots, described by the table below, starting with the first slot as the first row and ending with the last slot:</p>
+<pre><code>┌───┬────────────┬────────────────┐  
+│ № │ Form       │  Name          │  
+├───┼────────────┼────────────────┤  
+│ 1 │ CV         │  Anchoring     │  
+├───┼────────────┼────────────────┤  
+│ 2 │ C(VG)V(ʼV) │  Role          │  
+├───┼────────────┼────────────────┤  
+│ 3 │ C(VG)V*    │  Extensions    │  
+├───┼────────────┼────────────────┤  
+│ 4 │ CV         │  Namespace     │  
+├───┼────────────┼────────────────┤  
+│ 5 │ CV(CV…)(C) │  Root or base  │  
+└───┴────────────┴────────────────┘  
+</code></pre>
+<p>⟪C⟫ ≝ any consonant; ⟪V⟫ ≝ any vowel or diphthong; ⟪G⟫ ≝ any glide/semivowel.</p>
+<p>(The asterisk means that the slot is optional and recursive, i.e. its may contain zero, one, two or more values strung together.)</p>
+<p>Slot 1, 3 and 4 are optional; the other ones are mandatory.</p>
+<p>However, the Role slot may further be subdivised into up to five further subslots when the word is inflected for certain syntactic functions (mainly functions others than that of main verb):</p>
+<pre><code>┌────┬───────┬──────────────────┐  
+│ №  │ Form  │  Name            │  
+├────┼───────┼──────────────────┤  
+│ 2a │  C    │  Outer Case      │  
+├────┼───────┼──────────────────┤  
+│ 2b │ Vy/Vw │  Saliency        │  
+├────┼───────┼──────────────────┤  
+│ 2c │ Vʼ    │  Scope           │  
+├────┼───────┼──────────────────┤  
+│ 2d │ Vy/Vw │  Determinacy     │  
+├────┼───────┼──────────────────┤  
+│ 2e │ V     │  Inner Case      │  
+│    │       │  / Subordination │  
+└────┴───────┴──────────────────┘  
+</code></pre>
+<p>Out of these, slot <strong>2b</strong>, <strong>2c</strong> and <strong>2d</strong> are optional; slots <strong>2a</strong> and <strong>2e</strong> must appear together.</p>
+<p>The root or base of a contentive is always demarcated from the inflectional and extensional prefixes prepended to it by bearing the highest tone (represented by an acute accent in the Latin orthography) on its first syllable.<br />
+For example, in the word ⟪talóya⟫, the root is ⟪-lóya⟫, “sky”, and ⟪ta-⟫ is a slot #2 inflectional prefix complex.<br />
+A root must always be preceded by a slot #2 inflectional prefix syllable, optionally followed by one or more extensional prefixes (which are mostly monosyllabic, with limited disyllabic forms CVyV or CVwV (e.g. ⟪-kwıyu-⟫).<br />
+A slot #1 proclitic may precede the obligatory slot #2. The first syllable of a word can be unambiguously identified as belonging to slot #1 (as opposed to slot #2) by virtue of their having mutually exclusive sound forms: while ⟪θa꞊⟫ is a valid slot #1 syllable, it cannot be a slot #2 form; similarly, ⟪ta-⟫, a frequent slot #2 form, cannot possibly appear in slot #1.</p>
+<p>The word ⟪ŋkaoluŋkıkwıyuráwa⟫ (“of the fact that we talked to each other”) can thusly be unambiguously parsed as the following string of components:</p>
+<pre><code>┌──────────┬────────┬─────────────────────────────────────────────┐  
+│ Slot #1  │ ŋ꞊     │ Injective clitic                            │  
+│ Slot #2a │ k-     │ Accusative outer case                       │  
+│ Slot #2e │ ao-    │ Plain content clause subordinator           │  
+│ Slot #3  │ lu-    │ Extension: past tense                       │  
+│ Slot #3  │ ŋkı-   │ Extension: “you and me” + (Ergative)        │  
+│ Slot #3  │ kwıyu- │ Disyllabic extension (CVyV): “reciprocally” │  
+│ Slot #5  │ -ráwa  │ Root: “talk with”                           │  
+└──────────┴────────┴─────────────────────────────────────────────┘  
+</code></pre>
+<p>We will now examine each of the slots one by one in reverse order, starting from the last one (the word base).</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="slot-5-base"><a class="header" href="#slot-5-base">Slot #5: Base</a></h1>
+<h2 id="morphophonological-characteristics"><a class="header" href="#morphophonological-characteristics">Morphophonological characteristics</a></h2>
+<p>The root or base slot is the last slot of the morphological template of contentive words; it is demarcated from the remaining of the word by having its first syllable being the prominent syllable of the word's pitch accent: it is the syllable with the highest pitch in the word. The pitch only goes down along the remaining of the root and doesn't raise up again. In the romanization orthography, the prominent syllable, and therefore the first syllable of the root slot, in marked with an acute accent mark (or a double acute) on its first vowel.</p>
+<p>The base slot must contain at least one syllable; similarly to extensional prefixes, when it begins with a consonant cluster, the cluster may cross the syllable boundary with the preceding syllable, such that the first consonant is actually the coda of that preceding syllable. Thus, ⟪nté⟫ is a valid root, for example.</p>
+<p>The root, and therefore the whole word as well, may end with a single consonant, but not with a consonant cluster.</p>
+<p>The base slot may contain a single root, or a string of several roots, possibly even accompanied by fossilized former extensional prefixes, now merged with the root(s). If the base slot contains more than a single root, it is more accurate to qualify its content as ‘word base’ rather than ‘word root’.<br />
+When a root ending with a consonant occurs in nonfinal position within a word base, an epenthetic vowel ⟪ï⟫ is appended to it, serving as a hyphen between it and the following element.</p>
+<p>There is no morphophonological structures that allows to unambiguously segment the content of the root slot (if polysyllabic) into individual subcomponents: when an unknown polysyllabic word base is met, it cannot be determined with certainty whether it is a single monolithic root, or a composition of fossilized prefixes and roots, or a string of two or more roots.<br />
+However, since word bases are always lexicalized, i.e. semantically opaque, the recognizability of subcomponents only offers a value in enhencing memorization and offering meaning hints for those discovering the word for the first time; the meaning of the whole word base must be learnt independently of the meaning of its eventual subconstituents: word bases are atomic lexical units of the language.</p>
+<h2 id="semantics"><a class="header" href="#semantics">Semantics</a></h2>
+<p>Word bases have verb-like meanings, in that each base is assigned a valency (or “arity”), which dictates the set of core noun cases it can govern.</p>
+<p>The only intrinsic syntactic properties of word bases (other than those of function words) are their valency, and the types and grammatical cases associated with each of their argument slots.
+There are no lexically coded distinction between “verb”, “noun”, “adjective” etc., which are syntactic properties that are determined by the inflection of the whole word, specifically via the <a href="morphology/roles/noun-roles.html">Role Slot</a>.</p>
+<p>In the dictionay, all bases are given verb-like definitions, even for those representing concepts typically expressed with nouns in most other languages; for example, the base for “table” would be defined as ⟪[NTR] is a table⟫; the one for “sibling” would be defined as ⟪[ERG] is a sibling of [ACC]⟫, where the bracketed abbreviations are the glossing abbreviations of the noun cases of each of the core argument slots governed by the base. Nahaıwa exhibits a <em>tripartite alignment</em>, i.e. there is a special case, the Intransitive case (<code>NTR</code>) dedicated to the sole argument of monovalent verbs (e.g. “to sleep”, “to be a table”), which is not used with verbs of greater valencies, such as the bivalent verbs “to eat”, “to be a sibling of”, which instead govern the Ergative (<code>ERG</code>) and Accusative (<code>ACC</code>) cases. The list of core noun cases are detailed in the <a href="morphology/roles/noun-roles.html">Role Slot</a> section.</p>
+<ul>
+<li>Avalent bases (valency zero) don't govern any noun case.</li>
+<li>Monovalent bases (valency 1) govern one noun case: the Intransitive (<code>ɴᴛʀ</code>).</li>
+<li>Bivalent bases (valency 2) govern two noun cases: Ergative (<code>ᴇʀɢ</code>) and Accusative (<code>ᴀᴄᴄ</code>).</li>
+<li>Trivalent bases (valency 3) govern three noun cases: Ergative, Dative (<code>ᴅᴀᴛ</code>) and Accusative.</li>
+<li>Tetravalent bases (valency 4, rare) govern four noun cases: Ergative, Dative, Codative (<code>ᴄᴏᴅ</code>) and Accusative. </li>
+</ul>
+<p>For example:</p>
+<ul>
+<li>⟪-kóyu⟫, one-root base, unary valency: “<strong>[ɴᴛʀ]</strong> is a dog”.</li>
+<li>⟪-cál⟫, one-root base, binary valency: “<strong>[ᴇʀɢ]</strong> has visual perception of <strong>[ᴀᴄᴄ]</strong>”.</li>
+<li>⟪-yéwa⟫, one-root base, ternary valency: “<strong>[ᴇʀɢ]</strong> is thankful to <strong>[ᴅᴀᴛ]</strong> for having property <strong>[ᴀᴄᴄ]</strong>”.</li>
+<li>⟪-kíwaƛʰaı⟫ (⟪-kíwa-ƛʰaı⟫, “skin-tree”), two roots base, unary valency: “<strong>[ɴᴛʀ]</strong> is tree bark”.</li>
+<li>⟪-yı̋yewa⟫ (⟪-yı̋-yewa⟫, “display-grateful”), two roots base, ternary valency: “<strong>[ᴇʀɢ]</strong> thanks, displays gratefulness to <strong>[ᴅᴀᴛ]</strong> for having property <strong>[ᴀᴄᴄ]</strong>”.</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="slot-4-namespace"><a class="header" href="#slot-4-namespace">Slot #4: Namespace</a></h1>
+<p>The pre-root namespace slot determines the namespace for the following word base. Here are its possible values:</p>
+<table><thead><tr><th>Form</th><th>Purpose</th></tr></thead><tbody>
+<tr><td>∅</td><td>Default form: lexical predicate base used directly as predicate, as opposed to e.g. being used as a name.</td></tr>
+<tr><td>ʎe</td><td>Foreign vocabulary namespace, used for foreign loanwords which would otherwise be homophonous with an already existing native word base.</td></tr>
+<tr><td>ña</td><td>Sound-based, contextually resolved proper name reference: “[NTR] is/are the one(s) named (by sound) as [BASE].</td></tr>
+<tr><td>hı</td><td>Numeric expression</td></tr>
+</tbody></table>
+<h2 id="ña--sound-based-proper-names"><a class="header" href="#ña--sound-based-proper-names">ña-: sound-based proper names</a></h2>
+<p>The sound-based proper name prefix ⟪ña-⟫ introduces a base that refers by name to an individual, be it a person, a place or an event. Its use is discouraged when the context of utterance is insufficient for the addressee to resolve the identity of the named one. Foreign names are rendered phonetically using Nahaıwa's phonotactics and orthography.</p>
+<ul>
+<li><strong>Aınayá tañahwán.</strong><br />
+<code>aı꞊ na-   yá    t-  a-   ña-  hwán</code><br />
+<code>ASR꞊1:NTR-thing NTR-NTRᵢ-NAME-Juan</code><br />
+<em>Juan is me.</em></li>
+</ul>
+<p>Related to the ⟪ña⟫ namespace, there also exists the extensional prefix ⟪q◈⟫ for concept-based name references, for example: ⟪-qa-cʼáo⟫, “[NTR] is the one named after the concept of being snow”. Generally, Nahaıwa draws a clear-cut distinction between sound-based names (which don't have an inherent meaning in Nahaıwa) and meaning-based names, based on semantic concepts.</p>
+<h2 id="hı--numeric-expressions"><a class="header" href="#hı--numeric-expressions">hı-: numeric expressions</a></h2>
+<p>This prefix indicates that the word base represents an abstract number:</p>
+<ul>
+<li><strong>Aıwı̋ca cahıkáı pahıcı̋ kahırú.</strong><br />
+<code>aı꞊ wı̋ca c-  a-  hı- káı   p-  a-   hı- cı̋  k-  a-   hı- rú</code><br />
+<code>ASR꞊sum  ERG-NTRᵢ-NUM-three DAT-NTRᵢ-NUM-one ACC-NTRᵢ-NUM-two</code><br />
+<em>1 + 2 = 3</em></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="slot-3-extensions"><a class="header" href="#slot-3-extensions">Slot #3: Extensions</a></h1>
+<p>The extension slot is optional, and may contain a string of extensional prefixes of arbitrary length, ordered by their relative scope: each such extensional prefix has semantic scope over all the remaining chain of extensional prefixes that follows it, and each prefix is under the scope of the prefixes that occurred before it. In other words, they express semantically compositional modifications of the word stem on their right: the root plus any other prefix appearing to their right (they are left-branching, right-grouping).</p>
+<p>To take an example using English vocabulary, considering three extensional prefixes meaning ‘not’, ‘often’, ‘want’, ordered in this way, the meaning of the whole prefix chain will be &quot;not often wants to…&quot;; but if the order is modified, say ‘want’ ‘often’ ‘not’, the meaning will be &quot;wants to often not do/be…&quot;.</p>
+<p>Extensional prefixes have compositional, transparent meanings: unlike derivational affixes in many natlangs, the combinations involving roots and extensional prefixes do not require being learnt separately from the meaning of their components; the meaning of such combinations can always be derived from the meanings of the components without any need to looking up combinations in a dictionary.</p>
+<p>Extensional prefixes cover a wide range of uses and meanings, even including pronominal references like “me”, “you” and so on. In actuality, Nahaıwa lacks standalone pronoun words. When it is wished to use an extensional prefix (such as a pronominal) as a complete word, a dummy root such as ⟪-yá⟫ can be used.</p>
+<p>Extensional prefixes that have fused with the root into a lexicalized combination with an opaque meaning always become part of the root/base itself, i.e. they are no longer located in the Extension slot (that is, the position of the prominent syllable in the word, which always appear on the first syllable of the lexicalized, semantically opaque part of the word, namely the word's root or base, is shifted leftwards so as to engulf any former extensional prefix that would have thusly formed an opaque combination with the root, transforming that former prefix into an element of the root itself, within the Root slot).</p>
+<p>Extensional prefixes have shape -C?CV(yV)-: they begin with a single consonant or a consonant cluster followed by a vowel, possibly elongated with a second syllable starting with the ⟪y⟫ semivowel. If they begin with a cluster, the first consonant of the cluster may be phonetically part of the coda of the preceding syllable (the cluster then crosses the syllable boundary): for example, ⟪nta⟫ is a valid extensional prefix, with the ⟪n⟫ part belonging to the preceding syllable.</p>
+<p>There exist several types of extensional prefixes, depending on two factors: how many slots of the stem they remove, and whether they add a new slot (bound to the ‘extensional’ noun case). For some prefixes, the vowel part is not meaningful and the whole consonant+vowel is one single monolithic morpheme. However, for some other prefixes, the vowel is meaningful and expresses an Inner Case value, indicating the argument slot of the stem that is specifically targeted by this extensional prefix. Some prefixes may even target two slots at a time, in which case they assume the shape -C?CVyV-, where each of the two vowel segments expresses a different case.</p>
+<p>Below is a list of the different types of extensional prefixes.
+Ⓒ = any consonant or consonant cluster; Ⓥ = any vowel.</p>
+<h2 id="types-of-extensional-prefixes"><a class="header" href="#types-of-extensional-prefixes">Types of extensional prefixes</a></h2>
+<h3 id="type-0"><a class="header" href="#type-0">Type 0</a></h3>
+<p>No change in valency, does not select/remove any slot.<br />
+<strong>Shapes:</strong> Ⓒao / Ⓒaı / Ⓒea; ⒸⓋ if Ⓒ is a palatal or labialized consonant, or if Ⓒ is ⟪l⟫ or ⟪š⟫.</p>
+<p>In the lexicon definitions for this type, <code>[0]</code> stands for the information represented by the remaining of the stem following the type-0 extensional affixes. The number <code>0</code> indicates that no abstract slot is selected.</p>
+<h4 id="examples"><a class="header" href="#examples">Examples</a></h4>
+<ul>
+<li><strong>-ha-</strong> (negation): ⟪it is not the case that <strong>[0]</strong> is the case⟫;</li>
+<li><strong>-kʰao-</strong> (possibility): ⟪it is possible that <strong>[0]</strong> is the case⟫;</li>
+<li><strong>-šu-</strong> (cessative aspect): ⟪<strong>[0]</strong> ceases to be the case⟫;</li>
+<li><strong>-lu-</strong> (past tense): ⟪<strong>[0]</strong> was the case⟫.</li>
+</ul>
+<pre><code>┌───────────────
+│ ◆ -łı̋
+│ ➥ [ɴᴛʀ] is asleep.
+│ 
+│ ◆ -šu-łı̋
+│ ➥ it ceases to be the case that [[ɴᴛʀ] is asleep].
+│ 
+│ ◆ -ha-[šu-łı̋]
+│ ➥ [it is not the case that [
+│       it ceases to be the case that [[ɴᴛʀ] is asleep]]].
+│ ➥ [ɴᴛʀ] doesn't cease to sleep.
+│ 
+│ ◆ -kʰao-[ha-[šu-łı̋]]
+│ ➥ [it is possible that [it is not the case that [
+│       it ceases to be the case that [[ɴᴛʀ] is asleep]]]].
+│ ➥ maybe [ɴᴛʀ] doesn't cease to sleep.
+└─
+</code></pre>
+<h3 id="type-0-1"><a class="header" href="#type-0-1">Type 0+</a></h3>
+<p>Same as type 0, but adds an Extensional case slot, represented by ⟪[ᴇxᴛ]⟫ in definitions.<br />
+<strong>Shapes:</strong> Ⓒao / Ⓒaı / Ⓒea</p>
+<h4 id="examples-1"><a class="header" href="#examples-1">Examples</a></h4>
+<ul>
+<li><strong>-qao-</strong> (causative): ⟪[ᴇxᴛ] agentively causes, makes <strong>[0]</strong> be the case⟫.</li>
+</ul>
+<pre><code>┌───────────────
+│ ◆ -cál
+│ ➥ [ᴇʀɢ] sees [ᴀᴄᴄ].
+│ 
+│ ◆ -qao-cál
+│ ➥ [ᴇxᴛ] makes [[ᴇʀɢ] sees [ᴀᴄᴄ]] be the case.
+│ 
+│ ◆ -ha-[qao-cál]
+│ ➥ it is not the case that [[ᴇxᴛ] makes [[ᴇʀɢ] sees [ᴀᴄᴄ]] be the case].
+└─
+</code></pre>
+<h3 id="type-"><a class="header" href="#type-">Type +</a></h3>
+<p>Does not select/remove any slot, but adds an affixal slot.</p>
+<p><strong>Examples:</strong><br />
+(none currently).</p>
+<h3 id="type--1"><a class="header" href="#type--1">Type −</a></h3>
+<p>Removes one slot, marked by the vowel form.</p>
+<p><strong>Examples:</strong><br />
+(none currently).</p>
+<h3 id="type--2"><a class="header" href="#type--2">Type −+</a></h3>
+<p>Modifies one slot of the stem (sort of removes one and adds one); the vowel part of the affix, represented by the symbol ⟪◈⟫ below, is variable and represents the “Inner Case” identifying which slot is selected by the affix; the meaning of the slot is modified, but this suffix type does not bind the extensional case, it just reuses the modified cases. The resulting valency and case set of the predicate is unchanged.<br />
+With monovalent bases, the vowel is ⟪<strong>a</strong>⟫ (Intransitive Inner Case).<br />
+With bivalent bases, the vowel is either ⟪<strong>ı</strong>⟫ (Ergative) or ⟪<strong>u</strong>⟫ (Accusative).<br />
+<strong>Shapes:</strong> ⒸⓋ if Ⓒ is neither a palatal nor a labialized consonant, and is not ⟪l⟫ or ⟪š⟫.</p>
+<p>In the lexicon definitions for this type, <code>[1]</code> stands for the monovalent property represented by the remaining of the stem by abstracting away the target slot selected with the inner case vowel; <code>[X]</code> represent the new value for the selected slot.</p>
+<h4 id="examples-2"><a class="header" href="#examples-2">Examples:</a></h4>
+<ul>
+<li><strong>-n◈-</strong>: ⟪[X] is me, who satisfies the property of [1]⟫;</li>
+<li><strong>-k◈-</strong>: ⟪[X] is you, who satisfies the property of [1]⟫;</li>
+<li><strong>-ŋ◈-</strong>: ⟪[X] wants to satisfy the property of [1]⟫;.</li>
+<li><strong>-ƛʼ◈-</strong>: ⟪[X] attempts to satisfy the property of [1]⟫;.</li>
+<li><strong>-sc◈-</strong>: ⟪[X] is all that has the property of [1]⟫;.</li>
+</ul>
+<p>Thus, applying the extension ⟪ŋa⟫ (selecting the Intransitive case slot) to the stem ⟪<strong>[NTR]</strong> sleeps⟫, we obtain a new, modified stem meaning ⟪<strong>[NTR]</strong> wants to sleep⟫. </p>
+<pre><code>┌───────────────
+│ ◆ -na-łı̋
+│ ❖ -1:NTR-√is_asleep
+│ ➥ [ɴᴛʀ] is me and is asleep.
+└─
+┌───────────────
+│ ◆ -ƛʼa-łı̋
+│ ❖ -try:NTR-√is_asleep
+│ ➥ [ɴᴛʀ] tries to be asleep.
+│ 
+│ ◆ -na-ƛʼa-łı̋
+│ ❖ -1:NTR-try:NTR-√is_asleep
+│ ➥ [ɴᴛʀ] is me, who tries to be asleep.
+│ “I try to sleep”.
+└─
+┌───────────────
+│ ◆ -cál
+│ ❖ -√see
+│ ➥ [ᴇʀɢ] sees [ᴀᴄᴄ].
+│ 
+│ ◆ -ku-cál
+│ ❖ 2:ACC-√see
+│ ➥ [ᴀᴄᴄ] is you and has the property [[ᴇʀɢ] sees ____].
+│ ➥ [ᴀᴄᴄ] is you and is seen by [ᴇʀɢ].
+│ ➥ [ᴇʀɢ] sees [ᴀᴄᴄ] which is you.
+│ 
+│ ◆ -nı-[ku-cál]
+│ ➥ [ᴇʀɢ] is me, who has the property [___ sees [ᴀᴄᴄ] which is you].
+│ ➥ me, who is [ᴇʀɢ], sees you, who is [ᴀᴄᴄ].
+│ ➥ “I see you”.
+└─
+┌───────────────
+│ ◆ -nı-[ƛʼı-[ku-cál]]
+│ ➥ [ᴇʀɢ] is me, who tries to have the property [___ sees [ᴀᴄᴄ] which is you].
+│ ➥ me, who is [ᴇʀɢ], tries to see you, who is [ᴀᴄᴄ].
+│ ➥ “I try to see you”.
+└─
+┌───────────────
+│ ◆ -nı-[ku-[ƛʼu-cál]]
+│ ➥ [ᴇʀɢ] is me, who has the property [
+│      [ᴀᴄᴄ] who is you, tries that ___ sees you].
+│ ➥ [ᴀᴄᴄ], you, try to be seen by [ᴇʀɢ], me.
+│ ➥ “You try to be seen by me”.
+└─
+</code></pre>
+<h3 id="type--3"><a class="header" href="#type--3">Type −−+</a></h3>
+<p>Removes two slots and adds one (bound to the same case as the first of the two removed slots).<br />
+<strong>Shapes:</strong> ⒸⓋyⓋ, occasionally ⒸⓋ</p>
+<p>With this special type, there are two inner case vowels, separated by a ⟪-y-⟫ linker, each vowel selecting a different case slot. The first of the selected cases gets its meaning modified, while the second case slot is deleted.</p>
+<p>In the lexicon definitions, <code>[2]</code> represents the bivalent relation resulting from abstracting away the two slots selected with the two inner case vowels. <code>[X]</code> represents the new value for the first of the two selected vowels.</p>
+<h4 id="examples-3"><a class="header" href="#examples-3">Examples:</a></h4>
+<ul>
+<li><strong>-kw◈y◈-</strong>: ⟪[X] are in the reciprocal relationship of [2]⟫.</li>
+</ul>
+<pre><code>┌───────────────
+│ ◆ -kwıyu-cál
+│ ❖ -RCP:ERG:ACC-√see
+│ ➥ [ᴇʀɢ] are in reciprocal relationship [___ sees ___].
+│ ➥ [ᴇʀɢ] see each other.
+└─
+</code></pre>
+<p>For certain type −−+ extensions, noted ⟪<strong>−−+*</strong>⟫, the ⟪<strong>-ıyu-</strong>⟫ form can be shortened to simply ⟪<strong>-ı-</strong>⟫, for example, ⟪<strong>-kwı-</strong>⟫ is synonymous to ⟪<strong>-kwıyu-</strong>⟫.</p>
+<h3 id="type--4"><a class="header" href="#type--4">Type −−++</a></h3>
+<p>Same as Type <code>−−+</code>, but with the addition of an Extensional case slot, just like with Type <code>0+</code> extensions described earlier.</p>
+<h4 id="degree-extensions"><a class="header" href="#degree-extensions">Degree extensions</a></h4>
+<p>In the type <code>−−++</code>, we mainly find extensions relating to amounts and degrees, meant to be used with objective amount measure roots such as ⟪<strong>[ᴇʀɢ]</strong> has size <strong>[ᴀᴄᴄ]</strong>⟫, ⟪<strong>[ᴇʀɢ]</strong> has temperature <strong>[ᴀᴄᴄ]</strong>⟫, and so on.</p>
+<p>Degree extensions allow to derive stems meaning e.g. ⟪<strong>[ᴇʀɢ]</strong> is big, has great size (relatively to the median among <strong>[ᴇxᴛ]</strong>)⟫, ⟪<strong>[ᴇʀɢ]</strong> is small, has small size (relatively to the median among <strong>[ᴇxᴛ]</strong>)⟫, and so on, from the aforementioned objective amount roots.</p>
+<p>For example:</p>
+<ul>
+<li><strong>-cʰó</strong> (root) = ⟪<strong>[ᴇʀɢ]</strong> has temperature <strong>[ᴀᴄᴄ]</strong>⟫</li>
+<li><strong>-m◈(y◈)-</strong> (extension) = ⟪<strong>[X]</strong> is in relation <strong>[2]</strong> with a great number relatively to the median among <strong>[ᴇxᴛ]</strong> (default: contextual).⟫</li>
+<li><strong>-č◈(y◈)-</strong> (extension) = ⟪<strong>[X]</strong> is in relation <strong>[2]</strong> with a small number relatively to the median among <strong>[ᴇxᴛ]</strong> (default: contextual).⟫</li>
+<li><strong>-km◈(y◈)-</strong> (extension) = ⟪<strong>[X]</strong> is, in comparison with <strong>[ᴇxᴛ]</strong> (default: contextual), in relation <strong>[2]</strong> with the greatest number.⟫</li>
+</ul>
+<pre><code>┌───────────────
+│ ◆ -mı(yu)-cʰó
+│ ❖ -to_great_degree:ERG:ACC-√has_temperature
+│ ➥ [ᴇʀɢ] is warm/hot, has great temperature (relatively to [ᴇxᴛ]).
+└─
+┌───────────────
+│ ◆ -čı(yu)-cʰó
+│ ❖ -to_small_degree:ERG:ACC-√has_temperature
+│ ➥ [ᴇʀɢ] is cold, has low temperature (relatively to [ᴇxᴛ]).
+└─
+┌───────────────
+│ ◆ -kmı(yu)-cʰó
+│ ❖ -to_greatest_degree:ERG:ACC-√has_temperature
+│ ➥ [ᴇʀɢ] is the warmest, the one with greatest temperature
+│   (relatively to [ᴇxᴛ]).
+└─
+</code></pre>
+<div style="break-before: page; page-break-before: always;"></div><h2 id="proforms"><a class="header" href="#proforms">Proforms</a></h2>
+<p>As mentioned earlier, Nahaıwa pronominals are expressed as extensional prefixes, more specifically of type −+, with a variable inner case vowel.</p>
+<p>Here are some of the main pronominals:</p>
+<table><thead><tr><th>Form</th><th>Meaning</th></tr></thead><tbody>
+<tr><td>n◈</td><td>I/me (singular speaker, or rarely, multiple authors of a same utterance, as in written joint work)</td></tr>
+<tr><td>k◈</td><td>you (addressee, either singular or plural, never including absent third parties)</td></tr>
+<tr><td>ŋk◈</td><td>me + you</td></tr>
+<tr><td>θ◈</td><td>you know what/who (contextually ascertainable 3rd person)</td></tr>
+<tr><td>nt◈</td><td>that which I am pointing to or looking at (pointing demonstrative)</td></tr>
+<tr><td>t◈</td><td>resumptive pronominal (refers to the antecedent in relative clauses)</td></tr>
+<tr><td>tʼ◈</td><td>monovalent lambda pronominal (covers the interrogative “what” among other uses)</td></tr>
+<tr><td>ntʰ◈</td><td>Intransitive case anaphora (refers to the most recent noun with this case)</td></tr>
+<tr><td>ncʰ◈</td><td>Ergative case anaphora (refers to the most recent noun with this case)</td></tr>
+<tr><td>ŋkʰ◈</td><td>Accusative case anaphora (refers to the most recent noun with this case)</td></tr>
+<tr><td>mpʰ◈</td><td>Dative case anaphora (refers to the most recent noun with this case)</td></tr>
+<tr><td>ŋqʰ◈</td><td>Extensional case anaphora (refers to the most recent noun with this case)</td></tr>
+</tbody></table>
+<p>The plural <em>“we”</em> has no dedicated pronominal, but can be expressed by adding the associative plural extension ⟪<strong>-nθ◈-</strong>⟫ right after ⟪<strong>-n◈-</strong>⟫, with the same inner case vowel: ⟪<strong>-n◈nθ◈-</strong>⟫ (<em>“me and co.”</em>).</p>
+<p>They all can be used as full words by combinging them with the dummy root ⟪<strong>-yá</strong>⟫, <em>⟪[NTR] is a thing, is something⟫</em>, with the Intransitive inner case vowel ⟪<strong>-a-</strong>⟫: ⟪<strong>-nayá</strong>⟫ ≍ <em>⟪[NTR] is me⟫</em>.</p>
+<p>The case anaphora proforms are used to refer back to a recently mentioned noun, using the outer case the noun was marked with as the identifier for identifying it.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="slot-2-role"><a class="header" href="#slot-2-role">Slot #2: Role</a></h1>
+<p>This slot may be subdivised into further subslots in certain cases.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="root-verb-roles"><a class="header" href="#root-verb-roles">Root Verb roles</a></h1>
+<p>A sentence may contain only one root verb, or “main verb”, and it is always the first word of the sentence. When a root verb occurs in a stream of words, it signals that a new sentence begins at that position.
+A root verb alone is sufficient as a complete sentence. A root verb has a set of core complements specified by its stem, each being associated with a grammatical case. When any of these core complements is not explicitly present, it is covertly existentially quantified, i.e. it's set to “something or somebody”.</p>
+<p>There are several different Role prefixes that create root verbs; they further show additional information, namely the illocution (speech act) of the sentence, and if that illocution is the ‘Assertive’, then they also indicate Evidentiality, i.e. the kind of evidence that is the basis for the claim being made with the utterance.<br />
+The Illocution indicates whether the sentence is an assertion (a description of what the speaker thinks is reality), a question, a command, a request, a performative/declarative act, and so on.</p>
+<p>Below is a list of the possible root verb prefixes. </p>
+<h2 id="assertive-illocution"><a class="header" href="#assertive-illocution">Assertive illocution</a></h2>
+<p>The assertive illocution expresses the speech act of informing the addressee of what the speaker deems as true or likely true in their mental model of the world. It does not imply (nor deny) a desire to convince the addressee.
+The prefix for the assertive illocution further declines for a variety of possible <em>evidentialities</em>, which indicate the mean by which the asserted information was obtained. The assertive illocution is the only one to sport evidentiality marking, thus the evidentiality prefixes all also indicate that the illocution is assertive. The list of evidentiality prefixes is shown below:</p>
+<table><thead><tr><th>Form</th><th>Name</th><th>Gloss</th><th>Use</th></tr></thead><tbody>
+<tr><td><strong>aı-</strong></td><td>Unspecified</td><td>ASR</td><td>Assertion of unspecified evidentiality.</td></tr>
+<tr><td><strong>oı-</strong></td><td>Multievidential</td><td>MUL</td><td>Imformation confirmed from multiple different independent sources of information.</td></tr>
+<tr><td><strong>a-</strong></td><td>Inferential</td><td>NFR</td><td>Inference from a combination of information from several sources.</td></tr>
+<tr><td><strong>ı-</strong></td><td>Sensorial</td><td>SEN</td><td>Sensory information from current perception, including metacognition.</td></tr>
+<tr><td><strong>eo-</strong></td><td>Intuitive</td><td>ITU</td><td>Intuition.</td></tr>
+<tr><td><strong>u-</strong></td><td>Recollective</td><td>REC</td><td>Recollection, memory of past experiences (but not memorized encyclopedic facts, for which Reportives or Epistemic should be used).</td></tr>
+<tr><td><strong>ıwa-</strong></td><td>Reconstitutive</td><td>RCS</td><td>Information obtained from sensorial recordings made by external devices (photographic or video camera, sound recorders…).</td></tr>
+<tr><td><strong>o-</strong></td><td>Reportive</td><td>REP</td><td>Information obtained via communication: report, hearsay, second-hand information.</td></tr>
+<tr><td><strong>ao-</strong></td><td></td><td></td><td>Trustworthy report.</td></tr>
+<tr><td><strong>eı-</strong></td><td></td><td></td><td>Untrustworty report.</td></tr>
+<tr><td><strong>e-</strong></td><td>Epistemic</td><td>EPI</td><td>Collective knowledge, ‘common wisdom’, not personally verified.</td></tr>
+<tr><td><strong>aya-</strong></td><td>Axiomatic</td><td>AXM</td><td>Base beliefs not open to questioning.</td></tr>
+</tbody></table>
+<h2 id="non-assertive-illocutions"><a class="header" href="#non-assertive-illocutions">Non-assertive illocutions</a></h2>
+<table><thead><tr><th>Form</th><th>Name</th><th>Gloss</th><th>Use</th></tr></thead><tbody>
+<tr><td><strong>ï-</strong></td><td>Performative</td><td>PFM</td><td>Utterance true merely by virtue of being uttered.</td></tr>
+<tr><td><strong>ma-</strong></td><td>Verificative</td><td>VRF</td><td>Request of confirmation, “… isn't it?”.</td></tr>
+<tr><td><strong>mı-</strong></td><td>Polar Interrogative</td><td>PQ⁓PI</td><td>Yes-no question.</td></tr>
+<tr><td><strong>mu-</strong></td><td>Content Interrogative</td><td>CQ⁓CI</td><td>“wh” question (“what?”, “who?”, “which?”, “when?”, “where?”, “how”? “why?”, etc.).</td></tr>
+<tr><td><strong>maı-</strong></td><td>Rethorical Polar Interrogative.</td><td>RPQ⁓RPI</td><td></td></tr>
+<tr><td><strong>mao-</strong></td><td>Rethorical Content Interrogative.</td><td>RCQ⁓RCI</td><td></td></tr>
+<tr><td><strong>kʰa-</strong></td><td>Directive</td><td>DIR</td><td>Order with implied threat, negative consequences if unfulfilled.</td></tr>
+<tr><td><strong>kʰo-</strong></td><td>Requestive</td><td>REQ</td><td>Request with implied disappointment if unfulfilled.</td></tr>
+<tr><td><strong>kʰu-</strong></td><td>Invitative/Solicitive</td><td>INV</td><td>Mild request with no obligation of fulfillment, no grudge if not accepted.</td></tr>
+<tr><td><strong>kʰı-</strong></td><td>Recommandative</td><td>RCM</td><td></td></tr>
+<tr><td><strong>kʰaı-</strong></td><td>Permission-seeking</td><td>PS</td><td></td></tr>
+<tr><td><strong>yea-</strong></td><td>Permissive</td><td>PRM</td><td>Expression of permission.</td></tr>
+<tr><td><strong>yao-</strong></td><td>Oblative</td><td>OBLT</td><td>Disinterested offers (<em>“I'm available for…”</em>, <em>“if you're interested…”</em>, <em>“if you want…”</em>).</td></tr>
+</tbody></table>
+<p>The content interrogative illocutions go hand-in-hand with the ‘lambda’ pronominal extension ⟪-tʼ◈-⟫ (glossed as <code>LAM</code> or <code>LBD</code>), which plays here the role of the content interrogative pronoun “what”. There is no distinct pronoun for “who”, unlike English.</p>
+<p>Note: Whilst there's a prefix for granting permission, ⟪kʰaı-⟫, there's no dedicated one for prohibition, for that latter is expressed with negative imperatives instead:</p>
+<ul>
+<li><strong>— Kʰaıʎáıša.<br />
+— Kʰohaʎáıša.</strong><br />
+<code>— PS=music</code><br />
+<code>— REQ=NEG-music</code><br />
+<em>— Can I put music on?<br />
+— Please no music.</em></li>
+</ul>
+<h2 id="example-sentences"><a class="header" href="#example-sentences">Example sentences</a></h2>
+<ul>
+<li>
+<p><strong>Ï(ke)yı̋yewa.</strong><br />
+<code>Ï=  (ke)-  -yı̋yewa</code><br />
+<code>PFM=(2:DAT)-thank</code><br />
+<em>I hereby thank (you).</em><br />
+➥ Note: while adding the 1st person pronominal ⟪<strong>-nı-</strong>⟫ is fine (⟪<strong>ïnıkeyı̋yewa</strong>⟫), with the Performative illocution ⟪<strong>ï-</strong>⟫ the speech act verb's agent is the speaker by default, so the 1st person pronoun can be safely left out.</p>
+</li>
+<li>
+<p><strong>Mıkıŋıñú.</strong><br />
+<code>mı=kı-   ŋı-     -ñú</code><br />
+<code>PQ=2:ERG-want:ERG-eat</code><br />
+<em>Do you want to eat (something)?</em></p>
+</li>
+<li>
+<p><strong>Mukıŋıtʼuñú.</strong><br />
+<code>mu=kı-   ŋı-      tʼu-   -ñú</code><br />
+<code>CQ=2:ERG-want:ERG-LAM:ACC-eat</code><br />
+<em>What do you want to eat?</em></p>
+</li>
+<li>
+<p><strong>Kʰıkıƛú.</strong><br />
+<code>kʰı=kı-  -ƛú</code><br />
+<code>RCM=2:ERG-drink</code><br />
+<em>You should drink (something).</em></p>
+</li>
+<li>
+<p><strong>Kʰo(ne)pákı.</strong><br />
+<code>kʰo=(ne)-  -pákı</code><br />
+<code>REQ=(1:DAT)-help</code><br />
+<em>Could you please help (me)?</em></p>
+</li>
+<li>
+<p><strong>Yao(ke)pákı.</strong><br />
+<code>yao=  (ke)-  -pákı</code><br />
+<code>OBLAT=(2:DAT)-help</code><br />
+<em>I'm available to help (you).</em></p>
+</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="noun-roles"><a class="header" href="#noun-roles">Noun roles</a></h1>
+<p>With noun roles, as well as attributive and adverbial roles, Slot 2 is subdivised into the following subslots:</p>
+<pre><code>┌────┬───────┬──────────────────┐  
+│ №  │ Form  │  Name            │  
+├────┼───────┼──────────────────┤  
+│ 2a │  C    │  Outer Case      │  
+├────┼───────┼──────────────────┤  
+│ 2b │ Vy/Vw │  Saliency        │  
+├────┼───────┼──────────────────┤  
+│ 2c │ Vʼ    │  Scope           │  
+├────┼───────┼──────────────────┤  
+│ 2d │ Vy/Vw │  Determinacy     │  
+├────┼───────┼──────────────────┤  
+│ 2e │ V     │  Inner Case      │  
+│    │       │  / Subordination │  
+└────┴───────┴──────────────────┘  
+</code></pre>
+<p>There are two kinds of cases:</p>
+<ul>
+<li>Core cases, which indicate which slot of the predicate is selected;</li>
+<li>Adjunct cases, which are of circumstantial nature.</li>
+</ul>
+<p>Nouns bear two case affixes:</p>
+<ul>
+<li>The outer case, or external case, indicates the relationship between the noun and the main verb of the clause;</li>
+<li>The inner case, or internal case, indicates which argument slot of the predicate represented by the noun's root is used for defining the noun (for example, with the root ‘to eat’, which expresses a binary relation between two participants, each represented by a case —the eater and the eaten thing—, selecting the first slot would yield a noun ‘eater’, whilst selecting the second case would yield a noun ‘eaten thing’).</li>
+</ul>
+<p>In essence, Nahaıwa nouns may be analyzed as being one-word noun relative clauses, with the stem having a verbal meaning, and the inner case indicating which of the verb complements is the antecedent of the relative clause. Thusly, “eater” (“eat” + Ergative inner case) can be reworder using a relative clause as “that which eats”, “the one who eats”.</p>
+<p>Instead of an inner case value, slot 2c may contain one of several Subordinator values (those will be covered later).</p>
+<p>The outer case is represented by a consonantal prefix, followed by a vocalic affix indicating the second case. A further optional -Vy- or -Vw- affix, the Determinacy affix, may optionally occur in between them (its purpose will be explained later on).</p>
+<p>The language exhibits tripartite alignment. Word roots represent predicates with an arity (i.e. valency) between zero and four, i.e. governing at most four different arguments. Monovalent predicates govern only one case, the Intransitive Case. Bivalent predicates govern two different cases: the Ergative and the Accusative. Trivalent verbs also govern the Ergative and Accusative, with the addition of the Dative case for the additional argument. Tetravalent predicates (which are uncommon) also govern these three cases, with the addition of a fourth one, the Codative.
+As the choice of cases depends on the predicate's valency, it can be said that there exist a form of grammatical agreement between cases and predicate valency.</p>
+<h2 id="core-noun-case-affixes"><a class="header" href="#core-noun-case-affixes">Core noun case affixes:</a></h2>
+<p>OC ≝ External/outer case<br />
+IC ≝ Internal/inner case</p>
+<pre><code>┌──────────────┬────┬─────┬──────────────┐
+│   Valency    │ OC │ IC  │     Name     │
+├──────────────┼────┼─────┼──────────────┤
+│ Monovalent:  │ t  │ a   │ Intransitive │
+├──────────────┼────┼─────┼──────────────┤
+│ Bivalent:    │ c  │ ı   │ Ergative     │
+│              │ k  │ u   │ Accusative   │
+├──────────────┼────┼─────┼──────────────┤
+│ Trivalent:   │ c  │ ı   │ Ergative     │
+│              │ p  │ e   │ Dative       │
+│              │ k  │ u   │ Accusative   │
+├──────────────┼────┼─────┼──────────────┤
+│ Tetravalent: │ c  │ ı   │ Ergative     │
+│              │ p  │ e   │ Dative       │
+│              │ čʰ │ eı  │ Codative     │
+│              │ k  │ u   │ Accusative   │
+└──────────────┴────┴─────┴──────────────┘
+</code></pre>
+<p>Note: All of the outers case consonants above (as well as those for some other roles) can become ejectives (shown with a trailing <code>ʼ</code>) for marking the ‘Abstract Property’ Determinacy, see the chapter on Determinacy for details.</p>
+<p>Other core cases:</p>
+<pre><code>┌───────────────┬─────┬─────┐  
+│ Extensional   │  q  │  o  │   
+│ Eventive      │  š  │  ï  │  
+│ Propositional │  ł  │     │
+│ Situative     │  tʰ │  eo │  
+│ Sequential    │  ŋ  │     │  
+└───────────────┴─────┴─────┘  
+</code></pre>
+<p>In the first table of cases above, the cases shown are ordered according to an animacy and temporal/causal hierarchy: the first case listed represents the most animate participant, or the one triggering or exercicing the most control over the event described by the predicate, or occasionally, in the case of stative relations, it may be the largest or most concrete participant. Abstract propositions, properties and relations have lowest rank in this hierarchy, and will typically be associated with the last cases of each case list.</p>
+<p>Below are some examples of internal and external case uses with monovalent roots and stems (<code>-lı̋</code>, “asleep”; <code>-kóyu</code>, “dog”, <code>-cʰakóyu</code>, “the dog”):</p>
+<ul>
+<li>
+<p><strong>Iθalı̋.</strong><br />
+<code>ı=      θa-     lı̋</code><br />
+<code>ASR;SEN=EXO:NTR-asleep</code><br />
+<em>It is asleep.</em></p>
+</li>
+<li>
+<p><strong>Ilı̋ taθayá.</strong><br />
+<code>ı=      lı̋     t-  a-   θa-     yá</code><br />
+<code>ASR;SEN=asleep NTR-NTRᵢ-EXO:NTR-thing</code><br />
+<em>It is asleep.</em> </p>
+</li>
+<li>
+<p><strong>Ilı̋ tacʰakóyu.</strong><br />
+<code>ı=      lı̋     t-  a-   cʰa-    kóyu</code><br />
+<code>ASR;SEN=asleep NTR-NTRᵢ-DEF:NTR-dog</code><br />
+<em>The dog is asleep.</em></p>
+</li>
+</ul>
+<p>The root ⟪-lı̋⟫, meaning ⟪[NTR] is asleep⟫, is monovalent, and therefore governs only one noun case, the Intransitive case (<code>NTR</code>), with consonantal outer case form ⟪t-⟫, and vocalic inner case form ⟪-a-⟫.<br />
+In the first example above, “it” is expressed as the pronominal extensional prefix ⟪-θ◈-⟫ sporting the inner case vowel ⟪a⟫, indicating that it is the sole argument of the verb “sleep”. “It is asleep” can therefore be expressed as a single word.<br />
+In the second example, with the exact same meaning as the first, “it” is expressed as a separate word (with the dummy root ⟪-yá⟫), sporting the consonantal outer case ⟪t-⟫, again expressing the Intransitive case.</p>
+<p>Examples with the bivalent root <code>-ñú</code>, “eat”, governing the Ergative and Accusative cases:</p>
+<ul>
+<li>
+<p><strong>Unıθuñú.</strong><br />
+<code>u=      nı-   θu-     ñú</code><br />
+<code>ASR;REC=1:ERG-EXO:ACC-eat</code><br />
+<em>(I recall that) I ate it.</em></p>
+</li>
+<li>
+<p><strong>Unıñú kacʰastíñu.</strong><br />
+<code>U=      nı-   ñú  k-  a-   cʰa-    stíñu</code><br />
+<code>ASR;REC=1:ERG-eat ACC-NTRᵢ-DEF:NTR-food</code><br />
+<em>(I recall that) I ate the food.</em></p>
+</li>
+<li>
+<p><strong>Uñú cacʰakóyu kacʰastíñu.</strong><br />
+<code>U=      ñú  c-  a-   cʰa-    kóyu</code><br />
+<code>ASR;REC=eat ERG-NTRᵢ-DEF:NTR-dog</code><br />
+<code>k-  a-   cʰa-    stíñu</code><br />
+<code>ACC-NTRᵢ-DEF:NTR-food</code><br />
+<em>(I recall that) the dog ate the food.</em></p>
+</li>
+<li>
+<p><strong>Uñú kacʰastíñu.</strong><br />
+<code>U=      ñú  k-  a-   cʰa-    stíñu</code><br />
+<code>ASR;REC=eat ACC-NTRᵢ-DEF:NTR-food</code><br />
+<em>(I recall that) the food was eaten / something ate the food.</em></p>
+</li>
+<li>
+<p><strong>Uñú cacʰakóyu.</strong><br />
+<code>U=      ñú  c-  a-   cʰa-    kóyu</code><br />
+<code>ASR;REC=eat ERG-NTRᵢ-DEF:NTR-dog</code><br />
+<em>(I recall that) the dog ate (something).</em></p>
+</li>
+<li>
+<p><strong>Ukóyu tıcʰıñú.</strong><br />
+<code>U=      kóyu t-  ı-   cʰı-    ñú</code><br />
+<code>ASR;REC=dog  NTR-ERGᵢ-DEF:ERG-eat</code><br />
+<em>(I recall that) the eater was a dog.</em></p>
+</li>
+<li>
+<p><strong>Ukóyu tucʰuñú.</strong><br />
+<code>U=      kóyu t-  u-   cʰu-    ñú</code><br />
+<code>ASR;REC=dog  NTR-ACCᵢ-DEF:ACC-eat</code><br />
+<em>(I recall that) the eaten thing was a dog.</em></p>
+</li>
+</ul>
+<p>When a verb governs two or more nouns, their relative order of appearance has no significance on the utterance's meaning, it has no effect on information structure (topicality, focus…); the default order is the same as the one presented in the cases table above, following the hierarchy Ergative → Dative → Codative → Accusative. However their order can be freely changed to the convenience of the speaker, for example for moving a heavy complement, such as a subordinate clause, to the right edge of the clause for avoiding center embedding.</p>
+<p>Below is an explanation of the functions of the other core cases mentioned in the second table above.</p>
+<ul>
+<li>
+<p>The Extensional Case, or ‘Affixal Case’, is governed by certain extensional prefixes, which intoduce a new participant to the relationship expressed by the verb. For example, a causative extensional prefix will add a ‘causer’ participant, which will then be accessible via the Extensional Case.</p>
+<ul>
+<li>
+<p><strong>Unoqaoñú cacʰakóyu.</strong><br />
+<code>u=      no-   qao- ñú  c-  a-   cʰa-    kóyu</code><br />
+<code>ASR;REC=1:EXT-CAUS-eat ACC-NTRᵢ-DEF:NTR-dog</code><br />
+<em>(I recall that) I made the dog eat (something).</em></p>
+</li>
+<li>
+<p><strong>Uqaoñú qıcʰıʎáoko cacʰakóyu kacʰastíñu.</strong><br />
+<code>U=      qao- ñú  q-  ı-   cʰı-    ʎáoko</code><br />
+<code>ASR;REC=CAUS-eat EXT-ERGᵢ-DEF:ERG-take_care</code><br />
+<code>c-  a-   cʰa-    kóyu k-   a-  cʰa-    stíñu</code><br />
+<code>ERG-NTRᵢ-DEF:NTR-dog  ACC-NTRᵢ-DEF:NTR-food</code><br />
+<em>(I recall that) the caretaker made the dog eat the food.</em></p>
+</li>
+</ul>
+</li>
+<li>
+<p>The Eventive Case may appear with pretty much any verb; it marks a noun that refers to a concrete spatiotemporal event corresponding to the abstract proposition expressed by the verb. Its purpose is much comparable to that of manner adverbs in English, expressing a quality of an event, such as “suddenly”, “beautifully”, “surprisingly”…</p>
+<ul>
+<li>
+<p><strong>Iθırí šunıʎáıwa.</strong><br />
+<code>ı=      θı-     rí      š- u-   nı-   ʎáıwa</code><br />
+<code>ASR;SEN=EXO:ERG-walk_on EV-ACCᵢ-1:ERG-find_beautiful</code><br />
+<em>They walk in a manner that is beautiful to me.</em></p>
+</li>
+<li>
+<p><strong>Inıʎáıwa kïθırí.</strong><br />
+<code>ı=      nı-   ʎáıwa          k-  ï-  θı-     rí</code><br />
+<code>ASR;SEN-1:ERG-find_beautiful ACC-EVᵢ-EXO:ERG-walk_on</code><br />
+<em>I find beautiful their walking.</em></p>
+</li>
+</ul>
+</li>
+<li>
+<p>The Propositional Case is much similar to the Eventive case above, but describes the abstract proposition represented by the current clause, and not describing its concrete, physical spatiotemporal manifestation (event). It is suitable for expressing adverbs like &quot;probably&quot;, &quot;arguably&quot;, &quot;frequently&quot;, but not adverbs about specific individual events such as &quot;beautifully&quot; or “suddenly”, for which the Eventive Case would be appropriate.</p>
+<ul>
+<li><strong>Uršı̋ łaƛaokwáı.</strong><br />
+<code>u=      ršı̋  ł-  a-   ƛao-       kwáı</code><br />
+<code>ASR;REC=rain PRP-NTRᵢ-repeatedly-true</code><br />
+<em>(I remember that) it rained repeatedly.</em></li>
+</ul>
+</li>
+<li>
+<p>The Situative Case marks nouns referring to a world or a volume of spacetime within which the proposition expressed by the verb is true. For it to apply, the event and the target spacetime area must be entirely encompassed by the referent of the marked noun.</p>
+</li>
+</ul>
+<h2 id="non-core-adjunct-cases"><a class="header" href="#non-core-adjunct-cases">Non-core (adjunct) cases:</a></h2>
+<pre><code>┌───────────────┬─────┐  
+│ Pendent       │  ƛ  │  
+│ Instrumental  │  ƛʰ │  
+│ SP Locative   │  s  │  
+└───────────────┴─────┘  
+</code></pre>
+<ul>
+<li>
+<p>The Pendent Case introduces a noun phrase without stating any relation between it and the current clause, and binds it to the Pendent pronoun (whose extensional form is ⟪-ƛ◈-⟫, with ⟪◈⟫ representing an Inner Case vowel). This allows the introduced noun phrase (now bound to the pendent pronoun) to be used latter, possibly in a subordinate clause not yet opened. This is especially useful for expressing quantification binding a variable that is not used in the same clause as the one in which the quantifier appears, but rather in a more deeply nested clause:</p>
+<ul>
+<li><strong>Anıtʰú ƛïyaltaθayá kaohakʰaoƛıkepákı.</strong><br />
+<code>a=      nı-   tʰú      </code><br />
+<code>ASR;NFR=1:ERG-deem_true</code><br />
+<code>ƛ-  ïy-a-   lta-      θa-     yá</code><br />
+<code>PND-∄- NTRᵢ-among:NTR-EXO:NTR-thing</code><br />
+<code>k-  ao= ha- kʰao- ƛı-        ke-   pákı</code><br />
+<code>ACC-DCS-NEG-POSB-PND_PRO:ERG-2:DAT-help</code><br />
+<em>I expect, for none of them, that it's not possible that he/she help you.</em><br />
+———<br />
+Here, the affix ⟪<strong>-ïy-</strong>⟫ is the <em>Nonexistential Determinacy</em>. See <a href="morphology/roles/determinacy.html">the Determinacy section</a> for details.</li>
+</ul>
+</li>
+<li>
+<p>The Instrumental Case marks a noun referring to an instrument used by the referent of the most animate slot of the verb (e.g. the ⟪c-⟫ Ergative Case participant of bivalent and trivalent predicates) for achieving the action described by the current clause.</p>
+<ul>
+<li><strong>Iθıwétakı kʼakóyu ƛʰaƛʰísı.</strong><br />
+<code>ı=      θı-     wétakı           kʼ-      a-   kóyu</code><br />
+<code>ASR;SEN꞊EXO:ERG-draws_depiction  ACC;PROP-NTRᵢ-is_a_dog</code><br />
+<code>ƛʰ- a-   ƛʰísı</code><br />
+<code>INS-NTRᵢ-is_a_pencil</code><br />
+<em>They draw (a representation of) dogness, using a pencil.</em></li>
+</ul>
+</li>
+<li>
+<p>The Spatiotemporal Locative Case marks nouns referring to a volume of spacetime where the event described is taking place. For it to apply, the event and the target spacetime area must simply overlap, the event needs not be entirely encompassed by that area.</p>
+<ul>
+<li><strong>Iłı̋ł sakoŋqʼaqʰáƛʰï.</strong><br />
+<code>ı=      łı̋ł     s-  a-   ko-   ŋqʼa-   qʰáƛʰï</code><br />
+<code>ASR.SEN꞊is_mud  LOC-NTRᵢ-2:EXT-part_of-is_fur</code><br />
+<em>(I see that) there's mud on your fur.</em></li>
+</ul>
+</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="subordinators"><a class="header" href="#subordinators">Subordinators</a></h1>
+<p>Subordinator values (slot 2c):</p>
+<pre><code>┌────────────────────────────┬─────┐  
+│ Relative clause            │ aı  │  
+│ Plain content clause       │ ao  │  
+│ Polarity clause            │ ea  │  
+│ Unary template clause      │ oı  │  
+│ Binary Template Clause     │ oa  │  
+│ Ternary Template Clause    │ eʼe │  
+│ Quaternary Template Clause │ oʼo │  
+└────────────────────────────┴─────┘  
+</code></pre>
+<p>These morphemes occupy the same slot as Inner Cases (slot 2c), but are not true Cases. They turn the words which bear them into <em>subordinated verbs</em>, words that have the special syntactic effect of opening a whole subordinate clause (which may be exited for returning to the outer clause by using an appropriate Anchoring proclitic; see the section <a href="morphology/roles/../anchoring-slot.html">Anchoring Slot</a>).</p>
+<p>A clause is a syntactic structure made of a verb possibly accompanied by one or several complements, be them core argument complements, or circumstantial adjuncts (e.g. indication of time, place, manner, cause…). All sentences contain at least one clause, the root clause, hosting the root verb, which is the only finite verb in Nahaıwa. A sentence may optionally contain subordinate clauses, potentially nested into one another; subordinate clauses may assume a variety of different functions, they may act as nominal arguments for verbs (as in the English <em>⟪I know that [you know]⟫</em>), or as attributives attaching to a noun (<em>⟪I saw the man [whom you saw]⟫</em>), or as adverbials adding circumstantial information (<em>⟪I stayed home because [it rained all day]⟫</em>).</p>
+<p>In Nahaıwa, the subordinate verbs are a hybrid part of speech: from the point of view of the interior of the subordinate clause they open, they act like normal verbs; but from the point of view of the outside of the subclause, they can assume any function a normal contentive word can assume, depending on the role/case consonantal inflection which they bear.</p>
+<p>Even if all the different morphemes shown in the table above cause the opening of a subordinate clause, they differ in what kind of clause is created. The different types are detailed one by one in the following sections.</p>
+<p>In addition to occurring in slot 2c, Subordinators may also occur as extensional prefixes, with a glottal stop ⟪<strong>ʼ</strong>⟫ prefixed to their vocalic form (for example, ⟪<strong>-ʼao-</strong>⟫ for the plain content clause subordinator).</p>
+<h2 id="relative-clauses"><a class="header" href="#relative-clauses">Relative clauses</a></h2>
+<p>Relative clauses are clauses that refer to one of the participants (called the ‘antecedant’) mentioned within the clause and represented by the <em>‘resumptive pronoun’</em> (<code>RSM</code> in glosses), whose whose extensional form is ⟪-t◈-⟫; the relative clause describes its antecedent, and the whole relative clause's referent is the antecedent itself.<br />
+Nahaıwa ‘nouns’, such as ⟪<strong>takóyu</strong>⟫ “a dog”, can be regarded as actually be reduced relative clauses, where the inner case affix (here ⟪<strong>-a-</strong>⟫) acts as a vestigial relative pronoun inflecting for case. All such ‘nouns’ can be expanded to full-fledged relative clauses using the subordinator ⟪<strong>-aı-</strong>⟫, and a resumtive pronominal bearing the same case vowel as the original noun's inner case:</p>
+<ul>
+<li>⟪<strong>takóyu</strong>⟫ ↦ ⟪<strong>taıtakóyu</strong>⟫<br />
+<code>t-aı-ta-kóyu</code><br />
+<code>NTR-REL-RSM:NTR-is_dog</code><br />
+<em>One which (it) is a dog.</em></li>
+<li>⟪<strong>tıñú</strong>⟫ ↦ ⟪<strong>taıtıñú</strong>⟫<br />
+<code>t-aı-tı-ñú</code><br />
+<code>NTR-REL-RSM:ERG-eat</code><br />
+<em>One which (it) eats.</em></li>
+<li>⟪<strong>tuñú</strong>⟫ ↦ ⟪<strong>taıtuñú</strong>⟫<br />
+<code>t-aı-tu-ñú</code><br />
+<code>NTR-REL-RSM:ERG-eat</code><br />
+<em>One which (something) eats it; one which is eaten.</em></li>
+</ul>
+<p>However, unlike simple nouns, nominal relative clauses allow a greater complexity in the description of the referent, allowing a full clause, made of a verb and zero or more complements, to be used as the descriptor:</p>
+<ul>
+<li>
+<p><strong>taıtuñú cacʰakóyu</strong><br />
+<code>t-  aı= [ tu-     ñú  c-  a-   cʰa-kóyu ]</code><br />
+<code>NTR-REL=[ RSM:ACC-eat ERG-NTRᵢ-DEF-dog  ]</code><br />
+<em>One which [the dog ate <strong>it</strong>].</em></p>
+</li>
+<li>
+<p><strong>taıłı̋ł sakoŋqʼaqʰáƛʰï</strong><br />
+<code>t-  aı= [ łı̋ł s-  a-   to-     ŋqʼa-   qʰáƛʰï</code><br />
+<code>NTR-REL=[ mud LOC-NTRᵢ-RSM:EXT-part_of-fur</code><br />
+<em>One which [there's mud on <strong>their</strong> fur]; one with mud on their fur.</em></p>
+</li>
+<li>
+<p><strong>taınıtʰú kaokıtunčáwa</strong><br />
+<code>t-  aı= [ nı-   tʰú</code><br />
+<code>NTR-REL=[ 1:ERG-deem_true</code><br />
+<code>k-  ao=[  kı-   tu-     nčáwa       ] ]</code><br />
+<code>ACC-DCS=[ 2:ERG-RSM:ACC-acquitained ] ]</code><br />
+<em>One which [I expect that [you are acquitained with (<strong>them</strong>)]].</em></p>
+</li>
+</ul>
+<p>Like simple nouns, the consonantal Outer Case or Role of relative clauses shows the role it plays as a whole within the outside clause:</p>
+<ul>
+<li><strong>Oθınepá kaıraoncʰetupá caqaséwa.</strong><br />
+<code>o=      θı-     ne-   pá</code><br />
+<code>ASR;RPT=EXO:ERG-1:DAT-say</code><br />
+<code>k-  aı= rao-ncʰe-       tu-     pá</code><br />
+<code>ACC-REL=RET-ERG_PRO:DAT-RSM:ACC-say</code><br />
+<code>c-  a-   qa-                      séwa</code><br />
+<code>ERG-NTRᵢ-named_after_property:NTR-flower</code><br />
+<em>(I heard that) they said to me the same thing as Sewa (Flower) had said to them.</em></li>
+</ul>
+<p>For using a relative clause attributively, attaching it to an external noun, like relative clauses in English, the Attributive Role ⟪<strong>l-</strong>⟫ must be used instead of a core noun case consonant:</p>
+<ul>
+<li><strong>Unıʎú kacʰól laıkıneyı̋čal kaoθıtuyálı.</strong><br />
+<code>U=      nı-   ʎú  k-  a-   cʰól</code><br />
+<code>ASR.REC=1:ERG-go  ACC-NTRᵢ-building</code><br />
+<code>l-  aı= kı-   ne-   yı̋čal</code><br />
+<code>ATR-REL=2:ERG-1:DAT-assert</code><br />
+<code>k-  ao= θı-     tu-     yálı</code><br />
+<code>ACC-DCS=EXO:ACC-RSM:ACC-inhabit</code><br />
+<em>(I recall that) I went to the building which you told me that they inhabit.</em></li>
+</ul>
+<h2 id="plain-declarative-content-clauses"><a class="header" href="#plain-declarative-content-clauses">Plain (declarative) content clauses</a></h2>
+<p>Content clauses, unlike relative clauses, do not involve any resumptive pronoun, and the referent of a content clause is the whole of its content, and not just one single element within it. Plain, declarative content clauses, opened by the subordinator ⟪<strong>-ao-</strong>⟫ (glossed <code>DCS</code>), represent the abstract proposition described by the clause, corresponding to the non-relative use of the ⟪that⟫ subordinator in English, as in the sentence ⟪I know that you know⟫.</p>
+<ul>
+<li><strong>Inıráyu kaoleršı̋.</strong><br />
+<code>ı=      nı-   ráyu  k-  ao= le- ršı̋ </code><br />
+<code>ASR;SEN=1:ERG-wish  ACC-DCS=FUT-rain</code><br />
+<em>I wish that it will rain.</em></li>
+</ul>
+<p>Another kind of content clause is the <em>‘polarity clause’</em>, opened by the subordinator ⟪<strong>-ea-</strong>⟫ (glossed <code>PCS</code>), corresponding to the English ⟪whether⟫, is used for embedded polar interrogative clauses:</p>
+<ul>
+<li><strong>Mıkıtʰú kealeršı̋ saháoye.</strong><br />
+<code>mı=kı-   tʰú       k-   ea= le- ršı̋</code><br />
+<code>PQ=2:ERG-deem_true ACC-PCS=FUT-rain</code><br />
+<code>s-  a-   háoye</code>
+<code>LOC-NTRᵢ-today</code><br />
+<em>Do you know whether it will rain today?</em></li>
+</ul>
+<h2 id="template-clauses"><a class="header" href="#template-clauses">Template clauses</a></h2>
+<p>Template clauses are similar to content clauses but contain ‘blanks’, parts that have been abstracted away, similarly to blanks in a form, ready to be filled in. A template clause defines a predicate, and each ‘blank’ corresponds to one of the argument slots of the predicate. Each such blank or slot is represented by a so-called <em>‘lambda pronoun’</em> (named after lambda calculus). There is one vocalic morpheme for each predicate valency, and each valency has its own set of lambda pronouns. Like other Nahaıwa pronominals, the lambda pronouns are extensional prefixes, with a variable vowel representing an Inner Case, represented as ⟪◈⟫ in the table below:</p>
+<pre><code>┌────────────────────────────┬─────┬────────────────────┐  
+│ Function                   │ V   │ Lambda pronoun set │  
+├────────────────────────────┼─────┼────────────────────┤  
+│ Unary Template Clause      │ oı  │ tʼ◈                │  
+│ Binary Template Clause     │ oa  │ cʼ◈, kʼ◈           │  
+│ Ternary Template Clause    │ eʼe │ cʼ◈, pʼ◈, kʼ◈      │  
+│ Quaternary Template Clause │ oʼo │ cʼ◈, pʼ◈, čʼ◈, kʼ◈ │  
+└────────────────────────────┴─────┴────────────────────┘  
+</code></pre>
+<p>It is noteworthy that the consonant of the lambda pronominals is the ejective version fo the consonant of corresponding outer case's consonantal morpheme.</p>
+<p>Ternary and Quaternary template clauses are rare in usage. Unary (monovalent) templates define a monovalent predicate, with a single argument. These are also called <em>‘properties’</em>. Binary (bivalent) templates define bivalent predicates, with two arguments; these are also called <em>‘bivalent relations’</em>, or <em>‘binary relations’</em> (relating the two arguments together).</p>
+<p>Most of the time, template clauses are used as arguments for so-called <em>higher-order predicates</em>, i.e. predicates which take other abstract predicates as arguments. In the dictionary, when an argument slot expects one of these, the words “property” and “relation” are used in the definition, depending on the required valency.</p>
+<ul>
+<li>
+<p><strong>Inıkeyéwa koıtʼınepákı.</strong><br />
+<code>ı=      nı-   ke-   yéwa</code><br />
+<code>ASR;SEN=1:ERG-2:DAT-grateful</code><br />
+<code>k-  oı= tʼı-        ne-   pákı</code><br />
+<code>ACC-UTC=NTR_LAM:ERG-1:DAT-help</code><br />
+<em>I am grateful to you for having helped me.</em><br />
+————<br />
+⸨Here, <code>NTR_LAM</code> represents the Intransitive Case Lambda pronominal <strong>-tʼ◈-</strong>, governed by the unary template subordinator <strong>-oı-</strong>.⸩</p>
+</li>
+<li>
+<p><strong>Aŋkıpθú koacʼıtʰú kaoθıkʼutwá.</strong><br />
+<code>a=      ŋkı-   pθú   </code><br />
+<code>ASR;INF=12:ERG-differ</code><br />
+<code>k-  oa= cʼı-        tʰú</code><br />
+<code>ACC-BTC=ERG_LAM:ERG-deem_true</code><br />
+<code>k-  ao= θı-     kʼu-        twá</code><br />
+<code>ACC-DCS꞊EXO:ERG-ACC_LAM:ACC-intend</code><br />
+<em>We (me+you) differ in what we think he intends to do.</em><br />
+————<br />
+⸨Here, <code>ERG_LAM</code> and <code>ACC_LAM</code> respectively represent the Ergative Case Lambda pronominal <strong>-cʼ◈-</strong> and the Accusative Case Lambda <strong>-kʼ◈-</strong>, both governed by the binary template subordinator <strong>-oa-</strong>.⸩</p>
+</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="saliency"><a class="header" href="#saliency">Saliency</a></h1>
+<pre><code>┌───────────────────────┬──────┐  
+│ Elucidative focus     │  aw  │  
+│ Presupposition marker │  ay  │ 
+└───────────────────────┴──────┘  
+</code></pre>
+<p>◉ The <strong>Elucidative Focus</strong> ⟪-aw-⟫ serves the purpose of indicating the part of a clause that expresses new information, the part that answers an interrogation of the audience, be it an explicit question, of an implicit, assumed one. In English, this function can be expressed either with an emphatic intonation on the focused word, or by using a syntactic cleft of the form ⟪it is [focus] which/who ……⟫, for example, ⟪it was me who took it⟫, which may be a suitable answer to the question ⟪who took it?⟫.<br />
+When a clause does not contain an Elucidative Focus, the clause's verb plays the role of indicating the most salient new information.</p>
+<pre><code>┌───────────────
+│ ◆ Iθutákı cawanayá.
+│ ❖ ASR.SEN-EXO:ACC-√draw ERG-EF-NTR-1P:NTR-√thing
+│ ➥ It is me who drew it.
+└─
+┌───────────────
+│ ◆ Inayá tayewaθutákı.
+│ ❖ ASR.SEN-1P:NTR-√thing  NTR--BG-CUQ-NTR-EXO:ACC-√draw
+│ ➥ All who drew it is me.
+│   / The one who drew it is me.
+└─
+</code></pre>
+<p>◉ The <strong>Presuppositional Marker</strong>, or <strong>Background Marker</strong>, ⟪-ay-⟫, indicates elements that are presupposed to exist, or presupposed to be true in the sentence. Presuppositions stand out more in non-assertive sentences, such as interrogative sentences:</p>
+<pre><code>┌───────────────
+│ ◆ Ikayá tayaθutákı.
+│ ❖ ASR.SEN꞊1:NTR-√thing  NTR-BG-NTR-EXO:ACC-√draw
+│ ➥ Are you the one(s) who drew it?
+│   ⸨Presupposition: someone drew it.⸩
+└─
+┌───────────────
+│ ◆ Mułčʼé tayakaılcʰuʎún.
+│ ❖ PQ꞊√ill  NTR-BG-NTR-2:EXT-same:ACC-√biological_parent
+│ ➥ Is your (biological) sibling ill?
+│   ⸨Presupposition: you have a (biological) sibling.⸩
+└─
+┌───────────────
+│ ◆ Mukıtʰú kayaoθıraoθı̋čıl.
+│ ❖ PQ꞊2:ERG-√expect  NTR-BG-DCS꞊EXO:ERG-RET-√give_birth
+│ ➥ Do you know that she has given birth?
+│   ⸨Presupposition: she has given birth.⸩
+└─
+</code></pre>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="determinacy"><a class="header" href="#determinacy">Determinacy</a></h1>
+<h2 id="affixes"><a class="header" href="#affixes">Affixes</a></h2>
+<p>Determinacy affixes are optional and occur in slot 2b.</p>
+<pre><code>┌────────────────────────────────────┬────────┐  
+│ Abstract property                  │ oy / ʼ │  
+│ Collective universal quantifier    │ ew     │  
+│ Distributive universal quantifier  │ ıw     │  
+│ Existential quantifier             │ uy     │  
+│ Nonexistential quantifier          │ ïy     │  
+│ Unary quantifierizer               │ ey     │  
+└────────────────────────────────────┴────────┘  
+</code></pre>
+<p>◉ The <strong>Abstract Property</strong> ⟪-oy-⟫ or ⟪-ʼ-⟫ is essentially a shorthand for unary template clauses; it is comparable to an infinitive.</p>
+<pre><code>┌───────────────
+│ ◆ Ikeyéwa koyınepákı.  /  Ikeyéwa kʼınepákı.
+│ ❖ ASR.SEN-2:DAT-√grateful  ACC-PROP-ERG-1:DAT-√help
+│ ➥ (I am) grateful to you for helping me.
+└─
+</code></pre>
+<p>This sentences means the same as ⟪Ikeyéwa koıtʼınepákı⟫ (using the ⟪oı⟫ subordinator), but unlike that latter, it does not open a subordinate clause.</p>
+<p>For all noun roles, with the exception of the Discourse Pendent role, the Abstract Property can also be expressed as glottalization of the noun role consonant. ⟪kʼınepákı⟫ means therefore the same as ⟪koyınepákı⟫.</p>
+<h2 id="scope-prefixes"><a class="header" href="#scope-prefixes">Scope prefixes</a></h2>
+<p>Optionally, a Scope prefix can precede a determinacy affixes.</p>
+<pre><code>┌────────────────────────┬────┐  
+│ Middle scope (default) │ ∅  │  
+│ High scope             │ aʼ │  
+│ Low scope              │ ıʼ │ 
+└────────────────────────┴────┘  
+</code></pre>
+<p>A high-scope determinacy will have logical scope over all other determinacies in the same clause.<br />
+A low-scope determinacy will conversely be below the scope of all other explicit determinacies, but still have higher scope than covert existential quantification of contentives lacking any overt determinacy marking.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="other-case-like-roles"><a class="header" href="#other-case-like-roles">Other case-like roles</a></h1>
+<p>These Role prefixes (Slot 2a) behave much like noun cases, although the syntactic roles they govern aren't nominal; like noun cases, they are accompanied by an Inner Case vocalic affix, and an optional Determinacy affix.</p>
+<h2 id="adjunct-roles"><a class="header" href="#adjunct-roles">Adjunct roles</a></h2>
+<pre><code>┌─────────────────────┬─────┐  
+│ Interjective        │  y  │  
+│ Plural union        │  n  │  
+│ Sequential          │  ŋ  │  
+│ Attributive         │  l  │  
+└─────────────────────┴─────┘  
+</code></pre>
+<p>• The Interjective Case turns a contentive word into an interjection, meaning that the speaker is satisfying the selected case role of the predicate at the present moment.</p>
+<pre><code>  ┌───────────────  
+  │ ◆ Yıƛʼé.  
+  │ ❖ ITJ-ERGᵢ-feel_pain  
+  │ ➥ Ouch!  
+  └─  
+</code></pre>
+<p>• The Plural Union Case has a special syntax: instead of complementing the clause's verb, it links together the marked noun and the immediately preceding one, merging them into a single new noun whose referents are the union of the referents of the two target nouns; this corresponds to certain usages of the word ⟪and⟫ and the expression ⟪together with⟫ in English.<br />
+The two following example sentences illustrate the difference between the ‘logical AND’ and the plural union:</p>
+<pre><code>  ┌───────────────  
+  │ ◆ Ici̋ tacʰakóyu ñaʼáı tacʰaƛúrı ne.  
+  │ ❖ ASR.SEN꞊√is_one  NTR-NTRᵢ-DEF:NTR-√dog  DPCZ-√and  
+  │   NTR-NTRᵢ-DEF:NTR-√cat  EOT  
+  │ ➥ Both the dog and the cat are one/single. [EOT]  
+  └─  
+</code></pre>
+<pre><code>  ┌───────────────  
+  │ ◆ Irú tacʰakóyu nacʰaƛúrı ne.  
+  │ ❖ ASR.SEN꞊√are_two  NTR-NTRᵢ-DEF:NTR-√dog  
+  │   PU-NTRᵢ-DEF:NTR-√cat  EOT  
+  │ ➥ The dog together with the cat are two. [EOT]  
+  └─  
+</code></pre>
+<p>• The Sequential Case is a special case exclusively used for listing nouns that make up a plural reference or a sequence/list, as initiated by a special prefix such as ⟪-ʎp-⟫ (plural union initiator) or ⟪-pš-⟫ (sequence initiator). This case is applied to all non-initial members of the list; the first member's case indicates the syntactic role of the whole list.</p>
+<pre><code>┌───────────────
+│ ◆ Aŋkaʎpanayá ŋakayá.
+│   A꞊ŋka-{ʎp-[a-na-yá] ŋ-[a-ka-yá]}.
+│ ❖ ASR.NFR꞊12:NTR-PUI-NTR-1:NTR-thing SEQ-NTR-2:NTR-thing
+│ ➥ We are me together with you.
+└─
+</code></pre>
+<p>• The Attributive Case turns the contentive word into a restrictive modifier targeting an immediately preceding contentive bearing an Inner Case slot <code>2c</code>, be it a noun, an adverb or another adjective. The contentive bearing the Attributive Case express an additional property of the referent of the preceding contentive, as selected by the Inner Case of that preceding contentive. The two words (the adjective and the word it modifies) are semantically conjoined by a ‘logical AND’ conjunction, i.e. the two words express two different properties or descriptions of their common referents.</p>
+<pre><code>  ┌───────────────  
+  │ ◆ Unınθıcál kacatʼí lalé.  
+  │ ❖ REC꞊1:ERG-ASO:ERG-see_stimulus  
+  │   NOM-NTRᵢ-one_in_number:NTR-bird ATR-NTRᵢ-blue  
+  │ ➥ We saw a blue bird. (Something that is blue and is a bird.)  
+  └─  
+</code></pre>
+<h2 id="discourse-level-roles"><a class="header" href="#discourse-level-roles">Discourse-level Roles</a></h2>
+<pre><code>┌─────────────────────┬─────┐  
+│ Vocative            │  w  │  
+│ Topical             │  r  │  
+│ Discourse Situative │  qʰ │  
+└─────────────────────┴─────┘  
+</code></pre>
+<p>• The Vocative Case indicates the identity of the intended recipient of the utterance, the addressee.</p>
+<pre><code>  ┌───────────────  
+  │ ◆ Waqaséʼ, mıkıtʼušatʰıwá.  
+  │ ❖ VOC-NTRᵢ-the_one_named_after_property:NTR-cloud  
+  │   P꞊2:ERG-NTR_LAM:NTR-PROG-is_intentionally:ERG-has_property  
+  │ ➥ Cloud, what are you doing?  
+  └─  
+</code></pre>
+<p>• The Topical Case, or Discourse Pendent Case, marks the topic of the following sentence.</p>
+<p>• The Discourse Situative sets the frame or context in which the following discourse is true. It is the discourse-level equivalent of the Situative Case.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="other-roles"><a class="header" href="#other-roles">Other roles</a></h1>
+<pre><code>┌────────────────────────────────────────┬─────┐  
+│ Dislocated Predicate                   │ hı  │  
+│ Coordinative                           │ hu  │  
+│ Direct propositional coordinationizer  │ ña  │  
+│ Inverse propositional coordinationizer │ ñu  │  
+│ Direct eventive coordinationizer       │ ñaı │  
+│ Inverse eventive coordinationizer      │ ñao │  
+│ Direct binary quantifierizer           │ ʎa  │  
+│ Inverse binary quantifierizer          │ ʎu  │  
+│ Afterthought relativizer               │ ʎaı │  
+│ Echo-Resumptive                        │ θı  │  
+└────────────────────────────────────────┴─────┘  
+</code></pre>
+<h2 id="dislocated-predicate"><a class="header" href="#dislocated-predicate">Dislocated Predicate</a></h2>
+<p>The Dislocated Predicate (DP) Role ⟪hı-⟫ is used for displacing a verb stem away from its normal position at the start of the clause, position that must then be occupied by a dummy substitute root, devoid of meaning but nonetheless announcing the valency of the forthcoming dislocated verb. The predicate substitute roots are ⟪-wáʼ⟫ (monovalent), ⟪-ráʼ⟫ (bivalent) and ⟪-káoʼ⟫ (trivalent). The actual predicate of the clause can then be placed anywhere within the same clausal level, and is marked with the Dislocated Predicate Role, as examplified below:</p>
+<pre><code>┌───────────────  
+│ ◆ Aıráʼ cacʰatʼí hınucál. 
+│ ❖ ASR꞊DUMMY  NTR-NTR-DEF:NTR-bird  DP-1:ACC-see_stimulus  
+│ ➥ The bird sees me. 
+└─  
+</code></pre>
+<p>Which means exactly the same as ⟪Aınucal cacʰatʼí⟫. </p>
+<h2 id="echo-resumptive"><a class="header" href="#echo-resumptive">Echo-Resumptive</a></h2>
+<p>The Echo-Resumptive ⟪θı-⟫ prefixes a word base that is a repetition of a base which already occurred in the head of a clause, and it indicates a return to that clause level, specifically the closest clause level headed with this root if there are several ones, with the result that any following complement belongs to that clause level.</p>
+<pre><code>  ┌───────────────  
+  │ ◆ Učʰıneyı̋čal kaočʰıłčʼé, θıyı̋čal saƛwíhaoye.
+  │ ❖ REC꞊TOP_PN:ERG-1:DAT-√assert  ACC꞊DCS꞊TOP_PN:ERG-√is_ill
+  │   ECHO-√assert  LOC꞊NTR-is_yesterday  
+  │ ➥ They told me that they are ill, (they told) yesterday. 
+  └─  
+</code></pre>
+<p>In the example above, the speaker wanted to specify in afterthought that the assertion was made the day before, and thus needed to exit the content clause ⟪that they are ill⟫ —lest the claim would become that it was the illness that occurred the day before—, and the Echo-Resumptive allowed them to do so by specifying the verb root of the clause returned to, so as to anchor ⟪yesterday⟫ to the correct clause, the one of the verb ⟪assert⟫.
+It would be equally valid to use the Post-Subordinative Anchoring ⟪θa꞊⟫ (see the section <a href="morphology/roles/../anchoring-slot.html">Anchoring Slot</a>) instead of the Echo-Resumptive, yielding the sentence ⟪Učʰıneyı̋čal kaočʰıłčʼé, <strong>θa</strong>saƛwíhaoye.⟫. However, the Echo-Resumptive can allow exiting several levels of clause nesting at once, and is therefore more powerful in complex utterances.</p>
+<h2 id="afterthought-relativizer"><a class="header" href="#afterthought-relativizer">Afterthought Relativizer</a></h2>
+<p>The Afterthought Relativizer, or Retroactive Cleft, is a special Role that terminates the current clause (even if it is the root clause), binds the proposition described by the clause to the Pendent pronoun, then turn the clause into a pendent-like expression hanging at the beginning of a new clause, whose main verb is the contentive bearing the Afterthought Relativizer Role.</p>
+<pre><code>  ┌───────────────  
+  │ ◆ Aılé tacʰatʼí, ʎaıθınetuyi̋čal.  
+  │ ❖ ASR꞊√is_blue  NTR-NTR-DEF:NTR-√bird  
+  │   ATR-you_know_what:ERG-me:DAT-RSM:ACC-√assert_to  
+  │ ➥ The bird was blue, they said to me.  
+  └─  
+</code></pre>
+<p>If the Afterthought Relativizer is used on the root clause whose root verb bears non-null Evidentiality, then the scope of the Evidentiality remains that of the clause terminated by the Afterthought Relativizer, as opposed of scoping over the whole sentence. The relation between the Evidentiality and the terminated clause is incidental, non-restrictive.</p>
+<pre><code>  ┌───────────────  
+  │ ◆ Olé tacʰatʼí, ʎaıθınetuyi̋čal.  
+  │ ❖ ASR.RPT꞊√is_blue  NTR-NTR-DEF:NTR-√bird  
+  │   ATR-you_know_what:ERG-me:DAT-RSM:ACC-√assert_to  
+  │ ➥ I heard that the bird was blue, that's what they said to me (at least).  
+  └─  
+</code></pre>
+<h2 id="coordinative-and-coordinationizers"><a class="header" href="#coordinative-and-coordinationizers">Coordinative and Coordinationizers</a></h2>
+<p>The direct and inverse coordinationizers can only be applied to binary roots expressing a relation between two propositions, such as logical connective predicates like ⟪-áı⟫, &quot;and&quot;. They convert the binary predicate into an afterthought, interposed conjunction, a conjunction placed between the two connectands it governs.<br />
+In the case of the direct version, the first connectand goes into the ERG slot and the second one in the ACC slot; with the inverse coordinationizer, it's the other way around. The difference is insignificant if the binary relation is reflexive, i.e. reciprocal.<br />
+The propositional versions take two propositions as their arguments; the eventive versions take as arguments events instantiating the propositions, i.e. the physical manifestation of these abstract propositions.<br />
+When two noun phrases are conjoined with a conjunction, the two must bear the same noun case. When two verbs in the same clause are conjoined, the second one bears the Coordinative Role ⟪hu-⟫.<br />
+A bare Coordinative Role, not preceded by a conjunction word, is a shorthand for a logical AND conjoining two verbs, i.e. with the ⟪ñaʼáı⟫ conjunction left out implicit.</p>
+<pre><code>  ┌───────────────  
+  │ ◆ Ici̋ tacʰakóyu ñaʼáı tacʰaƛúrı.  
+  │ ❖ ASR.SEN꞊√is_one  NTR-NTR-DEF:NTR-√dog  DPCZ-√and  
+  │   NTR-NTRᵢ-DEF:NTR-√cat  
+  │ ➥ Both the dog and the cat are one/single.  
+  └─  
+</code></pre>
+<pre><code>  ┌───────────────  
+  │ ◆ Ici̋ tacʰakóyu (ñaʼáı) hurú tacʰaƛúrı.  
+  │ ❖ ASR.SEN꞊√is_one  NTR-NTRᵢ-DEF:NTR-√dog  (DPCZ-√and)  
+  │   COO-√are_two NTR-NTRᵢ-DEF:NTR-√cat  
+  │ ➥ The dog is one, and the cats are two.  
+  └─  
+</code></pre>
+<pre><code>  ┌───────────────  
+  │ ◆ Oθıneyi̋čal kaoci̋ tacʰakóyu (ñaʼáı) hurú tacʰaƛúrı.  
+  │ ❖ ASR.REC꞊EXO:ERG-me:DAT-√assert_to  
+  │   ACC-DCS-√is_one  NTR-NTRᵢ-DEF:NTR-√dog  (DPCZ-√and)  
+  │   COO-√are_two NTR-NTR-DEF:NTR-√cat  
+  │ ➥ That one said to me that the dog was one and the cats were two.  
+  └─  
+</code></pre>
+<h2 id="quantifierizers"><a class="header" href="#quantifierizers">Quantifierizers</a></h2>
+<p>The two binary quantifierizers function in an homologuous manner to the coordinationizers, but instead of constructing conjunctions, they do binary quantifiers instead. A binary quantifier is a word that is placed immediately before a noun (with normal noun case inflection), and it defines the relation between the unary property used to define the noun and the unary property defined by the slot of the verb which the noun goes into. Whereas coordinationizers operate on binary predicates relating two propositions, quantifierizers operate on binary predicates relating two unary properties. Such &quot;quantificational binary predicates&quot; may be examplified by the predicates ⟪[ERG] is a property that is universal among what has property [ACC]⟫ (root ⟪-kú⟫), corresponding to the quantifier &quot;all&quot;, &quot;every&quot;, in the English language. In the sentence &quot;all cats are mammals&quot; can be reworded as &quot;the property of being a mammal is universal among what has the property of being a cat&quot;, &quot;mammalhood is universal among what have cathood&quot;.<br />
+The Universal Determinacy ⟪-ıw-⟫ and the Existential Determinacy ⟪-uy-⟫ may be regarded as shorthands for a quantifierizer expression.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="slot-1-anchoring"><a class="header" href="#slot-1-anchoring">Slot #1: Anchoring</a></h1>
+<table><thead><tr><th>FORM</th><th>GLOSS</th><th>GRAMMEME</th></tr></thead><tbody>
+<tr><td>∅</td><td>CC</td><td>Current Clause</td></tr>
+<tr><td>m / n / ŋ</td><td>IJV⁓INJV</td><td>Injective</td></tr>
+<tr><td>ʎï</td><td>COINJ</td><td>Coinjective</td></tr>
+<tr><td>θa</td><td>PSUB</td><td>Post-subordinative</td></tr>
+<tr><td>θu</td><td>PA</td><td>Preset Anchoring</td></tr>
+<tr><td>ʎo</td><td>MC</td><td>Medial Coordinative</td></tr>
+<tr><td>ñï</td><td>SOP</td><td>Start Of Parenthetical</td></tr>
+<tr><td>█</td><td>CLINJ</td><td>Clausal Injective</td></tr>
+</tbody></table>
+<p>The general purpose of that proclitic slot is to indicate which clausal nesting level the word belongs to, i.e. where the word does ‘bind’. This has however nothing to do with the concept of variable Anchoring.</p>
+<p>This slot is always empty on the sentence's main verb (the root verb), unless it initiates a parenthetical sentence, in which case the parenthetical Anchoring ⟪ñï꞊⟫ is prepended to it.</p>
+<ul>
+<li>
+<p>The null/empty form of this slot indicates that the word is anchored to the current clause level.</p>
+</li>
+<li>
+<p>⟪m⟫, the syllabic nasal clitic, expressing the ‘Injective’ Anchoring. This syllabic nasal is preceded by an unwritten glottal stop. Furthermore, it may assimilate in place of articulation with the following consonant, becoming ⟪ŋ⟫ or ⟪n⟫ (see <a href="morphology/../phonotactics.html">§ Phonotactics</a> for details).<br />
+This ‘Injective’ clitic may occur on nouns and adverbials and indicates that the word is a complement of the predicate underlying the immediately preceding contentive word, as opposed to being an independent complement of the main predicate of the current clause. It is usually used for providing an argument to the verb underlying a preceding noun, similarly to certain usages of the English particle “of” as in “the destruction of the village”.</p>
+</li>
+</ul>
+<pre><code>  ┌───────────────  
+  │ ◆ Ukóyu tıñú ŋkastíñu.  
+  │ ❖ U-     √kóyu  t-  ı- √ñú   ŋ꞊  k- a-  √stíñu
+  │   ASR.REC-dog   NTR-ERG-eat  IJV꞊ACC-NTR-prepared_food  
+  │ ➥ It was a dog, the eater of the meal.
+  │   (the one who ate the meal)  
+  └─  
+  ┌───────────────  
+  │ ◆ Oqʰá cïlú kïłqʼáı ntaqʰácʰol.  
+  │ ❖ O−     √qʰá    c-  ï- √lú   k-  ï- √łqʼáı
+  │   ASR.RPT-cause  ERG-EV-flow  ACC-EV-undergoes_destruction
+  │   n꞊  t-  a-  -qʰáčʰol
+  │   IJV꞊NTR-NTR-settlement  
+  │ ➥ I heard that the water caused the destruction of the
+  │   settlement.  
+  └─  
+</code></pre>
+<ul>
+<li>
+<p>⟪ʎï⟫, the Coinjective, indicates that the word has the same anchoring as the preceding word bearing Injective ⟪m⟫ Anchoring.</p>
+</li>
+<li>
+<p>⟪θa⟫, the Post-subordinative, indicates that tagged word is anchored immediately after the end of a subordinate clause, and serves the purpose of explicitly marking the termination point of said subordinate clause. The tagged word therefore belongs to the immediate parent clause of the terminated subordinate clause.</p>
+</li>
+</ul>
+<pre><code>  ┌───────────────  
+  │ ◆ Oqʰá caweotïƛúru tačʰóqa θakïłqʼáı ntacʰól.  
+  │ ❖ ASR.RPT-cause  ERG-ELU-RCS-RSM:EV-shake  NTR-NTR-ground
+  │   PSUB꞊ACC-EV-undergoes_destruction  IJV꞊NTR-NTR-building 
+  │ ➥ I heard that it was an earthquake that caused the
+  │   destruction of the building.  
+  └─  
+</code></pre>
+<ul>
+<li>
+<p>⟪θu⟫, the Preset Anchoring, indicates that the tagged word is anchored to an outer syntactic level that has been preselected with the ⟪kʰwaı⟫ Preset Anchoring Tag, described in the last section at the bottom of this page.</p>
+</li>
+<li>
+<p>⟪ʎo⟫, the Medial Coordinative, initiates the right-hand wing of a Forethought Coordination phrase.</p>
+</li>
+<li>
+<p>⟪ñï⟫, the Parenthetical, indicates the beginning of a parenthetical sentence or group of sentences, terminated with the particle ⟪ñaʼ⟫, inserted into the current sentence.</p>
+</li>
+</ul>
+<pre><code>  ┌───────────────  
+  │ ◆ Uneyı̋pa caqahwéa, ñïmukıθunčáwa ñaʼ, kaoθakwáı.
+  │ ❖ ASR.REC-1:DAT-say_to  ERG-NTR-named_after_property:NTR-is_wind
+  │   PAR꞊PQ꞊2:ERG-EXO:ACC-familiar_with  EOP
+  │   ACC-DCS꞊EXO:NTR-is_true
+  │ ➥ I remember that Wind (do you know them?) told me that it's true.
+  └─  
+</code></pre>
+<h2 id="the-preset-anchoring-tag"><a class="header" href="#the-preset-anchoring-tag">The Preset Anchoring Tag</a></h2>
+<p>Additionally, a ‘Preset Anchor Tag’ clitic ⟪kʰwaı⟫ may replace or immediately follow a Anchoring clitic, and set the current clause level as an anchoring point for a following ⟪θu⟫ Anchoring clitic it C-commands.</p>
+<p>A related mechanism is that of the ⟪Echo-Resumptive⟫ role, described in the <a href="morphology/./roles/other-roles.html">Other Roles</a> section.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="function-words"><a class="header" href="#function-words">Function words</a></h1>
+<h2 id="declinable-functors-contentive-like-function-words"><a class="header" href="#declinable-functors-contentive-like-function-words">Declinable functors (contentive-like function words)</a></h2>
+<pre><code>┌─────────────────────────────┬────────┐  
+│ Multi-word quote initiator  │ -pʰáı  │  
+│ Multi-word name initiator   │ -ñáı   │  
+│ Foreign quote initiator     │ -qʼwáı │  
+└─────────────────────────────┴────────┘  
+</code></pre>
+<pre><code>  ┌───────────────  
+  │ ◆ Unıθeyı̋pa kapʰáı ınıθehaƛéonaʼ pʰa.  
+  │ ❖ ASR.RE꞊me:ERG-EXO:DAT-√say  ACC-NTR-MWQI  
+  │   ASR.SEN꞊me:ERG-EXO:DAT-NEG-√understand  EOQ  
+  │ ➥ I said to them «I don't understand it».  
+  └─  
+</code></pre>
+<p>The foreign quote initiator root ⟪-qʼwáı⟫ introduces a quote of foreign material, terminated by the particle ⟪qʼwáı⟫ (with a falling tone).<br />
+The foreign material is rendered phonetically (with variable precision; phonetic notation can never achieve absolute precision anyway).<br />
+In speech, a short silence may be placed between the quote delimiters and the quoted content, although it'll most often be not necessary, unless the quote begins on a vowel or on an instance of ⟪qʼwaı⟫ with a low tone, or ends with ⟪qʼwaı⟫ with a high tone.<br />
+If the quoted material contains the syllable ⟪qʼwáı⟫ with a falling tone, then the delimiter can be reduplicated for avoiding this quoted ⟪qʼwáı⟫ to be misinterpreted as the end-of-quote delimiter; the quote will then be enclosed between ⟪-qʼwáıqʼwaı⟫ and ⟪qʼwáıqʼwaı⟫ (with a falling tone extending over the whole word). Similarly, if the quote contains ⟪qʼwáıqʼwaı⟫, then the delimiter syllable can be tripled (⟪qʼwáıqʼwaıqʼwaı⟫), and so on ad infinitum.</p>
+<p>Examples (with _ representing a short pause):</p>
+<p>• ⟪ Uθupá kaqʼwáı _ aı dɐnt ɐndəstǽnd _ qʼwáı. ⟫<br />
+“You-know-who said «I don't understand».”</p>
+<p>• ⟪ Uθupá kaqʼwáıqʼwaı _ qʼwaı _ qʼwáıqʼwaı. ⟫<br />
+“You-know-who said «qʼwai».”</p>
+<h2 id="particles"><a class="header" href="#particles">Particles</a></h2>
+<pre><code>┌──────────────────────────┬───────┐
+│ Acknowledgement          │ e     │
+│ Not done speaking        │ ñu    │
+│ End of transmission      │ ne    │
+│ End of parenthetical     │ ñaʼ   │
+│ End of sequence          │ ██    │
+│ End of native quote      │ pʰa   │
+│ End of foreign quote     │ qʼwáı │
+│ Single word eraser       │ hï    │
+└──────────────────────────┴───────┘
+</code></pre>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="syntax"><a class="header" href="#syntax">Syntax</a></h1>
+<p>The language's syntax is highly head-initial, with some exceptions.<br />
+A sentence always begins with a root verb, and there can be no more than one root verb per sentence. It is formally recognizable by bearing an Illocution role prefix; this doubles as an indicator of the beginning of a new sentence.<br />
+Fragment sentences, not containing any root verb, are not allowed in the language. It is mandatory to provide at least a dummy verb of some sort. When the speaker wishes not to put at the very beginning of the sentence the salient semantic content that should normally be expressed by the root verb, a dummy auxiliary-like root verb is used, and the semantic content whose appearance is to be delayed is instead demoted to a noun phrase governed by the dummy root verb. This allows word order flexibility while retaining the advantages of a rigidly verb-initial syntax.</p>
+<p>The root verb is the only true verb in the sentence; subordinate clauses are headed by a participle, which, from the point of view of the inside of the clause, acts as its verb; but from the outside of the subordinate clause, the participle looks like a noun or a word of another part of speech such as an adjective or an adverb, by taking the role prefix corresponding to that part of speech.</p>
+<p>...</p>
+<p>... </p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="grammemes-summary"><a class="header" href="#grammemes-summary">Grammemes summary</a></h1>
+<h3 id="anchoring"><a class="header" href="#anchoring">ANCHORING:</a></h3>
+<table><thead><tr><th>FORM</th><th>GLOSS</th><th>GRAMMEME</th></tr></thead><tbody>
+<tr><td>∅</td><td>CC</td><td>Current Clause</td></tr>
+<tr><td>m / n / ŋ</td><td>IJV⁓INJV</td><td>Injective</td></tr>
+<tr><td>ʎï</td><td>COINJ</td><td>Coinjective</td></tr>
+<tr><td>θa</td><td>PSUB</td><td>Post-subordinative</td></tr>
+<tr><td>θu</td><td>PA</td><td>Preset Anchoring</td></tr>
+<tr><td>ʎo</td><td>MC</td><td>Medial Coordinative</td></tr>
+<tr><td>ñï</td><td>SOP</td><td>Start Of Parenthetical</td></tr>
+<tr><td>kʰwaı</td><td>PATAG</td><td>Preset Anchoring Tag</td></tr>
+</tbody></table>
+<h3 id="roles--assertive-illocution--evidentialities"><a class="header" href="#roles--assertive-illocution--evidentialities">ROLES ➤ ASSERTIVE ILLOCUTION + EVIDENTIALITIES:</a></h3>
+<table><thead><tr><th>FORM</th><th>GLOSS</th><th>GRAMMEME</th></tr></thead><tbody>
+<tr><td>aı</td><td>ASR</td><td>Assertive + unspecified evientiality</td></tr>
+<tr><td>oı</td><td>MEV</td><td>Multievidential</td></tr>
+<tr><td>a</td><td>NFR</td><td>Inferential</td></tr>
+<tr><td>ı</td><td>SEN</td><td>Sensorial</td></tr>
+<tr><td>eo</td><td>ITU</td><td>Intuitive</td></tr>
+<tr><td>u</td><td>REC⁓RCL</td><td>Recollective</td></tr>
+<tr><td>ıwa</td><td>RCS</td><td>Reconstitutive</td></tr>
+<tr><td>o</td><td>REP</td><td>Reportive</td></tr>
+<tr><td>ao</td><td>TWR</td><td>Trustworthy Reportive</td></tr>
+<tr><td>eı</td><td>UTR</td><td>Untrustworty Reportive</td></tr>
+<tr><td>e</td><td>EPI</td><td>Epistemic</td></tr>
+<tr><td>aya</td><td>AXM</td><td>Axiomatic</td></tr>
+</tbody></table>
+<h3 id="roles--non-assertive-illocutions"><a class="header" href="#roles--non-assertive-illocutions">ROLES ➤ NON-ASSERTIVE ILLOCUTIONS:</a></h3>
+<table><thead><tr><th>FORM</th><th>GLOSS</th><th>GRAMMEME</th></tr></thead><tbody>
+<tr><td>ï</td><td>PFM</td><td>Performative</td></tr>
+<tr><td>ma</td><td>VRF</td><td>Verificative</td></tr>
+<tr><td>mı</td><td>PQ⁓PI</td><td>Polar Question, Polar Interrogative</td></tr>
+<tr><td>mu</td><td>CQ⁓CI</td><td>Content Question, Content Interrogative</td></tr>
+<tr><td>maı</td><td>RPQ⁓RPI</td><td>Rhetorical Polar Interrogative</td></tr>
+<tr><td>mao</td><td>RCQ⁓RCI</td><td>Rhetorical Content Interrogative</td></tr>
+<tr><td>kʰa</td><td>DIR</td><td>Directive</td></tr>
+<tr><td>kʰo</td><td>REQ</td><td>Requestive</td></tr>
+<tr><td>kʰu</td><td>INV</td><td>Invitative</td></tr>
+<tr><td>kʰı</td><td>RCM</td><td>Recommandative</td></tr>
+<tr><td>kʰaı</td><td>PS</td><td>Permission-seeking</td></tr>
+<tr><td>yea</td><td>PRM</td><td>Permissive</td></tr>
+<tr><td>yao</td><td>OBLT</td><td>Oblative</td></tr>
+</tbody></table>
+<h3 id="roles--core-cases"><a class="header" href="#roles--core-cases">ROLES ➤ CORE CASES:</a></h3>
+<table><thead><tr><th>FORM</th><th>GLOSS</th><th>GRAMMEME</th></tr></thead><tbody>
+<tr><td>t / a</td><td>NTR</td><td>Intransitive Case</td></tr>
+<tr><td>c / ı</td><td>ERG</td><td>Ergative Case</td></tr>
+<tr><td>k / u</td><td>ACC</td><td>Accusative Case</td></tr>
+<tr><td>p / e</td><td>DAT</td><td>Dative Case</td></tr>
+<tr><td>č / eı</td><td>COD</td><td>Codative Case</td></tr>
+<tr><td>q / o</td><td>EXT⁓AFX</td><td>Extensional Case, Affixal Case</td></tr>
+<tr><td>š / ï</td><td>EV⁓EVT</td><td>Eventive Case</td></tr>
+<tr><td>tʰ / eo</td><td>SIT</td><td>Situative Case</td></tr>
+</tbody></table>
+<h3 id="roles--adjuncts"><a class="header" href="#roles--adjuncts">ROLES ➤ ADJUNCTS:</a></h3>
+<table><thead><tr><th>FORM</th><th>GLOSS</th><th>GRAMMEME</th></tr></thead><tbody>
+<tr><td>ƛ</td><td>PND</td><td>Pendent</td></tr>
+<tr><td>ƛʰ</td><td>INS</td><td>Instrumental</td></tr>
+<tr><td>s</td><td>LOC⁓SPL</td><td>Spatiotemporal Locative</td></tr>
+<tr><td>y</td><td>ITJ⁓INTJ</td><td>Interjective</td></tr>
+<tr><td>l</td><td>ATR</td><td>Attributive</td></tr>
+<tr><td>ł</td><td>PRP</td><td>Propositional</td></tr>
+<tr><td>n</td><td>PU</td><td>Plural Union</td></tr>
+<tr><td>ŋ</td><td>SEQ</td><td>Sequential Case</td></tr>
+</tbody></table>
+<h3 id="roles--discourse-level"><a class="header" href="#roles--discourse-level">ROLES ➤ DISCOURSE LEVEL:</a></h3>
+<table><thead><tr><th>FORM</th><th>GLOSS</th><th>GRAMMEME</th></tr></thead><tbody>
+<tr><td>w</td><td>VOC</td><td>Vocative</td></tr>
+<tr><td>r</td><td>TOP</td><td>Topical (Discourse Pendent)</td></tr>
+<tr><td>qʰ</td><td>DSIT</td><td>Discourse Situative</td></tr>
+</tbody></table>
+<h3 id="roles--others"><a class="header" href="#roles--others">ROLES ➤ OTHERS:</a></h3>
+<table><thead><tr><th>FORM</th><th>GLOSS</th><th>GRAMMEME</th></tr></thead><tbody>
+<tr><td>hı</td><td>DP</td><td>Dislocated Predicate, Dislocative</td></tr>
+<tr><td>θı</td><td>ECHO</td><td>Echo-Resumptive</td></tr>
+<tr><td>ʎaı</td><td>ATR</td><td>Afterthought relativizer</td></tr>
+<tr><td>hu</td><td>COO</td><td>Coordinative</td></tr>
+<tr><td>ña</td><td>DPCZ</td><td>Direct propositional coordinationizer</td></tr>
+<tr><td>ñu</td><td>IPCZ</td><td>Inverse propositional coordinationizer</td></tr>
+<tr><td>ñaı</td><td>DECZ</td><td>Direct eventive coordinationizer</td></tr>
+<tr><td>ñao</td><td>IECZ</td><td>Inverse eventive coordinationizer</td></tr>
+<tr><td>ʎa</td><td>DQZ</td><td>Direct binary quantifierizer</td></tr>
+<tr><td>ʎu</td><td>IQZ</td><td>Inverse binary quantifierizer</td></tr>
+</tbody></table>
+<h3 id="subordinators-1"><a class="header" href="#subordinators-1">SUBORDINATORS:</a></h3>
+<table><thead><tr><th>FORM</th><th>GLOSS</th><th>GRAMMEME</th></tr></thead><tbody>
+<tr><td>aı</td><td>RCS</td><td>Relative Clause Subordinator</td></tr>
+<tr><td>ao</td><td>DCS</td><td>Declarative Content Clause Subordinator</td></tr>
+<tr><td>ea</td><td>PCS</td><td>Polarity Clause Subordinator</td></tr>
+<tr><td>oı</td><td>UTCS</td><td>Unary Template Clause Subordinator</td></tr>
+<tr><td>oa</td><td>BTCS</td><td>Binary Template Clause Subordinator</td></tr>
+<tr><td>e’e</td><td>TTCS</td><td>Ternary Template Clause Subordinator</td></tr>
+<tr><td>o’o</td><td>QTCS</td><td>Quaternary Template Clause subordinator</td></tr>
+</tbody></table>
+<h3 id="scopes"><a class="header" href="#scopes">SCOPES:</a></h3>
+<table><thead><tr><th>FORM</th><th>GLOSS</th><th>GRAMMEME</th></tr></thead><tbody>
+<tr><td>∅</td><td>MS</td><td>Middle scope</td></tr>
+<tr><td>ıʼ</td><td>LS</td><td>Low scope</td></tr>
+<tr><td>aʼ</td><td>HS</td><td>High scope</td></tr>
+</tbody></table>
+<h3 id="saliencies"><a class="header" href="#saliencies">SALIENCIES:</a></h3>
+<table><thead><tr><th>FORM</th><th>GLOSS</th><th>GRAMMEME</th></tr></thead><tbody>
+<tr><td>aw</td><td>EF⁓ELU</td><td>Elucidative focus</td></tr>
+<tr><td>ay</td><td>BG</td><td>Background/Presupposition marker</td></tr>
+</tbody></table>
+<h3 id="determinacies"><a class="header" href="#determinacies">DETERMINACIES:</a></h3>
+<table><thead><tr><th>FORM</th><th>GLOSS</th><th>GRAMMEME</th></tr></thead><tbody>
+<tr><td>oy</td><td>PROP</td><td>Abstract property</td></tr>
+<tr><td>ew</td><td>CUQ</td><td>Collective universal quantifier</td></tr>
+<tr><td>ıw</td><td>∀</td><td>Distributive universal quantifier</td></tr>
+<tr><td>uy</td><td>∃</td><td>Existential quantifier</td></tr>
+<tr><td>ïy</td><td>∄</td><td>Nonexistential quantifier</td></tr>
+<tr><td>ey</td><td>UQZ</td><td>Unary quantifierizer</td></tr>
+</tbody></table>
+<h3 id="particles-1"><a class="header" href="#particles-1">PARTICLES:</a></h3>
+<table><thead><tr><th>FORM</th><th>GLOSS</th><th>GRAMMEME</th></tr></thead><tbody>
+<tr><td>ñaʼ</td><td>EOP</td><td>End of parenthetical</td></tr>
+<tr><td>pʰa</td><td>EONQ</td><td>End of native quote</td></tr>
+<tr><td>qʼwaı</td><td>EOFQ</td><td>End of foreign quote</td></tr>
+<tr><td>ne</td><td>EOT</td><td>End of transmission</td></tr>
+<tr><td>ñu</td><td>NDS</td><td>Not done speaking</td></tr>
+<tr><td>e</td><td>ACK</td><td>Acknowledgement</td></tr>
+<tr><td>hï</td><td>SWE</td><td>Single word eraser</td></tr>
+</tbody></table>
+<h3 id="special-roots"><a class="header" href="#special-roots">SPECIAL ROOTS:</a></h3>
+<table><thead><tr><th>FORM</th><th>GLOSS</th><th>GRAMMEME</th></tr></thead><tbody>
+<tr><td>█</td><td>PUI</td><td>Plural union initiator</td></tr>
+<tr><td>█</td><td>SI</td><td>Set initiator</td></tr>
+<tr><td>█</td><td>LI</td><td>List initiator</td></tr>
+<tr><td>█</td><td>SWQI</td><td>Single-word quote initiator</td></tr>
+<tr><td>pʰáı</td><td>MWQI</td><td>Multi-word quote initiator</td></tr>
+<tr><td>█</td><td>SWNI</td><td>Single-word name initiator</td></tr>
+<tr><td>ñéo</td><td>MWNI</td><td>Multi-word name initiator</td></tr>
+<tr><td>qʼwáı</td><td>FQI</td><td>Foreign quote initiator</td></tr>
+</tbody></table>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="lexicon"><a class="header" href="#lexicon">Lexicon</a></h1>
+<p>Nahaıwa's lexicon can be found <strong><a href="https://github.com/Ntsekees/Nahaiwa/blob/main/lexicon.tsv">here</a></strong> (TSV format) and <strong><a href="https://ntsekees.github.io/Nahaiwa/lexicon.html">here</a></strong> (HTML format).</p>
+<p>For roots, participant slots are represented by noun case abbreviations between square brackets, ordered according to the following case hierarchy:</p>
+<ul>
+<li>For unary roots: Intransitive case;</li>
+<li>For binary verbs and higher valencies: Ergative → Dative → Codative → Accusative;</li>
+</ul>
+<h2 id="lexicosemantics"><a class="header" href="#lexicosemantics">Lexicosemantics</a></h2>
+<p>The lexicon of Nahaıwa purposefully lacks lexical polysemy (also known as <em>colexification</em>), specifically the kind in which a same sound form has a prefined set of discrete, contextually-selected possible meanings that cannot all be simultaneously selected, such as the English “bat”, which can mean a wooden stick, or a flying mammal, but cannot mean both at once: in the sentence “there are two bats in the room”, one would not assume a reading where there's one wooden stick and one flying mammal.
+This is to be contrasted with words which have a single broad meaning, such as “animal” (which covers mammals, birds, reptiles, insects, snails, worms…), and words with disjunctive meanings (i.e. which can be defined using the logical disjunction “or”, yielding a discontinuous semantic space).</p>
+<p>Semantic broadness (as with “animal”) is not a form of polysemy, and is both desirable, useful and absolutely necessary for any functional general purpose language. A word like “animal”, when put to the aforementioned test of polysemy, yields a valid statement: “there are two animals in the room” is acceptable to say when there's exactly one flying mammal and one reptile in the room, a result unlike that with the polysemous word “bat”. A semantically broad word like “animal” can be part of Nahaıwa's lexicon, but a polysemous word like “bat” cannot.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        <script type="text/javascript">
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+    </body>
+</html>
