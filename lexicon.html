@@ -40,11 +40,9 @@
 			<span style='color: #223366'>➤</span> English definition
 		</span>
 		<br /><br />
-		<form class="filter_form">
-		  <input type="text" placeholder="" id="filter" style="font-size: 16px; width: 16em;">
-		  <button type="button" style="font-size: 16px;" onclick="proceed(g_prt_lexicon, g_ext_lexicon, g_base_lexicon);">Filter</button>
-		</form>
-		<br />
+		<input type="text" placeholder="" id="filter" style="font-size: 16px; width: 16em;">
+		<button type="button" style="font-size: 16px;" onclick="proceed(g_prt_lexicon, g_ext_lexicon, g_base_lexicon);">Filter</button>
+		<br /><br />
 		<input
 			type="checkbox"
 			id="sorting_checkbox"
@@ -148,6 +146,11 @@
 				g_prt_lexicon = tsv.filter(e => e.type === "prt");
 				g_ext_lexicon = tsv.filter(e => e.type === "ext");
 				g_base_lexicon = tsv.filter(e => e.type === "root");
+				document.getElementById('filter')
+				.addEventListener('keydown', (event) => {
+					if (event.key === 'Enter')
+						proceed(g_prt_lexicon, g_ext_lexicon, g_base_lexicon);
+				});
 				proceed(g_prt_lexicon, g_ext_lexicon, g_base_lexicon);
 			});
 		</script>
