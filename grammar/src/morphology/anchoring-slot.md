@@ -11,14 +11,14 @@
 | ñï                                  | SOP      | Start Of Parenthetical                  |
 | █                                   | CLINJ    | Clausal Injective                       |
 
-The general purpose of that proclitic slot is to indicate which clausal nesting level the word belongs to, i.e. where the word does ‘bind’. This has however nothing to do with the concept of variable Anchoring.  
+The general purpose of that proclitic slot is to indicate which clausal nesting level the word belongs to, i.e. where the word does ‘anchor’.
   
-This slot is always empty on the sentence's main verb (the root verb), unless it initiates a parenthetical sentence, in which case the parenthetical Anchoring ⟪ñï꞊⟫ is prepended to it.  
+This slot is always empty on the sentence's main verb (the root verb), unless it initiates a parenthetical sentence, in which case the parenthetical Anchoring ⟪ñï꞊⟫ is prepended to it.
   
-* The null/empty form of this slot indicates that the word is anchored to the current clause level.  
+* The null/empty form of this slot indicates that the word is anchored to the current clause level.
   
 * ⟪m⟫, the syllabic nasal clitic, expressing the ‘Injective’ Anchoring. This syllabic nasal is preceded by an unwritten glottal stop. Furthermore, it may assimilate in place of articulation with the following consonant, becoming ⟪ŋ⟫ or ⟪n⟫ (see [§ Phonotactics](../phonotactics.md) for details).  
-This ‘Injective’ clitic may occur on nouns and adverbials and indicates that the word is a complement of the predicate underlying the immediately preceding contentive word, as opposed to being an independent complement of the main predicate of the current clause. It is usually used for providing an argument to the verb underlying a preceding noun, similarly to certain usages of the English particle “of” as in “the destruction of the village”.    
+This ‘Injective’ clitic may occur on nouns and adverbials and indicates that the word is a complement of the predicate underlying the immediately preceding contentive word, as opposed to being an independent complement of the main predicate of the current clause. It is usually used for providing an argument to the verb underlying a preceding noun, similarly to certain usages of the English particle “of” as in “the destruction of the village”.
 
 ```  
   ┌───────────────  
