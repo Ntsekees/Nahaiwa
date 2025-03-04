@@ -46,7 +46,7 @@ The prefix for the assertive illocution further declines for a variety of possib
 
 The content interrogative illocutions go hand-in-hand with the ‘lambda’ pronominal extension ⟪-tʼ◈-⟫ (glossed as `LAM` or `LBD`), which plays here the role of the content interrogative pronoun “what”. There is no distinct pronoun for “who”, unlike English.
 
-Note: Whilst there's a prefix for granting permission, ⟪kʰaı-⟫, there's no dedicated one for prohibition, for that latter is expressed with negative imperatives instead:
+Note: Whilst there's a prefix for granting permission, ⟪yea-⟫, there's no dedicated one for prohibition, for that latter is expressed with negative imperatives instead:
 
 * **— Kʰaıʎáıša.  
     — Kʰohaʎáıša.**  
