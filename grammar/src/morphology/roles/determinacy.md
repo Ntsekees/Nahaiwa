@@ -15,18 +15,16 @@ Determinacy affixes are optional and occur in slot 2b.
 └────────────────────────────────────┴────────┘  
 ```  
 
-◉ The **Abstract Property** ⟪-oy-⟫ or ⟪-ʼ-⟫ is essentially a shorthand for unary template clauses; it is comparable to an infinitive.
+◉ The **Abstract Property** ⟪**-oy-**⟫ or ⟪**-ʼ-**⟫ is essentially a shorthand for unary template clauses; it is comparable to an infinitive.
+  
+* **Ikeyéwa koyınepákı.** / **Ikeyéwa kʼınepákı.**  
+  `ı=      ke-   yéwa       k-  oy-  ı-   ne-   pákı`  
+  `ASR.SEN-2:DAT-√grateful  ACC-PROP-ERGᵢ-1:DAT-√help`  
+  *(I am) grateful to you for helping me.*
 
-```
-┌───────────────
-│ ◆ Ikeyéwa koyınepákı.  /  Ikeyéwa kʼınepákı.
-│ ❖ ASR.SEN-2:DAT-√grateful  ACC-PROP-ERG-1:DAT-√help
-│ ➥ (I am) grateful to you for helping me.
-└─
-```
-This sentences means the same as ⟪Ikeyéwa koıtʼınepákı⟫ (using the ⟪oı⟫ subordinator), but unlike that latter, it does not open a subordinate clause.
+This sentences means the same as ⟪**Ikeyéwa koıtʼınepákı**⟫ (using the ⟪**oı**⟫ subordinator), but unlike that latter, it does not open a subordinate clause.
 
-For all noun roles, with the exception of the Discourse Pendent role, the Abstract Property can also be expressed as glottalization of the noun role consonant. ⟪kʼınepákı⟫ means therefore the same as ⟪koyınepákı⟫.
+For all noun roles, with the exception of the Discourse Pendent role, the Abstract Property can also be expressed as glottalization of the noun role consonant. ⟪**kʼınepákı**⟫ means therefore the same as ⟪**koyınepákı**⟫.
 
 ## Scope prefixes
 
