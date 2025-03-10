@@ -95,16 +95,16 @@ For answering polar questions like “do you want to eat?”, special roots simi
 * ⟪**-hák**⟫, conversely, expresses that the preceding sentence is false: ⟪**Aıhák.**⟫ ≍ *“That's incorrect/untrue.”*.
 
 For answering content questions, such as:
-
-* **Mukıtʼušañú.**
-  `mu=kı-   tʼu-    ša-  ñú`
-  `CQ=2:ERG-LAM:ACC-PROG-eat`
-  *“What are you eating?*
+  
+* **Mukıtʼušañú.**  
+  `mu=kı-   tʼu-    ša-  ñú`  
+  `CQ=2:ERG-LAM:ACC-PROG-eat`  
+  *What are you eating?*
 
 The special root ⟪**-má**⟫, *“[ɴᴛʀ] is the answer to your question”*, is dedicated for this purpose:
-
-* **Imá tanóko.**
-  `ı=      má     t-  a-   nóko`
-  `ASR;SEN=ANSWER NTR-NTRᵢ-apple`
-  *“An apple (is what I'm eating).”*
+  
+* **Imá tanóko.**  
+  `ı=      má     t-  a-   nóko`  
+  `ASR;SEN=ANSWER NTR-NTRᵢ-apple`  
+  *An apple (is what I'm eating).*
 
