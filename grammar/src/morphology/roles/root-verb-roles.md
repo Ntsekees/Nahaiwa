@@ -70,7 +70,7 @@ Note: Whilst there's a prefix for granting permission, ⟪yea-⟫, there's no de
 * **Mukıŋıtʼuñú.**  
   `mu=kı-   ŋı-      tʼu-   -ñú`  
   `CQ=2:ERG-want:ERG-LAM:ACC-eat`  
-  *What do you want to eat?*
+  *Which do you want to eat?*
   
 * **Kʰıkıƛú.**  
   `kʰı=kı-  -ƛú`  
@@ -86,4 +86,25 @@ Note: Whilst there's a prefix for granting permission, ⟪yea-⟫, there's no de
   `yao=  (ke)-  -pákı`  
   `OBLAT=(2:DAT)-help`  
   *I'm available to help (you).*
+
+## Answering questions
+
+For answering polar questions like “do you want to eat?”, special roots similar to “yes” and “no” are used:
+
+* ⟪**-rúk**⟫ is an avalent root used to express that the preceding utterance is true: ⟪**Aırúk.**⟫ corresponds to the English *“That's correct.”* used as an answer.
+* ⟪**-hák**⟫, conversely, expresses that the preceding sentence is false: ⟪**Aıhák.**⟫ ≍ *“That's incorrect/untrue.”*.
+
+For answering content questions, such as:
+
+* **Mukıtʼušañú.**
+  `mu=kı-   tʼu-    ša-  ñú`
+  `CQ=2:ERG-LAM:ACC-PROG-eat`
+  *“What are you eating?*
+
+The special root ⟪**-má**⟫, *“[ɴᴛʀ] is the answer to your question”*, is dedicated for this purpose:
+
+* **Imá tanóko.**
+  `ı=      má     t-  a-   nóko`
+  `ASR;SEN=ANSWER NTR-NTRᵢ-apple`
+  *“An apple (is what I'm eating).”*
 
