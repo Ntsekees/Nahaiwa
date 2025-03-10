@@ -17,6 +17,11 @@ When a clause does not contain an Elucidative Focus, the clause's verb plays the
   `ASR.SEN=EXO:ACC-√draw  ERG-EF-NTRᵢ-1:NTR-√thing`  
   It is me who drew it.  
 
+* **Ukeθuqáoqʰıya cañaʎúkaıwa.**  
+  `u=      ke-   θu-     qáoqʰıya      c-  aw-a-   ña-  ʎúkaıwa`  
+  `ASR.REC=2:DAT-EXO:ACC-teach_how_to  ERG-EF-NTRᵢ-NAME-Lyukaiwa`  
+  *It is Lyukaiwa who taught me how to do it.*
+
 ◉ The **Presuppositional Marker**, or **Background Marker**, ⟪-ay-⟫, indicates elements that are presupposed to exist, or presupposed to be true in the sentence. Presuppositions stand out more in non-assertive sentences, such as interrogative sentences:
   
 * **Inayá tayewaθutákı.**  
