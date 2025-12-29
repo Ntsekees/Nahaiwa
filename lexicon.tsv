@@ -3,6 +3,7 @@ morpheme	type	subtype	eng	tags	predilex_id
 ƛʼ•	ext	−+	[X] tries, attempts to have property [1].	action	dubanu{[X],[1]}
 rao	ext	0	the result of [0] being the case is the case and is [EXT] ⸨resultative aspect⸩.	aspect	
 rƛao	ext	0	[0] is repetitively the case, at high frequency.	aspect	
+yao	ext	0	[0] is still the case.	aspect	tojiha{[0]}
 ša	ext	0	[0] is ongoing, in the middle of taking place.	aspect	dumulo{[0]}
 šï	ext	0	[0] happens, completes, its inherent endpoint happens.	aspect	sadumo{[0]}
 ƛao	ext	0	[0] is repetitively the case.	aspect	
@@ -322,6 +323,7 @@ wáo	root	2	[ERG] has sensory perception [ACC] (quale, raw sensory experience, n
 tʰán	root	2	[ERG] has a size of [ACC], the distance between the two points on it which are farthest apart.	physical_property	tuweno
 cʰó	root	2	[ERG] has (average) temperature [ACC].	physical_property amount	saloki
 tʰı̋ye	root	2	[ERG] likes to, enjoys to, has a taste for having property [ACC].	psychology personality	tawale
+šé	root	2	[ERG] is at [ACC] (spatial overlap or adjacency).	space	civetu
 ʼní	root	2	[ERG] is spatially adjacent to [ACC].	space	migibe
 qʰáʼ	root	1	[NTR] is rock, stone (material).	substance	takupa
 ršı̋ʎï	root	1	[NTR] is rain water.	substance	lefame
