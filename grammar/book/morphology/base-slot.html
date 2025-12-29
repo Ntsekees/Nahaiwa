@@ -1,0 +1,205 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Slot #5: Base - Nahaıwa grammar</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../introduction.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="../phonology.html"><strong aria-hidden="true">2.</strong> Phonology</a></li><li class="chapter-item expanded "><a href="../phonotactics.html"><strong aria-hidden="true">3.</strong> Phonotactics</a></li><li class="chapter-item expanded "><a href="../morphology.html"><strong aria-hidden="true">4.</strong> Morphology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../morphology/contentives.html"><strong aria-hidden="true">4.1.</strong> Contentives</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../morphology/base-slot.html" class="active"><strong aria-hidden="true">4.1.1.</strong> Slot #5: Base</a></li><li class="chapter-item expanded "><a href="../morphology/namespace.html"><strong aria-hidden="true">4.1.2.</strong> Slot #4: Namespace</a></li><li class="chapter-item expanded "><a href="../morphology/extensions-slot.html"><strong aria-hidden="true">4.1.3.</strong> Slot #3: Extensions</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../morphology/proforms.html"><strong aria-hidden="true">4.1.3.1.</strong> Proforms</a></li></ol></li><li class="chapter-item expanded "><a href="../morphology/role-slot.html"><strong aria-hidden="true">4.1.4.</strong> Slot #2: Role</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../morphology/roles/root-verb-roles.html"><strong aria-hidden="true">4.1.4.1.</strong> Root verb roles</a></li><li class="chapter-item expanded "><a href="../morphology/roles/noun-roles.html"><strong aria-hidden="true">4.1.4.2.</strong> Noun roles</a></li><li class="chapter-item expanded "><a href="../morphology/roles/subordinators.html"><strong aria-hidden="true">4.1.4.3.</strong> Subordinators</a></li><li class="chapter-item expanded "><a href="../morphology/roles/saliency.html"><strong aria-hidden="true">4.1.4.4.</strong> Saliency</a></li><li class="chapter-item expanded "><a href="../morphology/roles/determinacy.html"><strong aria-hidden="true">4.1.4.5.</strong> Determinacy</a></li><li class="chapter-item expanded "><a href="../morphology/roles/other-case-like-roles.html"><strong aria-hidden="true">4.1.4.6.</strong> Other case-like roles</a></li><li class="chapter-item expanded "><a href="../morphology/roles/other-roles.html"><strong aria-hidden="true">4.1.4.7.</strong> Other roles</a></li></ol></li><li class="chapter-item expanded "><a href="../morphology/anchoring-slot.html"><strong aria-hidden="true">4.1.5.</strong> Slot #1: Anchoring</a></li></ol></li><li class="chapter-item expanded "><a href="../morphology/function-words.html"><strong aria-hidden="true">4.2.</strong> Function words</a></li></ol></li><li class="chapter-item expanded "><a href="../syntax.html"><strong aria-hidden="true">5.</strong> Syntax</a></li><li class="chapter-item expanded "><a href="../grammemes.html"><strong aria-hidden="true">6.</strong> Grammemes summary</a></li><li class="chapter-item expanded "><a href="../lexicon.html"><strong aria-hidden="true">7.</strong> Lexicon</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Nahaıwa grammar</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="slot-5-base"><a class="header" href="#slot-5-base">Slot #5: Base</a></h1>
+<h2 id="morphophonological-characteristics"><a class="header" href="#morphophonological-characteristics">Morphophonological characteristics</a></h2>
+<p>The root or base slot is the last slot of the morphological template of contentive words; it is demarcated from the remaining of the word by having its first syllable being the prominent syllable of the word's pitch accent: it is the syllable with the highest pitch in the word. The pitch only goes down along the remaining of the root and doesn't raise up again. In the romanization orthography, the prominent syllable, and therefore the first syllable of the root slot, in marked with an acute accent mark (or a double acute) on its first vowel.</p>
+<p>The base slot must contain at least one syllable; similarly to extensional prefixes, when it begins with a consonant cluster, the cluster may cross the syllable boundary with the preceding syllable, such that the first consonant is actually the coda of that preceding syllable. Thus, ⟪nté⟫ is a valid root, for example.</p>
+<p>The root, and therefore the whole word as well, may end with a single consonant, but not with a consonant cluster.</p>
+<p>The base slot may contain a single root, or a string of several roots, possibly even accompanied by fossilized former extensional prefixes, now merged with the root(s). If the base slot contains more than a single root, it is more accurate to qualify its content as ‘word base’ rather than ‘word root’.<br />
+When a root ending with a consonant occurs in nonfinal position within a word base, an epenthetic vowel ⟪ï⟫ is appended to it, serving as a hyphen between it and the following element.</p>
+<p>There is no morphophonological structures that allows to unambiguously segment the content of the root slot (if polysyllabic) into individual subcomponents: when an unknown polysyllabic word base is met, it cannot be determined with certainty whether it is a single monolithic root, or a composition of fossilized prefixes and roots, or a string of two or more roots.<br />
+However, since word bases are always lexicalized, i.e. semantically opaque, the recognizability of subcomponents only offers a value in enhencing memorization and offering meaning hints for those discovering the word for the first time; the meaning of the whole word base must be learnt independently of the meaning of its eventual subconstituents: word bases are atomic lexical units of the language.</p>
+<h2 id="semantics"><a class="header" href="#semantics">Semantics</a></h2>
+<p>Word bases have verb-like meanings, in that each base is assigned a valency (or “arity”), which dictates the set of core noun cases it can govern.</p>
+<p>The only intrinsic syntactic properties of word bases (other than those of function words) are their valency, and the types and grammatical cases associated with each of their argument slots.
+There are no lexically coded distinction between “verb”, “noun”, “adjective” etc., which are syntactic properties that are determined by the inflection of the whole word, specifically via the <a href="roles/noun-roles.html">Role Slot</a>.</p>
+<p>In the dictionay, all bases are given verb-like definitions, even for those representing concepts typically expressed with nouns in most other languages; for example, the base for “table” would be defined as ⟪[NTR] is a table⟫; the one for “sibling” would be defined as ⟪[ERG] is a sibling of [ACC]⟫, where the bracketed abbreviations are the glossing abbreviations of the noun cases of each of the core argument slots governed by the base. Nahaıwa exhibits a <em>tripartite alignment</em>, i.e. there is a special case, the Intransitive case (<code>NTR</code>) dedicated to the sole argument of monovalent verbs (e.g. “to sleep”, “to be a table”), which is not used with verbs of greater valencies, such as the bivalent verbs “to eat”, “to be a sibling of”, which instead govern the Ergative (<code>ERG</code>) and Accusative (<code>ACC</code>) cases. The list of core noun cases are detailed in the <a href="roles/noun-roles.html">Role Slot</a> section.</p>
+<ul>
+<li>Avalent bases (valency zero) don't govern any noun case.</li>
+<li>Monovalent bases (valency 1) govern one noun case: the Intransitive (<code>ɴᴛʀ</code>).</li>
+<li>Bivalent bases (valency 2) govern two noun cases: Ergative (<code>ᴇʀɢ</code>) and Accusative (<code>ᴀᴄᴄ</code>).</li>
+<li>Trivalent bases (valency 3) govern three noun cases: Ergative, Dative (<code>ᴅᴀᴛ</code>) and Accusative.</li>
+<li>Tetravalent bases (valency 4, rare) govern four noun cases: Ergative, Dative, Codative (<code>ᴄᴏᴅ</code>) and Accusative. </li>
+</ul>
+<p>For example:</p>
+<ul>
+<li>⟪-kóyu⟫, one-root base, unary valency: “<strong>[ɴᴛʀ]</strong> is a dog”.</li>
+<li>⟪-cál⟫, one-root base, binary valency: “<strong>[ᴇʀɢ]</strong> has visual perception of <strong>[ᴀᴄᴄ]</strong>”.</li>
+<li>⟪-yéwa⟫, one-root base, ternary valency: “<strong>[ᴇʀɢ]</strong> is thankful to <strong>[ᴅᴀᴛ]</strong> for having property <strong>[ᴀᴄᴄ]</strong>”.</li>
+<li>⟪-kíwaƛʰaı⟫ (⟪-kíwa-ƛʰaı⟫, “skin-tree”), two roots base, unary valency: “<strong>[ɴᴛʀ]</strong> is tree bark”.</li>
+<li>⟪-yı̋yewa⟫ (⟪-yı̋-yewa⟫, “display-grateful”), two roots base, ternary valency: “<strong>[ᴇʀɢ]</strong> thanks, displays gratefulness to <strong>[ᴅᴀᴛ]</strong> for having property <strong>[ᴀᴄᴄ]</strong>”.</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../morphology/contentives.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../morphology/namespace.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../morphology/contentives.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../morphology/namespace.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>
