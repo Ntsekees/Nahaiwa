@@ -1,4 +1,5 @@
 morpheme	type	subtype	eng	tags	predilex_id
+morpheme	type	subtype	eng	tags	predilex_id
 ƛʼ•	ext	−+	[X] tries, attempts to have property [1].	action	dubanu{[X],[1]}
 rao	ext	0	the result of [0] being the case is the case and is [EXT] ⸨resultative aspect⸩.	aspect	
 rƛao	ext	0	[0] is repetitively the case, at high frequency.	aspect	
@@ -127,7 +128,7 @@ rí	root	2	[ERG] walks on [ACC].	action body_action	qajiho
 šáya	root	2	[ERG] flies in [ACC].	action body_action	
 ƛú	root	2	[ERG] drinks [ACC].	action body_action	cewide
 ʼsá	root	2	[ERG] stands on [ACC].	action body_action	tugivo
-θı̋ñu	root	2	[ERG] vomites, regurgitates [ACC].	action body_action	gawobo
+θı̋ñu	root	2	[ERG] vomits, regurgitates [ACC].	action body_action	gawobo
 θı̋łqwe	root	2	[ERG] defecates [ACC].	action body_action	himaho
 θı̋łïʼ	root	2	[ERG] urinates [ACC].	action body_action	gobuvo
 nčal	root	1	I now assert to you that [NTR] is the case.	action communication	yewaru
@@ -169,7 +170,7 @@ qán	root	1	[NTR] is a hind leg.	body_part	maqawo
 qárı	root	1	[NTR] is a leg (ambulatory appendage, either front or hind).	body_part	yeqave
 qáłweƛʼıʼ	root	1	[NTR] is a stinger (body part).	body_part	
 qéƛï	root	1	[NTR] is a branch (plant body part).	body_part	tisoke
-qʰáƛʰï	root	1	[NTR] is a patch of hairs; [NTR] is fur (not necessarily of a dead animal).	body_part	yikani
+qʰáƛʰï	root	1	[NTR] is a patch or coat of hairs or a fur (not including the skin, not necessarily physically bounded).	body_part	yikani
 rı̋’	root	1	[NTR] is an ear (including outer and inner ear).	body_part	qiceva
 séwa	root	1	[NTR] is a flower (plant reproductive organ).	body_part	pazuti
 yéma	root	1	[NTR] is a seedpod.	body_part	fekiba
@@ -221,8 +222,8 @@ yóma	root	1	[NTR] is of tetrachromatic magenta color.	color
 šáwa	root	1	[NTR] is of tetrachromatic grey color.	color	
 ƛúnu	root	1	[NTR] is of tetrachromatic cyan color.	color	
 ƛʰı̋	root	1	[NTR] is of tetrachromatic ‘uvagreen’ color.	color	
-háoye	root	1	[NTR] is today.	deixis	teveku
 yé	root	1	[NTR] is the here and now (my here and now), this expanse of spacetime within which I am communicating this message to you.	deixis spacetime	budeja
+háoye	root	1	[NTR] is today.	deixis time	teveku
 hálı	root	2	[ERG] is satisfied to know that [ACC] is the case, whose realization the former had put effort into.	emotion	tazedi
 náyu	root	2	[ERG] feels love, affection towards [ACC].	emotion	hiyuwa
 yéwa	root	3	[ERG] is thankful, grateful to [DAT] for having property [ACC].	emotion	hazoya
@@ -231,7 +232,7 @@ yéwa	root	3	[ERG] is thankful, grateful to [DAT] for having property [ACC].	emo
 ʎáıwa	root	2	[ERG] finds [ACC] to be beautiful (not necessarily visually).	emotion	zeyawu
 θƛáı	root	2	[ERG] feels frustration of having property [ACC].	emotion	rinoyu
 tʰwá	root	1	[NTR] is land, terrain.	geographic_feature	gasegi
-łı̋ra	root	1	[NTR] is a river or stram of water.	geographic_feature	fujofa
+łı̋ra	root	1	[NTR] is a river or stream of water.	geographic_feature	fujofa
 ƛáok	root	1	[NTR] is a mountain or hill.	geographic_feature	giwupu
 hú	root	1	[NTR] is of tetrachromatic near-ultraviolet (UVA) color.	has_color bichromatic pseudo-absolute	nosone
 ƛúyï	root	1	[NTR] is of bichromatic cyan color.	has_color bichromatic pseudo-absolute	qakema
@@ -242,7 +243,7 @@ léyek	root	1	[NTR] is of trichromatic purple color or violet color.	has_color t
 qʰú	root	1	[NTR] is of trichromatic black color.	has_color trichromatic pseudo-absolute	nosune
 tó	root	1	[NTR] is of trichromatic red color.	has_color trichromatic pseudo-absolute	kukewo
 tóyek	root	1	[NTR] is of trichromatic rose, pink color.	has_color trichromatic pseudo-absolute	minequ
-tʰı̋wa	root	1	[NTR] is of trichromatic grey color.	has_color trichromatic pseudo-absolute	kukihu
+tʰı̋wa	root	1	[NTR] is of trichromatic gray/grey color.	has_color trichromatic pseudo-absolute	kukihu
 yóyek	root	1	[NTR] is of trichromatic magenta, fuchsia color.	has_color trichromatic pseudo-absolute	dapeno
 łı̋	root	1	[NTR] is of trichromatic lime green color.	has_color trichromatic pseudo-absolute	ralija
 łı̋pı	root	1	[NTR] is of trichromatic spring-green, turquoise color.	has_color trichromatic pseudo-absolute	rubuho
@@ -257,31 +258,31 @@ yéwak	root	1	[NTR] is an animal, a Metazoa.	lifeform animal arthropod	ziwayu
 néš	root	1	[NTR] is a bee.	lifeform animal arthropod insect	zayami
 néšïñwa	root	1	[NTR] is a queen bee.	lifeform animal arthropod insect	
 wíƛʰï	root	1	[NTR] is a fly, a diptere.	lifeform animal arthropod insect diptere	zijiku
-púpu	root	1	[NTR] is a typical cuckoo (Cuculus genus).	lifeform animal vertebrate bird	yicaga
 qrá	root	1	[NTR] belongs to the Corvus genus (ravens, crows, jackdaws, rooks).	lifeform animal vertebrate bird	yahalo
+qúqu	root	1	[NTR] is a typical cuckoo (Cuculus genus).	lifeform animal vertebrate bird	yicaga
 tʼí	root	1	[NTR] is a bird (Aves taxonomic class).	lifeform animal vertebrate bird	daliwe
 tʼípupu	root	1	[NTR] is a typical cuckoo (Cuculus genus).	lifeform animal vertebrate bird	yicaga
 tʼíqra	root	1	[NTR] belongs to the Corvus genus (ravens, crows, jackdaws, rooks).	lifeform animal vertebrate bird	yahalo
 lúc	root	1	[NTR] is a fish.	lifeform animal vertebrate fish	buzote
-kóyu	root	1	[NTR] is a dog (Canis familiaris).	lifeform animal vertebrate mammal	yobanu
+kóyu	root	1	[NTR] is a dog (Canis lupus familiaris).	lifeform animal vertebrate mammal	yobanu
 qánwe	root	1	[NTR] is a human, a human being.	lifeform animal vertebrate mammal	wayami
 yáʼı	root	1	[NTR] is a horse (Equus ferus caballus).	lifeform animal vertebrate mammal	qibawe
 yóʎkwa	root	1	[NTR] is a fox.	lifeform animal vertebrate mammal	
 ƛúrı	root	1	[NTR] is a domestic cat (Felis catus).	lifeform animal vertebrate mammal	fufuki
-ƛʼíwın	root	1	[NTR] is a mouse.	lifeform animal vertebrate mammal	mafawe
+ƛʼíwın	root	1	[NTR] is a mouse (kind of small rodent).	lifeform animal vertebrate mammal	mafawe
 θı̋lïʼ	root	1	[NTR] is a snake.	lifeform animal vertebrate squamate snake	kisudo
-nƛé	root	1	[NTR] is a plant.	lifeform plant	dayilu
+nƛé	root	1	[NTR] is a Viridiplantae, a plant in the broad sense (comprising land plant and green algae).	lifeform plant	dayilu
 ñóq	root	1	[NTR] is a potato.	lifeform plant	guluna
 ƛíš	root	1	[NTR] is grass.	lifeform plant	sosudi
 nóko	root	1	[NTR] is an apple.	lifeform plant fruit	nahala
 qí	root	1	[NTR] is a fruit.	lifeform plant fruit	gufoja
 rópo	root	1	[NTR] is a tomato (fruit).	lifeform plant fruit	seruwi
-ƛʰáı	root	1	[NTR] is a tree.	lifeform plant tree	tiliva
+ƛʰáı	root	1	[NTR] is a woody tree (larger than a shrub).	lifeform plant tree	tiliva
 ná	root	1	[NTR] is a language.	linguistics	lasofe
 há	root	1	[NTR] is false, isn't the case.	logic	maruhe
 kwáo	root	2	Something is such that [ERG] is a proposition stating that that thing has property [ACC].	logic	lanoha
 kwáı	root	1	[NTR] is true, is the case.	logic	tunabe
-kwíyu	root	2	[ERG] are in relation [ACC] with each other.	logic	josuma
+kwíyu	root	2	[ERG] are exhaustively in relation [ACC] with each other; for all pairs from the former, the relation holds.	logic	josuma
 káoʼ	root	4	[ERG], [DAT] and [ACC] are in ternary relation [EXT/DP].	logic	dotuye{[ERG],[DAT],[ACC],[EXT/DP]}
 pθú	root	2	[ERG] are in relation [ACC] with different things.	logic	tafere
 qóweʼ	root		➊, ➋, ➌ and ➍ are in quaternary relation 🅓.	logic	gotavi{➊,➋,➌,➍,🅓}
@@ -363,6 +364,7 @@ pʰú	root	1	[NTR] falls.
 pʼúh	root	1	[NTR] explodes.		papaku
 qrú	root	2	[ERG] has half [ACC].		
 qwáoƛurı	root	2	[ERG] meows [ACC].		
+qwı̋nï	root	1	[NTR] is a worm.		
 qúʎu	root	2	[ERG] is wet with liquid [ACC].		kupaka
 qʰá	root	2	[ERG] causes [ACC].		yajana
 qʰácʰol	root	1	[NTR] is a settlement consisting at least of several buildings.		nutozi
@@ -429,6 +431,7 @@ yı̋rï	root	2	[ERG] runs on [ACC].
 ƛʰúʼ	root	3	[ERG] puts amount [DAT] of effort into doing property [ACC].		zupomu
 ƛʼíyï	root	1	[NTR] is an ant.		
 ƛʼíʼ	root	2	[ERG] pierces [ACC].		
+ƛʼı̋ka	root	1	[NTR] is garlic.		
 ʎkʼá	root	2	[ERG] is light illuminating, reflecting on [ACC].		
 ʎpá	root	3	[ERG] and [DAT] are separated by temporal distance [ACC].		
 ʎpášı	root	2	[ERG] has [ACC] as its age since the beginning of its existence (including fetal time in the case of animals).		
