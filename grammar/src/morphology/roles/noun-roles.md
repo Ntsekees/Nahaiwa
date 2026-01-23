@@ -198,7 +198,7 @@ Below is an explanation of the functions of the other core cases mentioned in th
   `PND-∄- NTRᵢ-among:NTR-EXO:NTR-thing`  
   `k-  ao= ha- kʰao- ƛı-        ke-   pákı`  
   `ACC-DCS-NEG-POSB-PND_PRO:ERG-2:DAT-help`  
-  *I expect, for none of them, that it's not possible that he/she help you.*  
+  *I expect, for none of them, that it's not possible that he/she helps you.*  
   ———  
   Here, the affix ⟪**-ïy-**⟫ is the *Nonexistential Determinacy*. See [the Determinacy section](determinacy.md) for details.
   
