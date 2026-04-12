@@ -104,7 +104,7 @@ Another kind of content clause is the *‘polarity clause’*, opened by the sub
 
 ## Template clauses
 
-Template clauses are similar to content clauses but contain ‘blanks’, parts that have been abstracted away, similarly to blanks in a form, ready to be filled in. A template clause defines a predicate, and each ‘blank’ corresponds to one of the argument slots of the predicate. Each such blank or slot is represented by a so-called *‘lambda pronoun’* (named after lambda calculus). There is one vocalic morpheme for each predicate valency, and each valency has its own set of lambda pronouns. Like other Nahaıwa pronominals, the lambda pronouns are extensional prefixes, with a variable vowel representing an Inner Case, represented as ⟪◈⟫ in the table below:
+Template clauses, or ‘infinitive clauses’, are similar to content clauses but contain ‘blanks’, parts that have been abstracted away, similarly to blanks in a form, ready to be filled in. A template clause defines a predicate, and each ‘blank’ corresponds to one of the argument slots of the predicate. Each such blank or slot is represented by a so-called *‘lambda pronoun’* (named after lambda calculus). There is one vocalic morpheme for each predicate valency, and each valency has its own set of lambda pronouns. Like other Nahaıwa pronominals, the lambda pronouns are extensional prefixes, with a variable vowel representing an Inner Case, represented as ⟪◈⟫ in the table below:
   
 ```  
 ┌────────────────────────────┬─────┬────────────────────┐  
@@ -127,7 +127,7 @@ Most of the time, template clauses are used as arguments for so-called *higher-o
   `ı=      nı-   ke-   yéwa`  
   `ASR;SEN=1:ERG-2:DAT-grateful`  
   `k-  oı= tʼı-        ne-   pákı`  
-  `ACC-UTC=NTR_LAM:ERG-1:DAT-help`  
+  `ACC-UTCS=NTR_LAM:ERG-1:DAT-help`  
   *I am grateful to you for having helped me.*  
   ————  
   ⸨Here, `NTR_LAM` represents the Intransitive Case Lambda pronominal **-tʼ◈-**, governed by the unary template subordinator **-oı-**.⸩
@@ -136,7 +136,7 @@ Most of the time, template clauses are used as arguments for so-called *higher-o
   `a=      ŋkı-   pθú   `  
   `ASR;INF=12:ERG-differ`  
   `k-  oa= cʼı-        tʰú`  
-  `ACC-BTC=ERG_LAM:ERG-deem_true`  
+  `ACC-BTCS=ERG_LAM:ERG-deem_true`  
   `k-  ao= θı-     kʼu-        twá`  
   `ACC-DCS꞊EXO:ERG-ACC_LAM:ACC-intend`  
   *We (me+you) differ in what we think he intends to do.*  

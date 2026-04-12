@@ -68,10 +68,7 @@ Other core cases:
 ```  
 ┌───────────────┬─────┬─────┐  
 │ Extensional   │  q  │  o  │   
-│ Eventive      │  š  │  ï  │  
-│ Propositional │  ł  │     │
-│ Situative     │  tʰ │  eo │  
-│ Sequential    │  ŋ  │     │  
+│ Enumerative   │  ŋ  │     │  
 └───────────────┴─────┴─────┘  
 ```  
   
@@ -155,38 +152,30 @@ Below is an explanation of the functions of the other core cases mentioned in th
   `ERG-NTRᵢ-DEF:NTR-dog  ACC-NTRᵢ-DEF:NTR-food`  
   *(I recall that) the caretaker made the dog eat the food.*
 
-  
-* The Eventive Case may appear with pretty much any verb; it marks a noun that refers to a concrete spatiotemporal event corresponding to the abstract proposition expressed by the verb. Its purpose is much comparable to that of manner adverbs in English, expressing a quality of an event, such as “suddenly”, “beautifully”, “surprisingly”…  
-
-  * **Iθırí šunıʎáıwa.**  
-  `ı=      θı-     rí      š- u-   nı-   ʎáıwa`  
-  `ASR;SEN=EXO:ERG-walk_on EV-ACCᵢ-1:ERG-find_beautiful`  
-  *They walk in a manner that is beautiful to me.*
-
-  * **Inıʎáıwa kïθırí.**  
-  `ı=      nı-   ʎáıwa          k-  ï-  θı-     rí`  
-  `ASR;SEN-1:ERG-find_beautiful ACC-EVᵢ-EXO:ERG-walk_on`  
-  *I find beautiful their walking.*
+* The Enumerative Case is a special case exclusively used for listing nouns that make up a plural reference or a sequence/list, as initiated by a special prefix such as ⟪-ʎp-⟫ (plural union initiator) or ⟪-pš-⟫ (sequence initiator). This case is applied to all non-initial members of the list; the first member's case indicates the syntactic role of the whole list.  
 
 
-* The Propositional Case is much similar to the Eventive case above, but describes the abstract proposition represented by the current clause, and not describing its concrete, physical spatiotemporal manifestation (event). It is suitable for expressing adverbs like "probably", "arguably", "frequently", but not adverbs about specific individual events such as "beautifully" or “suddenly”, for which the Eventive Case would be appropriate.  
-
-  * **Uršı̋ łaƛaokwáı.**  
-  `u=      ršı̋  ł-  a-   ƛao-       kwáı`  
-  `ASR;REC=rain PRP-NTRᵢ-repeatedly-true`  
-  *(I remember that) it rained repeatedly.*
-
-* The Situative Case marks nouns referring to a world or a volume of spacetime within which the proposition expressed by the verb is true. For it to apply, the event and the target spacetime area must be entirely encompassed by the referent of the marked noun.  
+```
+┌───────────────
+│ ◆ Aŋkaʎpanayá ŋakayá.
+│   A꞊ŋka-{ʎp-[a-na-yá] ŋ-[a-ka-yá]}.
+│ ❖ ASR.NFR꞊12:NTR-PUI-NTR-1:NTR-thing ENU-NTR-2:NTR-thing
+│ ➥ We are me together with you.
+└─
+```
 
   
 ## Non-core (adjunct) cases:
 
-```  
-┌───────────────┬─────┐  
-│ Pendent       │  ƛ  │  
-│ Instrumental  │  ƛʰ │  
-│ SP Locative   │  s  │  
-└───────────────┴─────┘  
+```
+┌───────────────┬─────┬─────┐
+│ Pendent       │  ƛ  │     │
+│ Instrumental  │  ƛʰ │     │
+│ SP Locative   │  s  │     │
+│ Eventive      │  š  │  ï  │
+│ Propositional │  ł  │     │
+│ Situative     │  tʰ │  eo │
+└───────────────┴─────┴─────┘
 ```  
  
 * The Pendent Case introduces a noun phrase without stating any relation between it and the current clause, and binds it to the Pendent pronoun (whose extensional form is ⟪-ƛ◈-⟫, with ⟪◈⟫ representing an Inner Case vowel). This allows the introduced noun phrase (now bound to the pendent pronoun) to be used latter, possibly in a subordinate clause not yet opened. This is especially useful for expressing quantification binding a variable that is not used in the same clause as the one in which the quantifier appears, but rather in a more deeply nested clause:  
@@ -211,6 +200,15 @@ Below is an explanation of the functions of the other core cases mentioned in th
   `INS-NTRᵢ-is_a_pencil`  
   *They draw (a representation of) dogness, using a pencil.*  
   
+This is essentially a shorthand for using the root ⟪**-yáı**⟫, “to do with an instrument”:
+  * **Iθıyáı paƛʰísı koıtʼıwétakı kʼakóyu.**  
+  `ı=      θı-     yáı                 p- a-    ƛʰísı`  
+  `INS-NTRᵢ-EXO:ERG-do_with_instrument  DAT-NTRᵢ-is_a_pencil`    
+  `k꞊  oı-  tʼı-        wétakı           kʼ-      a-   kóyu`  
+  `ACC꞊UTCS-NTR_LAM:ERG-draws_depiction  ACC;PROP-NTRᵢ-is_a_dog`  
+  *They use a pencil for drawing (a representation of) dogness.*  
+  
+
 * The Spatiotemporal Locative Case marks nouns referring to a volume of spacetime where the event described is taking place. For it to apply, the event and the target spacetime area must simply overlap, the event needs not be entirely encompassed by that area.  
   
   * **Iłı̋ł sakoŋqʼaqʰáƛʰï.**  
@@ -218,3 +216,25 @@ Below is an explanation of the functions of the other core cases mentioned in th
   `ASR.SEN꞊is_mud  LOC-NTRᵢ-2:EXT-part_of-is_fur`  
   *(I see that) there's mud on your fur.*  
   
+* The Eventive Case may appear with pretty much any verb; it marks a noun that refers to a concrete spatiotemporal event corresponding to the abstract proposition expressed by the verb. Its purpose is much comparable to that of manner adverbs in English, expressing a quality of an event, such as “suddenly”, “beautifully”, “surprisingly”…  
+
+  * **Iθırí šunıʎáıwa.**  
+  `ı=      θı-     rí      š- u-   nı-   ʎáıwa`  
+  `ASR;SEN=EXO:ERG-walk_on EV-ACCᵢ-1:ERG-find_beautiful`  
+  *They walk in a manner that is beautiful to me.*
+
+  * **Inıʎáıwa kïθırí.**  
+  `ı=      nı-   ʎáıwa          k-  ï-  θı-     rí`  
+  `ASR;SEN-1:ERG-find_beautiful ACC-EVᵢ-EXO:ERG-walk_on`  
+  *I find beautiful their walking.*
+
+* The Propositional Case is much similar to the Eventive case above, but describes the abstract proposition represented by the current clause, and not describing its concrete, physical spatiotemporal manifestation (event). It is suitable for expressing adverbs like "probably", "arguably", "frequently", but not adverbs about specific individual events such as "beautifully" or “suddenly”, for which the Eventive Case would be appropriate.  
+
+  * **Uršı̋ łaƛaokwáı.**  
+  `u=      ršı̋  ł-  a-   ƛao-       kwáı`  
+  `ASR;REC=rain PRP-NTRᵢ-repeatedly-true`  
+  *(I remember that) it rained repeatedly.*
+
+* The Situative Case marks nouns referring to a world or a volume of spacetime within which the proposition expressed by the verb is true. For it to apply, the event and the target spacetime area must be entirely encompassed by the referent of the marked noun.  
+
+

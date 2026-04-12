@@ -49,14 +49,13 @@
 ### ROLES ➤ CORE CASES:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
 |-------------------------------------|----------|-----------------------------------------|
-| t / a                               | NTR      | Intransitive Case                       |
-| c / ı                               | ERG      | Ergative Case                           |
-| k / u                               | ACC      | Accusative Case                         |
+| t / a                               | NTR      | Intransitive                            |
+| c / ı                               | ERG      | Ergative                                |
+| k / u                               | ACC      | Accusative                              |
 | p / e                               | DAT      | Dative Case                             |
 | č / eı                              | COD      | Codative Case                           |
-| q / o                               | EXT⁓AFX  | Extensional Case, Affixal Case          |
-| š / ï                               | EV⁓EVT   | Eventive Case                           |
-| tʰ / eo                             | SIT      | Situative Case                          |
+| q / o                               | EXT⁓AFX  | Extensional , Affixal                   |
+| ŋ                                   | ENU      | Enumerative                             |
 
 ### ROLES ➤ ADJUNCTS:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
@@ -64,11 +63,16 @@
 | ƛ                                   | PND      | Pendent                                 |
 | ƛʰ                                  | INS      | Instrumental                            |
 | s                                   | LOC⁓SPL  | Spatiotemporal Locative                 |
-| y                                   | ITJ⁓INTJ | Interjective                            |
-| l                                   | ATR      | Attributive                             |
 | ł                                   | PRP      | Propositional                           |
+| š / ï                               | EV⁓EVT   | Eventive Case                           |
+| tʰ / eo                             | SIT      | Situative Case                          |
+
+### ROLES ➤ OTHER CASE-LIKE:
+|                FORM                 |  GLOSS   |                GRAMMEME                 |
+|-------------------------------------|----------|-----------------------------------------|
+| y                                   | ITJ⁓INTJ | Interjective                            |
 | n                                   | PU       | Plural Union                            |
-| ŋ                                   | SEQ      | Sequential Case                         |
+| l                                   | ATR      | Attributive                             |
 
 ### ROLES ➤ DISCOURSE LEVEL:
 |                FORM                 |  GLOSS   |                GRAMMEME                 |
