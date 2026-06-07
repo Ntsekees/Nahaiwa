@@ -8,7 +8,6 @@ These Role prefixes (Slot 2a) behave much like noun cases, although the syntacti
 ┌─────────────────────┬─────┐  
 │ Interjective        │  y  │  
 │ Plural union        │  n  │  
-│ Sequential          │  ŋ  │  
 │ Attributive         │  l  │  
 └─────────────────────┴─────┘  
 ```  
