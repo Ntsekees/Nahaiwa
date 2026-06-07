@@ -54,7 +54,7 @@
 | k / u                               | ACC      | Accusative                              |
 | p / e                               | DAT      | Dative Case                             |
 | č / eı                              | COD      | Codative Case                           |
-| q / o                               | EXT⁓AFX  | Extensional , Affixal                   |
+| q / o                               | EXT⁓AFX  | Extensional, Affixal                    |
 | ŋ                                   | ENU      | Enumerative                             |
 
 ### ROLES ➤ ADJUNCTS:
