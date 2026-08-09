@@ -26,8 +26,8 @@ In addition to occurring in slot 2c, Subordinators may also occur as extensional
 
 ## Relative clauses
 
-Relative clauses are clauses that refer to one of the participants (called the ‘antecedant’) mentioned within the clause and represented by the *‘resumptive pronoun’* (`RSM` in glosses), whose whose extensional form is ⟪-t◈-⟫; the relative clause describes its antecedent, and the whole relative clause's referent is the antecedent itself.  
-Nahaıwa ‘nouns’, such as ⟪**takóyu**⟫ “a dog”, can be regarded as actually be reduced relative clauses, where the inner case affix (here ⟪**-a-**⟫) acts as a vestigial relative pronoun inflecting for case. All such ‘nouns’ can be expanded to full-fledged relative clauses using the subordinator ⟪**-aı-**⟫, and a resumtive pronominal bearing the same case vowel as the original noun's inner case:
+Relative clauses are clauses that refer to one of the participants (called the ‘antecedant’) mentioned within the clause and represented by the *‘resumptive pronoun’* (`RSM` in glosses), whose extensional form is ⟪-t◈-⟫; the relative clause describes its antecedent, and the whole relative clause's referent is the antecedent itself.  
+Nahaıwa ‘nouns’, such as ⟪**takóyu**⟫ “a dog”, can be regarded as actually being reduced relative clauses, where the inner case affix (here ⟪**-a-**⟫) acts as a vestigial relative pronoun inflecting for case. All such ‘nouns’ can be expanded to full-fledged relative clauses using the subordinator ⟪**-aı-**⟫, and a resumtive pronominal bearing the same case vowel as the original noun's inner case:
 * ⟪**takóyu**⟫ ↦ ⟪**taıtakóyu**⟫  
   `t-aı-ta-kóyu`  
   `NTR-REL-RSM:NTR-is_dog`  
