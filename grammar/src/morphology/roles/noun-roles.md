@@ -36,6 +36,9 @@ The outer case is represented by a consonantal prefix, followed by a vocalic aff
   
 The language exhibits tripartite alignment. Word roots represent predicates with an arity (i.e. valency) between zero and four, i.e. governing at most four different arguments. Monovalent predicates govern only one case, the Intransitive Case. Bivalent predicates govern two different cases: the Ergative and the Accusative. Trivalent verbs also govern the Ergative and Accusative, with the addition of the Dative case for the additional argument. Tetravalent predicates (which are uncommon) also govern these three cases, with the addition of a fourth one, the Codative.
 As the choice of cases depends on the predicate's valency, it can be said that there exist a form of grammatical agreement between cases and predicate valency.  
+
+It is possible for a same clause to contain two or more occurrences of a same noun case on different nouns, in which case, they are understood to refer to the same thing. Thus, in an expression like ⟪Ilı̋ takóyu tacʰáı⟫, “sleep NTR-dog NTR-be_white”, the dog and the white thing are one and the same: “a white dog is asleep”.  
+  
   
 ## Core noun case affixes:  
   
