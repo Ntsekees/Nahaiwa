@@ -32,8 +32,8 @@ This ‘Injective’ clitic (or ‘argumental genitive’) may occur on nouns an
   │ ◆ Oqʰá cïlú kïłqʼáı ntaqʰácʰol.  
   │ ❖ O−     √qʰá    c-  ï- √lú   k-  ï- √łqʼáı
   │   ASR.RPT-cause  ERG-EV-flow  ACC-EV-undergoes_destruction
-  │   n꞊  t-  a-  -qʰáčʰol
-  │   IJV꞊NTR-NTR-settlement  
+  │   n꞊  t-  a-  -√qʰáčʰol
+  │   IJV꞊NTR-NTR--settlement  
   │ ➥ I heard that the water caused the destruction of the
   │   settlement.  
   └─  
