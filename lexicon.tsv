@@ -1,7 +1,8 @@
 morpheme	type	subtype	eng	tags	predilex_id
 morpheme	type	subtype	eng	tags	predilex_id
 ƛʼ•	ext	−+	[X] tries, attempts to have property [1].	action	dubanu{[X],[1]}
-rao	ext	0	the result of [0] being the case is the case and is [EXT] ⸨resultative aspect⸩.	aspect	
+raı	ext	0	[0] is the case subsequently, thereafter (after the events described in the previous utterance).		
+rao	ext	0	the result or aftermath of [0] being the case is the case and is [EXT] ⸨resultative aspect⸩.	aspect	
 rƛao	ext	0	[0] is repetitively the case, at high frequency.	aspect	
 yao	ext	0	[0] is still the case.	aspect	tojiha{[0]}
 ša	ext	0	[0] is ongoing, in the middle of taking place.	aspect	dumulo{[0]}
@@ -11,34 +12,36 @@ yao	ext	0	[0] is still the case.	aspect	tojiha{[0]}
 šu	ext	0	[0] stops, ceases to happen (possibly without reaching completion).	aspect change	mosegu{[0]}
 šı	ext	0	[0] starts, begins to happen.	aspect change	bigida{[0]}
 čʼ•	ext	−+	[ERG] has a property similar, comparable, analogical to property [ACC].	basic metaphor	tiheya
-cʰ•	ext	−+	[X] is a you-know-what having property [1].	deixis	
 k•	ext	−+	[X] is, are you, you all (all the addressees, singular or plural, but not associative), and has property [1].	deixis	
 n•	ext	−+	[X] is me and has property [1]	deixis	
 θ•	ext	−+	[X] is you-know-what and has property [1]	deixis	
+θq•	ext	−+	[X] is such (having you-know-what property) and has property [1].		
 ha	ext	0	[0] is false, isn't the case.	logic	maruhe{[0]}
 kʰao	ext	0	[0] is possible.	logic modal	wipiyo{[0]}
 mn•	ext	−+	[X] is comparable, similar to [1].	metaphor	
-sƛ•	ext	−+	[X] has property [1] and is the referent of the current inherited world (modal context) variable. ⸨World proform.⸩	syntactic_pronoun	
+pk•	ext	−+	[X] is the proposition expressed by the previous statement, and has property [1].		
+rŋ•	ext		[X] has a tendency or disposition to have property [1].		
+rn•	ext	−+	[X] has property [1] and is the referent of the current inherited world (modal context) variable. ⸨World proform.⸩	syntactic_pronoun	
 t•	ext	−+	[X] has property [1] and is the antecedent of the current relative clause. ⸨Resumptive proform.⸩	syntactic_pronoun	
-čʰ•	ext	−+	[X] have property [1] and are the referents of the closest C-commanding noun phrase marked with the Discourse Pendent case.	syntactic_pronoun	
-ƛ•	ext	−+	[X] have property [1] and are the referents of the closest C-commanding noun phrase marked with the Pendent case.	syntactic_pronoun	
-mpʰ•	ext	−+	[X] has property [1] and is the same as the previous reference bearing the dative outer case. ⸨Dative case anaphora.⸩	syntactic_pronoun case_anaphora	
-ncʰ•	ext	−+	[X] has property [1] and is the same as the previous reference bearing the ergative outer case. ⸨Ergative case anaphora.⸩	syntactic_pronoun case_anaphora	
-ntʰ•	ext	−+	[X] has property [1] and is the same as the previous reference bearing the intransitive outer case. ⸨Intransitive case anaphora.⸩	syntactic_pronoun case_anaphora	
-ŋkʰ•	ext	−+	[X] has property [1] and is the same as the previous reference bearing the Accusative outer case. ⸨Accusative case anaphora.⸩	syntactic_pronoun case_anaphora	
-ŋqʰ•	ext	−+	[X] has property [1] and is the same as the previous reference bearing the extensional outer case. ⸨Extensional case anaphora.⸩	syntactic_pronoun case_anaphora	
+sƛ•	ext	−+	[X] have property [1] and are the referents of the closest C-commanding noun phrase marked with the Pendent case.	syntactic_pronoun	
+sp•	ext	−+	[X] has property [1] and is the same as the previous reference bearing the dative outer case. ⸨Dative case anaphora.⸩	syntactic_pronoun case_anaphora	
+sc•	ext	−+	[X] has property [1] and is the same as the previous reference bearing the ergative outer case. ⸨Ergative case anaphora.⸩	syntactic_pronoun case_anaphora	
+st•	ext	−+	[X] has property [1] and is the same as the previous reference bearing the intransitive outer case. ⸨Intransitive case anaphora.⸩	syntactic_pronoun case_anaphora	
+sk•	ext	−+	[X] has property [1] and is the same as the previous reference bearing the Accusative outer case. ⸨Accusative case anaphora.⸩	syntactic_pronoun case_anaphora	
+sq•	ext	−+	[X] has property [1] and is the same as the previous reference bearing the extensional outer case. ⸨Extensional case anaphora.⸩	syntactic_pronoun case_anaphora	
 cʼ•	ext	−+	[X] has property [1] and is the referent of the Ergative lambda slot of the current template clause. ⸨Ergative lambda proform.⸩	syntactic_pronoun lambda_pronoun	
 kʼ•	ext	−+	[X] has property [1] and is the referent of the Accusative lambda slot of the current template clause. ⸨Accusative lambda proform.⸩	syntactic_pronoun lambda_pronoun	
 pʼ•	ext	−+	[X] has property [1] and is the referent of the Dative lambda slot of the current template clause. ⸨Dative lambda proform.⸩	syntactic_pronoun lambda_pronoun	
 tʼ•	ext	−+	[X] has property [1] and is the referent of the Intransitive lambda slot of the current template clause. ⸨Intransitive lambda proform.⸩	syntactic_pronoun lambda_pronoun	
 rc•	ext	0	[0] is temporally discontinuous.	time	piduta{[0]}
+ck•	ext	−+	[X] purposefully displays or communicate having property [1] with the hope that [EXT] perceives it.		
 ckʰ•	ext	−+	among what has property [X] something has property [1].		
 cwa	ext	−+	{{unbox unary predicate}}		
 c•	ext	−+	[X], which is one in number, [1]s.		
 kcʰ•	ext	−−+*	[X] and [EXT] are in relation [2] with different things.		
 km•(y•)	ext	−−++	[X] is, in comparison with [EXT] (default: contextual), in relation [2] with the greatest number.		
 ktʰ•	ext	−+	[X] has property [1] unintentionally, involuntarily.		
-kw•(y•)	ext	−−+*	[EXT] are in the reciprocal relationship [2] ; [EXT] [2] each other.		
+kw•(y•)	ext	−−+*	[EXT] are in the reciprocal relationship [2]; [EXT] [2] each other.		
 kč•(y•)	ext	−−++	[X] is, in comparison with [EXT] (default: contextual), in relation [2] with the smallest number.		
 la	ext	0	{{Present tense}}		
 lao	ext	0	Existential tense		
@@ -48,6 +51,9 @@ ltʰ•	ext	−++	[X] has property [1] intentionally, in order to make [EXT] be 
 lt•	ext	−+	[X] is among what has property [1].		
 lu	ext	0	{{Past tense}}		
 lı	ext	0	[0] is the case after the event of the next outer clause, or if there’s none, then after the event described by the preceding sentence.		
+ʎč•	ext	−+	[X] is the proposition that is the mention-all answer (listing all the solutions but not the non-solutions) to the question of what has property [1].		
+ʎk•	ext	−+	[X] is the proposition that is the strongly exhaustive answer (listing all solutions as well as all non-solutions) to the question of what has property [1].		
+ʎkea	ext	0	[EXT] is the proposition that is the answer to whether [0] is true.		
 mw•(y•)	ext	−−++*	[X] is in relation [2] with a very great number relatively to the median among [EXT] (default: contextual).		
 m•(y•)	ext	−−++*	[X] is in relation [2] with a great number relatively to the median among [EXT] (default: contextual).		
 nc’•	ext	−+	[X] is the property of having property [1].		
@@ -70,10 +76,9 @@ rwa	ext	→B	{{unbox binary predicate}}
 r•	ext	−+	[X] is related to what has property [1].		
 sao	ext	0	[EXT] is a place indended for [0] to be true.		
 scʰ•(y•)	ext	−−+*	[X] is in relation [2] with themself.		
-sc•	ext	−+	[X] is all that has property [1].		
-sk•	ext	−+	what has property [X] has property [1].		
+cʰ•	ext	−+	[X] is all that has property [1].		
+skʰ•	ext	−+	what has property [X] has property [1].		
 sqʰ•	ext	−+	[X] is the 3D spatial area occupied by [1].		
-st•	ext	0	[EXT] is the truth value of proposition [0].		
 sw•(y•)	ext	−++	[X] is in relation [2] with an increasingly great number.		
 s•	ext	−+★	[NTR] is/are the referents of the variable named [remaining of the word, starting on the prominent syllable].		
 tw•y•	ext	−++	[X] is in relation [2] with an average number relatively to the median among [EXT] (default: contextual).		
@@ -94,7 +99,7 @@ wa	ext	★	{{post-extension clausal anchor}}
 ƛʼao	ext	0	[0] is true if [EXT] is true.		
 ƛʼea	ext	0	[0] would be true if [EXT] were true.		
 ʎao	ext	0	[0] seems to be the case to [EXT].		
-ʎaı	ext	0	[0] is the case to the benefit of [EXT].		
+yeo	ext	0	[0] is the case to the benefit of [EXT].		
 ʼa	ext	★	{{scope anchor}}		
 ʼao	ext	0★	{{plain content clause initiator}}		
 ʼaı	ext	0★	{{relative clause initiator}}		
@@ -123,11 +128,22 @@ yáı	root	3	[ERG] uses, manipulates, exercises influence upon [DAT] in order to
 čéwa	root	3	[ERG] purposefully has property [DAT] for ensuring that [ACC] be the case.	action	soyafo
 ƛkén	root	2	[ERG] invents, designs, devises idea or concept [ACC].	action	memoku
 ʎáoko	root	2	[ERG] looks after, takes care of [ACC].	action	keyepe
+łáyu	root	2	[ERG] seeks, searches for, looks for anything having property [ACC].		mequza
+tʰı̋na	root	3	[ERG] has duty towards [DAT] to make [ACC] true.		
+čʰı̋ya	root	3	[ERG] complies, obeys to [DAT]’s request, command or advice to make [ACC] true.		
 háhu	root	1	[NTR] breathes (in and out).	action body_action	bosuzu
+ncélï	root	1	[NTR] is sleepy, feels need to sleep.		
+ncéñu	root	1	[NTR] is hungry.		borovi
+ƛʼénceñu	root	1	[NTR] experiences starvation.		
+ncéƛu	root	1	[NTR] is thirsty.		datiso
+ráonceñu	root	1	[NTR] is satiated, no longer hungry.		
+ráonceƛu	root	1	[NTR] has their thirst quenched.		
+ncéθïñu	root	1	[NTR] feels nausea.		
 rí	root	2	[ERG] walks on [ACC].	action body_action	qajiho
 ñú	root	2	[ERG] eats [ACC].	action body_action	qayiho
 šáya	root	2	[ERG] flies in [ACC].	action body_action	
 ƛú	root	2	[ERG] drinks [ACC].	action body_action	cewide
+mwénı	root	2	[ERG] lies, reclines on [ACC].		winiza
 ʼsá	root	2	[ERG] stands on [ACC].	action body_action	tugivo
 θı̋ñu	root	2	[ERG] vomits, regurgitates [ACC].	action body_action	gawobo
 θı̋łqwe	root	2	[ERG] defecates [ACC].	action body_action	himaho
@@ -135,12 +151,15 @@ rí	root	2	[ERG] walks on [ACC].	action body_action	qajiho
 nčal	root	1	I now assert to you that [NTR] is the case.	action communication	yewaru
 pá	root	3	[ERG] says, to the attention of anyone with property [DAT], utterance [ACC] (verbatim quote).	action communication	
 ráwa	root	2	[ERG] talks to [ACC].	action communication	juweku
+yéaı	root	2	[ERG] allows, lets, doesn’t oppose [ACC] be the case.		
 yéʼ	root	2	[ERG] calls, verbally requests attention from [ACC] in order to initiate communication.	action communication	ruyeba
 yı̋	root	3	[ERG] displays, noticeably satisfies property [DAT] with the hope that something satisfying property [ACC] perceives it.	action communication	lesuja
 yı̋yewa	root	3	[ERG] thanks, manifests gratitude to [DAT] for having property [ACC].	action communication	cigeta
 yı̋čal	root	3	[ERG] asserts to audience [DAT] utterance [ACC] .	action communication	yewima
 čál	root	2	[ERG] asserts, claims [ACC] to be the case; [ERG] expresses that they have belief, certainty or highly expect [ACC] to be the case (it is not implied that they wish for a third party to receive the message, they might be merely thinking aloud or talking to themselves).	action communication	royewa
+kʰí	root	3	[ERG] recommend, advises to [DAT] that they make [ACC] be the case.		
 kʰó	root	3	[ERG] requests to [DAT] that they make [ACC] be the case.	action communication illocution	yayetu
+ŋwı̋čï	root	3	[ERG] begs, pleads, implores, supplicates to [DAT] that they make [ACC] be the case.		
 nráı	root	3	[ERG] accepts [DAT]’s request to make [ACC] be the case.	action communication illocution	
 ƛqú	root	3	[ERG] refuses [DAT]’s request to make [ACC] be the case.	action communication illocution	
 kálı	root	1	[NTR] is a book.	artifact	vijutu
@@ -172,6 +191,7 @@ qárı	root	1	[NTR] is a leg (ambulatory appendage, either front or hind).	body_
 qáłweƛʼıʼ	root	1	[NTR] is a stinger (body part).	body_part	
 qéƛï	root	1	[NTR] is a branch (plant body part).	body_part	tisoke
 qʰáƛʰï	root	1	[NTR] is a patch or coat of hairs or a fur (not including the skin, not necessarily physically bounded).	body_part	yikani
+qʰéwa	root	1	[NTR] is a lower jaw, a mandible.		fotoku
 rı̋’	root	1	[NTR] is an ear (including outer and inner ear).	body_part	qiceva
 séwa	root	1	[NTR] is a flower (plant reproductive organ).	body_part	pazuti
 yéma	root	1	[NTR] is a seedpod.	body_part	fekiba
@@ -180,6 +200,8 @@ yéma	root	1	[NTR] is a seedpod.	body_part	fekiba
 ƛʰı̋	root	1	[NTR] is a hair (possibly dead).	body_part	howice
 ʎúq	root	1	[NTR] is a tail (body part).	body_part	fuvika
 ʼáo	root	1	[NTR] is an eye.	body_part	jovonu
+ʼóqa	root	1	[NTR] is a mouth.	body_part	wahulo
+ʼóqaqʼí	root	1	[NTR] are jaws (maxilla + mandible).		jiyime
 qʼí	root	1	[NTR] is a bone.	body_part bone	hobewe
 lóθ	root	1	[NTR] is blood.	body_part inner_organ	gefore
 qálao	root	1	[NTR] is a heart.	body_part inner_organ	cizehu
@@ -195,6 +217,7 @@ rú	root	1	[NTR] are two in number.	cardinality	qudase
 sƛéo	root	2	[ERG] computes, calculates the answer to what satisfies property [ACC].	cognition	kewapo
 ƛéo	root	3	[ERG] computes, calculates that [DAT] is the answer to what satisfies property [ACC].	cognition	woqihi
 háı	root	1	[NTR] is of tetrachromatic white color.	color	
+háowa	root	1	[NTR] are a community, a society, with shared culture and regular, mutually beneficial interactions.		
 húkʰo	root	1	[NTR] is of tetrachromatic ‘uva-uvared’ color.	color	
 húse	root	1	[NTR] is of tetrachromatic ‘uva-uvablue’ color.	color	
 húƛʰï	root	1	[NTR] is of tetrachromatic ‘uva-uvagreen’ color.	color	
@@ -227,9 +250,13 @@ yé	root	1	[NTR] is the here and now (my here and now), this expanse of spacetim
 háoye	root	1	[NTR] is today.	deixis time	teveku
 hálı	root	2	[ERG] is satisfied to know that [ACC] is the case, whose realization the former had put effort into.	emotion	tazedi
 náyu	root	2	[ERG] feels love, affection towards [ACC].	emotion	hiyuwa
+ʎáıƛʼe	root	1	[ERG] is emotionally distressed or suffering.		
+tʰáyu	root	2	[ERG] esteems [ACC].		
 yéwa	root	3	[ERG] is thankful, grateful to [DAT] for having property [ACC].	emotion	hazoya
 ŋówa	root	2	[ERG] feels disappointment of realizing that [ACC] is the case.	emotion	yacuwu
-ƛʰwén	root	2	[ERG] is worried, anxious that [ACC] may be the case.	emotion	vobose
+ƛʰwén	root	2	[ERG] is worried, anxious that [ACC] be the case.	emotion	vobose
+ƛʰwéƛʰwe	root	2	[ERG] is panicked that [ACC] be the case.		
+ʎáı	root	2	[ERG] feels emotion quale [ACC].	emotion	hojiso
 ʎáıwa	root	2	[ERG] finds [ACC] to be beautiful (not necessarily visually).	emotion	zeyawu
 θƛáı	root	2	[ERG] feels frustration of having property [ACC].	emotion	rinoyu
 tʰwá	root	1	[NTR] is land, terrain.	geographic_feature	gasegi
@@ -262,7 +289,7 @@ wíƛʰï	root	1	[NTR] is a fly, a diptere.	lifeform animal arthropod insect dip
 qrá	root	1	[NTR] belongs to the Corvus genus (ravens, crows, jackdaws, rooks).	lifeform animal vertebrate bird	yahalo
 qúqu	root	1	[NTR] is a typical cuckoo (Cuculus genus).	lifeform animal vertebrate bird	yicaga
 tʼí	root	1	[NTR] is a bird (Aves taxonomic class).	lifeform animal vertebrate bird	daliwe
-tʼípupu	root	1	[NTR] is a typical cuckoo (Cuculus genus).	lifeform animal vertebrate bird	yicaga
+tʼíququ	root	1	[NTR] is a typical cuckoo (Cuculus genus).	lifeform animal vertebrate bird	yicaga
 tʼíqra	root	1	[NTR] belongs to the Corvus genus (ravens, crows, jackdaws, rooks).	lifeform animal vertebrate bird	yahalo
 lúc	root	1	[NTR] is a fish.	lifeform animal vertebrate fish	buzote
 kóyu	root	1	[NTR] is a dog (Canis lupus familiaris).	lifeform animal vertebrate mammal	yobanu
@@ -272,6 +299,7 @@ yóʎkwa	root	1	[NTR] is a fox.	lifeform animal vertebrate mammal
 ƛúrı	root	1	[NTR] is a domestic cat (Felis catus).	lifeform animal vertebrate mammal	fufuki
 ƛʼíwın	root	1	[NTR] is a mouse (kind of small rodent).	lifeform animal vertebrate mammal	mafawe
 θı̋lïʼ	root	1	[NTR] is a snake.	lifeform animal vertebrate squamate snake	kisudo
+múyucu	root	1	[NTR] is a tunicate.		vumuni
 nƛé	root	1	[NTR] is a Viridiplantae, a plant in the broad sense (comprising land plant and green algae).	lifeform plant	dayilu
 ñóq	root	1	[NTR] is a potato.	lifeform plant	guluna
 ƛíš	root	1	[NTR] is grass.	lifeform plant	sosudi
@@ -338,10 +366,13 @@ pʰá	root	2	[ERG] has duration, lasts for [ACC].	time	kehoye
 hwéa	root	1	[NTR] is wind, moving air.	weather	howahu
 ršı̋	root	1	[NTR] rains.	weather	nirunu
 pkʰáı	root	2	[ERG] carries, holds, wears, has [ACC] on themself.	⚠	ribeta
+cwík	root	2	[ERG] is surprised by [ACC] being the case.		
 cʰwá	root	2	[ERG] emits [ACC].		
-cʼék	root	1	[NTR] is a knife.		
+cʼék	root	1	[NTR] is a knife.		pamizi
 cʼéwa	root	2	[ERG] waits for [ACC] to be the case.		goveda
 háo	root	1	[NTR] is a day (event of a daytime-nighttime cycle).		
+nƛáo	root	1	[NTR] is a year, a period of time on a planet during which it makes a complete revolution around its host star(s).		
+mpʰínƛao	root	1	[NTR] is a year (timespan).		
 háłu	root	1	[NTR] is gravel.		timisi
 kłı̋	root	2	For [ERG], having property [ACC] is detrimental.		
 kʼyá	root	1	[NTR] is a daytime.		
@@ -349,6 +380,11 @@ kʼáı	root	1	[NTR] is light (visible electromagnetic radiation).		kayayu
 kʼáıkʼya	root	1	[NTR] is daylight.		
 kʼú	root	2	In spite of [ERG] bein the case, [ACC] is also the case.		
 lı̋	root	1	[NTR] sleeps, is asleep.		sevudo
+má	root	1	[NTR] has the property represented by the question you just asked, it is an answer to your question.		
+méowa	root	1	[NTR] is a whale.		menuma
+qáıƛʼï	root	1	[NTR] is a shark.		
+qáıƛʼïlï	root	1	[NTR] is a sleeper shark.		
+píkwıƛ	root	1	[NTR] is a lepidopteran.		zalina
 méƛʰuʼ	root	2	[ERG] does property [ACC] with difficulty, with a significant amount of effort.		hegibu
 ncʰwáo	root	2	[ERG] is sitting on [ACC].		vazoco
 nte	root	3	[ERG] reads, decypher symbolic code [DAT] as encoding data [ACC].		jabaye
@@ -377,10 +413,12 @@ qʼwáı	root	1★	[NTR] is the quoted foreign text that immediately follows thi
 ráyu	root	2	[ERG] wishes [ACC] to be the case.		
 ráı	root	2	[ERG] has tallness [ACC].		lalega
 rúk	root	0	The preceding sentence is true.		
+ʼsúñu	root	2	For [ERG], [ACC] is suitable food.		
 stíñu	root	1	[NTR] is a meal, prepared food.		ridufi
 stʰı̋	root	1	[NTR] is something long and straight.		
 stʰı̋ʼčırı	root	1	[NTR] is a staff, a walk stick.		
 swákʼya	root	1	[NTR] is a morning (from dawn to noon).		
+swíra	root	2	[ERG] moves, following [ACC].		
 séwek	root	3	[ERG] promises to [DAT] to make [ACC] be the case.		
 sʼáı	root	1	[NTR] is straight, not bent.		
 tákı	root	3	[ERG] draws on [DAT] picture [ACC].		
@@ -390,11 +428,14 @@ tʰána	root	3	[ERG] gives to [DAT] possession, control of [ACC].
 tʰáqa	root	4	[ERG] and [DAT] exchange respective services [COD] and [ACC] (propositions).		
 tʰáqatʰana	root	4	[ERG] and [DAT] exchange respective control of [COD] and [ACC].		
 tʰú	root	2	[ERG] finds [ACC] very likely, expects it to be true, has confidence in it being the case.		
+ŋátʰu	root	2	[ERG] wonders what has property [ACC].		
 tʰúqa	root	2	[ERG] pulls [ACC].		
+tʰwáı	root	1	[NTR] is our reality, our real world ⸨the one the speaker and audience live in⸩.		zahiwa
 tʼál	root	2	[ERG] is at altitude [ACC] (distance from the main source of gravity pull).		
 tʼáı	root	2	[ERG] exercises control over the identity of what has property [ACC].		
-wítʰan	root	1	[NTR] is a benevolent spirit or deity.		wevaga
+wítʰan	root	1	[NTR] is a spirit or deity.		zahuna
 wı̋ca	root	3	[ERG] is the sum of numbers [DAT] and [ACC].		
+wı̋la	root	2	It would be good for [ERG] that [ACC] be the case.		
 yálı	root	2	[ERG] inhabits [ACC].		jawawe
 yáo	root	2	[ERG] greets [ACC], expressing well-intentionedness and acknowledgement of presence. ⸨Used upon encounter but not upon parting.⸩		
 yáwatʰana	root	3	[ERG] offers to [DAT] possession, control of [ACC].		
@@ -413,6 +454,8 @@ yı̋rï	root	2	[ERG] runs on [ACC].
 číʼ	root	1	[NTR] is immature, not yet full-grown.		rihofa
 čʰán	root	2	[ERG] interacts socially with [ACC].		
 čʰóqa	root	1	[NTR] is a ground.		
+łótok	root	3	[NTR] is angry at [DAT] for [ACC] being the case.		
+čqʼútu	root	3	[NTR] punishes [DAT] for [COD] being the case with the punishment of [ACC] being the case.		
 łqʰwé	root	1	[NTR] is an excrement.		
 łqʼáı	root	1	[NTR] undergoes destruction.		
 łwáı	root	1	[NTR] flows.		danake
@@ -436,16 +479,19 @@ yı̋rï	root	2	[ERG] runs on [ACC].
 ƛʼı̋ka	root	1	[NTR] is garlic.		
 ʎkʼá	root	2	[ERG] is light illuminating, reflecting on [ACC].		
 ʎpá	root	3	[ERG] and [DAT] are separated by temporal distance [ACC].		
+sáo	root	3	[ERG] and [DAT] are separated by spatial distance [ACC].		
 ʎpášı	root	2	[ERG] has [ACC] as its age since the beginning of its existence (including fetal time in the case of animals).		
 ʎpášıčıl	root	2	[ERG] has [ACC] as their age since birth or hatching.		
 ʎpáƛwı	root	3	[ERG] precedes [DAT] at temporal distance [ACC].		
 ʎqí	root	2	[ERG] is a fluid in which [ACC] is immersed, by which it is coated.		
 ʎáo	root	2	[ERG] moves along spacetime path [ACC].		
 ʎáıša	root	1	[NTR] is music.		tatazu
+ʎéwa	root	2	[ERG] is happy to degree [ACC].		
 ʎé	root	3	[ERG] enjoys, feels pleasure at having property [DAT], pleasure of nonzero degree [ACC].		
 ʎétʰu	root	3	[ERG] is pleased to expect [DAT] to be true, pleased to nonzero degree [ACC].		
 ʎóı	root	1	[NTR] moves away and then returns to its initial location.		
 ʎú	root	3	[ERG] goes, moves, translocates from [DAT] to [ACC].		jogavu
+šíʎu	root	2	[ERG] leaves, departs from [ACC].		
 ʎúpkʰaı	root	3	[ERG] brings [DAT] to location [ACC].		
 ʼám	root	2	[ERG] is the case along with, together with [ACC].		voyove
 ʼïʼ	root	1	[ERG] is true. ⸨The value of [ACC] is ignored.⸩		
@@ -454,3 +500,9 @@ yı̋rï	root	2	[ERG] runs on [ACC].
 θı̋	root	2	[ERG] excretes, pushes out, discharges [ACC].		
 θı̋yo	root	2	[ERG] lays egg [ACC].		
 θı̋čıl	root	2	[ERG] gives birth to [ACC].		
+hwálı	root	2	Fluid [ERG] comes out from spring or outlet [ACC].		
+ʎı̋mıcʰohwalı	root	2	Hot water comes out from hydrothermal spring or vent [ACC].		
+mpʰí	root	1	[NTR] is a timespan.		
+ƛʼúqʰweʼ	root	1	[NTR] is an abyss.		
+łá	root	2	[ERG] has numerosity [ACC] (the latter is the number of things among the former).		
+tʰúwa	root	2	[ERG] deems the existence of instances of [ACC] as true.		
