@@ -13,11 +13,11 @@ Here are some of the main pronominals:
 | nt◈  | that which I am pointing to or looking at (pointing demonstrative) |
 | t◈   | resumptive pronominal (refers to the antecedent in relative clauses) |
 | tʼ◈  | monovalent lambda pronominal (covers the interrogative “what” among other uses) |
-| ntʰ◈ | Intransitive case anaphora (refers to the most recent noun with this case) |
-| ncʰ◈ | Ergative case anaphora (refers to the most recent noun with this case) |
-| ŋkʰ◈ | Accusative case anaphora (refers to the most recent noun with this case) |
-| mpʰ◈ | Dative case anaphora (refers to the most recent noun with this case) |
-| ŋqʰ◈ | Extensional case anaphora (refers to the most recent noun with this case) |
+| st◈  | Intransitive case anaphora (refers to the most recent noun with this case) |
+| sc◈  | Ergative case anaphora (refers to the most recent noun with this case) |
+| sk◈  | Accusative case anaphora (refers to the most recent noun with this case) |
+| sp◈  | Dative case anaphora (refers to the most recent noun with this case) |
+| sq◈  | Extensional case anaphora (refers to the most recent noun with this case) |
 
 The plural *“we”* has no dedicated pronominal, but can be expressed by adding the associative plural extension ⟪**-nθ◈-**⟫ right after ⟪**-n◈-**⟫, with the same inner case vowel: ⟪**-n◈nθ◈-**⟫ (*“me and co.”*).
 
