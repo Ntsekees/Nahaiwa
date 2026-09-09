@@ -92,14 +92,17 @@ Content clauses, unlike relative clauses, do not involve any resumptive pronoun,
   `ASR;SEN=1:ERG-wish  ACC-DCS=FUT-rain`  
   *I wish that it will rain.*
 
+
+## Polarity content clause
+
 Another kind of content clause is the *‘polarity clause’*, opened by the subordinator ⟪**-ea-**⟫ (glossed `PCS`), corresponding to the English ⟪whether⟫, is used for embedded polar interrogative clauses:
 
-* **Mıkıtʰú kealeršı̋ saháoye.**  
-  `mı=kı-   tʰú       k-   ea= le- ršı̋`  
-  `PQ=2:ERG-deem_true ACC-PCS=FUT-rain`  
-  `s-  a-   háoye`
+* **Inıŋátʰu kealeršı̋ saháoye.**  
+  `ı=      nı-   ŋátʰu  k-  ea= le- ršı̋`  
+  `ASR;SEN=1:ERG-wonder ACC-PCS=FUT-rain`  
+  `s-  a-   háoye`  
   `LOC-NTRᵢ-today`  
-  *Do you know whether it will rain today?*
+  *I wonder whether it will rain today.*
 
 
 ## Template clauses
