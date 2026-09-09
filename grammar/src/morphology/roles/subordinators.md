@@ -104,6 +104,8 @@ Another kind of content clause is the *‘polarity clause’*, opened by the sub
   `LOC-NTRᵢ-today`  
   *I wonder whether it will rain today.*
 
+Essentially, this is a shorthand for *“I wonder which of [it will rain today] and [it won't rain today] is true.”*.
+
 
 ## Template clauses
 
