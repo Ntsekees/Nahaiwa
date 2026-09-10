@@ -97,7 +97,7 @@ In the lexicon definitions for this type, `[1]` stands for the monovalent proper
   * **-k◈-**: ⟪[X] is you, who satisfies the property of [1]⟫;
   * **-ŋ◈-**: ⟪[X] wants to satisfy the property of [1]⟫;.  
   * **-ƛʼ◈-**: ⟪[X] attempts to satisfy the property of [1]⟫;.  
-  * **-sc◈-**: ⟪[X] is all that has the property of [1]⟫;.  
+  * **-cʰ◈-**: ⟪[X] is all that has the property of [1]⟫;.  
 
 Thus, applying the extension ⟪ŋa⟫ (selecting the Intransitive case slot) to the stem ⟪**[NTR]** sleeps⟫, we obtain a new, modified stem meaning ⟪**[NTR]** wants to sleep⟫. 
   
