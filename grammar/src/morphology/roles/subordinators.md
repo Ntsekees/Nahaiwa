@@ -14,7 +14,7 @@ Subordinator values (slot 2c):
 └────────────────────────────┴─────┘  
 ```  
   
-These morphemes occupy the same slot as Inner Cases (slot 2c), but are not true Cases. They turn the words which bear them into *subordinated verbs*, words that have the special syntactic effect of opening a whole subordinate clause (which may be exited for returning to the outer clause by using an appropriate Anchoring proclitic; see the section [Anchoring Slot](../anchoring-slot.md)).
+These morphemes occupy the same slot as Inner Cases (slot 2c), but are not true Cases. They turn the words which bear them into *subordinated verbs*, words that have the special syntactic effect of opening a whole subordinate clause (which may be exited for returning to the outer clause by using an appropriate Anchoring proclitic or by using the Echo-Resumptive construction; see the section [Anchoring Slot](../anchoring-slot.md)).
 
 A clause is a syntactic structure made of a verb possibly accompanied by one or several complements, be them core argument complements, or circumstantial adjuncts (e.g. indication of time, place, manner, cause…). All sentences contain at least one clause, the root clause, hosting the root verb, which is the only finite verb in Nahaıwa. A sentence may optionally contain subordinate clauses, potentially nested into one another; subordinate clauses may assume a variety of different functions, they may act as nominal arguments for verbs (as in the English *⟪I know that [you know]⟫*), or as attributives attaching to a noun (*⟪I saw the man [whom you saw]⟫*), or as adverbials adding circumstantial information (*⟪I stayed home because [it rained all day]⟫*).
 
@@ -38,7 +38,7 @@ Nahaıwa ‘nouns’, such as ⟪**takóyu**⟫ “a dog”, can be regarded as 
   *One which (it) eats.*
 * ⟪**tuñú**⟫ ↦ ⟪**taıtuñú**⟫  
   `t-aı-tu-ñú`  
-  `NTR-REL-RSM:ERG-eat`  
+  `NTR-REL-RSM:ACC-eat`  
   *One which (something) eats it; one which is eaten.*
 
 However, unlike simple nouns, nominal relative clauses allow a greater complexity in the description of the referent, allowing a full clause, made of a verb and zero or more complements, to be used as the descriptor:
