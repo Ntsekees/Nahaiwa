@@ -37,6 +37,8 @@ Vowels immediately preceding the uvular plosive /q/ may optionally undergo sligh
   [u] → [ʊ]  
   [o̞] → [ɔ]  
   
+/ji/ and /wu/ may be pronounced either by having the vowel not being fully closed, e.g. [jɪ] and [wʊ], or by having the semivowel part being more constricted, e.g. as semifricated [j̝i] and [w̝u], or even as fully fricated [ʝi] and [ɣʷ].
+  
 Prominent syllables are indicated in the Latin orthography with acute accent marks. In the case of diphthongs, the first vowel member bears the acute accent. The letter ⟪ï⟫ becomes ⟪ı̋⟫ when prominent (i.e. bearing a double-acute accent mark).  
   
   
