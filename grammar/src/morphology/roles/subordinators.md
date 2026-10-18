@@ -65,7 +65,7 @@ Like simple nouns, the consonantal Outer Case or Role of relative clauses shows 
 * **Oθınepá kaıraoncʰetupá caqaséwa.**  
   `o=      θı-     ne-   pá`  
   `ASR;RPT=EXO:ERG-1:DAT-say`  
-  `k-  aı= rao-ncʰe-       tu-     pá`  
+  `k-  aı= rao-sce-        tu-     pá`  
   `ACC-REL=RET-ERG_PRO:DAT-RSM:ACC-say`  
   `c-  a-   qa-                      séwa`  
   `ERG-NTRᵢ-named_after_property:NTR-flower`  
