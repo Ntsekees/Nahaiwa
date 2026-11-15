@@ -168,7 +168,7 @@ In the lexicon definitions, `[2]` represents the bivalent relation resulting fro
 └─
 ```
 
-For certain type −−+ extensions, noted ⟪**−−+\***⟫, the ⟪**-ıyu-**⟫ form can be shortened to simply ⟪**-ı-**⟫, for example, ⟪**-kwı-**⟫ is synonymous to ⟪**-kwıyu-**⟫.
+For certain type −−+ extensions, noted ⟪**−−+\***⟫, the ⟪**-●yu-**⟫ form can be shortened to simply ⟪**-●-**⟫, for example, ⟪**-kwı-**⟫ is synonymous to ⟪**-kwıyu-**⟫, and ⟪-kwe-⟫ to ⟪-kweyu-⟫.
 
 
 ### Type −−++

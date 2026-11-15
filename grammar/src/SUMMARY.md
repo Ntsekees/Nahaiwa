@@ -20,5 +20,6 @@
         - [Slot #1: Anchoring](./morphology/anchoring-slot.md)
     - [Function words](./morphology/function-words.md)
 - [Syntax](./syntax.md)
+- [Semantics](./semantics.md)
 - [Grammemes summary](./grammemes.md)
 - [Lexicon](./lexicon.md)
