@@ -70,6 +70,7 @@ There are 36 consonant phonemes:
 ```  
   
 Word-initial glottal stops are not written explicitly in the romanization orthography.  
+The lateral consonant /l/ is always a clear L, never a velarized or pharyngealized ‘dark L’.   
    
 ### Consonant allophony:  
 
@@ -79,6 +80,7 @@ Word-initial glottal stops are not written explicitly in the romanization orthog
 * /t͡ɬ/ and its variants (aspirated, ejective) are realized as [k͡ʟ̝̊] (and aspirated and ejective variants, respectively) when between a /u/ and a consonant or word break; the same realization may optionally occur immediately before a /u/ vowel.  
   Optionally, in similar environments with /i/ instead of /u/, it may be rendered palatally as [c͡ʎ̝̥].  
 * /w/, when occurring immediately after a consonant, especially a velar or uvular one, is realized as labialization of that consonant.  
+* /ʔ/ may optionally be weakened to a *creaky-voiced glottal approximant* [ʔ̰] between two vowels.
   
 
 
