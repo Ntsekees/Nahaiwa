@@ -38,8 +38,12 @@ For example, if you have a proform ⟪-sc◈-⟫ bound to a previous Ergative-ca
 
 One useful trick when one still needs to refer back to the noun whose proform assignment is about to get shadowed, is to re-bind it to a named variable, for example:
 
-  * **(……) taınınčáwa __ƛatayá__ takóyu laıtuʎáoko ca__sayá__** *  
-  *(……) one such that I am familiar, __with respect to the them-thing__, with the dog(s) that __the aforementioned thing__ takes care of.*
+* **(……) taınınčáwa ƛatayá takóyu laıtuʎáoko casayá*** 
+  `t-  aı- nı-  -nčáwa            ƛa-  ta     -yá     t- a-   -kóyu`
+  `NTR-REL-1:ERG-acquainted_with  PEND-RSM:NTR-thing  NTR-NTRᵢ-dog`
+  `l-   aı- tu-     -ʎáoko         c-  a-   sa-      -yá`
+  `ATTR-REL-RSM:ACCᵢ-take_care_of  ERG-NTRᵢ-NAMED_VAR-thing`
+  *(……) one such that I am familiar, with respect to __the them-thing__, with the dog(s) that __the aforementioned thing__ takes care of.*
 
 
 
